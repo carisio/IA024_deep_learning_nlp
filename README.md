@@ -21,7 +21,7 @@ Observações:
 
 <br> 
 
-## 1. Seleção para aluno especial
+## 1. Rede proposta por Bengio et al
 
 Projeto: Implementar o modelo de linguagem inspirado no artigo de Bengio et al ([A neural probabilistic language model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)).
 
