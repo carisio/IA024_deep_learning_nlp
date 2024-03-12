@@ -14,5 +14,16 @@ Artigo para leitura: Até a página 12 do artigo [On the Opportunities and Risks
 - Implementação: [Jupyter notebook](./0%20-%20selecao%20-%20mlp%20para%20analise%20de%20sentimentos%20imdb/notebook/AnaliseSentimentosBagOfWords_Carisio.ipynb) / [Colab](https://colab.research.google.com/drive/1GKMh43uoZUr6noazUjH7muRgajV4kVXz?usp=sharing) / [Resultado execução PDF](./0%20-%20selecao%20-%20mlp%20para%20analise%20de%20sentimentos%20imdb/notebook/AnaliseSentimentosBagOfWords-Carisio.pdf)
 - [Tópicos relevantes da leitura do artigo](./0%20-%20selecao%20-%20mlp%20para%20analise%20de%20sentimentos%20imdb/leitura/Topicos%20relevantes%20-%20On%20the%20Opportunities%20and%20Risks%20of%20Foundation%20Models.pdf)
 
+
+Observações:
+
+- No notebook o cálculo da loss considerou apenas o último batch (em vez de acumular a loss de todas as amostras e de todos os batchs).
+
 <br> 
 
+## 1. Seleção para aluno especial
+
+Projeto: Implementar o modelo de linguagem inspirado no artigo de Bengio et al ([A neural probabilistic language model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)).
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word](./1%20-%20modelo%20de%20linguagem%20-%20bengio/leitura/[Aula%201]%20Bengio%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./1%20-%20modelo%20de%20linguagem%20-%20bengio/leitura/[Aula%201]%20Bengio%20-%20Principais%20contribuições%20do%20artigo.pdf)
