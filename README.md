@@ -27,3 +27,12 @@ Projeto: Implementar o modelo de linguagem inspirado no artigo de Bengio et al (
 
 - Implementação: [Jupyter notebook](./1%20-%20modelo%20de%20linguagem%20-%20bengio/notebook/[IA24_Aula1]_Bengio.ipynb) / [Colab](https://colab.research.google.com/drive/166oq8hm0D9PinBYgxMiAYwWSvCsUG-Po?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./1%20-%20modelo%20de%20linguagem%20-%20bengio/leitura/[Aula%201]%20Bengio%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./1%20-%20modelo%20de%20linguagem%20-%20bengio/leitura/[Aula%201]%20Bengio%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 2. Mecanismo de auto-atenção e encoding posicional
+
+Projeto: Implementar o mecanismo de auto-atenção e de encoding posicional proposto no artigo [Attention is all you need]() e usá-los na rede implementada na última atividade (modelo de Bengio).
+
+- Implementação: [Jupyter notebook](./2%20-%20auto-atencao%20e%20encoding%20posicional/notebook/%5BIA24_Aula2%5D_Bengio_com_mecanismo_de_aten%C3%A7%C3%A3o.ipynb)
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
