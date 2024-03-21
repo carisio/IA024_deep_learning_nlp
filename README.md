@@ -34,5 +34,16 @@ Projeto: Implementar o modelo de linguagem inspirado no artigo de Bengio et al (
 
 Projeto: Implementar o mecanismo de auto-atenção e de encoding posicional proposto no artigo [Attention is all you need]() e usá-los na rede implementada na última atividade (modelo de Bengio).
 
-- Implementação: [Jupyter notebook](./2%20-%20auto-atencao%20e%20encoding%20posicional/notebook/%5BIA24_Aula2%5D_Bengio_com_mecanismo_de_aten%C3%A7%C3%A3o.ipynb)
+- Implementação: [Jupyter notebook](./2%20-%20auto-atencao%20e%20encoding%20posicional/notebook/%5BIA24_Aula2%5D_Bengio_com_mecanismo_de_aten%C3%A7%C3%A3o.ipynb) / [Colab](https://colab.research.google.com/drive/1asoxTqrJe2Bnmg2nNa4nM8I6oW6puJJ1?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./2%20-%20auto-atencao%20e%20encoding%20posicional/leitura/[Aula%202]%20Auto-atenção%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./2%20-%20auto-atencao%20e%20encoding%20posicional/leitura/[Aula%202]%20Auto-atenção%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 3. GPT-2
+
+Leitura da semana: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
