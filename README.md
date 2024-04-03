@@ -1,6 +1,9 @@
 # Repositório para a disciplina IA024:  Deep Learning para Processamento de Linguagem Natural
 *Leandro Carísio Fernandes*
 
+
+Observação: Os cadernos Jupyter foram exportados do Colab. Caso o link do Colab não esteja funcionando, basta importar o caderno Jupyter no Colab.
+
 <br>
 
 ## 0. Seleção para aluno especial
@@ -45,5 +48,5 @@ Leitura da semana: [Language Models are Unsupervised Multitask Learners](https:/
 
 Projeto: 
 
-- Implementação: [Jupyter notebook]()
+- Implementação: [Jupyter notebook](./3%20-%20gpt-2/notebook/[IA24_Aula3]_Modelo_de_Linguagem_com_auto_atenção_e_máscara_causal.ipynb) / [Colab](https://colab.research.google.com/drive/1JN5Fl63652-_flF1BtPgcTECTUzSUK6d?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
