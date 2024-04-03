@@ -49,4 +49,4 @@ Leitura da semana: [Language Models are Unsupervised Multitask Learners](https:/
 Projeto: 
 
 - Implementação: [Jupyter notebook](./3%20-%20gpt-2/notebook/[IA24_Aula3]_Modelo_de_Linguagem_com_auto_atenção_e_máscara_causal.ipynb) / [Colab](https://colab.research.google.com/drive/1JN5Fl63652-_flF1BtPgcTECTUzSUK6d?usp=sharing)
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+- Tópicos relevantes da leitura do artigo: [Word](./3%20-%20gpt-2/leitura/[Aula%203]%20GPT-2%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./3%20-%20gpt-2/leitura/[Aula%203]%20GPT-2%20-%20Principais%20contribuições%20do%20artigo.pdf)
