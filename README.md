@@ -70,5 +70,5 @@ Leitura da semana: [LoRA: Low-rank adaptation of large language models](https://
 
 Projeto: 
 
-- Implementação: [Jupyter notebook]() / [Colab]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+- Implementação: [Jupyter notebook](./5%20-%20lora/notebook/[IA24_Aula5]_Analise_sentimento_IMDB_com_BoW_e_Lora.ipynb) / [Colab](https://colab.research.google.com/drive/1Nv99o2zjyQj49HREOmA6CZrKrQ9-7rQg?usp=sharing)
+- Tópicos relevantes da leitura do artigo: [Word](./5%20-%20lora/leitura/[Aula%205]%20LoRA%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./5%20-%20lora/leitura/[Aula%205]%20LoRA%20-%20Principais%20contribuições%20do%20artigo.pdf)
