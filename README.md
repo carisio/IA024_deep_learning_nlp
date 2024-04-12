@@ -61,3 +61,14 @@ Projeto:
 
 - Implementação: [Jupyter notebook](./4%20-%20fine-tuning%20bert/notebook/[IA24_Aula4]_Fine_tuning_do_BERT_no_IMDB.ipynb) / [Colab](https://colab.research.google.com/drive/1CDqL-jC1rt7rwnWjUB0m1uSvLOa5viSj?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./4%20-%20fine-tuning%20bert/leitura/[Aula%204]%20BERT%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./4%20-%20fine-tuning%20bert/leitura/[Aula%204]%20BERT%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 5. Implementação de camada LoRA numa rede simples (BoW, camada linear, ReLU, camada linear) para análise de sentimento na base do IMDB
+
+Leitura da semana: [LoRA: Low-rank adaptation of large language models](https://arxiv.org/pdf/2106.09685.pdf)
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
