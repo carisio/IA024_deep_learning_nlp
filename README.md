@@ -46,7 +46,7 @@ Projeto: Implementar o mecanismo de auto-atenção e de encoding posicional prop
 
 Leitura da semana: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-Projeto: 
+Projeto: Modelo de linguagem baseado no GPT-2
 
 - Implementação: [Jupyter notebook](./3%20-%20gpt-2/notebook/[IA24_Aula3]_Modelo_de_Linguagem_com_auto_atenção_e_máscara_causal.ipynb) / [Colab](https://colab.research.google.com/drive/1JN5Fl63652-_flF1BtPgcTECTUzSUK6d?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./3%20-%20gpt-2/leitura/[Aula%203]%20GPT-2%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./3%20-%20gpt-2/leitura/[Aula%203]%20GPT-2%20-%20Principais%20contribuições%20do%20artigo.pdf)
@@ -57,7 +57,7 @@ Projeto:
 
 Leitura da semana: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
-Projeto: 
+Projeto: Fine-tuning de um modelo BERT para análise de sentimentos
 
 - Implementação: [Jupyter notebook](./4%20-%20fine-tuning%20bert/notebook/[IA24_Aula4]_Fine_tuning_do_BERT_no_IMDB.ipynb) / [Colab](https://colab.research.google.com/drive/1CDqL-jC1rt7rwnWjUB0m1uSvLOa5viSj?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./4%20-%20fine-tuning%20bert/leitura/[Aula%204]%20BERT%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./4%20-%20fine-tuning%20bert/leitura/[Aula%204]%20BERT%20-%20Principais%20contribuições%20do%20artigo.pdf)
@@ -68,7 +68,18 @@ Projeto:
 
 Leitura da semana: [LoRA: Low-rank adaptation of large language models](https://arxiv.org/pdf/2106.09685.pdf)
 
-Projeto: 
+Projeto: Implementação de uma camada LoRA
 
 - Implementação: [Jupyter notebook](./5%20-%20lora/notebook/[IA24_Aula5]_Analise_sentimento_IMDB_com_BoW_e_Lora.ipynb) / [Colab](https://colab.research.google.com/drive/1Nv99o2zjyQj49HREOmA6CZrKrQ9-7rQg?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./5%20-%20lora/leitura/[Aula%205]%20LoRA%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./5%20-%20lora/leitura/[Aula%205]%20LoRA%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 6. Fine-tuning do Phi 1.5 usando QLoRA para análise de sentimento na base do IMDB
+
+Leitura da semana: [LoRA: Low-rank adaptation of large language models](https://arxiv.org/pdf/2106.09685.pdf)
+
+Projeto: Fine-tuning do Phi 1.5 usando QLoRA
+
+- Implementação: [Jupyter notebook](./6%20-%20qlora/notebook/[IA24_Aula6]_Fine_tuning_Phi_1_5_for_sentence_classification_using_QLoRA_Carisio.ipynb) / [Colab](https://colab.research.google.com/drive/1avjYjbe4DDZeD-qQ05x27H04Yuik-4E_?usp=sharing)
+- Tópicos relevantes da leitura do artigo: [Word](./6%20-%20qlora/leitura/[Aula%206]%20QLoRA%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./6%20-%20qlora/leitura/[Aula%206]%20QLoRA%20-%20Principais%20contribuições%20do%20artigo.pdf)
