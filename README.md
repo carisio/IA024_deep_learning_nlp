@@ -83,3 +83,14 @@ Projeto: Fine-tuning do Phi 1.5 usando QLoRA
 
 - Implementação: [Jupyter notebook](./6%20-%20qlora/notebook/[IA24_Aula6]_Fine_tuning_Phi_1_5_for_sentence_classification_using_QLoRA_Carisio.ipynb) / [Colab](https://colab.research.google.com/drive/1avjYjbe4DDZeD-qQ05x27H04Yuik-4E_?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./6%20-%20qlora/leitura/[Aula%206]%20QLoRA%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./6%20-%20qlora/leitura/[Aula%206]%20QLoRA%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 7. Análise de sentimento na base do IMDB com Llama-3 70B
+
+Leitura da semana: [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/pdf/2402.07927)
+
+Projeto: Uso do Llama-3 70B e algumas técnicas de engenharia de prompt para fazer análise de sentimentos na base do IMDB.
+
+- Implementação: [Jupyter notebook](./7%20-%20survey%20prompt%20engineering/notebook/[IA24_Aula7]_Análise_de_sentimentos_IMDB_Llama_3_70B.ipynb)
+- Tópicos relevantes da leitura do artigo: [Word](./7%20-%20survey%20prompt%20engineering/leitura/[Aula%207]%20Survey%20of%20prompt%20engineering%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./7%20-%20survey%20prompt%20engineering/leitura/[Aula%207]%20Survey%20of%20prompt%20engineering%20-%20Principais%20contribuições%20do%20artigo.pdf)
