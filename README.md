@@ -94,3 +94,14 @@ Projeto: Uso do Llama-3 70B e algumas técnicas de engenharia de prompt para faz
 
 - Implementação: [Jupyter notebook](./7%20-%20survey%20prompt%20engineering/notebook/[IA24_Aula7]_Análise_de_sentimentos_IMDB_Llama_3_70B.ipynb)
 - Tópicos relevantes da leitura do artigo: [Word](./7%20-%20survey%20prompt%20engineering/leitura/[Aula%207]%20Survey%20of%20prompt%20engineering%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./7%20-%20survey%20prompt%20engineering/leitura/[Aula%207]%20Survey%20of%20prompt%20engineering%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 8. RAG
+
+Leitura da semana: [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
