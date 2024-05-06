@@ -101,7 +101,9 @@ Projeto: Uso do Llama-3 70B e algumas técnicas de engenharia de prompt para faz
 
 Leitura da semana: [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
 
-Projeto: 
+Projeto: Reproduzir o Visconde
 
-- Implementação: [Jupyter notebook]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+- Implementação: [Jupyter notebook](./8%20-%20visconde/notebook/[IA24_Aula8]_Visconde.ipynb) / [Colab](https://colab.research.google.com/drive/1T71cOJor1erwag0G8r92LZT5_pRxtmLZ?usp=sharing)
+- Tópicos relevantes da leitura do artigo: [Word](./8%20-%20visconde/leitura/[Aula%208]%20RAG%20for%20LLM%20-%20a%20survey%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./8%20-%20visconde/leitura/[Aula%208]%20RAG%20for%20LLM%20-%20a%20survey%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
