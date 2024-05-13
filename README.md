@@ -107,3 +107,59 @@ Projeto: Reproduzir o Visconde
 - Tópicos relevantes da leitura do artigo: [Word](./8%20-%20visconde/leitura/[Aula%208]%20RAG%20for%20LLM%20-%20a%20survey%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./8%20-%20visconde/leitura/[Aula%208]%20RAG%20for%20LLM%20-%20a%20survey%20-%20Principais%20contribuições%20do%20artigo.pdf)
 
 <br> 
+
+
+## 9. ReAct
+
+Leitura da semana: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629)
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.pdf)
+
+<br> 
+
+## 10. 
+
+Leitura da semana: []()
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+
+<br> 
+
+## 11. 
+
+Leitura da semana: []()
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+
+<br> 
+
+## 12. 
+
+Leitura da semana: []()
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+
+<br> 
+
+## 13. 
+
+Leitura da semana: []()
+
+Projeto: 
+
+- Implementação: [Jupyter notebook]() / [Colab]()
+- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+
+<br> 
