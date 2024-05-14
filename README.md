@@ -115,7 +115,7 @@ Leitura da semana: [ReAct: Synergizing Reasoning and Acting in Language Models](
 
 Projeto: 
 
-- Implementação: [Jupyter notebook]() / [Colab]()
+- Implementação: [Jupyter notebook](./9%20-%20react/notebook/[IA24_Aula9]_ReAct.ipynb) / [Colab](https://colab.research.google.com/drive/18k-cDgt_Aci4oitecD1u4BvU0wSiRcFD?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.pdf)
 
 <br> 
