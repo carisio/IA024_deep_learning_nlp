@@ -113,21 +113,21 @@ Projeto: Reproduzir o Visconde
 
 Leitura da semana: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629)
 
-Projeto: 
+Projeto: Implementar o ReAct com o notebook anterior: fazer um prompt que chama um agente -- um buscador --, refina a pesquisa até ter a possibilidade de dar a resposta e, no fim, responder.
 
 - Implementação: [Jupyter notebook](./9%20-%20react/notebook/[IA24_Aula9]_ReAct.ipynb) / [Colab](https://colab.research.google.com/drive/18k-cDgt_Aci4oitecD1u4BvU0wSiRcFD?usp=sharing)
 - Tópicos relevantes da leitura do artigo: [Word](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./9%20-%20react/leitura/[Aula%209]%20ReAct%20-%20Principais%20contribuições%20do%20artigo.pdf)
 
 <br> 
 
-## 10. 
+## 10. RAGAS
 
-Leitura da semana: []()
+Leitura da semana: [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/pdf/2309.15217)
 
-Projeto: 
+Projeto: Implementar o RAGAS para avaliar 50 respostas do dataset do IIRC.
 
-- Implementação: [Jupyter notebook]() / [Colab]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+- Implementação: [Jupyter notebook](./10%20-%20ragas/notebook/[IA24_Aula10]_RAGAS.ipynb) / [Colab](https://colab.research.google.com/drive/17ntxRsTuxouvvUZn2kALfeQBd4cBRua9?usp=sharing)
+- Tópicos relevantes da leitura do artigo: [Word](./10%20-%20ragas/leitura/[Aula%2010]%20RAGAS%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./10%20-%20ragas/leitura/[Aula%2010]%20RAGAS%20-%20Principais%20contribuições%20do%20artigo.pdf)
 
 <br> 
 

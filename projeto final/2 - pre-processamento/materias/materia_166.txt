@@ -1,0 +1,35 @@
+Especialistas defendem uso de tecnologia blockchain no serviço público
+Com a ferramenta, é possível criar uma corrente de dados pública e verificável
+
+
+20/09/2023 - 15:14  
+
+
+Especialistas defenderam nesta quarta-feira (20) o uso no serviço público de sistemas baseados na tecnologia blockchain. O assunto foi debatido em audiência pública realizada pela Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados.
+
+A avaliação é que a solução tecnológica traz inúmeros benefícios para a administração pública, como segurança, transparência, redução de custos e combate a fraudes. Ela pode ser usada em áreas tão diferentes como identidade digital, licitações e contratos, benefícios sociais, cartórios e juntas comerciais.
+
+A tecnologia tornou-se mais conhecida por garantir as operações com criptomoedas, como bitcoin. Nos últimos anos tem sido pesquisada para aplicação em outros setores. Para o deputado Caio Vianna (PSD-RJ), que propôs a audiência pública, o poder público brasileiro deve participar desse esforço.
+
+“Acredito que estamos diante de uma grande possibilidade de inovação. O Brasil não pode e não deve ficar para traz nessa discussão”, afirmou.
+
+Blocos
+A tecnologia blockchain registra e armazena informações em blocos. Cada informação gera um bloco, que é conectado ao anterior, formando uma estrutura em cadeia. Não é possível excluir ou mudar um bloco depois que ele foi adicionado (imutabilidade é o nome que se dá a essa característica).
+
+Os blocos são distribuídos a milhares de usuários na internet, que autenticam e validam a informação por meio de criptografia. A informação aprovada passa então a integrar uma corrente de dados pública e verificável.
+
+Dados
+O gerente do Laboratório de Inovação da Dataprev, Felipe Leão, disse que a perenidade dos dados na blockchain é um dos seus maiores benefícios. Ele explicou que os cadastros de identificação fiscal (CPF e CNPJ), mantidos pela Receita Federal, são baseados na tecnologia blockchain.
+
+“Todos nós aqui fazemos parte de uma blockchain”, disse. A Dataprev integra a Rede Blockchain Brasil, uma iniciativa para avaliar a aplicação da tecnologia no serviço público.
+
+O chefe adjunto do Departamento de Tecnologia da Informação Banco Central, Aristides Cavalcante Neto, destacou a importância da nova tecnologia, que vem sendo estudada pelo BC. O Drex, a plataforma que permite a transação de reais virtuais, é baseada em blockchain.
+
+Ele disse, porém, que a solução só faz sentido se for usada por várias organizações. “Essa é uma tecnologia que não vai trazer vantagem para uma organização sozinha. Ela só faz sentido em uma rede”, disse Cavalcante Neto.
+
+Sigilo
+O assessor da presidência da Autoridade Nacional de Proteção de Dados (ANPD), Jeferson Barbosa, reconheceu os ganhos do setor público ao usar sistemas baseados em blockchain, mas advertiu que pode haver conflitos com a Lei Geral de Proteção de Dados (LGPD).
+
+A lei garante ao cidadão a eliminação dos seus dados pessoais da base de uma organização (empresa ou órgão público). Essa regra se contrapõe à imutabilidade do blockchain. Para o representante da ANPD, é preciso aprofundar as discussões. “As características do blockchain não deixam de ter consequências”, disse Barbosa.
+
+Reportagem – Janary JúniorEdição – Rachel Librelon
