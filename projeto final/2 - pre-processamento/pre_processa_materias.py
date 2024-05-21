@@ -9,7 +9,8 @@ def extrair_materia(html_content):
     titulo = soup.find('h1', class_='g-artigo__titulo').get_text(strip=True)
     
     # Extrair o sutiã (descrição)
-    sutia = soup.find('p', class_='g-artigo__descricao').get_text(strip=True)
+    sutia = soup.find('p', class_='g-artigo__descricao')
+    sutia = sutia.get_text(strip=True) if sutia is not None else ""
     
     # Extrair o texto da matéria
     texto_div = soup.find('div', class_='js-article-read-more')
