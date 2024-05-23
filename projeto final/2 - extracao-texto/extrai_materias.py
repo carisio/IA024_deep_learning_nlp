@@ -3,6 +3,9 @@ import re
 import os
 
 def extrair_materia(html_content):
+    # Pra quebrar no final da matéria as informações da reportagem e edição
+    html_content = html_content.replace('<br>', '\n')
+    
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # Extrair o título
