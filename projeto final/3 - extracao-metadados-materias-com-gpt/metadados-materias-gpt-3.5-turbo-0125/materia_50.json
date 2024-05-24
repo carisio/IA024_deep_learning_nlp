@@ -1,0 +1,32 @@
+{
+    "assunto": "Atualização de protocolos de tratamento para aids e hepatites virais",
+    "envolvidos": [
+        {
+            "nome": "Veriano Terto",
+            "cargo": "vice-presidente da Associação Brasileira Interdisciplinar de Aids",
+            "opinioes": [
+                "Defende a atualização dos protocolos clínicos e diretrizes terapêuticas para HIV/aids e hepatites virais",
+                "Defende a incorporação de novos medicamentos para distribuição gratuita pelo SUS",
+                "Defende a substituição dos remédios como estratégia para evitar resistência viral e reações adversas",
+                "Questiona o registro irregular do medicamento Dolutegravir e defende que seja considerado 'de interesse público'"
+            ]
+        },
+        {
+            "nome": "Ronaldo Hallal",
+            "cargo": "assessor da Coordenação-Geral de Vigilância do HIV/Aids e das Hepatites Virais do Ministério da Saúde",
+            "opinioes": [
+                "Informou que novos protocolos já estão em discussão e devem ser publicados ainda este ano",
+                "Destacou a importância de reestruturação da coordenação e interação com organizações da sociedade",
+                "Considera fundamental ampliar o acesso das populações em situação de maior vulnerabilidade aos serviços de saúde"
+            ]
+        },
+        {
+            "nome": "Daiana Santos",
+            "cargo": "deputada (PCdoB-RS)",
+            "opinioes": [
+                "Concorda que políticas públicas de saúde devem considerar recortes de gênero, raça e localidade",
+                "Destacou a importância dos determinantes sociais em saúde na elaboração dos planos estratégicos de saúde"
+            ]
+        }
+    ]
+}

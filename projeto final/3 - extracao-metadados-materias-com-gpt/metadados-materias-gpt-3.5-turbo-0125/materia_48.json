@@ -1,0 +1,36 @@
+{
+    "assunto": "Proposta que proíbe a união de pessoas do mesmo sexo",
+    "envolvidos": [
+        {
+            "nome": "Pastor Eurico",
+            "cargo": "Deputado (PL-PE)",
+            "opinioes": [
+                "Defende a aprovação do Projeto de Lei 5167/09, que proíbe que relações entre pessoas do mesmo sexo equiparem-se a casamento ou entidade familiar",
+                "Rebateu as acusações de fundamentalismo religioso, dizendo: 'Em nenhum momento vocês vão encontrar um parecer meu ligado à religião. O parecer que demos foi baseado na letra da Constituição, apenas respondi o que está na Constituição'",
+                "Negou que seu texto estivesse tirando direitos adquiridos, afirmando: 'A lei não pode retroagir para prejudicar'"
+            ]
+        },
+        {
+            "nome": "Antônio Jorge Pereira Junior",
+            "cargo": "Professor de Direito da Universidade de Fortaleza",
+            "opinioes": [
+                "Afirmou que o STF usurpou a competência do Congresso ao decidir sobre a união de pessoas do mesmo sexo"
+            ]
+        },
+        {
+            "nome": "Fábio Félix",
+            "cargo": "Deputado distrital (Psol)",
+            "opinioes": [
+                "Defendeu os direitos da comunidade LGBT, afirmando: 'Nenhum parlamentar da extrema direita, do fundamentalismo ou os palestrantes tiveram coragem de fazer ataques diretos aos nossos direitos civis. Tergiversaram, vacilaram, questionaram o STF, chamaram de atalho a forma como a decisão foi tomada. Mas, se não questionam o conteúdo, se vossa excelência não é contra os direitos civis do meu casamento, esse projeto precisa ir para o arquivo'"
+            ]
+        },
+        {
+            "nome": "Pastor Henrique Vieira",
+            "cargo": "Deputado (Psol-RJ)",
+            "opinioes": [
+                "Disse que proibir a formação de famílias de pessoas do mesmo sexo é impor uma moral do fundamentalismo religioso para toda a sociedade",
+                "Fez um convite aos conservadores para defenderem o Estado laico, a cidadania, a diversidade e a derrota do parecer, afirmando: 'Taticamente eu considero importante que esse projeto não vem de conservadores, vem de fundamentalistas e extremistas religiosos, é outra coisa'"
+            ]
+        }
+    ]
+}

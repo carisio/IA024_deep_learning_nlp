@@ -1,0 +1,38 @@
+{
+    "assunto": "Oferta gratuita de novos medicamentos para tratar amiloidose no SUS",
+    "envolvidos": [
+        {
+            "nome": "Liana Ferronato",
+            "cargo": "Presidente da Associação Brasileira de Paramiloidose (ABPAR)",
+            "opinioes": [
+                "Defende a oferta gratuita no SUS dos medicamentos Tegsedi e Onpatrro para tratamento da PAF",
+                "Destacou que o início imediato do tratamento é essencial para impedir o avanço da doença",
+                "Lamentou a falta do Tafamidis, indicado para as fases iniciais, para retirada gratuita em farmácias de alto custo"
+            ]
+        },
+        {
+            "nome": "Márcia Cruz",
+            "cargo": "Coordenadora do Centro de Paramiloidose da Universidade Federal do Rio de Janeiro",
+            "opinioes": [
+                "Defende a incorporação ao SUS do Inotersen e do Patisirana para tratar a paramiloidose em todas as fases da doença",
+                "Critica a demora na incorporação dos medicamentos ao SUS, mesmo estando aprovados pela Anvisa desde 2020 e 2019"
+            ]
+        },
+        {
+            "nome": "Rejane Dias",
+            "cargo": "Deputada (PT-PI)",
+            "opinioes": [
+                "Comentou a demora na incorporação pelo SUS das novas tecnologias para tratamento da paramiloidose",
+                "Lamentou as situações dos pacientes com dificuldade de locomoção e usando bengalas"
+            ]
+        },
+        {
+            "nome": "Priscila Louly",
+            "cargo": "Coordenadora-geral de Avaliação de Tecnologias em Saúde do Ministério da Saúde",
+            "opinioes": [
+                "Informou sobre o protocolo clínico atual da doença, que indica o transplante de fígado na fase inicial ou o uso de Tafamidis",
+                "Explicou que a incorporação de tecnologias ao SUS considera diversos aspectos e mencionou a audiência pública sobre o Inotersen"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "assunto": "Críticas às cobranças de valores diferenciados de planos de saúde para idosos",
+    "envolvidos": [
+        {
+            "nome": "Lígia Bahia",
+            "cargo": "pesquisadora da Universidade Federal do Rio de Janeiro (UFRJ)",
+            "opinioes": [
+                "Critica a lógica dos reajustes de planos de saúde conforme o envelhecimento",
+                "A ideia do aumento gradual pode prejudicar muito os segurados no longo prazo, beneficiando apenas as operadoras de planos de saúde"
+            ]
+        },
+        {
+            "nome": "Marina Paulelli",
+            "cargo": "advogada especialista em Planos de Saúde do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "opinioes": [
+                "Entende que os convênios já operam com um superávit alto em suas operações e tratam os idosos como clientes indesejados"
+            ]
+        },
+        {
+            "nome": "Deputados",
+            "cargo": "participantes do debate",
+            "opinioes": [
+                "Concordam que a lógica do reajuste é discriminatória",
+                "Prometeram atuar para reduzir a injustiça"
+            ]
+        },
+        {
+            "nome": "Alexandre Padilha",
+            "cargo": "deputado (PT-SP)",
+            "opinioes": []
+        }
+    ]
+}

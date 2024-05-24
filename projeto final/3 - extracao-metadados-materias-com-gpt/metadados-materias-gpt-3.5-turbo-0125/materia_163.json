@@ -1,0 +1,60 @@
+{
+    "assunto": "Criação de grupo de trabalho na Câmara para discutir a educação de meninas e mulheres negras",
+    "envolvidos": [
+        {
+            "nome": "Amarílis Costa",
+            "cargo": "professora de Direito e pesquisadora",
+            "opinioes": [
+                "Sugeriu a criação de um grupo de trabalho para avaliar a elaboração de leis com diretrizes educacionais sobre a questão racial",
+                "Propôs que a lei municipal da Escola Sem Racismo seja transformada em norma federal",
+                "Defende que o combate ao racismo deve começar na creche"
+            ]
+        },
+        {
+            "nome": "Suelaine Carneiro",
+            "cargo": "diretora de Educação e Pesquisa do Geledés",
+            "opinioes": [
+                "Apresentou pesquisa mostrando que as meninas negras foram as mais prejudicadas na vida escolar na pandemia de Covid-19",
+                "Destacou que as meninas negras tiveram menos acesso às plataformas digitais durante a pandemia"
+            ]
+        },
+        {
+            "nome": "Magali Dantas",
+            "cargo": "coordenadora-geral de capacitação de altos-executivos da Escola Nacional de Administração Pública",
+            "opinioes": [
+                "Apontou que, apesar do aumento da presença de mulheres negras no serviço público, a representação ainda é abaixo do normal",
+                "Lembrou que um decreto do governo determinou que 30% de cargos de poder e decisão sejam ocupados por negros, com igualdade entre os sexos"
+            ]
+        },
+        {
+            "nome": "Natália Neris",
+            "cargo": "coordenadora-geral da Diretoria de Políticas de Ações Afirmativas do Ministério da Igualdade Racial",
+            "opinioes": [
+                "Apresentou o programa Atlanticas – Programa Beatriz Nascimento de Mulheres na Ciência, direcionado a mulheres cientistas negras, indígenas, quilombolas e ciganas",
+                "Destacou a baixa representatividade de mulheres negras em bolsas de doutorado sanduíche e pós-doutorado"
+            ]
+        },
+        {
+            "nome": "Reginete Bispo",
+            "cargo": "deputada (PT-RS)",
+            "opinioes": [
+                "Destacou a importância do debate sobre a educação de meninas e mulheres negras",
+                "Comprometeu-se a trabalhar para alterar essa realidade"
+            ]
+        },
+        {
+            "nome": "Dandara",
+            "cargo": "deputada (PT-MG)",
+            "opinioes": [
+                "Sugeriu a realização do evento sobre a educação de meninas e mulheres negras"
+            ]
+        },
+        {
+            "nome": "Professora Luciene Cavalcante",
+            "cargo": "deputada (Psol-SP)",
+            "opinioes": [
+                "Sugeriu a realização do evento sobre a educação de meninas e mulheres negras"
+            ]
+        }
+    ]
+}

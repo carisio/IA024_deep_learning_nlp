@@ -1,0 +1,41 @@
+{
+  "assunto": "Uso da tecnologia blockchain no serviço público",
+  "envolvidos": [
+    {
+      "nome": "Caio Vianna",
+      "cargo": "Deputado (PSD-RJ)",
+      "opinioes": [
+        "O poder público brasileiro deve participar do esforço de pesquisa e aplicação da tecnologia blockchain.",
+        "\"Acredito que estamos diante de uma grande possibilidade de inovação. O Brasil não pode e não deve ficar para traz nessa discussão\"."
+      ]
+    },
+    {
+      "nome": "Felipe Leão",
+      "cargo": "Gerente do Laboratório de Inovação da Dataprev",
+      "opinioes": [
+        "A perenidade dos dados na blockchain é um dos seus maiores benefícios.",
+        "Os cadastros de identificação fiscal (CPF e CNPJ), mantidos pela Receita Federal, são baseados na tecnologia blockchain.",
+        "\"Todos nós aqui fazemos parte de uma blockchain\"."
+      ]
+    },
+    {
+      "nome": "Aristides Cavalcante Neto",
+      "cargo": "Chefe adjunto do Departamento de Tecnologia da Informação do Banco Central",
+      "opinioes": [
+        "A nova tecnologia blockchain é importante e vem sendo estudada pelo Banco Central.",
+        "O Drex, a plataforma que permite a transação de reais virtuais, é baseada em blockchain.",
+        "\"Essa é uma tecnologia que não vai trazer vantagem para uma organização sozinha. Ela só faz sentido em uma rede\"."
+      ]
+    },
+    {
+      "nome": "Jeferson Barbosa",
+      "cargo": "Assessor da presidência da Autoridade Nacional de Proteção de Dados (ANPD)",
+      "opinioes": [
+        "Reconhece os ganhos do setor público ao usar sistemas baseados em blockchain.",
+        "Advertiu que pode haver conflitos com a Lei Geral de Proteção de Dados (LGPD).",
+        "A lei garante ao cidadão a eliminação dos seus dados pessoais da base de uma organização (empresa ou órgão público), o que se contrapõe à imutabilidade do blockchain.",
+        "\"As características do blockchain não deixam de ter consequências\"."
+      ]
+    }
+  ]
+}

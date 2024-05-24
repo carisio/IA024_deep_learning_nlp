@@ -1,0 +1,33 @@
+{
+    "assunto": "Pedido de mudanças no projeto de regulamentação dos mercados digitais",
+    "envolvidos": [
+        {
+            "nome": "Luizio Felipe Rocha",
+            "cargo": "consultor de relações governamentais do Spotify",
+            "opinioes": [
+                "Acredita que uma boa regulamentação pode impedir situações como a vivida pelo Spotify, que é vítima de abusos dos dispositivos móveis que dominam o mercado.",
+                "Usar a receita das empresas como critério para taxação na nova legislação pode ser 'pouco equitativo'.",
+                "Basear taxas às receitas das plataformas pode acabar isentando empresas como Google e Apple por conta de seus modelos de negócios."
+            ]
+        },
+        {
+            "nome": "Adriana Cardinali",
+            "cargo": "diretora de Enhanced Marketplace do Mercado Livre",
+            "opinioes": [
+                "O Brasil não deve importar modelos de regulamentações de outros países.",
+                "Critérios como faturamento e número de inscritos podem mascarar operações no setor.",
+                "Acredita que esse critério está baseado numa técnica regulatória inadequada porque esse tipo de limite, relacionado ao tamanho da plataforma por si só, não mede o nível de concorrência efetiva nos mercados.",
+                "Essa técnica tem um risco de regular mercados competitivos."
+            ]
+        },
+        {
+            "nome": "Ricardo Medeiros",
+            "cargo": "economista-adjunto do Conselho Administrativo de Defesa Econômica (Cade)",
+            "opinioes": [
+                "Defendeu a aprovação de um projeto (PLP 523/18) que daria ao Cade acesso aos bancos de dados da Receita Federal.",
+                "Há dificuldades no conselho em ter acesso a dados que permitam a fiscalização.",
+                "Lamentou que o Cade tenha que pagar ao Serpro para obter dados que são próprios do serviço público."
+            ]
+        }
+    ]
+}

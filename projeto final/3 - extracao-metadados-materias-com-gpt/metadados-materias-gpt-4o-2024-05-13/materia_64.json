@@ -1,0 +1,39 @@
+{
+  "assunto": "Fomento e estrutura para o turismo religioso no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Fábio Pinheiro",
+      "cargo": "Representante do Ministério do Turismo",
+      "opinioes": [
+        "O turismo religioso é uma manifestação cultural muito forte no Brasil, e gera renda nos municípios onde acontece.",
+        "\"O turismo religioso, no âmbito do turismo cultural, gera emprego e renda. É capaz de consolidar municípios como destinos e contribuir para uma expectativa de melhora da qualidade de vida da própria localidade e sua população.\""
+      ]
+    },
+    {
+      "nome": "Rodrigo Coelho",
+      "cargo": "Deputado e presidente da Comissão de Turismo",
+      "opinioes": [
+        "O turismo religioso movimenta em todo o mundo 16 bilhões de euros ao ano, e o Brasil tem grande potencial para desenvolver essa modalidade turística.",
+        "O País deve investir no turismo, que emprega grande número de pessoas que precisam ter acesso a cursos de qualificação.",
+        "\"Tem cursos gratuitos no site do Ministério do Turismo, como de camareira, de garçom, e de línguas. Temos o desafio de tornar o Brasil um País em que se tem uma noção de inglês e de espanhol para bem receber o turista.\""
+      ]
+    },
+    {
+      "nome": "Marcos Jaboski",
+      "cargo": "Diretor de sustentabilidade do santuário de Nova Trento",
+      "opinioes": [
+        "O santuário é um parque ecológico e ecumênico que recebe milhares de pessoas todos os anos.",
+        "\"Nós temos que ter uma gestão profissional do turismo religioso, mas não podemos perder a nossa essência. Acreditamos muito em parceiras e nessa união entre o poder público, sociedade civil e empresários.\"",
+        "Pediu melhorias na infraestrutura, mencionando que a cidade não tem sinal de celular por causa do relevo da região."
+      ]
+    },
+    {
+      "nome": "Ariane Nakamura",
+      "cargo": "Representante da Secretaria de Turismo de Santa Catarina",
+      "opinioes": [
+        "Pediu aos parlamentares que garantam recursos para a reestruturação e manutenção de rotas e santuários.",
+        "Em Santa Catarina há mais de 100 opções de destinos de turismo religioso."
+      ]
+    }
+  ]
+}

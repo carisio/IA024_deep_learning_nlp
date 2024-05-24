@@ -1,0 +1,77 @@
+{
+    "assunto": "Cumprimento dos direitos das pessoas com autismo",
+    "envolvidos": [
+        {
+            "nome": "Andreia Siqueira",
+            "cargo": "Deputada (MDB-PA)",
+            "opinioes": [
+                "Defende apoio do governo federal para que os municípios menores tenham centro de reabilitação para pessoas com TEA",
+                "Destaca a falta de profissionais especializados, como neuropediatras e equipe multidisciplinar"
+            ]
+        },
+        {
+            "nome": "Amom Mandel",
+            "cargo": "Deputado (Cidadania-AM)",
+            "opinioes": [
+                "Acredita que a Casa acena positivamente para os familiares das pessoas com TEA, mas os parlamentares não aprovam de fato os projetos de lei que beneficiam essas pessoas",
+                "Afirma: 'Muito embora eu hoje, como pessoa com Transtorno do Espectro Autista, tenha ocupado um espaço de poder que outros não tenham conseguido até hoje na história do Brasil, isso não significa infelizmente que os direitos e as necessidades das pessoas com TEA e de outras pessoas com determinadas necessidades serão atendidas'"
+            ]
+        },
+        {
+            "nome": "Fernando Cotta",
+            "cargo": "Presidente de honra do Movimento Orgulho Autista Brasil",
+            "opinioes": [
+                "Defende a necessidade de mapear os gargalos na educação e na saúde que impedem a plena concretização dos direitos das pessoas com autismo"
+            ]
+        },
+        {
+            "nome": "Francisco Dourado",
+            "cargo": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva do Ministério da Educação",
+            "opinioes": [
+                "Reforça o compromisso do governo federal com a política nacional de educação especial na perspectiva inclusiva",
+                "Destaca a revogação do decreto anterior que abria margem para negar matrícula de alunos com deficiência",
+                "Discute ações para fortalecer a política, como lista de equipamentos e formação de profissionais de apoio escolar com foco em TEA"
+            ]
+        },
+        {
+            "nome": "Viviani Guimarães",
+            "cargo": "Diretora do Grupo Mais Inclusão",
+            "opinioes": [
+                "Destaca a importância do plano educacional individualizado para alunos com TEA efetivamente aprenderem na escola",
+                "Ressalta a necessidade de planejamento para que cada estudante realmente aprenda e se desenvolva"
+            ]
+        },
+        {
+            "nome": "Roselene Alves",
+            "cargo": "Representante da Secretaria Nacional dos Direitos das Pessoas com Deficiência do Ministério dos Direitos Humanos e da Cidadania",
+            "opinioes": [
+                "Defende o reconhecimento da neurodiversidade, reconhecendo que cada pessoa com TEA é diferente",
+                "Afirma: 'Pessoas autistas são diversas em várias experiências sensoriais, como a seletividade alimentar, o padrão sensorial, a questão de gênero, classe, raça/etnia, entre outras situações existentes'"
+            ]
+        },
+        {
+            "nome": "Maria do Carmo Ribeiro",
+            "cargo": "Associação Brasileira de Autismo",
+            "opinioes": [
+                "Concorda que há muitas leis, mas falta atendimento e as mães precisam de ajuda",
+                "Afirma: 'Qualquer mãe que está aqui vai concordar comigo: nosso maior medo é morrer e deixar nossos filhos. Nós queremos garantia de direito, garantia de Estado, que nós tenhamos centros de reabilitação, centros de convivência, onde nossos filhos possam ficar e ser atendidos. Até para morrer, a mãe de autista não morre em paz'"
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "Deputada (PT-DF)",
+            "opinioes": [
+                "Defende que a comissão deve fiscalizar a implementação das leis",
+                "Sugere a criação de uma subcomissão na Comissão de Defesa dos Direitos das Pessoas com Deficiência com esse objetivo"
+            ]
+        },
+        {
+            "nome": "Aline Costa",
+            "cargo": "Coordenação-Geral de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+            "opinioes": [
+                "Informa sobre a atualização da Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência em 2023",
+                "Destaca o desafio de implementar as ações previstas, como expandir os serviços e fortalecer grupos condutores responsáveis pelas ações"
+            ]
+        }
+    ]
+}

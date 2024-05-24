@@ -1,0 +1,56 @@
+{
+    "assunto": "Atuação dos bancos no combate aos golpes financeiros",
+    "envolvidos": [
+        {
+            "nome": "Antônio Carlos Cintra",
+            "cargo": "coordenador da Comissão dos Direitos do Consumidor da Associação Nacional das Defensoras e Defensores Públicos (Anadep)",
+            "opinioes": [
+                "Defende a criação de uma lei nacional que proíba o empréstimo digital para pessoas idosas, exigindo a presença física para a contratação"
+            ]
+        },
+        {
+            "nome": "Márcia Moro",
+            "cargo": "presidente da Associação Brasileira dos Procons",
+            "opinioes": [
+                "Relatou o problema dos vazamentos de dados bancários e do INSS que têm permitido aos criminosos fazer uma “engenharia social” mais eficiente"
+            ]
+        },
+        {
+            "nome": "Rogério Ferreira",
+            "cargo": "delegado da Delegacia de Defesa do Consumidor de Mato Grosso",
+            "opinioes": [
+                "Afirmou que o crime de estelionato tem uma baixa punição",
+                "Opinou que o cartão de crédito consignado não deveria permitir o saque de recursos"
+            ]
+        },
+        {
+            "nome": "Gisela Simona",
+            "cargo": "deputada (União-MT)",
+            "opinioes": [
+                "Defendeu a extinção do cartão de crédito consignado e a necessidade de o consumidor autorizar alguns serviços de forma presencial"
+            ]
+        },
+        {
+            "nome": "Ione Amorim",
+            "cargo": "coordenadora do Programa de Serviços Financeiros do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "opinioes": [
+                "Defendeu que os bancos poderiam ter uma atuação mais ativa na prevenção dos golpes"
+            ]
+        },
+        {
+            "nome": "Walter Faria",
+            "cargo": "diretor adjunto de Serviços da Federação Brasileira de Bancos (Febraban)",
+            "opinioes": [
+                "Disse que a questão está em estudo, mas que extrapola a ação dos bancos",
+                "Mencionou que a entidade está investindo em campanhas de conscientização"
+            ]
+        },
+        {
+            "nome": "Belline Santana",
+            "cargo": "chefe de Supervisão Bancária do Banco Central",
+            "opinioes": [
+                "Sugeriu que as pessoas que forem abrir contas bancárias confiram antes o ranking de instituições mais reclamadas feito pelo BC"
+            ]
+        }
+    ]
+}

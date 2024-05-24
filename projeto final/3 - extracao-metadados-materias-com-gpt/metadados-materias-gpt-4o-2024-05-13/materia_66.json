@@ -1,0 +1,53 @@
+{
+  "assunto": "Financiamento de segundo imóvel com recursos do FGTS e seus impactos",
+  "envolvidos": [
+    {
+      "nome": "Cintia Teixeira",
+      "cargo": "Representante da Caixa Econômica Federal",
+      "opinioes": [
+        "O ativo total consolidado do FGTS é hoje de R$ 618,1 bilhões."
+      ]
+    },
+    {
+      "nome": "Mario Avelino",
+      "cargo": "Presidente do Instituto Fundo de Garantia do Trabalhador",
+      "opinioes": [
+        "Alertou para os projetos de lei que permitem o saque de recursos do FGTS pelo trabalhador para financiamento de um segundo imóvel.",
+        "\"O FGTS não é uma caderneta de poupança.\"",
+        "A ampliação das possibilidades de saque prejudica o próprio trabalhador.",
+        "O fundo financia saneamento, infraestrutura e saúde para toda a sociedade."
+      ]
+    },
+    {
+      "nome": "Maria Henriqueta Alves",
+      "cargo": "Representante da Câmara Brasileira da Indústria da Construção (CBIC)",
+      "opinioes": [
+        "Alertou para os projetos de lei que permitem o saque de recursos do FGTS pelo trabalhador para financiamento de um segundo imóvel."
+      ]
+    },
+    {
+      "nome": "Marcel van Hattem",
+      "cargo": "Deputado (Novo-RS)",
+      "opinioes": [
+        "Defendeu a proposta de permitir o saque de recursos do FGTS para financiamento de um segundo imóvel.",
+        "\"O projeto, além de dar mais liberdade para o trabalhador decidir o que fazer com o dinheiro depositado em sua conta, dinheiro gerado pelo suor do trabalho, vai permitir ao setor imobiliário que continue aquecido, mas por outros meios.\""
+      ]
+    },
+    {
+      "nome": "Paulo Ramos",
+      "cargo": "Deputado (PDT-RJ)",
+      "opinioes": [
+        "Defendeu a criação de algum limite para as novas possibilidades de saque do FGTS.",
+        "\"Novas possibilidades de saque decorrem das dificuldades dos trabalhadores.\""
+      ]
+    },
+    {
+      "nome": "Márcio Coelho",
+      "cargo": "Diretor de Gestão de Fundos do Ministério do Trabalho e Emprego",
+      "opinioes": [
+        "Negou que o governo pretenda sugerir alguma redução nas alíquotas de contribuição ao FGTS ou da multa por dispensa sem justa causa.",
+        "\"Isso foi discutido, mas já está descartado pelo Ministério da Economia.\""
+      ]
+    }
+  ]
+}

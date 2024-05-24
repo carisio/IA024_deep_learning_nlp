@@ -1,0 +1,50 @@
+{
+    "assunto": "Aumento do sedentarismo como reflexo da pandemia de Covid-19 e a importância da educação física como política de Saúde",
+    "envolvidos": [
+        {
+            "nome": "Tiago Camilo",
+            "cargo": "ex-atleta olímpico",
+            "opinioes": [
+                "Defende que o Brasil é o quinto país mais sedentário do mundo e o primeiro no número de pessoas com ansiedade.",
+                "Destacou: 'As duas coisas estão relacionadas'."
+            ]
+        },
+        {
+            "nome": "Gustavo Chaves Brandão",
+            "cargo": "Presidente do Conselho Regional de Educação Física do Paraná",
+            "opinioes": [
+                "Defende que é essencial que as crianças sejam incentivadas a praticar educação física desde a pré-escola."
+            ]
+        },
+        {
+            "nome": "Nelson Leme",
+            "cargo": "Presidente do Conselho Regional de Educação Física de São Paulo",
+            "opinioes": [
+                "Sugeriu o aumento da carga horária de educação física nas escolas."
+            ]
+        },
+        {
+            "nome": "Diego Garcia",
+            "cargo": "Deputado (Republicanos-PR)",
+            "opinioes": [
+                "Ressaltou o aumento do tempo de uso de aparelhos eletrônicos depois da pandemia.",
+                "Alertou: 'Infelizmente, muitos pais terceirizaram a educação dos seus filhos para as telas e isso vai trazer impactos gigantescos na saúde mental e física dessas crianças'."
+            ]
+        },
+        {
+            "nome": "Valter Francisco Brigido",
+            "cargo": "Educador físico",
+            "opinioes": [
+                "Destacou que o isolamento social durante a pandemia levou academias e centros esportivos a fecharem, agravando a situação."
+            ]
+        },
+        {
+            "nome": "Mônica Marques",
+            "cargo": "Consultora de uma associação global de saúde e esporte",
+            "opinioes": [
+                "Lembrou que as atividades físicas são essenciais para evitar complicações de saúde no futuro, especialmente para a população de idosos no Brasil.",
+                "Ponderou: 'As políticas públicas tem que estar alinhadas ao longo da vida inteira, não só na velhice ou na infância, mas também na maturidade dos adultos'."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "assunto": "Benefícios das ações de bem-estar animal para o Brasil",
+    "envolvidos": [
+        {
+            "nome": "Cristina Mendonça",
+            "cargo": "diretora-executiva da ONG internacional Mercy for Animals",
+            "opinioes": [
+                "Defende que o bem-estar animal é fundamental para o efetivo cumprimento das metas de contenção do aquecimento global.",
+                "Afirmou: 'A gente precisa reduzir 45% das emissões de gases do efeito estufa. A magnitude dessa mudança é extraordinária e é por isso que se fala em mudanças radicais e mudanças transformacionais.'"
+            ]
+        },
+        {
+            "nome": "Celso Funcia Lemme",
+            "cargo": "pesquisador da Universidade Federal do Rio de Janeiro (UFRJ)",
+            "opinioes": [
+                "Aconselha o setor produtivo a encarar o fim do uso massivo de antibióticos e da crueldade na criação de animais em cativeiro como novas oportunidades econômicas.",
+                "Declarou: 'O custo de fazer uma mudança pode ser alto, mas o risco de não fazer pode ser muito maior, ou seja, você pode ser eliminado de mercados, perder oportunidades ou perder a sua liderança.'"
+            ]
+        },
+        {
+            "nome": "Alysson Soares",
+            "cargo": "especialista em políticas públicas do The Good Food Institute",
+            "opinioes": [
+                "Exemplificou uma das novas oportunidades: a produção de alimentos a partir de proteínas de vegetais, proteínas cultivadas e fermentação de precisão.",
+                "Explicou: 'Tem o termo hoje dos chamados ‘flextarianos’: são aquelas pessoas que – por motivos nem sempre ligados à causa animal ou à mitigação de impactos climáticos, mas muitas vezes por conta de saúde – têm que reduzir o consumo de carne. E é nesse público que os produtos plant-based e de proteínas alternativas no geral miram.'"
+            ]
+        },
+        {
+            "nome": "Vanessa Negrini",
+            "cargo": "diretora de proteção e direitos dos animais do Ministério do Meio Ambiente",
+            "opinioes": [
+                "Defende a causa do bem-estar animal como tema de Estado.",
+                "Declarou: 'Esse tema do bem-estar animal precisa ser debatido no conjunto dos interesses da sociedade, nos vários órgãos que discutem isso. É pelo bem dos animais? Sim, é pelo bem dos animais. Mas, não se iludam, é sobretudo pela vida humana na Terra.'"
+            ]
+        },
+        {
+            "nome": "Bruno Ganem",
+            "cargo": "deputado (Pode-SP)",
+            "opinioes": [
+                "Reforça a necessidade de conscientização em torno do nexo entre bem-estar animal, meio ambiente e desenvolvimento sustentável.",
+                "Afirmou: 'É justamente solicitar ao governo brasileiro que apoie e auxilie o PNUMA no desenvolvimento do Relatório Nexus, liderando um processo consultivo regional, capacitando os serviços públicos federais e os diversos ministérios envolvidos.'"
+            ]
+        }
+    ]
+}

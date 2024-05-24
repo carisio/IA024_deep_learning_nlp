@@ -1,0 +1,39 @@
+{
+    "assunto": "Crítica à política industrial brasileira no setor automotivo",
+    "envolvidos": [
+        {
+            "nome": "Aroaldo Oliveira da Silva",
+            "cargo": "presidente da IndustriALL-Brasil",
+            "opinioes": [
+                "Defende uma política de desenvolvimento industrial mais efetiva para o Brasil",
+                "Critica a atual política para a área automotiva, alegando que não está sendo capaz de evitar a desindustrialização, o fechamento de empresas e o desemprego",
+                "Critica o Rota 2030, afirmando que é visto como diversos pequenos projetos subsidiados, mas que não estão consolidando o setor automotivo no Brasil"
+            ]
+        },
+        {
+            "nome": "Fausto Augusto Júnior",
+            "cargo": "diretor-técnico do Dieese",
+            "opinioes": [
+                "Aponta que a decisão da Ford de fechar fábricas no Brasil demonstra a necessidade de rever o modelo industrial atual",
+                "Alega que falhas na política pública de desenvolvimento industrial interferiram na decisão da montadora"
+            ]
+        },
+        {
+            "nome": "Luiz Carlos Moraes",
+            "cargo": "presidente da Anfavea",
+            "opinioes": [
+                "Aponta que o Brasil tem a maior carga tributária do segmento no mundo",
+                "Considera o custo Brasil como um dos principais entraves para o desenvolvimento do setor automotivo nacional",
+                "Argumenta que o Brasil não é competitivo devido à alta carga tributária e encargos trabalhistas elevados"
+            ]
+        },
+        {
+            "nome": "Ronaldo Lima dos Santos",
+            "cargo": "procurador do Trabalho e coordenador nacional de Promoção da Liberdade Sindical",
+            "opinioes": [
+                "Propõe um modelo de desenvolvimento industrial que cobre das empresas responsabilidade social",
+                "Questiona o motivo da saída da Ford do Brasil e destaca a importância de cláusulas protetivas dos direitos sociais nas empresas"
+            ]
+        }
+    ]
+}

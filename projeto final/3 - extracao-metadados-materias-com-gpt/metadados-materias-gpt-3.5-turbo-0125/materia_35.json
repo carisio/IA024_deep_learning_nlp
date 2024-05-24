@@ -1,0 +1,49 @@
+{
+    "assunto": "Sugestão de prazo maior para registro de candidaturas e regras claras para campanhas eleitorais",
+    "envolvidos": [
+        {
+            "nome": "Walber Agra",
+            "cargo": "livre docente pela Universidade de São Paulo (USP)",
+            "opinioes": [
+                "Defende a previsão de tempo maior para registro de candidaturas",
+                "Sugere que as convenções partidárias ocorram entre 1º e 20 de junho dos anos eleitorais, com o fim do período de registro dos candidatos em 1º de julho"
+            ]
+        },
+        {
+            "nome": "Anne Cabral",
+            "cargo": "advogada eleitoral",
+            "opinioes": [
+                "Concorda com a antecipação do período de registro de candidaturas",
+                "Considera fundamental a antecipação do período de registro de candidaturas"
+            ]
+        },
+        {
+            "nome": "Samara Castro",
+            "cargo": "diretora de promoção da liberdade de expressão da Presidência da República",
+            "opinioes": [
+                "Defende a adoção de regras claras para a propaganda eleitoral nas redes sociais",
+                "Sugere obrigar as plataformas a manter um cadastro público em tempo real que permita a identificação de todos os financiadores das campanhas",
+                "Sugere estender a proteção contra violência a todas as mulheres envolvidas em atividades políticas e partidárias",
+                "Defende que as verbas destinadas às mulheres para a realização de campanhas eleitorais possam cobrir custos com segurança e economia do cuidado"
+            ]
+        },
+        {
+            "nome": "Melillo Diniz Nascimento",
+            "cargo": "representante do Movimento de Combate à Corrupção Eleitoral",
+            "opinioes": [
+                "Defende a aplicação de multa a eleitores que publicarem notícias falsas de maneira intencional",
+                "Sugere a criação de juizados especiais eleitorais em ambiente virtual para julgar crimes de desinformação"
+            ]
+        },
+        {
+            "nome": "Rubens Pereira Júnior",
+            "cargo": "deputado (PT-MA) e relator da minirreforma",
+            "opinioes": [
+                "Explicou que o grupo não trata de fake news, uma vez que o assunto é objeto de um projeto de lei específico em análise na Câmara",
+                "Ressaltou que ataques virtuais podem ser abordados",
+                "Reafirmou a intenção de concluir os trabalhos do GT na próxima semana",
+                "Informou que o grupo de trabalho foi instituído com o objetivo de promover ajustes no modelo eleitoral vigente"
+            ]
+        }
+    ]
+}

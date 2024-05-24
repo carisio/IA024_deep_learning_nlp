@@ -1,0 +1,70 @@
+{
+    "assunto": "Regulamentação do trabalho de motoristas de aplicativo",
+    "envolvidos": [
+        {
+            "nome": "Augusto Coutinho",
+            "cargo": "Deputado (Republicanos-PE)",
+            "opinioes": [
+                "Deve apresentar o relatório sobre o projeto que regulamenta o trabalho dos motoristas de aplicativo antes do recesso de julho",
+                "Vai conversar com os relatores das outras comissões para apresentar um relatório negociado"
+            ]
+        },
+        {
+            "nome": "Luiz Marinho",
+            "cargo": "Ministro do Trabalho",
+            "opinioes": [
+                "A regulamentação pode ser por hora ou por quilômetro, a depender da melhor formulação preferida pelos motoristas",
+                "É contra o enquadramento do motorista de aplicativo no regime do microempreendedor individual (MEI)"
+            ],
+            "citacao": "O projeto de lei não é do governo, é um projeto construído em mesa, que precisa ser complementado. Muitos debates que os senhores estão colocando aqui as plataformas não topavam. Quem sabe agora, aqui no Parlamento, as plataformas estejam de acordo em aproximar, em aperfeiçoar o projeto para que responda a ansiedade dos trabalhadores de aplicativo"
+        },
+        {
+            "nome": "Adroaldo da Cunha",
+            "cargo": "Secretário do Regime Geral de Previdência Social",
+            "opinioes": [
+                "É contra o enquadramento do motorista de aplicativo no regime do microempreendedor individual (MEI)"
+            ],
+            "citacao": "Seria mais cômodo para o governo federal não instituir a contribuição previdenciária, pois o custo para abarcar um segmento fragilizado, mais vulnerável do que a média dos contribuintes da previdência, tem um custo, e esse custo não é barato"
+        },
+        {
+            "nome": "Fernando Paes",
+            "cargo": "Diretor de relações governamentais da 99",
+            "opinioes": [
+                "É preciso descobrir o que pode ser melhorado no projeto"
+            ],
+            "citacao": "Eu acho que o ponto central dessa discussão é entender quais seriam as melhorias viáveis, razoáveis que pudessem trazer melhores condições ao trabalhador e ao mesmo tempo garantir o equilíbrio de um modelo de prestação de serviços que é extremamente relevante hoje para a sociedade"
+        },
+        {
+            "nome": "Ricardo Leite",
+            "cargo": "Diretor de políticas públicas da Uber",
+            "opinioes": [
+                "Defende que os novos custos e modelagem consigam manter um equilíbrio"
+            ],
+            "citacao": "Se a gente tiver uma discussão irreal em relação a esse equilíbrio, isso vai ter um impacto no número de viagens que hoje são realizadas e vai representar no final do mês menos ganhos para os motoristas e para as empresas e para a economia de maneira geral"
+        },
+        {
+            "nome": "Rodrigo Porto",
+            "cargo": "Representante do aplicativo Indrive",
+            "opinioes": [
+                "Acha que a proposta do governo beneficia os interesses do 99 e da Uber e inviabiliza o seu aplicativo",
+                "Destaca como pontos positivos a segurança jurídica e o estabelecimento das empresas como intermediadoras"
+            ]
+        },
+        {
+            "nome": "Paulo Xavier",
+            "cargo": "Presidente da Frente de Apoio Nacional dos Motoristas Autônomos",
+            "opinioes": [
+                "Rechaça a proposta do governo",
+                "Defende a proposta da frente parlamentar, que apresenta forma de cálculo de remuneração baseada em quilômetro rodado"
+            ],
+            "citacao": "A proposta da frente parlamentar, que apresenta forma de cálculo de remuneração baseada em quilômetro rodado, foi resultado de mais de 70 horas de trabalho de motoristas de todo o Brasil"
+        },
+        {
+            "nome": "Josenildo",
+            "cargo": "Deputado (PDT-AP)",
+            "opinioes": [
+                "Acredita que a troca de ideias durante a audiência permitirá aprimorar pontos do projeto do governo"
+            ]
+        }
+    ]
+}

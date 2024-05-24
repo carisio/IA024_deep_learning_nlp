@@ -1,0 +1,44 @@
+{
+    "assunto": "Preconceito contra idosos e medidas de combate",
+    "envolvidos": [
+        {
+            "nome": "Patricia Linares",
+            "cargo": "Estudante de Biomedicina",
+            "opinioes": [
+                "Sonho de estudar e seguir na área da saúde",
+                "Medo de se expressar e fazer perguntas devido à discriminação"
+            ]
+        },
+        {
+            "nome": "Maria Cristina Hoffmann",
+            "cargo": "Consultora sobre Envelhecimento Saudável da Organização Pan Americana da Saúde (OPAS/OMS)",
+            "opinioes": [
+                "Discriminação compromete a qualidade de vida dos idosos e é o primeiro passo para a violência",
+                "Envelhecimento da população exige mudanças nas políticas públicas e adequação dos ambientes para acolher os mais velhos"
+            ]
+        },
+        {
+            "nome": "Alexandre da Silva",
+            "cargo": "Secretário Nacional de Promoção e Defesa dos Direitos da Pessoa Idosa",
+            "opinioes": [
+                "Exemplificou os diversos tipos de idadismo, como estrutural, cultural e internalizado"
+            ]
+        },
+        {
+            "nome": "Mirian Goldenberg",
+            "cargo": "Antropóloga",
+            "opinioes": [
+                "Pandemia de Covid-19 escancarou a 'velhofobia'",
+                "Discriminação praticada pelos familiares dos idosos"
+            ]
+        },
+        {
+            "nome": "Castro Neto",
+            "cargo": "Deputado (PSD-PI) e Vice-presidente da Comissão do Idoso",
+            "opinioes": [
+                "Propôs um projeto que especifica as diversas formas de violência contra idosos e dá mais celeridade à adoção de medidas protetivas",
+                "Necessidade de esforço conjunto do Legislativo e do Executivo para combater o preconceito e a violência contra a pessoa idosa"
+            ]
+        }
+    ]
+}

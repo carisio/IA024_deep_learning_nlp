@@ -1,0 +1,52 @@
+{
+    "assunto": "Programa Desenrola para micro e pequenas empresas e política de juros",
+    "envolvidos": [
+        {
+            "nome": "José Tarcísio da Silva",
+            "cargo": "Presidente da Confederação Nacional das Microempresas e Empresas de Pequeno Porte (Comicro)",
+            "opinioes": [
+                "Defende uma espécie de Programa Desenrola para o setor enfrentar o endividamento agravado por altas taxas de juros",
+                "Propõe tirar os juros e as multas do Fisco, parcelar o principal da dívida e dar tempo para os microempreendedores individuais pagarem suas dívidas"
+            ]
+        },
+        {
+            "nome": "Jorge Goetten",
+            "cargo": "Deputado (PL-SC)",
+            "opinioes": [
+                "Defensor da autonomia do Banco Central",
+                "Critica que a instituição não ficou independente do capital especulativo internacional"
+            ]
+        },
+        {
+            "nome": "Zé Neto",
+            "cargo": "Deputado (PT-BA)",
+            "opinioes": [
+                "Critica a atual política do Banco Central, afirmando que o mercado financeiro tem se revelado mais importante do que o mercado consumidor e o setor produtivo"
+            ]
+        },
+        {
+            "nome": "Vitor Lippi",
+            "cargo": "Deputado (PSDB-SP)",
+            "opinioes": [
+                "Afirma que o Brasil ainda tem os piores ambientes de negócio do mundo"
+            ]
+        },
+        {
+            "nome": "Maurício de Moura",
+            "cargo": "Diretor de Relacionamento do Banco Central",
+            "opinioes": [
+                "Defende a estratégia de 'pouso suave' baseada no controle da inflação com impacto atenuado sobre o nível da atividade econômica",
+                "Explica que a inflação baixa atualmente é resultado da Selic de 18 meses atrás e que as decisões sobre a inflação devem considerar diversos fatores",
+                "Destaca que o crédito para as pequenas e médias empresas tem crescido de forma constante"
+            ]
+        },
+        {
+            "nome": "Febraban",
+            "cargo": "Federação Brasileira de Bancos",
+            "opinioes": [
+                "Defende o aperfeiçoamento dos fundos garantidores de crédito e a aprovação do projeto de lei (PL 4188/21) que trata do sistema de garantias",
+                "Aponta que a redução do spread bancário dependeria da queda nos custos de intermediação financeira, como inadimplência e impostos"
+            ]
+        }
+    ]
+}

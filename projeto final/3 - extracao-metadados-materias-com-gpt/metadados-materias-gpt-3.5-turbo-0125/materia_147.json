@@ -1,0 +1,38 @@
+{
+    "assunto": "Importância das creches públicas na redução das desigualdades sociais",
+    "envolvidos": [
+        {
+            "nome": "Daiana Santos",
+            "cargo": "Deputada (PCdoB-RS)",
+            "opinioes": [
+                "Defende a importância das creches públicas para a redução das desigualdades sociais no Brasil",
+                "Afirmou que 64% das crianças entre zero e cinco anos não têm acesso a creches no País",
+                "Destacou que a falta de acesso afeta diretamente as famílias mais vulneráveis e prejudica o acesso de mulheres ao mercado de trabalho",
+                "Disse: 'Essas crianças sem creche representam uma grande dificuldade para as famílias, em especial para as mães que dependem desse serviço para se manter em seus empregos'"
+            ]
+        },
+        {
+            "nome": "Helen Perrela",
+            "cargo": "Conselheira do Conselho Nacional de Direitos Humanos",
+            "opinioes": [
+                "Destacou que a falta de acesso a creches deixa meninos e meninas mais expostos a situações de violência"
+            ]
+        },
+        {
+            "nome": "Bruno Tovar",
+            "cargo": "Consultor da Coordenação-Geral de Educação Infantil do Ministério da Educação (MEC)",
+            "opinioes": [
+                "Afirmou que é preciso investir na infraestrutura das creches, com recursos pedagógicos e qualidade no atendimento",
+                "Comentou: 'A oferta em creche precisa garantir o direito a uma educação infantil de qualidade com justiça social adequada às diversas realidades'"
+            ]
+        },
+        {
+            "nome": "Lucas Carneiro",
+            "cargo": "Coordenador da Comissão Permanente de Educação do Conselho Nacional de Procuradores-Gerais do Ministério Público",
+            "opinioes": [
+                "Defendeu a necessidade de revisões periódicas das metas do Plano Nacional de Educação (PNE) para assegurar creches de qualidade",
+                "Defendeu a punição para o gestor que descumprir a norma"
+            ]
+        }
+    ]
+}

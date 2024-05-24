@@ -1,0 +1,42 @@
+{
+    "assunto": "Obrigatoriedade de vacinação contra Covid em crianças",
+    "envolvidos": [
+        {
+            "nome": "Éder Gatti",
+            "cargo": "diretor do PNI",
+            "opinioes": [
+                "Defende a obrigatoriedade da vacinação contra a Covid-19 em crianças de 6 meses a 5 anos a partir de 2024",
+                "Afirmou que a obrigatoriedade está mantida",
+                "Apresentou dados sobre hospitalizações e óbitos por Covid-19 em menores de 19 anos",
+                "Citou a Lei 6.259/75 e o Estatuto da Criança e do Adolescente como embasamento legal para a decisão do PNI"
+            ]
+        },
+        {
+            "nome": "Francisco Cardoso",
+            "cargo": "infectologista",
+            "opinioes": [
+                "É contrário à obrigatoriedade da vacina contra a Covid-19 para crianças",
+                "Apontou que a OMS classifica crianças de 0 a 5 anos como grupo de baixo risco para Covid-19",
+                "Mencionou efeitos colaterais das vacinas de RNA Mensageiro",
+                "Afirmou que a vacina não impede a transmissão da doença"
+            ]
+        },
+        {
+            "nome": "Bia Kicis",
+            "cargo": "deputada (PL-DF) e presidente da Comissão de Fiscalização Financeira e Controle",
+            "opinioes": [
+                "Defende que a obrigatoriedade da vacina seja revista e que a decisão de imunizar os filhos seja dos pais",
+                "Negou que os parlamentares sejam 'antivacinas'",
+                "Critica a obrigatoriedade da vacinação em crianças, mencionando uma suposta pressão globalista"
+            ]
+        },
+        {
+            "nome": "Jorge Solla",
+            "cargo": "deputado (PT-BA) e médico sanitarista",
+            "opinioes": [
+                "Salientou a queda nos índices de vacinação e a importância da credibilidade dos imunizantes",
+                "Destacou a responsabilidade da Casa, dos profissionais de saúde e do Estado brasileiro em relação à vacinação"
+            ]
+        }
+    ]
+}

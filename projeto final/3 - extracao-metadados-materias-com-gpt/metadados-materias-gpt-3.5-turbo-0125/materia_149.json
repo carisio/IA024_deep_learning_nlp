@@ -1,0 +1,36 @@
+{
+    "assunto": "Mudança demográfica e reestruturação do Estado para atender ao envelhecimento da população brasileira",
+    "envolvidos": [
+        {
+            "nome": "Alexandre Lindenmeyer",
+            "cargo": "Deputado (PT-RS)",
+            "opinioes": [
+                "Preocupado com os recentes dados demográficos brasileiros que projetam para o ano de 2060 uma proporção de uma pessoa idosa para 1,6 pessoa na faixa de idade entre 14 e 59 anos.",
+                "Alertou sobre a importância do Estado brasileiro se preparar com ações de curto, médio e longo prazos para a nova realidade demográfica."
+            ]
+        },
+        {
+            "nome": "Vladimir Pomar",
+            "cargo": "Geógrafo",
+            "opinioes": [
+                "A grande massa da população acima de 60 anos ou que vai estar nessa faixa etária nos próximos anos poderá ter seu direito à aposentadoria comprometido.",
+                "Alertou sobre a necessidade do poder público oferecer uma rede de atendimento, que vai desde serviços de saúde adequados até moradia e cuidados pessoais."
+            ]
+        },
+        {
+            "nome": "Alexandre da Silva",
+            "cargo": "Secretário nacional dos Direitos da Pessoa Idosa do Ministério dos Direitos Humanos e Cidadania",
+            "opinioes": [
+                "Destacou a necessidade de considerar as desigualdades sociais e do perfil da população entre as diferentes regiões brasileiras no planejamento das políticas públicas para o envelhecimento da população."
+            ]
+        },
+        {
+            "nome": "Danyel de Lima",
+            "cargo": "Diretor-substituto de Programas Sociais, Áreas Transversais, Multissetoriais e Participação Social do Ministério do Planejamento",
+            "opinioes": [
+                "Apontou o plano plurianual como instrumento utilizado pelo governo federal para planejar políticas públicas voltadas ao idoso.",
+                "Destacou o desafio do financiamento da Previdência devido ao envelhecimento da população e a redução da proporção de trabalhadores em relação ao número de aposentados."
+            ]
+        }
+    ]
+}

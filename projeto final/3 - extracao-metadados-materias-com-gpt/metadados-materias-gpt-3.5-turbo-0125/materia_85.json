@@ -1,0 +1,37 @@
+{
+    "assunto": "Dificuldades para financiar a educação e suas consequências",
+    "envolvidos": [
+        {
+            "nome": "Catarina Santos",
+            "cargo": "representante da Campanha Nacional pelo Direito à Educação",
+            "opinioes": [
+                "Destacou a necessidade de implantação do mecanismo chamado 'custo-aluno', que define quanto o Brasil deve investir por aluno da educação básica para garantir a qualidade do ensino.",
+                "Critica o congelamento dos gastos públicos por 20 anos (Teto dos Gastos Públicos - EC 95/16) por inviabilizar os investimentos em educação.",
+                "Defende a implantação do novo Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb – Lei 11.494/07), com a União participando com ao menos 50% do total dos recursos.",
+                "Critica a baixa participação da União no financiamento da educação básica."
+            ]
+        },
+        {
+            "nome": "Amábile Pacios",
+            "cargo": "representante da Federação Nacional das Escolas Particulares (Fenep)",
+            "opinioes": [
+                "Propõe incentivos para as instituições públicas e privadas para os cursos de licenciatura, que muitas vezes estão fechando por falta de procura."
+            ]
+        },
+        {
+            "nome": "Rodrigo Capelato",
+            "cargo": "diretor executivo do Sindicato das Entidades Mantenedoras de Estabelecimentos de Ensino Superior de São Paulo",
+            "opinioes": [
+                "Lamenta que as políticas na área da educação não sejam políticas de Estado, mas de governo.",
+                "Propõe estimular e dar início à discussão de uma nova proposta para desenvolvimento de uma política para o ensino superior de longo prazo."
+            ]
+        },
+        {
+            "nome": "Arnaldo Faria de Sá",
+            "cargo": "deputado (PTB-SP)",
+            "opinioes": [
+                "Afirma que a presença da sociedade é fundamental para a comissão elaborar propostas que possam melhorar a qualidade da educação."
+            ]
+        }
+    ]
+}

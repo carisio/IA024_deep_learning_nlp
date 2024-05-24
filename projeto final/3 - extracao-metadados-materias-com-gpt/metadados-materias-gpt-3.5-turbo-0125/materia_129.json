@@ -1,0 +1,38 @@
+{
+    "assunto": "Vacinação de crianças contra Covid-19",
+    "envolvidos": [
+        {
+            "nome": "Nísia Trindade",
+            "cargo": "ministra da Saúde",
+            "opinioes": [
+                "Defende a inclusão da vacina contra Covid-19 para crianças de 6 meses a 5 anos no Programa Nacional de Imunização",
+                "Afirma que a medida segue recomendação de sociedades científicas",
+                "Afirmou: 'A indicação é muito clara e está baseada em um dado muito simples: 110 mortes de crianças por Covid em 2023, é esse o dado que leva a essa determinação.'"
+            ]
+        },
+        {
+            "nome": "Bia Kicis",
+            "cargo": "deputada (PL-DF)",
+            "opinioes": [
+                "É contrária à obrigatoriedade da vacinação contra a Covid para crianças",
+                "Afirmou: 'Nós somos todos favoráveis às vacinas que estão no PNI há muito tempo, que são vacinas seguras, de eficácia comprovada, mas essa, o próprio FDA chama de terapia gênica.'"
+            ]
+        },
+        {
+            "nome": "Eduardo Bolsonaro",
+            "cargo": "deputado (PL-SP)",
+            "opinioes": [
+                "Argumentou que vários países europeus já restringiram a aplicação da vacina contra a Covid-19 a idosos",
+                "Afirmou: 'há uma epidemia mundial' de morte súbita depois da vacinação contra a Covid."
+            ]
+        },
+        {
+            "nome": "Jorge Solla",
+            "cargo": "deputado (PT-BA) e médico",
+            "opinioes": [
+                "Acusou os oposicionistas de mentirem em relação à vacina, prejudicando a vacinação contra Covid-19 e todo o programa de imunização",
+                "Afirmou: 'Vocês estão mentindo, isso é um prática criminosa, vocês são responsáveis por cada criança que vier a ter sarampo nesse País, vocês serão responsáveis por cada caso de pólio que vier a acontecer.'"
+            ]
+        }
+    ]
+}

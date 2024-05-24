@@ -1,0 +1,39 @@
+{
+    "assunto": "Fomento e estrutura para turismo religioso",
+    "envolvidos": [
+        {
+            "nome": "Fábio Pinheiro",
+            "cargo": "representante do Ministério do Turismo",
+            "opinioes": [
+                "Defende que o turismo religioso gera emprego, renda e melhora a qualidade de vida das localidades e população."
+            ]
+        },
+        {
+            "nome": "Rodrigo Coelho",
+            "cargo": "presidente da comissão de Turismo",
+            "opinioes": [
+                "Destacou que o turismo religioso movimenta 16 bilhões de euros ao ano no mundo.",
+                "Defende que o Brasil tem potencial para desenvolver o turismo religioso.",
+                "Afirma que o país deve investir no turismo, oferecendo cursos de qualificação para os trabalhadores do setor.",
+                "Destacou a importância de cursos gratuitos disponíveis no site do Ministério do Turismo, como de camareira, de garçom e de línguas.",
+                "Afirma que o Brasil precisa se preparar para receber turistas estrangeiros, incluindo o aprendizado de inglês e espanhol."
+            ]
+        },
+        {
+            "nome": "Marcos Jaboski",
+            "cargo": "diretor de sustentabilidade do santuário em Nova Trento, Santa Catarina",
+            "opinioes": [
+                "Destacou a importância de uma gestão profissional do turismo religioso mantendo a essência.",
+                "Defende parcerias entre poder público, sociedade civil e empresários para o desenvolvimento do turismo religioso.",
+                "Pediu melhorias na infraestrutura do local, mencionando a falta de sinal de celular devido ao relevo da região."
+            ]
+        },
+        {
+            "nome": "Ariane Nakamura",
+            "cargo": "representante da Secretaria de Turismo de Santa Catarina",
+            "opinioes": [
+                "Pediu recursos aos parlamentares para reestruturação e manutenção de rotas e santuários de turismo religioso em Santa Catarina."
+            ]
+        }
+    ]
+}

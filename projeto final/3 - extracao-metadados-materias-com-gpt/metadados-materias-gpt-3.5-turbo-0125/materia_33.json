@@ -1,0 +1,54 @@
+{
+    "assunto": "Importância do diploma de jornalismo para combater notícias falsas",
+    "envolvidos": [
+        {
+            "nome": "Samira Cunha",
+            "cargo": "presidente da Federação Nacional dos Jornalistas (Fenaj)",
+            "opinioes": [
+                "Defende o diploma em jornalismo como remédio contra a desinformação e a divulgação de conteúdos falsos",
+                "Vivemos em uma sociedade que se baseia em mentiras propagadas em larga escala e com objetivos específicos, e deixamos de lado o papel de um profissional que se capacita, no mínimo, por quatro anos para exercer um papel fundamental na democracia"
+            ]
+        },
+        {
+            "nome": "Marluce Zacariotti",
+            "cargo": "presidente da Associação Brasileira de Ensino de Jornalismo",
+            "opinioes": [
+                "Defende que a obrigatoriedade do diploma em nada compromete a liberdade de expressão",
+                "O jornalista não manifesta sua opinião nas notícias e reportagens que escreve, portanto a exigência do diploma não lhe garante a alegada exclusividade no direito à manifestação do pensamento pela mídia ou por qualquer outro meio"
+            ]
+        },
+        {
+            "nome": "Armando Rollemberg",
+            "cargo": "diretor da Associação Brasileira de Imprensa (ABI)",
+            "opinioes": [
+                "Considera a decisão do STF um retrocesso e alerta para consequências desastrosas para a sociedade",
+                "O jornalismo é tudo que não tem a ver com a mentira. Dentro do jornalismo cabe a liberdade de expressão, mas na liberdade de expressão não cabe a mentira"
+            ]
+        },
+        {
+            "nome": "Samuel Pantoja",
+            "cargo": "presidente da Associação Brasileira de Pesquisadores em Jornalismo (SBPJor)",
+            "opinioes": [
+                "Apresentou dados de pesquisa sobre desinformação na sociedade brasileira",
+                "Essas pessoas podem, por exemplo, contribuir para o retorno de doenças que pareciam estar superadas pelo Plano Nacional de Imunização"
+            ]
+        },
+        {
+            "nome": "Amaro Neto",
+            "cargo": "deputado (Republicanos-ES)",
+            "opinioes": [
+                "Defende a formação em jornalismo como instrumento de garantia da qualidade do trabalho",
+                "Eu acredito que um grande passo para acelerar o combate às fake news é tornar o diploma de jornalismo obrigatório por meio dessa PEC que está parada aqui na Casa"
+            ]
+        },
+        {
+            "nome": "Daniel Trzeciak",
+            "cargo": "deputado (PSDB-RS)",
+            "opinioes": [
+                "Critica a decisão do STF e defende a PEC que torna o diploma de jornalismo obrigatório",
+                "Queria perguntar ao ministro Gilmar Mendes se ele faria uma cirurgia com algum médico que não tivesse sentado nas cadeiras do curso de medicina",
+                "O fim da obrigatoriedade do diploma desvalorizou a função dos cursos de jornalismo. Hoje ninguém mais quer fazer faculdade de jornalismo. Para que ficar quatro anos estudando jornalismo se nem do diploma precisa?"
+            ]
+        }
+    ]
+}

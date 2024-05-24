@@ -1,0 +1,56 @@
+{
+    "assunto": "Críticas ao apagão de dados sobre saúde mental no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Luciana Barrancos",
+            "cargo": "do Instituto Cactus",
+            "opinioes": [
+                "Falta de dados, monitoramento e avaliação dos serviços prestados",
+                "Falta de transparência no uso de recursos públicos",
+                "Incentivo a pesquisas no setor é insuficiente"
+            ]
+        },
+        {
+            "nome": "Lúcio Costa",
+            "cargo": "Pesquisador da organização Desinstitute",
+            "opinioes": [
+                "Redução no número de Caps implantados nos últimos quatro anos",
+                "Suspensão do Programa Nacional de Avaliação das Instituições Psiquiátricas no Brasil é prejudicial"
+            ]
+        },
+        {
+            "nome": "Leonardo Pinho",
+            "cargo": "Presidente da Associação Brasileira de Saúde Mental",
+            "opinioes": [
+                "Falta de informações compromete a racionalidade dos investimentos no setor",
+                "Critica destinação de recursos para instituições privadas sem critérios objetivos"
+            ]
+        },
+        {
+            "nome": "Maurício Fiore",
+            "cargo": "Representante da Conectas Direitos Humanos",
+            "opinioes": [
+                "Falta de transparência na destinação de recursos para comunidades terapêuticas",
+                "Critica a eficácia das comunidades terapêuticas em comparação a outras formas de tratamento"
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "Deputada (PT-DF)",
+            "opinioes": [
+                "Falta de critérios objetivos do governo federal para destinação de recursos para a saúde mental",
+                "Defende a rede de assistência psicossocial na lógica de cuidado em liberdade"
+            ]
+        },
+        {
+            "nome": "Rafael Ribeiro",
+            "cargo": "Coordenador-geral de Saúde Mental do Ministério da Saúde",
+            "opinioes": [
+                "Governo está trabalhando em um painel com indicadores da saúde mental",
+                "Migração para novo prontuário eletrônico permitirá gerar mais dados sobre pacientes e rede de atenção psicossocial",
+                "Realização de censo para avaliar a qualidade da rede de atenção psicossocial",
+                "Anúncio de edital com R$ 4 milhões para projetos de pesquisa em saúde mental"
+            ]
+        }
+    ]
+}

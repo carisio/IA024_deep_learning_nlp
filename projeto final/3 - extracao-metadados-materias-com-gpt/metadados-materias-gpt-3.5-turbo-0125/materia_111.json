@@ -1,0 +1,30 @@
+{
+    "assunto": "Educação bilíngue para surdos",
+    "envolvidos": [
+        {
+            "nome": "Rodrigo Rosso Marques",
+            "cargo": "Professor-adjunto do Departamento de Libras da Universidade Federal de Santa Catarina",
+            "opinioes": [
+                "Defende que a língua de instrução para surdos deve ser a língua de sinais, em todos os espaços da escola, e que o português deve ser aprendido como uma segunda língua.",
+                "Defende que os professores devem utilizar sempre a linguagem de sinais, ao invés de contar com intérpretes.",
+                "Defende que a duração das aulas nas escolas bilíngues para surdos deve ser maior que em uma instituição só para ouvintes."
+            ]
+        },
+        {
+            "nome": "Amália Barros",
+            "cargo": "Deputada (PL-MT)",
+            "opinioes": [
+                "Defende que a legislação garante que a educação bilíngue para surdos representa uma modalidade de ensino independente da educação especial.",
+                "Ressalta a necessidade de avançar para oferecer uma educação de qualidade, com estrutura, formação, qualificação, teorias e práticas pedagógicas adequadas, com profissionais habilitados nas duas línguas e em um espaço que valorize a Libras e a identidade surda."
+            ]
+        },
+        {
+            "nome": "Messias Ramos Costa",
+            "cargo": "Coordenador-substituto do Curso de Língua de Sinais Brasileira",
+            "opinioes": [
+                "Defende que a seleção de professores para atuar nas escolas bilíngues para surdos é crucial e que muitos professores não têm proficiência suficiente em Libras.",
+                "Propõe a criação de bancas de avaliação dos candidatos formadas por pessoas surdas para corrigir o problema de fluência dos professores."
+            ]
+        }
+    ]
+}

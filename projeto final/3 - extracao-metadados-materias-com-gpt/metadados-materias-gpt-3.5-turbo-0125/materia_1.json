@@ -1,0 +1,69 @@
+{
+    "assunto": "Censura e liberdade de expressão nas redes sociais",
+    "envolvidos": [
+        {
+            "nome": "Michael Shellenberger",
+            "cargo": "jornalista norte-americano",
+            "opinioes": [
+                "Defende a liberdade de expressão de forma ampla, inclusive o direito de nazistas e fascistas defenderem suas ideias",
+                "Moraes quer censurar seus inimigos políticos"
+            ]
+        },
+        {
+            "nome": "Glenn Greenwald",
+            "cargo": "colunista do jornal Folha de S. Paulo e fundador do site The Intercept",
+            "opinioes": [
+                "Acredita que Moraes agiu sem base legal ao exigir a remoção de postagens e o banimento de contas, inclusive de parlamentares",
+                "As pessoas não receberam aviso prévio do banimento nem explicações dos motivos",
+                "As ordens de banimento foram sigilosas e sem o devido processo legal"
+            ]
+        },
+        {
+            "nome": "Marcel van Hattem",
+            "cargo": "deputado (Novo-RS)",
+            "opinioes": [
+                "Destacou que está em curso um processo industrial de censura e perseguição covarde contra desafetos do ministro Alexandre de Moraes",
+                "Defende que a censura não pode prevalecer e que a liberdade de expressão tem que ser regra"
+            ]
+        },
+        {
+            "nome": "Arlindo Chinaglia",
+            "cargo": "deputado (PT-SP)",
+            "opinioes": [
+                "Lamentou a ausência de contraditório na audiência",
+                "Avaliou que tentar caracterizar que haja uma atitude de censura no Brasil é um exagero retórico que se transforma em mentira"
+            ]
+        },
+        {
+            "nome": "Filipe Barros",
+            "cargo": "deputado (PL-PR)",
+            "opinioes": [
+                "Ressaltou que o Marco Civil da Internet é claro ao estabelecer que, se houver afronta à legislação, deve-se censurar uma publicação específica mediante decisão judicial motivada"
+            ]
+        },
+        {
+            "nome": "Florentino Neto",
+            "cargo": "deputado (PT-PI)",
+            "opinioes": [
+                "Argumentou que não há censura em curso, pois os processos podem ser contestados no âmbito do Supremo Tribunal Federal",
+                "Defendeu a regulamentação das redes sociais para proteger os usuários contra excessos praticados"
+            ]
+        },
+        {
+            "nome": "Eli Vieira Junior",
+            "cargo": "jornalista da Gazeta do Povo",
+            "opinioes": [
+                "Afirmou que não está escrito na legislação brasileira que é proibido produzir ou propagar fake news, desinformação ou discurso de ódio",
+                "Defendeu que permitir que preconceituosos falem com liberdade não é um endosso ao conteúdo que eles falam"
+            ]
+        },
+        {
+            "nome": "David Ágape",
+            "cargo": "jornalista freelancer",
+            "opinioes": [
+                "Acredita que o Judiciário brasileiro exige que a plataforma X descumpra a lei e entregue dados de cidadãos, em desconformidade com o Marco Civil da Internet e com a proteção da privacidade garantida em lei",
+                "Critica o combate às fake news direcionado apenas à direita e defende o Marco Civil da Internet"
+            ]
+        }
+    ]
+}

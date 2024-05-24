@@ -1,0 +1,29 @@
+{
+    "assunto": "Liberação da produção de Cannabis para fins medicinais",
+    "envolvidos": [
+        {
+            "nome": "Padre João",
+            "cargo": "Deputado (PT-MG)",
+            "opinioes": [
+                "Defende a modernização da legislação para permitir o plantio de Cannabis sativa para fins medicinais",
+                "Critica o preço elevado dos medicamentos importados, inacessíveis às famílias mais vulneráveis"
+            ]
+        },
+        {
+            "nome": "Diego Ferreira",
+            "cargo": "Representante do Ministério da Saúde",
+            "opinioes": [
+                "Afirma que a judicialização em relação à cannabis está aumentando os gastos em saúde",
+                "Destaca que os recursos gastos poderiam ser utilizados para garantir o acesso de mais pacientes a esses medicamentos"
+            ]
+        },
+        {
+            "nome": "Ângela Gomes",
+            "cargo": "Representante da Federação da Associação de Cannabis Terapêutica",
+            "opinioes": [
+                "Defende a produção da cannabis para tornar o tratamento mais barato e acessível para todas as famílias",
+                "Argumenta a favor de uma agricultura familiar e orgânica para garantir a qualidade dos medicamentos"
+            ]
+        }
+    ]
+}

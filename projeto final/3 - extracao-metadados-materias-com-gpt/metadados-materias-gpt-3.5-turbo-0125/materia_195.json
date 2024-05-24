@@ -1,0 +1,38 @@
+{
+    "assunto": "Regulamentação dos mercados digitais no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Assimakis Komminos",
+            "cargo": "advogado especialista em mercados e serviços digitais do escritório de advocacia White & Case",
+            "opinioes": [
+                "Defende que o Brasil adote um modelo mais flexível, como o da Alemanha",
+                "Opina que o Brasil deve identificar interesses públicos nacionais que justificam as regras, que, apesar de serem próprias, não podem ser muito diferentes das regras adotadas no resto do mundo"
+            ]
+        },
+        {
+            "nome": "Giorgio Monti",
+            "cargo": "professor de direito da concorrência da Universidade de Direito Tilburg, dos Países Baixos",
+            "opinioes": [
+                "Defende uma regulação focada na suavização do controle de acesso essencial das plataformas digitais",
+                "Acredita que a regulação não trata do combate às notícias falsas, mas sim do dinamismo do mercado e da dependência econômica",
+                "Opina que a autorregulação pode ser uma saída em alguns países"
+            ]
+        },
+        {
+            "nome": "Krisztian Katona",
+            "cargo": "vice-presidente de concorrência global e política regulatória da Computer and Communications Industry Association (CCIA)",
+            "opinioes": [
+                "Defende que os reguladores desenvolvam programas digitais nacionais sem depender de exemplos internacionais e elaborem políticas locais mais adequadas",
+                "Acredita que a regulação no Brasil pode aumentar os custos para os consumidores e empresas, impactando nos preços"
+            ]
+        },
+        {
+            "nome": "Any Ortiz",
+            "cargo": "deputada (Cidadania-RS)",
+            "opinioes": [
+                "Acredita que a audiência pública com especialistas estrangeiros é um movimento de vanguarda no Parlamento brasileiro para usar lições internacionais na construção da legislação brasileira",
+                "Considera importante aprender com a experiência de outros países devido à expansão dos mercados digitais"
+            ]
+        }
+    ]
+}

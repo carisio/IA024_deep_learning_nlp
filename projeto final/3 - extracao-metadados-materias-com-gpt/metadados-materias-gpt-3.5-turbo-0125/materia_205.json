@@ -1,0 +1,82 @@
+{
+    "assunto": "Melhorias na política de enfrentamento aos crimes nas fronteiras do País",
+    "envolvidos": [
+        {
+            "nome": "Coronel Ulysses",
+            "cargo": "Deputado (União-AC)",
+            "opinioes": [
+                "Defende mais recursos e melhorias na política nacional de enfrentamento aos crimes transfronteiriços",
+                "Pediu que o Ministério da Justiça destine mais recursos para o Programa de Proteção Integrada de Fronteiras"
+            ]
+        },
+        {
+            "nome": "Eduardo Bettini",
+            "cargo": "Chefe do Grupo Especial de Polícia Marítima",
+            "opinioes": [
+                "Defende mais participação das Forças Armadas na segurança das fronteiras",
+                "Defende a investigação, coordenada pela Polícia Federal, das organizações criminosas"
+            ]
+        },
+        {
+            "nome": "Sanderson",
+            "cargo": "Deputado (PL-RS)",
+            "opinioes": [
+                "Defende que é papel da União fazer a segurança das fronteiras",
+                "Considera que há negligência do governo federal"
+            ]
+        },
+        {
+            "nome": "Gustavo Correia",
+            "cargo": "Coronel, chefe das Operações da Faixa de Fronteira do Exército Brasileiro",
+            "opinioes": [
+                "Defende maior aporte de recursos para o Sistema Integrado de Monitoramento de Fronteiras"
+            ]
+        },
+        {
+            "nome": "Carlos Augusto Bock",
+            "cargo": "Coordenador-geral de Operações Integradas e Combate ao Crime Organizado do Ministério da Justiça e Segurança Pública",
+            "opinioes": [
+                "Garante que o programa Vigia, hoje conhecido como Guardiões da Fronteira, segue sendo implementado",
+                "Estuda mudanças para melhorar o programa"
+            ]
+        },
+        {
+            "nome": "Alexandre Martins Angoti",
+            "cargo": "Coordenador Operacional de Vigilância e Repressão da Receita Federal",
+            "opinioes": [
+                "Defende a valorização do profissional que trabalha na fronteira",
+                "Destaca a falta de recursos humanos na Receita Federal"
+            ]
+        },
+        {
+            "nome": "Eldison Prado",
+            "cargo": "Comandante do Batalhão de Policiamento de Fronteira da PM do Paraná",
+            "opinioes": [
+                "Destaca a importância da criação do batalhão em 2012",
+                "Defende que a União compense financeiramente os estados pelo trabalho das polícias militares nas regiões de fronteira"
+            ]
+        },
+        {
+            "nome": "Everson Antônio Rozeni",
+            "cargo": "Diretor do Departamento de Operações de Fronteira do Mato Grosso do Sul",
+            "opinioes": [
+                "Destaca a integração da PM com a Polícia Civil no Mato Grosso do Sul"
+            ]
+        },
+        {
+            "nome": "Marcos Pollon",
+            "cargo": "Deputado (PL-MS)",
+            "opinioes": [
+                "Defende que 30% dos recursos do Fundo Nacional de Segurança Pública sejam destinados a estados da fronteira"
+            ]
+        },
+        {
+            "nome": "Felipe Vianna de Menezes",
+            "cargo": "Chefe do Serviço de Projetos Especiais e Fronteiras da Diretoria de Combate ao Crime Organizado da Polícia Federal",
+            "opinioes": [
+                "Ressalta a importância de compartilhamento de dados por todos os órgãos para avanço das investigações da PF",
+                "Defende a discussão de um projeto de lei de proteção de dados para fins penais"
+            ]
+        }
+    ]
+}

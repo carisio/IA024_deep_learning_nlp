@@ -1,0 +1,48 @@
+{
+    "assunto": "Possível privatização do controle das loterias da Caixa",
+    "envolvidos": [
+        {
+            "nome": "Juvandia Moreira",
+            "cargo": "presidente da Confederação Nacional dos Trabalhadores do Ramo Financeiro da CUT (Contraf-CUT)",
+            "opinioes": [
+                "Defende o controle integral da Caixa sobre as loterias",
+                "Destacou a destinação de parte da arrecadação das loterias para programas sociais e ações nas áreas de seguridade social, esporte, educação e cultura",
+                "Disse: 'Esses valores chegam a programas como o Fies [Fundo de Financiamento Estudantil], então o estudante o brasileiro que está lá estudando ou tem seu filho no Fies está sendo beneficiado por essa arrecadação'"
+            ]
+        },
+        {
+            "nome": "Ricardo Costa",
+            "cargo": "vice-presidente da Federação Brasileira das Empresas Lotéricas (Febralot)",
+            "opinioes": [
+                "Defende o aumento da participação da Caixa no segmento de loterias e apostas",
+                "Disse: 'O que está em jogo para nós é a necessidade de modernização, de agilidade, de conseguir competir de forma forte, organizada, com as loterias que estão vindo aí. Senão, perdem a Caixa, a União, a população e a rede lotérica, que eu não sei nem se sobrevive'"
+            ]
+        },
+        {
+            "nome": "Simone Vicentini",
+            "cargo": "secretária adjunta de Prêmios e Apostas do Ministério da Fazenda",
+            "opinioes": [
+                "Informou que o tema da subsidiária já vem sendo discutido internamente pelo banco desde 2018",
+                "Minimizou as chances de privatização das loterias, argumentando que, por se tratar de serviço público exclusivo da União, atualmente delegado à Caixa, só poderia ser explorado por uma subsidiária também 100% pública",
+                "Disse: 'Caso se pretenda formalizar essa transferência, desde que seja para uma subsidiária integral [pública], por precaução, nós consultaríamos novamente a Procuradoria-Geral da Fazenda Nacional (PGFN), porque o nosso entendimento é de que não poderia haver essa exploração [pela iniciativa privada]'"
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "deputada (PT-DF)",
+            "opinioes": [
+                "Demonstrou preocupação com a eventual privatização das loterias da Caixa sem autorização do Congresso",
+                "Sugeriu que o banco retire a proposta e abra um diálogo para esclarecer os detalhes da criação da subsidiária",
+                "Questionou: 'A partir dessa subsidiária, como é que se discute, por exemplo, com os lotéricos, que são quem operam, pela Caixa, as loterias e nos permitem ter a maior rede de atendimento de todas as instituições financeiras, para que a população tenha acesso a benefícios, a serviços bancários?'"
+            ]
+        },
+        {
+            "nome": "Tadeu Veneri",
+            "cargo": "deputado (PT-PR)",
+            "opinioes": [
+                "Demonstrou preocupação com a eventual privatização das loterias da Caixa sem autorização do Congresso",
+                "Sugeriu que o banco retire a proposta e abra um diálogo para esclarecer os detalhes da criação da subsidiária"
+            ]
+        }
+    ]
+}

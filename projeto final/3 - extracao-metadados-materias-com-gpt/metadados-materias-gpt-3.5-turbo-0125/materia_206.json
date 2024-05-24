@@ -1,0 +1,52 @@
+{
+    "assunto": "Revisão da Lei de Cotas",
+    "envolvidos": [
+        {
+            "nome": "Nilma Lino",
+            "cargo": "ex-ministra da Mulher, Família e Direitos Humanos",
+            "opinioes": [
+                "Defende que a revisão da Lei de Cotas deve englobar melhorias na lei e não a sua revogação",
+                "Defende que as cotas têm como eixo o combate ao racismo"
+            ]
+        },
+        {
+            "nome": "Bruna Brelaz",
+            "cargo": "presidente da União Nacional dos Estudantes (UNE)",
+            "opinioes": [
+                "Defende a garantia da permanência dos estudantes cotistas",
+                "Propõe que o Plano Nacional de Assistência Estudantil esteja vinculado às cotas"
+            ]
+        },
+        {
+            "nome": "Vinícius Soares",
+            "cargo": "presidente da Associação Nacional de Pós-Graduandos",
+            "opinioes": [
+                "Destaca a importância das políticas afirmativas para a pós-graduação",
+                "Aponta que as políticas de ações afirmativas têm o poder de atrair novos talentos para a pós-graduação"
+            ]
+        },
+        {
+            "nome": "Dandara",
+            "cargo": "deputada (PT-MG)",
+            "opinioes": [
+                "Destaca a importância da diversidade na produção de conhecimento científico",
+                "Defende o projeto que torna a Lei de Cotas permanente"
+            ]
+        },
+        {
+            "nome": "Douglas Belchior",
+            "cargo": "representante da Uneafro",
+            "opinioes": [
+                "Afirma que a presença de jovens negros nas universidades ajuda a questionar o ensino que fortaleceu o racismo estrutural"
+            ]
+        },
+        {
+            "nome": "Maria do Rosário Tripodi",
+            "cargo": "representante do Ministério da Educação",
+            "opinioes": [
+                "Reconhece o êxito da política de cotas",
+                "Ressalta que o Ministério da Educação está trabalhando para atender às recomendações do Tribunal de Contas da União (TCU)"
+            ]
+        }
+    ]
+}

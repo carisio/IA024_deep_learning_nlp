@@ -1,0 +1,35 @@
+{
+    "assunto": "Diminuição de velocidade das vias para garantir segurança de pedestres e ciclistas",
+    "envolvidos": [
+        {
+            "nome": "Renata Falzoni",
+            "cargo": "Representante do movimento Bike é Legal",
+            "opinioes": [
+                "Defende a diminuição da velocidade das vias públicas para aumentar as chances de sobrevivência de pedestres e ciclistas em acidentes",
+                "Defende a redução dos congestionamentos, da poluição, do consumo de combustível, do stress da cidade e do ruído urbano"
+            ]
+        },
+        {
+            "nome": "Maria Alice Nascimento",
+            "cargo": "Diretora do Departamento de Segurança no Trânsito do Ministério dos Transportes",
+            "opinioes": [
+                "Defende que a disciplina de diminuição da violência no trânsito seja parte da grade curricular de todas as escolas brasileiras"
+            ]
+        },
+        {
+            "nome": "Ana Carboni",
+            "cargo": "Representante da União de Ciclistas do Brasil",
+            "opinioes": [
+                "Defende que a redução na velocidade das vias é fundamental para evitar mortes de pedestres e ciclistas"
+            ]
+        },
+        {
+            "nome": "Jonas Donizette",
+            "cargo": "Deputado (PSB-SP)",
+            "opinioes": [
+                "Destacou que a redução da velocidade nas vias brasileiras é um desafio, mas com resultados comprovados",
+                "Informou sobre a experiência positiva em Campinas, onde a redução da velocidade em um viaduto evitou mortes e pessoas mutiladas"
+            ]
+        }
+    ]
+}

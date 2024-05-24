@@ -1,0 +1,35 @@
+{
+    "assunto": "Ações de prevenção de desastres naturais e auxílio à população",
+    "envolvidos": [
+        {
+            "nome": "Pedro Batista",
+            "cargo": "coordenador de obras da Secretaria Nacional de Periferias",
+            "opinioes": [
+                "As obras de contenção de encostas do Ministério das Cidades são o nosso Minha Casa, Minha Vida, porque a gente qualifica a segurança das moradias e evita a remoção de famílias. Ninguém escolhe morar em área de risco porque quer"
+            ]
+        },
+        {
+            "nome": "Gilson Daniel",
+            "cargo": "deputado (Podemos-ES) e relator da Comissão Especial de Prevenção e Auxílio a Desastres e Calamidades Naturais",
+            "opinioes": [
+                "O País necessita organizar fontes de recursos específicas para a prevenção de desastres. Ao longo dos anos, temos recebido medidas provisórias que só chegam após o acontecimento do desastre, depois que a gente perde vidas e patrimônio"
+            ]
+        },
+        {
+            "nome": "Vera Campelo",
+            "cargo": "coordenadora dos serviços de proteção em calamidades públicas e emergências do Sistema Único de Assistência Social",
+            "opinioes": [
+                "É preciso pensar em outros tipos de situação, como a crise migratória dos venezuelanos, a situação dos Yanomami e as pessoas que vivem nas ruas",
+                "A gente está trabalhando na alteração da nossa legislação para ampliar esse atendimento e não focar em apenas um ponto"
+            ]
+        },
+        {
+            "nome": "Leo Prates",
+            "cargo": "deputado (PDT-BA) e presidente da comissão especial",
+            "opinioes": [
+                "O grande desafio é criar um arcabouço legal que possa dar proteção especialmente aos vulneráveis",
+                "Imagina o que é, na Amazônia, não ter acesso a um médico porque as hidrovias e os rios estão secos; ou, no Rio Grande do Sul, a perda de pequenas atividades comerciais que sustentavam famílias inteiras"
+            ]
+        }
+    ]
+}

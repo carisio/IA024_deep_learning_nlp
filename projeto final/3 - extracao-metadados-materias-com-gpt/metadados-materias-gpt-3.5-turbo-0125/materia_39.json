@@ -1,0 +1,64 @@
+{
+    "assunto": "Interpretação do artigo 142 da Constituição sobre o papel das Forças Armadas",
+    "envolvidos": [
+        {
+            "nome": "Raul Jungmann",
+            "cargo": "Ex-deputado federal e ex-ministro da Defesa",
+            "opinioes": [
+                "Defende que as Forças Armadas não detêm poder de atuação autônoma e estão subordinadas ao presidente da República."
+            ]
+        },
+        {
+            "nome": "Flávio Nogueira",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Destacou que os episódios de intervenção militar sempre tiveram participação civil."
+            ]
+        },
+        {
+            "nome": "Felipe Santa Cruz",
+            "cargo": "Mestre em Direito e ex-presidente nacional da OAB",
+            "opinioes": [
+                "Afirma que a Constituição submeteu as Forças Armadas ao poder civil e que não há poder moderador das Forças Armadas."
+            ]
+        },
+        {
+            "nome": "Sérgio Etchegoyen",
+            "cargo": "Ex-ministro-chefe do Gabinete de Segurança Institucional da Presidência da República",
+            "opinioes": [
+                "Defende que o acionamento das Forças Armadas depende de um comando político.",
+                "Concorda com a ideia de que militares que assumam cargos políticos sejam desligados das forças.",
+                "Rebate a crítica sobre as atribuições das Forças Armadas, destacando que obras de engenharia militar são as mesmas em diferentes contextos."
+            ]
+        },
+        {
+            "nome": "Filipe Barros",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Considera que a discussão sobre o artigo 142 surgiu devido ao agigantamento do Poder Judiciário e à inação do Congresso Nacional.",
+                "Defende que as instituições brasileiras precisam ser redesenhadas para garantir a harmonia entre os Poderes."
+            ]
+        },
+        {
+            "nome": "Lindbergh Farias",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Considera necessário repensar o desenho constitucional em relação ao tema, devido à tentativa de cooptação das Forças Armadas."
+            ]
+        },
+        {
+            "nome": "General Girão",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Defende que o Congresso deve retomar suas responsabilidades para evitar que o Judiciário assuma a última palavra."
+            ]
+        },
+        {
+            "nome": "Manuel Domingos Neto",
+            "cargo": "Historiador e ex-deputado federal",
+            "opinioes": [
+                "Critica o que chamou de 'distúrbio de personalidade funcional' das Forças Armadas, destacando que se afastaram de sua principal missão."
+            ]
+        }
+    ]
+}

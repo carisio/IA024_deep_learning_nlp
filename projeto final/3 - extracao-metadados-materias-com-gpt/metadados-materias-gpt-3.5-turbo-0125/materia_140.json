@@ -1,0 +1,29 @@
+{
+    "assunto": "Lições da pandemia e baixa taxa de vacinação nas Américas",
+    "envolvidos": [
+        {
+            "nome": "Jarbas Barbosa",
+            "cargo": "Diretor da Organização Pan-Americana da Saúde (Opas)",
+            "opinioes": [
+                "Defende fortalecer os sistemas de vigilância em saúde e criar novas estratégias de vacinação para aumentar a cobertura vacinal nas Américas",
+                "Defende a aprovação de um novo Regulamento Sanitário Internacional e a discussão de um acordo que garanta acesso equitativo a medicamentos, vacinas e equipamentos em caso de outra pandemia",
+                "Disse: 'Nós precisamos pensar em como fortalecer as capacidades em cada país, significando capacidade de laboratório, treinamento de pessoal, melhor coordenação, integração entre vigilância e serviços de saúde. Em alguns países, você tinha leitos sobrando em um determinado subsistema e leitos faltando em outro, e a capacidade de dispor disso rapidamente foi realmente um déficit'"
+            ]
+        },
+        {
+            "nome": "Iza Arruda",
+            "cargo": "Deputada (MDB-PE)",
+            "opinioes": [
+                "Credita parte do problema à queda nos resultados das campanhas de vacinação, em razão de fake news",
+                "Lamentou: 'Nós temos hoje registros de 2,7 milhões de crianças que não receberam vacinas contra difteria, tétano, coqueluche. Em 2010, tínhamos relatos de que as Américas eram a segunda região de maior cobertura vacinal. E hoje é a segunda região com a pior cobertura vacinal'"
+            ]
+        },
+        {
+            "nome": "Jorge Solla",
+            "cargo": "Deputado (PT-BA)",
+            "opinioes": [
+                "Destacou a necessidade de enfrentar a ampliação das desigualdades sociais tanto no Brasil quanto no resto do mundo, que impacta a saúde da população"
+            ]
+        }
+    ]
+}

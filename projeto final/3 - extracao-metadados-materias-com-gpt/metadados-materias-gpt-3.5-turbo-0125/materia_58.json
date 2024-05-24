@@ -1,0 +1,44 @@
+{
+    "assunto": "Violência obstétrica e morte materna",
+    "envolvidos": [
+        {
+            "nome": "Luiz Antônio Teixeira Júnior",
+            "cargo": "secretário de Saúde do Rio de Janeiro, deputado licenciado",
+            "opinioes": [
+                "Falta de investimento na qualificação do pré-natal impacta diretamente no número de mortes maternas"
+            ]
+        },
+        {
+            "nome": "Carmen Zanotto",
+            "cargo": "secretária de Saúde de Santa Catarina, ex-deputada",
+            "opinioes": [
+                "A cor de pele está relacionada com o pré-natal inadequado",
+                "Profissionais da enfermagem dedicam menos tempo na assistência do pré-natal à mulher negra que à mulher branca"
+            ]
+        },
+        {
+            "nome": "Soraya Santos",
+            "cargo": "deputada (PL-RJ)",
+            "opinioes": [
+                "Gestantes precisam primeiramente de informação",
+                "Mulheres desconhecem os problemas relacionados ao parto e à cesárea"
+            ]
+        },
+        {
+            "nome": "João Rocha Vilela",
+            "cargo": "ginecologista",
+            "opinioes": [
+                "É função do médico orientar a paciente a realizar o procedimento mais seguro",
+                "A imposição é uma forma de violência"
+            ]
+        },
+        {
+            "nome": "Edson Castro",
+            "cargo": "secretário-adjunto de Saúde de Roraima",
+            "opinioes": [
+                "Muitas indígenas e venezuelanas chegam aos hospitais com a gestação avançada sem terem realizado pré-natal, aumentando o risco de morte",
+                "Venezuelanas chegam ao Brasil apenas para o parto, visando ter filhos com nacionalidade brasileira"
+            ]
+        }
+    ]
+}

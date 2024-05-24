@@ -1,0 +1,58 @@
+{
+    "assunto": "Erradicação da tuberculose no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Antonio Brito",
+            "cargo": "deputado (PSD-BA)",
+            "opinioes": [
+                "Intensificar as ações de combate à doença no Brasil",
+                "Focar em um programa piloto no Amazonas para erradicação da tuberculose até 2030"
+            ]
+        },
+        {
+            "nome": "Draurio Neto",
+            "cargo": "representante do Ministério da Saúde",
+            "opinioes": [
+                "É preciso ter vacina e é preciso que todos sejam vacinados",
+                "Necessidade de mais tecnologias, novas ferramentas, inovação, melhores vacinas e diagnósticos melhores e mais rápidos",
+                "Tratamento da tuberculose precisa ser mais curto para evitar o abandono"
+            ]
+        },
+        {
+            "nome": "Thiago Moraes",
+            "cargo": "representante do Ministério de Ciência e Tecnologia",
+            "opinioes": [
+                "Anunciou a abertura de edital de financiamento para aquisição de testes-diagnósticos, medicamentos e vacinas"
+            ]
+        },
+        {
+            "nome": "Ismael Alexandrino",
+            "cargo": "deputado (PSD-GO)",
+            "opinioes": [
+                "Necessidade de financiamento permanente para programas perenes"
+            ]
+        },
+        {
+            "nome": "Márcia Viana",
+            "cargo": "Ministério de Desenvolvimento e Assistência Social",
+            "opinioes": [
+                "Pediu aprovação da Proposta de Emenda à Constituição 383/17, que garante recursos para a execução orçamentária própria do Sistema Único de Assistência Social"
+            ]
+        },
+        {
+            "nome": "Carla Almeida",
+            "cargo": "Integrante da Articulação Social de Luta contra a Tuberculose",
+            "opinioes": [
+                "Defendeu aporte de recursos para as ações de estados e municípios"
+            ]
+        },
+        {
+            "nome": "Ricardo Arcêncio",
+            "cargo": "presidente da Rede Brasileira de Pesquisa em Tuberculose (Rede TB)",
+            "opinioes": [
+                "Cobrou investimento público em vacinas e insumos",
+                "Lamentou a falta de valorização e perspectiva de financiamento para importantes pesquisas em âmbito nacional"
+            ]
+        }
+    ]
+}

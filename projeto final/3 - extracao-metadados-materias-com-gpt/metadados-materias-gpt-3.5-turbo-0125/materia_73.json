@@ -1,0 +1,49 @@
+{
+    "assunto": "Seguro de vida mais flexível para idosos",
+    "envolvidos": [
+        {
+            "nome": "Mauro de Oliveira Freitas",
+            "cargo": "representante do Conselho Nacional dos Direitos da Pessoa Idosa (CNDPI)",
+            "opinioes": [
+                "Defende a função social do seguro",
+                "Defende que o excedente de custos com as apólices de idosos seja redistribuído entre a sociedade"
+            ]
+        },
+        {
+            "nome": "Vilson da Fetaemg",
+            "cargo": "deputado (PSB-MG)",
+            "opinioes": [
+                "Reconhece a necessidade de desenvolver um produto específico para idosos no mercado de seguros",
+                "Enfatiza a importância do lado social da cobertura, não apenas o lucro"
+            ],
+            "citacao": "A seguradora talvez não veja a gente pelo lado social, mas como um objeto. Enquanto me interessa aquele objeto, ele me interessa, mas depois que esse objeto já ficou desgastado pelo tempo já não é importante para mim"
+        },
+        {
+            "nome": "Luiz Leganani",
+            "cargo": "representante da Coba",
+            "opinioes": [
+                "Alerta que muitas seguradoras se negam a realizar contratos com idosos, desrespeitando a legislação e as regras da Susep",
+                "Considera a prática das seguradoras abusiva"
+            ],
+            "citacao": "A prática das seguradoras é abusiva, pois contraria o Estatuto do Idoso, pelo qual nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência e crueldade ou opressão"
+        },
+        {
+            "nome": "Beatriz Herrans",
+            "cargo": "à frente da Fenaprevi",
+            "opinioes": [
+                "Defende que a aplicação da idade no cálculo de prêmio não configura discriminação da pessoa idosa, mas garante o equilíbrio financeiro do contrato",
+                "Reforça que o cálculo de prêmio é fundamental para o equilíbrio do seguro e para garantir a proteção financeira dos beneficiários dos clientes falecidos"
+            ],
+            "citacao": "Eles são fundamentais para o equilíbrio do seguro e para garantir a proteção financeira dos beneficiários dos clientes falecidos"
+        },
+        {
+            "nome": "Marcelo de Souza do Nascimento",
+            "cargo": "representante do Instituto de Defesa do Consumidor (Procon–DF)",
+            "opinioes": [
+                "Alerta para a falta de clareza na negociação de contratos de seguro com clientes idosos",
+                "Comenta sobre a colocação de cláusulas restritivas de direitos em letras miúdas nos contratos"
+            ],
+            "citacao": "Quando o idoso vai contratar, ele não obtém as informações claras, legíveis e ostensivas. Geralmente nos contratos essas cláusulas restritivas de direitos são colocadas em letras miúdas"
+        }
+    ]
+}

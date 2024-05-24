@@ -1,0 +1,44 @@
+{
+    "assunto": "Desigualdade de gênero na carreira científica e tecnológica",
+    "envolvidos": [
+        {
+            "nome": "Luana Bonone",
+            "cargo": "Coordenadora-geral de Popularização da Ciência e Tecnologia do Ministério da Ciência, Tecnologia e Inovação (MCTCI)",
+            "opinioes": [
+                "Defende a necessidade de políticas públicas interministeriais e do Legislativo, com atenção ainda do Judiciário e da sociedade civil, para garantir equidade nas carreiras científicas e tecnológicas."
+            ]
+        },
+        {
+            "nome": "Mercedes Bustamante",
+            "cargo": "Presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes)",
+            "opinioes": [
+                "Destaca a disparidade de gênero nas áreas acadêmicas e a falta de contratações para mulheres como professoras universitárias.",
+                "Apresenta questões que devem ser objetos de políticas públicas, como a remuneração menor para mulheres doutoras e a democratização das carreiras de tecnologia e ciências exatas."
+            ]
+        },
+        {
+            "nome": "Isabela Andrade",
+            "cargo": "Reitora da Universidade Federal de Pelotas, representante da Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (Andifes)",
+            "opinioes": [
+                "Observa que muitas mulheres não conseguem chegar ao topo da carreira e têm que optar entre carreira e família.",
+                "Defende a presença obrigatória de mulheres em bancas examinadoras de concursos públicos para professores e critérios compensatórios para pesquisadoras que usufruíram de licença maternidade durante a pós-graduação."
+            ]
+        },
+        {
+            "nome": "Dalila Oliveira",
+            "cargo": "Diretora de Cooperação Institucional, Internacional e Inovação do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+            "opinioes": [
+                "Afirma que as mulheres recebem valores menores nas bolsas em comparação aos homens e que as áreas de Ciência, Tecnologia, Engenharia e Matemática recebem mais recursos do que as ciências humanas e sociais.",
+                "Informa sobre o lançamento do edital Meninas nas Ciências Exatas, Engenharias e Computação e do Programa Beatriz Nascimento de Mulheres na Ciência para promover a carreira científica de mais mulheres negras, indígenas, quilombolas e ciganas."
+            ]
+        },
+        {
+            "nome": "Ana Priscila Alves",
+            "cargo": "Vice-presidente da Associação Nacional dos Pós-Graduandos (ANPG)",
+            "opinioes": [
+                "Defende a ampliação da licença maternidade para todas as pós-graduandas e a derrubada do decreto que proíbe a criação de novas creches nas universidades.",
+                "Destaca a importância de pesquisar o adoecimento das mulheres na pós-graduação, incluindo problemas emocionais e assédio sexual."
+            ]
+        }
+    ]
+}

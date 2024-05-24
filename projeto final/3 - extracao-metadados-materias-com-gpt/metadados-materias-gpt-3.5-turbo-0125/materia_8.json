@@ -1,0 +1,38 @@
+{
+    "assunto": "Regulação do mercado de criptomoedas",
+    "envolvidos": [
+        {
+            "nome": "Otávio Damaso",
+            "cargo": "diretor de Regulação do Banco Central (BC)",
+            "opinioes": [
+                "Defende a necessidade de se exigir das empresas a separação entre ativos próprios e de clientes",
+                "Defende a segregação patrimonial",
+                "Propõe que o Congresso retome o debate sobre o tema",
+                "Destacou: 'A segregação patrimonial é um ponto que defendemos. Se o Congresso tiver interesse em retomar o debate, o BC e outros órgãos do governo gostariam de contribuir. Podemos fazer alguma coisa no âmbito da regulação, mas não a blindagem legal que caberia ao Congresso'"
+            ]
+        },
+        {
+            "nome": "Aureo Ribeiro",
+            "cargo": "deputado (Solidariedade-RJ)",
+            "opinioes": [
+                "Questionou de que maneira a regulação poderá impedir que corretoras de moedas virtuais se envolvam em esquemas de pirâmide financeira e de lavagem de dinheiro e como proteger as pessoas que investem nesses ativos"
+            ]
+        },
+        {
+            "nome": "Thiago Bueno",
+            "cargo": "procurador da República, integrante do Grupo de Combate a Crimes Cibernéticos do Ministério Público Federal",
+            "opinioes": [
+                "A regulação vai facilitar investigações",
+                "Destacou: 'Após a regulação, serão estendidas às empresas que operarem criptomoedas algumas obrigações de atores do sistema bancário e financeiro, como fazer o registro das transações, conhecer os clientes, prestar informações às autoridades quando verificarem indícios de crimes. Tudo isso vai ser exigido e facilitará o trabalho do MPF'"
+            ]
+        },
+        {
+            "nome": "Alexandre dos Santos",
+            "cargo": "superintende-geral da Comissão de Valores Mobiliários (CVM)",
+            "opinioes": [
+                "Atualmente as instituições reguladas pela autarquia cometem crime quando ofertam publicamente criptomoedas sem autorização da entidade",
+                "Destacou: 'É possível ofertar contratos de investimento coletivo que tenham ativos virtuais, que são lícitos em si, vai ter até uma regulação agora. O que não se pode é levar isso a público não tendo registro e sem respeitar o princípio do direito do investidor à plena informação para decisão sobre o investimento'"
+            ]
+        }
+    ]
+}

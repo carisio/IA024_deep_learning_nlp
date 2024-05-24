@@ -1,0 +1,57 @@
+{
+    "assunto": "Conduta criminosa da Braskem em Maceió",
+    "envolvidos": [
+        {
+            "nome": "Alfredo Gaspar",
+            "cargo": "Presidente da comissão externa que investiga o colapso do solo em bairros de Maceió",
+            "opinioes": [
+                "Defende que a Braskem foi criminosa",
+                "Critica a omissão da ANM"
+            ],
+            "disse": "Na opinião do deputado, a Braskem foi criminosa e a ANM, omissa."
+        },
+        {
+            "nome": "Ricardo César de Barros Oliveira",
+            "cargo": "Representante do Instituto do Meio Ambiente (IMA) de Alagoas",
+            "opinioes": [
+                "Admitiu que a Braskem nunca apresentou estudo de impacto ambiental"
+            ],
+            "disse": "O representante do IMA admitiu que a empresa nunca apresentou nenhum estudo de impacto ambiental."
+        },
+        {
+            "nome": "Helder Pasti",
+            "cargo": "Superintendente substituto de Fiscalização da Agência Nacional de Mineração (ANM)",
+            "opinioes": [
+                "Explicou que a ANM mudou as regras de fiscalização em 2010",
+                "Afirmou que a agência fez tudo o que podia com a estrutura de que dispõe"
+            ],
+            "disse": "O representante da agência Helder Pasti afirmou que o órgão fez tudo o que podia com a estrutura de que dispõe."
+        },
+        {
+            "nome": "Marx Beltrão",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Não acredita que a Braskem agiu sozinha",
+                "Espera que o Ministério Público Federal e a Polícia Federal identifiquem os responsáveis"
+            ],
+            "disse": "Eu espero que o Ministério Público Federal, que a Polícia Federal, identifiquem os nomes dos responsáveis, e que o Poder Judiciário julgue com todas as forças da lei, chegue a quem chegar, porque, por trás desse crime, teve muita gente importante que se associou à Braskem."
+        },
+        {
+            "nome": "Paulo Roberto Farias Falcão",
+            "cargo": "Diretor do Departamento de Obras de Proteção da Secretaria Nacional de Proteção e Defesa Civil",
+            "opinioes": [
+                "Afirmou que o afundamento de terra na lagoa Mundaú foi provavelmente o colapso de uma das minas",
+                "Garantiu que a lagoa não será sugada pelo desabamento da mina"
+            ],
+            "disse": "Paulo Falcão garantiu, no entanto, que a lagoa não será sugada pelo desabamento da mina."
+        },
+        {
+            "nome": "Leandro Galvanese",
+            "cargo": "Pesquisador do Serviço Geológico do Brasil",
+            "opinioes": [
+                "Apontou que levantamentos feitos por satélite pela Braskem no início dos anos 2000 já apontavam deslocamentos da superfície em Maceió"
+            ],
+            "disse": "De acordo com o pesquisador do Serviço Geológico do Brasil Leandro Galvanese, levantamentos feitos por satélite pela Braskem ainda no início dos anos 2000 já apontavam deslocamentos da superfície em Maceió."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "assunto": "Tributação especial para a cadeia do vinho",
+    "envolvidos": [
+        {
+            "nome": "Daniel Panizzi",
+            "cargo": "presidente da União Brasileira de Vitivinicultura (Uvibra)",
+            "opinioes": [
+                "Defende a criação da Zona Franca da Uva e do Vinho",
+                "Defende a revisão da taxação do setor vitivinícola"
+            ]
+        },
+        {
+            "nome": "Deborah Villas Bôas Dadalt",
+            "cargo": "sócia-diretora do Spa do Vinho Hotel e Condomínio Vitivinícola",
+            "opinioes": [
+                "Critica o uso do vinho brasileiro como moeda de troca em acordos internacionais",
+                "Demonstra preocupação com a situação desfavorável dos produtores brasileiros no mercado"
+            ],
+            "citacao": "O vinho brasileiro foi usado como moeda de troca em muitos acordos internacionais, principalmente com nossos países irmãos do Mercosul, e isso causou, para nós produtores brasileiros, uma situação completamente desfavorável dentro do mercado"
+        },
+        {
+            "nome": "Carlos Gomes",
+            "cargo": "deputado (Republicanos-RS)",
+            "opinioes": [
+                "Defende o Projeto de Lei 1378/19 que concede isenção de IPI ao vinho produzido em 23 municípios da Serra Gaúcha",
+                "Defende a isenção de PIS e Cofins para os produtos da região",
+                "Defende a isenção para até 18 garrafas de vinho compradas na zona franca",
+                "Defende que o vinho seja classificado como alimento para obter regras tributárias mais favoráveis"
+            ],
+            "citacao": "Temos cerca de mil vinícolas no Brasil e a grande maioria tem foco no enoturismo, com vendas no varejo, na porta da vinícola",
+            "citacao": "Fazer com que todo turista, ao chegar na zona franca, possa comprar com a isenção, o que daria uma redução interessante no preço final para comprarem em maior quantidade.",
+            "citacao": "Fazer com que todo turista, ao chegar na zona franca, possa comprar com a isenção, o que daria uma redução interessante no preço final para comprarem em maior quantidade."
+        }
+    ]
+}

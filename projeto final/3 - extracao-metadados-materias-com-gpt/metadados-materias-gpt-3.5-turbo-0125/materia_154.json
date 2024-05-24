@@ -1,0 +1,37 @@
+{
+    "assunto": "Políticas públicas voltadas para mulheres no climatério",
+    "envolvidos": [
+        {
+            "nome": "Lêda Borges",
+            "cargo": "Deputada (PSDB-GO)",
+            "opinioes": [
+                "Defende a realização de debates para criar políticas públicas efetivas que melhorem a qualidade de vida das mulheres no climatério e na menopausa."
+            ]
+        },
+        {
+            "nome": "Débora Siqueira Beltrammi",
+            "cargo": "Representante do Ministério da Saúde",
+            "opinioes": [
+                "Defende o desenvolvimento de novos medicamentos para casos em que a reposição hormonal é contraindicada.",
+                "Informou que o Ministério da Saúde está conduzindo pesquisas clínicas para avaliar a segurança e eficácia de hormônios.",
+                "Destacou o trabalho com fitoterapia, mencionando a isoflavona e a possibilidade de inclusão de novos fitoterápicos."
+            ]
+        },
+        {
+            "nome": "Ana Priscila Soggia",
+            "cargo": "Endocrinologista especializada em climatério",
+            "opinioes": [
+                "Destacou a importância da reposição hormonal para reduzir riscos de AVC, infarto, câncer de intestino, fraturas ósseas e diabetes."
+            ]
+        },
+        {
+            "nome": "Adriana Ferreira",
+            "cargo": "Fundadora da Associação Menopausa Feliz",
+            "opinioes": [
+                "Destacou a falta de efetivação das iniciativas para mulheres no climatério e na menopausa, levando a diagnósticos e tratamentos inadequados.",
+                "Informou sobre a criação do Manual da Atenção à Saúde do Climatério em 2008 e a necessidade de atualização devido à evolução da ciência.",
+                "Sugeriu a criação de um dia nacional de conscientização sobre a menopausa para informar e combater o tabu associado a essa fase da vida."
+            ]
+        }
+    ]
+}

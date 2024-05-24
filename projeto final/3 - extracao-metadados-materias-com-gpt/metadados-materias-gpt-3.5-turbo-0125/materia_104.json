@@ -1,0 +1,45 @@
+{
+    "assunto": "Interesse da Câmara em participar das regras de renovação das concessões das distribuidoras de energia elétrica",
+    "envolvidos": [
+        {
+            "nome": "Hugo Leal",
+            "cargo": "Deputado (PSD-RJ)",
+            "opinioes": [
+                "Defende a participação do Congresso Nacional na discussão das regras de prorrogação das concessões",
+                "Reclamou que o Ministério de Minas e Energia não entende o papel de contribuição que o Parlamento pode entregar"
+            ]
+        },
+        {
+            "nome": "Danilo Forte",
+            "cargo": "Deputado (União-CE)",
+            "opinioes": [
+                "Afirma que o modelo atual das concessionárias precisa ser mudado",
+                "Defende a migração da Tarifa Social de Energia Elétrica (TSEE) para o orçamento da União"
+            ]
+        },
+        {
+            "nome": "Lafayette de Andrada",
+            "cargo": "Deputado (Republicanos-MG)",
+            "opinioes": [
+                "Defende 'uma nova concepção' para renovar as concessões",
+                "Apresentou um projeto de lei (PL 970/24) que condiciona a prorrogação dos contratos a uma série de exigências, como estudo técnico prévio e consulta pública",
+                "Critica as distribuidoras por não obedecerem à lei e às resoluções da Aneel"
+            ]
+        },
+        {
+            "nome": "Frederico Teles",
+            "cargo": "Diretor do Departamento de Políticas Setoriais do Ministério de Minas e Energia (MME)",
+            "opinioes": [
+                "Destacou a necessidade de uma solução rápida para a renovação das concessões das distribuidoras",
+                "Explicou que a demora prejudica as empresas, que usam capital de forma intensiva"
+            ]
+        },
+        {
+            "nome": "Sandoval Feitosa",
+            "cargo": "Diretor-geral da Agência Nacional de Energia Elétrica (Aneel)",
+            "opinioes": [
+                "Reforçou a urgência na decisão sobre a renovação das concessões das distribuidoras"
+            ]
+        }
+    ]
+}

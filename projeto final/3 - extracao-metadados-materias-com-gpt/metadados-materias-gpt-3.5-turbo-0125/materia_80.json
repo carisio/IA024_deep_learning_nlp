@@ -1,0 +1,76 @@
+{
+    "assunto": "Regulamentação do lobby",
+    "envolvidos": [
+        {
+            "nome": "Augusto Coutinho",
+            "cargo": "Deputado (Republicanos-PE)",
+            "opinioes": [
+                "Apresentará substitutivo a uma proposta do Poder Executivo que trata do lobby",
+                "Não se trata de um projeto de governo, nem de oposição, mais sim do País"
+            ]
+        },
+        {
+            "nome": "Marcio Gonçalves",
+            "cargo": "Diretor da Controladoria-Geral da União (CGU)",
+            "opinioes": [
+                "Defendeu a versão original do Executivo",
+                "Hoje temos total certeza de que o PL 4391/21 atende aos dez princípios da OCDE para integridade e transparência do lobby"
+            ]
+        },
+        {
+            "nome": "Natasha Miranda",
+            "cargo": "Ministério da Economia",
+            "opinioes": [
+                "Concordou com a versão original do Executivo"
+            ]
+        },
+        {
+            "nome": "Luiz Alberto dos Santos",
+            "cargo": "Consultor do Senado (representando o Departamento Intersindical de Assessoria Parlamentar - Diap)",
+            "opinioes": [
+                "Afirmou que o texto do Executivo é insuficiente",
+                "O relator Augusto Coutinho deveria levar em conta os quase 38 anos de discussões e análises sobre o tema no Congresso Nacional"
+            ]
+        },
+        {
+            "nome": "Carlos Zarattini",
+            "cargo": "Deputado (PT-SP)",
+            "opinioes": [
+                "Busca resumir discussões ocorridas no Legislativo",
+                "A lei do lobby não é panaceia, mas suprirá lacuna essencial",
+                "É necessário diferenciar os profissionais daqueles que incorrem em práticas delituosas"
+            ]
+        },
+        {
+            "nome": "Felipe Rigoni",
+            "cargo": "Deputado (União-ES)",
+            "opinioes": [
+                "Defendeu mudanças no texto do Executivo por meio de 11 emendas",
+                "Uma das emendas trata de definições presentes no texto"
+            ]
+        },
+        {
+            "nome": "Andréa Gozetto",
+            "cargo": "Consultora (integrante da Rede de Advocacy Colaborativo - RAC)",
+            "opinioes": [
+                "O lobby acontece de diversas maneiras, mandando e-mail, fazendo campanha em redes sociais. Se o objetivo disso é influenciar os tomadores de decisão, então deve ser considerado lobby"
+            ]
+        },
+        {
+            "nome": "Adriana Ventura",
+            "cargo": "Deputada (Novo-SP)",
+            "opinioes": [
+                "Defendeu regras para o lobby"
+            ]
+        },
+        {
+            "nome": "Lafayette de Andrada",
+            "cargo": "Deputado (Republicanos-MG)",
+            "opinioes": [
+                "Defendeu regras para o lobby",
+                "Cada decisão que é tomada tem repercussão fortíssima na sociedade. Quando afeta algum ramo da atividade econômica ou nicho específico, eles precisam ser escutados, e é disso que se trata o lobby",
+                "São as pessoas que são impactadas trazendo a sua visão, não há nada de não republicano nisso"
+            ]
+        }
+    ]
+}

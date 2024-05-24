@@ -1,0 +1,66 @@
+{
+    "assunto": "Familiares de presos em 8 de janeiro cobram individualização de condutas e negam tentativa de golpe",
+    "envolvidos": [
+        {
+            "nome": "Gabriela Ritter",
+            "cargo": "advogada e presidente da Associação dos Familiares e Vítimas de 8 de janeiro",
+            "opinioes": [
+                "Os presos são acusados de ações muito parecidas, sem evidências do que cada um teria feito individualmente.",
+                "Houve prisões em massa. A ordem foi essa: prendam, algemem e coloquem nos ônibus, sem distinção.",
+                "As detenções desrespeitam convenções internacionais de direitos humanos, dos quais o Brasil é signatário.",
+                "Não era vontade dessas pessoas. Pode ter pessoas que queriam algo assim, mas a grande maioria dos presos não almejava isso."
+            ]
+        },
+        {
+            "nome": "Marcel van Hattem",
+            "cargo": "deputado (Novo-RS)",
+            "opinioes": [
+                "O Judiciário não está tendo o cuidado de individualizar as condutas dos presos.",
+                "Cada um, mesmo aqueles que depredaram, que quebraram, tem que ser tratado de acordo com a proporcionalidade dos seus atos, e não de acordo com a conveniência da cabeça de um juiz, que ao mesmo tempo tem agido como vítima e como algoz."
+            ]
+        },
+        {
+            "nome": "Sanderson",
+            "cargo": "deputado (PL-RS) e presidente do colegiado da Comissão de Segurança Pública e Combate ao Crime Organizado",
+            "opinioes": [
+                "O objetivo é jogar luzes sobre uma situação que muitos ouvem falar apenas pela imprensa.",
+                "Estamos vendo pessoas com 60, 70 anos, que nunca pisaram numa delegacia, sendo tratados como facínoras."
+            ]
+        },
+        {
+            "nome": "Rodrigo Valadares",
+            "cargo": "deputado (União-SE)",
+            "opinioes": [
+                "Critica a manutenção das prisões e a postura do STF."
+            ]
+        },
+        {
+            "nome": "Fred Linhares",
+            "cargo": "deputado (Republicanos-DF)",
+            "opinioes": [
+                "Critica a manutenção das prisões e a postura do STF."
+            ]
+        },
+        {
+            "nome": "José Medeiros",
+            "cargo": "deputado (PL-MT)",
+            "opinioes": [
+                "Critica a manutenção das prisões e a postura do STF."
+            ]
+        },
+        {
+            "nome": "Sargento Gonçalves",
+            "cargo": "deputado (PL-RN)",
+            "opinioes": [
+                "Critica a manutenção das prisões e a postura do STF."
+            ]
+        },
+        {
+            "nome": "Cabo Gilberto Silva",
+            "cargo": "deputado (PL-PB)",
+            "opinioes": [
+                "Cobra uma posição do presidente do Congresso Nacional e do Senado, Rodrigo Pacheco, acerca da atuação do STF."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "assunto": "Fuga de presídio em Mossoró, veto à saidinha de presos e decreto sobre clubes de atiradores",
+    "envolvidos": [
+        {
+            "nome": "Ricardo Lewandowski",
+            "cargo": "Ministro da Justiça",
+            "opinioes": [
+                "Defende que a fuga de presídio em Mossoró foi única e não se repetirá",
+                "Defendeu a manutenção de mais de 90% do texto aprovado no Congresso sobre a proibição da 'saidinha' de presos",
+                "Defendeu que as restrições às visitas familiares seriam inconstitucionais e contrariavam princípios fundamentais da Constituição",
+                "Defendeu ajustes no Decreto 11.615/23, que afeta os CACs, desde que discutidos tecnicamente",
+                "Defendeu a atuação baseada na defesa dos direitos humanos, sem se render ao 'populismo penal'"
+            ]
+        },
+        {
+            "nome": "General Girão",
+            "cargo": "Deputado (PL-RN)",
+            "opinioes": [
+                "Critica o governo e garante que o veto parcial de Lula será derrubado em sessão do Congresso Nacional"
+            ]
+        },
+        {
+            "nome": "Delegado Paulo Bilynskyj",
+            "cargo": "Deputado (PL-SP)",
+            "opinioes": [
+                "Questiona pontos do Decreto 11.615/23, que afeta os CACs, como a proibição de clubes de tiro a um quilômetro de escolas e as restrições de acordo com o calibre das armas"
+            ]
+        },
+        {
+            "nome": "Pastor Henrique Vieira",
+            "cargo": "Deputado (Psol-RJ)",
+            "opinioes": [
+                "Elogia a atuação de Lewandowski, baseada na defesa dos direitos humanos, sem se render ao 'populismo penal'"
+            ]
+        },
+        {
+            "nome": "Sanderson",
+            "cargo": "Deputado (PL-RS)",
+            "opinioes": [
+                "Elogia a disposição de Lewandowski pelo diálogo, afirmando que isso não ocorria na gestão do ex-ministro Flávio Dino"
+            ]
+        }
+    ]
+}

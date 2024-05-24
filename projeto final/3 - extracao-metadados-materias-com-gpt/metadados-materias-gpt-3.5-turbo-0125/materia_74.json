@@ -1,0 +1,57 @@
+{
+    "assunto": "Desafios para implementação plena do ECA",
+    "envolvidos": [
+        {
+            "nome": "Diego Alves",
+            "cargo": "presidente do Conselho Nacional dos Direitos da Criança e do Adolescente (Conanda)",
+            "opinioes": [
+                "Defende a necessidade de ir além das palavras e do texto da Constituição e da lei para transformar em ações reais na sociedade."
+            ]
+        },
+        {
+            "nome": "Ana Paula Motta",
+            "cargo": "Professora da Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "opinioes": [
+                "Cita como avanços do ECA a redução da mortalidade de crianças e a ampliação do acesso à escola.",
+                "Aponta que o País vive um processo de precarização da vida de crianças e adolescentes, chamando-o de 'juvenicídio'."
+            ]
+        },
+        {
+            "nome": "Ana Maria Vilareal",
+            "cargo": "Coordenadora Nacional de Combate à Exploração do Trabalho da Criança e do Adolescente (Coordinfância) do Ministério Público do Trabalho",
+            "opinioes": [
+                "Alerta sobre a iminência de aumento do trabalho infantil com a volta do Brasil para o Mapa da Fome.",
+                "Destaca que quando a criança está em trabalho infantil, todos os seus direitos são violados."
+            ]
+        },
+        {
+            "nome": "Maria do Rosário",
+            "cargo": "Deputada (PT-RS)",
+            "opinioes": [
+                "Ressalta o problema da fome na infância e adolescência, mencionando a situação de insegurança alimentar de 33 milhões de pessoas no Brasil."
+            ]
+        },
+        {
+            "nome": "Lucas Lopes",
+            "cargo": "Representante da Coalizão Brasileira pelo fim da Violência contra Crianças e Adolescentes",
+            "opinioes": [
+                "Defende uma maior participação de crianças e adolescentes no planejamento das políticas públicas para essa faixa etária.",
+                "Critica a construção do plano nacional de enfrentamento à violência contra crianças e adolescentes por não ter contado com a participação das crianças e adolescentes."
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "Deputada (PT-DF)",
+            "opinioes": [
+                "Cobra uma maior participação de crianças e adolescentes no planejamento das políticas públicas para essa faixa etária."
+            ]
+        },
+        {
+            "nome": "Celio Moura",
+            "cargo": "Deputado (PT-TO)",
+            "opinioes": [
+                "Cobra uma maior participação de crianças e adolescentes no planejamento das políticas públicas para essa faixa etária."
+            ]
+        }
+    ]
+}

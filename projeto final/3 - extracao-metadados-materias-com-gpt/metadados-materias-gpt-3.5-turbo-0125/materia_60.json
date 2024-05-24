@@ -1,0 +1,58 @@
+{
+    "assunto": "Benefícios e desafios do Programa QualiSUS Cardio para o atendimento a idosos",
+    "envolvidos": [
+        {
+            "nome": "Dr. Zacharias Calil",
+            "cargo": "Deputado (União-GO)",
+            "opinioes": [
+                "Defendeu a necessidade de estimular os cuidados com a saúde e com as doenças cardíacas complexas relacionadas à idade",
+                "Afirmou: 'Com o envelhecimento da população brasileira e no contexto da pandemia de Covid-19, que postergou o tratamento de diversas doenças, é preciso estimular os cuidados com a saúde e com as doenças cardíacas complexas relacionadas à idade'"
+            ]
+        },
+        {
+            "nome": "Fernando Silveira",
+            "cargo": "Presidente da Associação Brasileira da Indústria de Tecnologia para Saúde (Abimed)",
+            "opinioes": [
+                "Avaliou que a defasagem na tabela de preços por produtos e serviços praticada pelo SUS poderá impactar o novo programa",
+                "Sugeriu liberdade aos gestores locais para a formalização de contratos"
+            ]
+        },
+        {
+            "nome": "Maíra Batista Botelho",
+            "cargo": "Secretária de Atenção Especializada à Saúde do Ministério da Saúde",
+            "opinioes": [
+                "Afirmou que recentemente foram reajustados os valores de 200 itens da tabela SUS, que é apenas uma referência para os gastos em âmbito federal",
+                "Sugeriu ao Congresso a revisão das leis sobre o tema"
+            ]
+        },
+        {
+            "nome": "Alexandre Kalache",
+            "cargo": "Presidente do Centro Internacional de Longevidade Brasil",
+            "opinioes": [
+                "Declarou: 'A grande conquista social dos últimos cem anos foi envelhecer, mas estamos transformando isso em uma bomba-relógio não tendo políticas adequadas'",
+                "Recomendou pressão popular por mais políticas públicas voltadas à população idosa"
+            ]
+        },
+        {
+            "nome": "José Mangione",
+            "cargo": "Cardiologista",
+            "opinioes": [
+                "Defendeu a incorporação, pelo SUS, de novas tecnologias"
+            ]
+        },
+        {
+            "nome": "João Fernando Monteiro Ferreira",
+            "cargo": "Cardiologista",
+            "opinioes": [
+                "Defendeu a incorporação, pelo SUS, de novas tecnologias"
+            ]
+        },
+        {
+            "nome": "Fernanda de Carvalho",
+            "cargo": "Diretora do Instituto Lado a Lado pela Vida",
+            "opinioes": [
+                "Sugeriu campanhas em defesa de hábitos saudáveis e para prevenção de doenças cardiovasculares"
+            ]
+        }
+    ]
+}

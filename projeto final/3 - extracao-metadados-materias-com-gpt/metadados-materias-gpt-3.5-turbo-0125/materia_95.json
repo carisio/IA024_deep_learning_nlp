@@ -1,0 +1,20 @@
+{
+    "assunto": "Complexidade no licenciamento de hidrelétricas na região Norte",
+    "envolvidos": [
+        {
+            "nome": "Representante do Ministério das Minas e Energia",
+            "cargo": "Representante do Ministério das Minas e Energia",
+            "opinioes": [
+                "Ser a favor das hidrelétricas",
+                "Diversos entraves, como terras indígenas e questões administrativas, levantam problemas para os investidores em hidrelétricas na região"
+            ]
+        },
+        {
+            "nome": "Ibama",
+            "cargo": "Não especificado",
+            "opinioes": [
+                "Defendeu a necessidade de mais debates em torno do assunto"
+            ]
+        }
+    ]
+}

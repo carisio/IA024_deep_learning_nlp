@@ -1,0 +1,46 @@
+{
+    "assunto": "Aumento da violência contra mulheres e desmonte das políticas públicas",
+    "envolvidos": [
+        {
+            "nome": "Carmela Zigoni",
+            "cargo": "assessora política do Instituto de Estudos Socioeconômicos (Inesc)",
+            "opinioes": [
+                "Defende que o aumento da violência contra as mulheres decorre do desmonte das políticas de proteção e acolhimento nos últimos anos.",
+                "A execução orçamentária de ações voltadas ao público feminino sofreu redução de 75% entre 2014 e 2019."
+            ]
+        },
+        {
+            "nome": "Letícia Godinho",
+            "cargo": "pesquisadora da Fundação João Pinheiro",
+            "opinioes": [
+                "A explicação para o aumento da violência está na ascensão do 'ultraconservadorismo'.",
+                "Chamou a atenção para o movimento de ultraconservadorismo e esperava uma redução das violências em 2022."
+            ]
+        },
+        {
+            "nome": "Denise Mota Dau",
+            "cargo": "secretária de Enfrentamento da Violência contra a Mulher do Ministério das Mulheres",
+            "opinioes": [
+                "Aponta o desmonte das políticas de proteção como causa do aumento da violência contra mulheres.",
+                "Acredita que a ascensão de 'movimentos ultraconservadores' está na origem do problema.",
+                "Defende a necessidade de ações específicas com foco em gênero para combater a violência contra mulheres."
+            ]
+        },
+        {
+            "nome": "Ana Pimentel",
+            "cargo": "deputada (PT-MG)",
+            "opinioes": [
+                "Concorda que a violência de gênero tem como origem os estereótipos sociais de gênero.",
+                "Afirma que a violência é uma construção social e se fundamenta na desigualdade estrutural entre homens e mulheres."
+            ]
+        },
+        {
+            "nome": "Lêda Borges",
+            "cargo": "deputada (PSDB-GO) e presidente da Comissão de Defesa dos Direitos das Mulheres",
+            "opinioes": [
+                "Defende que a melhor maneira de quebrar o ciclo da violência é a independência econômica das mulheres.",
+                "Considera fundamentais medidas como casas de acolhimento e inserção no mercado de trabalho."
+            ]
+        }
+    ]
+}

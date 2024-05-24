@@ -1,0 +1,44 @@
+{
+    "assunto": "Engajamento de jovens na política para combater ataques à democracia",
+    "envolvidos": [
+        {
+            "nome": "Maria Claudia Bucchianeri",
+            "cargo": "Ministra substituta do TSE",
+            "opinioes": [
+                "Defende a importância da juventude fiscalizar e cobrar respostas dos mandatários, além de acompanhar a concretização das promessas de campanha."
+            ]
+        },
+        {
+            "nome": "Lucas Hoogerbrugge",
+            "cargo": "Representante do Movimento Todos pela Educação",
+            "opinioes": [
+                "Defende que melhorar as escolas e os indicadores de aprendizagem, inserindo o jovem em um ambiente de oportunidades, melhora a qualidade da democracia.",
+                "Afirmou: 'A juventude, conseguindo aprender e se desenvolver de forma integral, consegue participar da democracia e isso a coloca mais próxima de tomar as rédeas do seu futuro, e das decisões que vão realmente colocá-la no lugar de protagonismo que merece'."
+            ]
+        },
+        {
+            "nome": "Lídice da Mata",
+            "cargo": "Deputada (PSB-BA) e relatora da CPI Mista das Fake News",
+            "opinioes": [
+                "Destaca a necessidade de democratizar o acesso à 'informação real' devido à forte presença dos jovens nas redes sociais.",
+                "Afirmou: 'Uma boa formação da juventude no debate e nos valores democráticos fará com que nós possamos preparar a sociedade para o enfrentamento das fake news, para o enfrentamento da desinformação'."
+            ]
+        },
+        {
+            "nome": "Carlos Eduardo Sobral",
+            "cargo": "Delegado da Polícia Federal no Ceará",
+            "opinioes": [
+                "Alerta que é permitido discordar, mas não disseminar ódio a quem pensa diferente, visando evitar a violência que prejudica o debate democrático e a participação das pessoas.",
+                "Observou: 'Nós estamos tratando da violência que visa espantar o bom debate democrático, a violência que tende a impedir a fala, impedir a manifestação, impedir a participação das pessoas'."
+            ]
+        },
+        {
+            "nome": "Thais Bernardes",
+            "cargo": "Diretora de Relações Institucionais da União Nacional dos Estudantes (UNE)",
+            "opinioes": [
+                "Comemora a adesão dos jovens ao processo eleitoral e destaca a importância das eleições gerais para o futuro da educação.",
+                "Relatou: 'Só uma manhã de mobilização em uma escola do Entorno do Distrito Federal resultou em 300 novos títulos de eleitor'."
+            ]
+        }
+    ]
+}

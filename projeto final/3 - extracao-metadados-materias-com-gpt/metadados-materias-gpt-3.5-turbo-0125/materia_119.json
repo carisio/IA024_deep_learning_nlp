@@ -1,0 +1,40 @@
+{
+    "assunto": "Inclusão de questões de gênero na formação de peritos criminais",
+    "envolvidos": [
+        {
+            "nome": "Beatriz Figueiredo",
+            "cargo": "Diretora da Divisão de Perícias Externas do Instituto de Criminalística do Distrito Federal",
+            "opinioes": [
+                "Defende a inclusão do recorte de gênero nas políticas de segurança pública e na formação dos peritos.",
+                "Defende que os peritos estejam familiarizados com o tipo penal, violência de gênero, machismo estrutural e misoginia.",
+                "Disse: 'É imprescindível que os peritos estejam familiarizados com o tipo penal. Eles precisam saber o que é violência de gênero, o que é machismo estrutural, o que é misoginia [aversão a mulheres]'"
+            ]
+        },
+        {
+            "nome": "Aline Yamamoto",
+            "cargo": "Diretora de Proteção e Direitos do Ministério das Mulheres",
+            "opinioes": [
+                "Ressalta que o feminicídio representa a “ponta do iceberg” em uma cadeia de violência a que as mulheres estão submetidas.",
+                "Aponta que a maioria dos feminicídios é cometida por parceiros ou ex-parceiros."
+            ]
+        },
+        {
+            "nome": "Raoni Parreira Maciel",
+            "cargo": "Promotor do Ministério Público do Distrito Federal e Territórios (MPDFT)",
+            "opinioes": [
+                "Destaca que 75% dos feminicídios registrados em Brasília ocorreram dentro de casa.",
+                "Informa que das 87 denúncias recebidas no DF desde 2018, 67 já foram julgadas, com uma taxa de condenação de 92,5%.",
+                "Menciona que o protocolo da Polícia Civil no DF foi fundamental para a alta taxa de solução de crimes de feminicídio."
+            ]
+        },
+        {
+            "nome": "Viviane Bonato",
+            "cargo": "Delegada da Polícia Civil do DF",
+            "opinioes": [
+                "Explica que a investigação do feminicídio é diferente da elucidação de outros homicídios.",
+                "Destaca a importância da residência da vítima na elucidação do caso de feminicídio.",
+                "Disse: 'No feminicídio, a residência da vítima tem muita importância na elucidação do caso. Na casa dela, a gente encontra marcas da violência, que seriam vestígios de briga, fotos rasgadas, roupa queimada'"
+            ]
+        }
+    ]
+}

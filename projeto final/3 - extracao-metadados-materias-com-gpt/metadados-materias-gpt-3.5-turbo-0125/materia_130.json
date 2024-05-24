@@ -1,0 +1,52 @@
+{
+    "assunto": "Medidas para estimular o setor audiovisual brasileiro",
+    "envolvidos": [
+        {
+            "nome": "Representantes do setor audiovisual brasileiro",
+            "cargo": "produtores, exibidores, distribuidores e cineastas",
+            "opinioes": [
+                "Sugerem a aprovação definitiva dos projetos de lei da cota para filmes brasileiros nas salas de cinema e da cota para produções nacionais na TV paga, além do PL que trata dos direitos autorais em ambientes digitais",
+                "Pedem a regulamentação do vídeo sob demanda (VoD) e a inclusão de representantes do segmento de produção no comitê gestor do Fundo Setorial do Audiovisual (FSA)"
+            ]
+        },
+        {
+            "nome": "Deputada Jandira Feghali",
+            "cargo": "PCdoB-RJ",
+            "opinioes": [
+                "Afirma que o Parlamento precisa ouvir para poder tomar as medidas mais acertadas, seja do ponto de vista da infraestrutura, do fomento, das novas tecnologias",
+                "Diz: 'Esse Parlamento precisa ouvir para poder tomar as medidas mais acertadas, seja do ponto de vista da infraestrutura, do fomento, das novas tecnologias'"
+            ]
+        },
+        {
+            "nome": "Deputada Lídice da Mata",
+            "cargo": "PSB-BA",
+            "opinioes": [
+                "Aponta que o setor não é unanimidade na Câmara",
+                "Avalia: 'Tem certos segmentos que só são convencidos de algumas ideias se elas têm uma abordagem vinculada à economia pragmaticamente, aí então eles passam a compreender melhor'"
+            ]
+        },
+        {
+            "nome": "Simone Oliveira",
+            "cargo": "executiva da Globo Filmes",
+            "opinioes": [
+                "Cita o caso das últimas produções da empresa que não deram o retorno esperado por falta de tempo de maturação nas salas de exibição",
+                "Diz: 'São filmes focados em um resultado comercial grande e que não tiveram o resultado merecido'"
+            ]
+        },
+        {
+            "nome": "Felipe Lopes",
+            "cargo": "diretor da distribuidora independente Vitrine Filmes",
+            "opinioes": [
+                "Afirma que o filme 'Nosso sonho' perdeu 70% das sessões de cinema na segunda semana"
+            ]
+        },
+        {
+            "nome": "Márcio Tavares",
+            "cargo": "secretário-executivo do Ministério da Cultura",
+            "opinioes": [
+                "Afirma que o governo trabalha para resolver gargalos do setor, citando projetos em andamento",
+                "Comemora a manutenção dos recursos da Condecine, tributo que financia o cinema e o audiovisual brasileiro"
+            ]
+        }
+    ]
+}

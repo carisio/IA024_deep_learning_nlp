@@ -1,0 +1,43 @@
+{
+    "assunto": "Divergências sobre redução da vida útil de celulares e obsolescência programada",
+    "envolvidos": [
+        {
+            "nome": "Igor Rodrigues Britto",
+            "cargo": "diretor de relações institucionais do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "opinioes": [
+                "Defende que a obsolescência programada é um elemento complexo de um problema maior, que é a falta de durabilidade dos bens de consumo no Brasil",
+                "Defende que os fabricantes mantenham peças de reposição para produtos não mais vendidos, incluindo os softwares"
+            ]
+        },
+        {
+            "nome": "Humberto Barbato",
+            "cargo": "presidente-executivo da Associação Brasileira da Indústria Elétrica e Eletrônica (Abinee)",
+            "opinioes": [
+                "Nega a existência da obsolescência programada",
+                "Afirma que a média de uso curto dos telefones celulares se deve ao desejo do consumidor de acompanhar as novidades e que não há obsolescência programada"
+            ]
+        },
+        {
+            "nome": "Marcelo de Souza do Nascimento",
+            "cargo": "diretor-geral do Procon-DF",
+            "opinioes": [
+                "Lembra que o Judiciário tem entendido que, após o fim do prazo de garantia contratual legal, não cessa a responsabilidade civil do fornecedor para conserto ou troca daquele produto quando é identificado que o produto teve a vida útil abreviada de forma proposital"
+            ]
+        },
+        {
+            "nome": "Davison Gonzaga da Silva",
+            "cargo": "gerente de Certificação e Numeração da Agência Nacional de Telecomunicações (Anatel)",
+            "opinioes": [
+                "Destaca que a Anatel trabalha na certificação de celulares, baterias e carregadores de acordo com as normas internacionais e busca colocar no mercado equipamentos com novas tecnologias e parâmetros técnicos mínimos de qualidade"
+            ]
+        },
+        {
+            "nome": "Márcio Marinho",
+            "cargo": "deputado (Republicanos-BA)",
+            "opinioes": [
+                "Critica a estratégia das empresas de implantar a tecnologia de forma que o consumidor tenha sempre que adquirir um novo modelo devido à obsolescência programada",
+                "Deve se reunir com entidades de defesa do consumidor para a elaboração de um projeto de lei que combata a obsolescência programada"
+            ]
+        }
+    ]
+}

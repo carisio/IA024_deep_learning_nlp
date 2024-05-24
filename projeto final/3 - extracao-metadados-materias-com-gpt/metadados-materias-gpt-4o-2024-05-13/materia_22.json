@@ -1,0 +1,51 @@
+{
+  "assunto": "Necessidade de mais regulamentação do e-commerce, especialmente para importações",
+  "envolvidos": [
+    {
+      "nome": "Jorge Gonçalves",
+      "cargo": "Presidente do Instituto para o Desenvolvimento do Varejo",
+      "opinioes": [
+        "Houve um aumento de mais de 100% no número de pacotes de encomendas de pequeno valor recebidos do exterior pelos Correios entre 2018 e 2022.",
+        "Menos de 10% desses volumes foram fiscalizados.",
+        "Pediu apoio dos parlamentares para a instrução normativa da Receita Federal que altera os procedimentos de controle aduaneiro aplicáveis às remessas internacionais.",
+        "\"Eu pediria que a Câmara dos Deputados apoiasse duas medidas que estão para entrar em vigor: a IN 2124 que, a partir de 1 de julho, vai regular a questão dos Correios; e o plano de conformidade feito com a participação das plataformas. Não temos porque postergar mais. Quem está sofrendo e deixando de arrecadar é o País.\""
+      ]
+    },
+    {
+      "nome": "Guilherme Santos",
+      "cargo": "Representante da Associação Brasileira de Comércio Eletrônico",
+      "opinioes": [
+        "A questão fiscal é um grande desafio para o comércio digital.",
+        "Não entende como problema a isenção de impostos para compras de até 50 dólares que existe no Brasil.",
+        "O problema é o mau uso da ferramenta de forma intencional e a impossibilidade de controle, que não deve ser feito penalizando o consumidor."
+      ]
+    },
+    {
+      "nome": "Zé Neto",
+      "cargo": "Deputado (PT-BA)",
+      "opinioes": [
+        "O setor precisa de um marco regulatório o mais rapidamente possível, capaz de garantir uma competição adequada, e proteger o setor produtivo brasileiro.",
+        "A expectativa é que o segmento cresça 24% neste ano."
+      ]
+    },
+    {
+      "nome": "Adriana Azevedo",
+      "cargo": "Representante do Ministério do Desenvolvimento, Indústria e Comércio",
+      "opinioes": [
+        "A pasta lançou um painel de dados que traz informações sobre produtos comercializados pela internet em todo o território nacional.",
+        "A ideia é tentar, dentro do chamado Observatório do Comércio Eletrônico, consolidar ações voltada para o e-commerce nacional.",
+        "\"Gostaria de reforçar o nosso compromisso, como MDIC, com o comércio leal de modo que os benefícios do e-commerce possam ser aproveitados por todos de forma bem adequada.\"",
+        "O comércio eletrônico veio para ficar.",
+        "\"Ele traz diversas vantagens e o momento é de adequar, de arrumar aquilo que estiver, eventualmente, fora do lugar.\""
+      ]
+    },
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Deputado (PSB-PE)",
+      "opinioes": [
+        "O Poder Legislativo não pode mais ignorar a necessidade de uma regulamentação eficaz para o setor.",
+        "\"Esse debate está aberto, é um primeiro encontro que nós fazemos e, com certeza, não vai ser o último para a construção de uma legislação que torne esse ambiente favorável para o desenvolvimento de negócios.\""
+      ]
+    }
+  ]
+}

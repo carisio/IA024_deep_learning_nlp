@@ -1,0 +1,29 @@
+{
+    "assunto": "Acordo para duplicação da BR-116 na Bahia",
+    "envolvidos": [
+        {
+            "nome": "José Bartolomeu",
+            "cargo": "presidente da ViaBahia",
+            "opinioes": [
+                "Defende os planos da concessionária para a duplicação da rodovia BR-116 na Bahia",
+                "Afirmou: 'Temos de garantir a todos que esse acordo é confiável, não podemos voltar atrás'"
+            ]
+        },
+        {
+            "nome": "Jorge Solla",
+            "cargo": "deputado (PT-BA)",
+            "opinioes": [
+                "Comentou que o impasse na duplicação da BR-116 aconteceu porque o Estado não cumpriu suas responsabilidades na fiscalização da concessão e nas cobranças ao concessionário",
+                "Espera que o TCU reconheça a necessidade de uma resposta rápida",
+                "Anunciou novas reuniões para acompanhamento do caso"
+            ]
+        },
+        {
+            "nome": "Anderson Bellas",
+            "cargo": "coordenador-geral da Secretaria Nacional de Transporte Rodoviário do Ministério dos Transportes",
+            "opinioes": [
+                "Alertou que serão mantidos os estudos sobre uma eventual nova concessão da BR-116"
+            ]
+        }
+    ]
+}

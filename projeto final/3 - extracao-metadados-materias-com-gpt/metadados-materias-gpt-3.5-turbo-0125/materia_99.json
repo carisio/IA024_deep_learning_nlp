@@ -1,0 +1,56 @@
+{
+    "assunto": "Impacto da guerra na Faixa de Gaza",
+    "envolvidos": [
+        {
+            "nome": "Ualid Rabah",
+            "cargo": "Presidente da Federação Palestina no Brasil",
+            "opinioes": [
+                "Defende que crianças e mulheres são as maiores vítimas da guerra na Faixa de Gaza",
+                "Defende que o assassinato de mulheres e crianças faz parte de um projeto de eliminação do povo palestino",
+                "Disse: 'É o maior programa de genocídio da história humana conhecido, que visa à desaparição de toda uma sociedade, que visa uma solução final, que visa um holocausto, talvez, jamais pensado na história humana.'"
+            ]
+        },
+        {
+            "nome": "Ibrahim Mohamed Khalil Alzeben",
+            "cargo": "Embaixador da Palestina no Brasil",
+            "opinioes": [
+                "Defende que a guerra de Israel não é contra o grupo Hamas, mas contra a existência da Palestina",
+                "Disse: 'A guerra de extermínio é contra a ideia de resistência, a ideia de resistir ao colonialismo, se não fosse a Fatah, Hamas, Frente Popular ou a OLP, teriam lutado contra as pedras e as oliveiras palestinas, que são também símbolo da nossa terra.'"
+            ]
+        },
+        {
+            "nome": "Vinicius Limongi",
+            "cargo": "Chefe do Programa Mundial de Alimentos da ONU",
+            "opinioes": [
+                "Explicou que mulheres e crianças são as maiores vítimas da fome na região da Faixa de Gaza",
+                "Alertou sobre a situação de catástrofe alimentar em Gaza",
+                "Disse: 'O caso de Gaza é único, porque nunca houve um nível tão alto, em nenhum lugar.'"
+            ]
+        },
+        {
+            "nome": "Padre João",
+            "cargo": "Deputado (PT-MG)",
+            "opinioes": [
+                "Condenou a morte, principalmente de mulheres e crianças, e a fome na região da Faixa de Gaza",
+                "Disse: 'É inconcebível não se indignar diante deste genocídio, o número de crianças que já foram assassinadas, mulheres assassinadas, destruição de áreas públicas, como hospitais.'"
+            ]
+        },
+        {
+            "nome": "Carlos Antunes Santos",
+            "cargo": "Representante do Ministério das Relações Exteriores",
+            "opinioes": [
+                "Defende que o Brasil apoia o reconhecimento do Estado Palestino como forma de garantir a paz e a segurança na região do conflito",
+                "Disse: 'Essa sempre foi a posição brasileira, desde a criação do Estado de Israel, em 1948.'"
+            ]
+        },
+        {
+            "nome": "Abilio Brunini",
+            "cargo": "Deputado (PL-MT)",
+            "opinioes": [
+                "Protestou por não ter podido participar do debate e afirmou que fará novo requerimento para realização de audiência pública",
+                "Disse: 'Eu não celebro a morte de inocentes. São reféns de um governo terrorista que é o Hamas. Mas Palestina também precisa pregar a paz com os territórios vizinhos.'",
+                "Falou sobre a dor do povo de Israel e dos reféns mantidos pelo Hamas"
+            ]
+        }
+    ]
+}

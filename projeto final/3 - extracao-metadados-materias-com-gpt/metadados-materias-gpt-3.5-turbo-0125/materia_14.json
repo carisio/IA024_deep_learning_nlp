@@ -1,0 +1,85 @@
+{
+    "assunto": "Reparações do crime socioambiental da Braskem em Maceió",
+    "envolvidos": [
+        {
+            "nome": "Diego Alves",
+            "cargo": "defensor público da União",
+            "opinioes": [
+                "Defende que o colapso parcial da mina ocorreu com menor impacto devido a ações preventivas, como acordos para desocupação de imóveis e indenizações",
+                "Disse: 'Caso esse acordo não tivesse sido formulado lá atrás, nós teríamos uma situação de desastre muito mais grave hoje'"
+            ]
+        },
+        {
+            "nome": "Cássio Araújo",
+            "cargo": "coordenador do Movimento Unificado das Vítimas da Braskem (MUVB)",
+            "opinioes": [
+                "Critica o privilégio que a empresa tem na tomada de decisões",
+                "Disse: 'Há ausência de participação das vítimas nas várias decisões que se tem tomado em nome delas'"
+            ]
+        },
+        {
+            "nome": "Associação dos Empreendedores e Vítimas da Mineração em Maceió",
+            "cargo": "não especificado",
+            "opinioes": [
+                "Reclamou da falta de ação do Ministério Público para punir os responsáveis",
+                "Apresentou notícia-crime acusando a Braskem por crime ambiental e fraude em licenciamento ambiental, entre outros"
+            ]
+        },
+        {
+            "nome": "Alexandre Sampaio",
+            "cargo": "presidente da Associação dos Empreendedores e Vítimas da Mineração em Maceió",
+            "opinioes": [
+                "Fez tentativas de punição judicial contra os responsáveis da Braskem",
+                "Disse: 'Com o colapso da Mina 18, pedimos de novo ao Ministério Público Federal e comunicamos à Terceira Vara da Justiça Federal que havia um crime ambiental em andamento'"
+            ]
+        },
+        {
+            "nome": "Roberta Bomfim",
+            "cargo": "procuradora-chefe do Ministério Público Federal em Alagoas",
+            "opinioes": [
+                "Descartou uso comercial da região interditada pela Braskem",
+                "Disse: 'Essa área não tem condição de exploração. Ela é um passivo da Braskem para ser administrado'"
+            ]
+        },
+        {
+            "nome": "Dilson Ferreira",
+            "cargo": "professor da Universidade Federal de Alagoas (UFAL)",
+            "opinioes": [
+                "Cobrou a ampliação da área isolada, incluindo os Flexais",
+                "Disse: 'Em caso de algum sismo lá nas minas, pode sim impactar os Flexais e fazer a encosta deslizar sobre a população'"
+            ]
+        },
+        {
+            "nome": "Ricardo Oliveira",
+            "cargo": "coordenador de gerenciamento costeiro do instituto ambiental do estado",
+            "opinioes": [
+                "Eximiu o órgão de responsabilidade no crime da Braskem",
+                "Disse: 'Nós só fomos notificados dos fenômenos a partir de 2018/19. Antes, nenhuma denúncia, nenhuma constatação de alteração havia'"
+            ]
+        },
+        {
+            "nome": "Ivan Valente",
+            "cargo": "deputado (Psol-SP)",
+            "opinioes": [
+                "Critica a atuação dos órgãos públicos e defende a criação de CPI na Câmara para investigar o caso",
+                "Disse: 'Eu considerei absolutamente frouxa a posição da Defensoria Pública da União e do Ministério Público Federal'"
+            ]
+        },
+        {
+            "nome": "Professora Luciene Cavalcante",
+            "cargo": "deputada (Psol-SP)",
+            "opinioes": [
+                "Cobrou providências em reparação, fiscalização e responsabilização",
+                "Listou as cobranças de providência que encaminhou a várias autoridades federais e estaduais"
+            ]
+        },
+        {
+            "nome": "Duda Salabert",
+            "cargo": "deputada (PDT-MG)",
+            "opinioes": [
+                "Lamentou a falta de prisões pelos crimes socioambientais de Mariana, Brumadinho e Maceió",
+                "Disse: 'Revelam o modo criminoso e irresponsável das mineradoras'"
+            ]
+        }
+    ]
+}

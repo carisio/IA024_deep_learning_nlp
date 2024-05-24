@@ -1,0 +1,58 @@
+{
+    "assunto": "Suspensão de passagens aéreas da 123milhas",
+    "envolvidos": [
+        {
+            "nome": "Ramiro Madureira",
+            "cargo": "Sócio da 123milhas",
+            "opinioes": [
+                "A empresa teve que suspender a emissão de passagens aéreas da linha promocional devido aos preços das passagens não se comportarem conforme o previsto",
+                "O produto dependia de um fluxo de novas compras no site, que foi menor do que o esperado",
+                "Confia na continuidade da empresa, que está em recuperação judicial",
+                "É preciso que a 123milhas continue funcionando para ressarcir os consumidores",
+                "Os preços promocionais eram 'exceções' e a janela para emissão de passagens mais baratas ocorria entre 30 e 45 dias antes da viagem"
+            ]
+        },
+        {
+            "nome": "Aureo Ribeiro",
+            "cargo": "Deputado (Solidariedade-RJ) e presidente da CPI das Pirâmides Financeiras",
+            "opinioes": [
+                "Questionou por que clientes que venderam milhas para a empresa através da Hotmilhas não receberam pela transação"
+            ]
+        },
+        {
+            "nome": "Tânia Madureira",
+            "cargo": "Dona da Hotmilhas",
+            "opinioes": [
+                "A empresa tem um estoque de cerca de 500 milhões de milhas não utilizadas de 15 mil pessoas e pretende negociar a devolução durante a recuperação judicial"
+            ]
+        },
+        {
+            "nome": "Ricardo Silva",
+            "cargo": "Deputado (PSD-SP) e relator da CPI das Pirâmides Financeiras",
+            "opinioes": [
+                "Mostrou várias promoções da 123milhas e questionou se os sócios da empresa teriam lucrado com isso"
+            ]
+        },
+        {
+            "nome": "Caio Vianna",
+            "cargo": "Deputado (PSD-RJ)",
+            "opinioes": [
+                "Questionou a afirmação de que a linha promocional era apenas 15% do negócio da empresa"
+            ]
+        },
+        {
+            "nome": "Alfredo Gaspar",
+            "cargo": "Deputado (União-AL)",
+            "opinioes": [
+                "Afirmou que o modelo de negócios da empresa é irregular e que teria sido uma grande pirâmide financeira"
+            ]
+        },
+        {
+            "nome": "Max Oliveira",
+            "cargo": "Fundador da Maxmilhas",
+            "opinioes": [
+                "Esclareceu que vendeu a empresa para a Novum e que a Maxmilhas opera de forma independente"
+            ]
+        }
+    ]
+}

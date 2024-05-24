@@ -1,0 +1,29 @@
+{
+    "assunto": "Impacto do uso da inteligência artificial no processo eleitoral",
+    "envolvidos": [
+        {
+            "nome": "Emerson Saraiva",
+            "cargo": "Representante da Associação dos Profissionais do Marketing Político",
+            "opinioes": [
+                "Alerta sobre os perigos da capacidade de entendimento e manipulação dos sentimentos dos eleitores pela inteligência artificial",
+                "Afirmou: 'Nas próximas eleições, dependendo da tecnologia utilizada, das ferramentas, das forças que forem empreendidas, será possível em muitos casos entender, saber qual é o resultado da eleição bem antes da eleição, baseado nas ferramentas que a inteligência artificial oferece hoje'"
+            ]
+        },
+        {
+            "nome": "Fernando Bueno",
+            "cargo": "Membro da Comissão de Direito Eleitoral da OAB do Paraná",
+            "opinioes": [
+                "Critica a punição tardia, após o prejuízo eleitoral já ter sido causado",
+                "Afirmou: 'A corte eleitoral, gostemos ou não, vai ter uma postura extremamente rígida sobre quem utilizar qualquer ferramenta de IA. Mas transparece que a cassação será após a eleição. Se pessoa já tomou posse do mandato, já causou o dano, talvez irreparável, a quem foi a vítima da ferramenta e à própria coletividade'"
+            ]
+        },
+        {
+            "nome": "Prof. Paulo Fernando",
+            "cargo": "Deputado (Republicanos-DF)",
+            "opinioes": [
+                "Considera insuficiente a pena de multa estipulada em projeto de lei que tramita na Câmara",
+                "Avaliou: 'Muitas vezes, dentro desse ringue que é a disputa eleitoral, às vezes é melhor você ter uma atividade de inteligência e contrainteligência e é melhor pagar a multa, porque o resultado às vezes é compensatório'"
+            ]
+        }
+    ]
+}

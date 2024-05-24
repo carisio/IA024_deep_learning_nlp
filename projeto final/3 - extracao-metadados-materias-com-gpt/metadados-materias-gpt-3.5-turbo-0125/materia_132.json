@@ -1,0 +1,60 @@
+{
+    "assunto": "Plano para garantir rádios comunitárias em todos os municípios do País",
+    "envolvidos": [
+        {
+            "nome": "Daniela Schettino",
+            "cargo": "Diretora do Departamento de Radiodifusão Pública, Comunitária e Estatal do Ministério das Comunicações",
+            "opinioes": [
+                "Defende a divulgação do Plano Nacional de Outorga (PNO) com a meta de reduzir o número de cidades sem rádios comunitárias no Brasil",
+                "Deseja que haja pelo menos uma rádio comunitária em cada município do País"
+            ]
+        },
+        {
+            "nome": "Renato Aguiar",
+            "cargo": "Gerente de outorga da Agência Nacional de Telecomunicações",
+            "opinioes": [
+                "Reconhece o 'papel social' das rádios comunitárias",
+                "Aponta a distribuição desigual das rádios comunitárias e FM nos municípios"
+            ]
+        },
+        {
+            "nome": "Luiza Erundina",
+            "cargo": "Deputada (Psol-SP)",
+            "opinioes": [
+                "Defende a atualização da Lei do Serviço de Radiodifusão Comunitária, em vigor desde 1998"
+            ]
+        },
+        {
+            "nome": "Geremias dos Santos",
+            "cargo": "Presidente da Associação Brasileira de Rádios Comunitárias (Abraço)",
+            "opinioes": [
+                "Critica a proibição de as comunitárias usarem a sigla FM",
+                "Critica restrições de propaganda impostas às rádios comunitárias"
+            ],
+            "citacao": "Como proibir a rádio comunitária de utilizar a sigla FM? Ora, nós não somos rádio AM. Se esse projeto for aprovado nessa Casa, vai ter problema lá fora, inclusive na Justiça"
+        },
+        {
+            "nome": "Taís Ladeira",
+            "cargo": "Representante da Associação Mundial de Rádios Comunitárias (Amarc)",
+            "opinioes": [
+                "Denuncia estratégias para manter as rádios comunitárias 'pequenas, pobres e sufocadas economicamente'"
+            ]
+        },
+        {
+            "nome": "Higino Germani",
+            "cargo": "Presidente da Associação Técnica da Radiodifusão Brasileira (ATRB)",
+            "opinioes": [
+                "Mostra que 10 dos 42 projetos de lei analisados na Câmara tratam de aumento de potência das rádios comunitárias, o que considera prejudicial"
+            ],
+            "citacao": "Aumentar a potência das rádios comunitárias não vai resolver os problemas, mas agravá-los, resultando em interferências generalizadas, com frustração para o público e para os empresários de radiodifusão"
+        },
+        {
+            "nome": "Jadyel Alencar",
+            "cargo": "Deputado (PV-PI) e coordenador da Frente Parlamentar Mista em Apoio às Rádios Comunitárias",
+            "opinioes": [
+                "Avalia que muitos projetos tratam de temas alheios ao assunto principal",
+                "Cobra plenas condições de operação e de sobrevivência para as rádios comunitárias"
+            ]
+        }
+    ]
+}

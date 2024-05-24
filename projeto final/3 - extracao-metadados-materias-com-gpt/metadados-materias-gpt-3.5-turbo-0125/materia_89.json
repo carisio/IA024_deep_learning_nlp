@@ -1,0 +1,52 @@
+{
+    "assunto": "Políticas públicas de proteção às mulheres e crianças indígenas",
+    "envolvidos": [
+        {
+            "nome": "Alisson Marugal",
+            "cargo": "procurador da República atuante em Roraima",
+            "opinioes": [
+                "Defende o fortalecimento das estruturas de fiscalização",
+                "Defende a criação de políticas sociais voltadas à geração de renda"
+            ]
+        },
+        {
+            "nome": "Maria Aureni Gonzaga",
+            "cargo": "coordenadora de Gênero, Assuntos Geracionais e Participação Social da Funai",
+            "opinioes": [
+                "Defende o empoderamento das mulheres indígenas nas suas comunidades",
+                "Defende fornecer instrumentos de proteção e defesa para que as mulheres possam se defender"
+            ]
+        },
+        {
+            "nome": "Julissa Mantilla Falcón",
+            "cargo": "presidente da Comissão Interamericana dos Direitos Humanos",
+            "opinioes": [
+                "Cobra maior presença do estado brasileiro para investigar e prevenir crimes de violência sexual"
+            ]
+        },
+        {
+            "nome": "Sônia Guajajara",
+            "cargo": "coordenadora executiva da Articulação dos Povos Indígenas",
+            "opinioes": [
+                "Defende que as mulheres indígenas estão submetidas a um duplo grau de discriminação: de gênero e de raça",
+                "Critica a falta de ações de impacto do governo federal voltadas para a proteção das mulheres indígenas"
+            ]
+        },
+        {
+            "nome": "Rejane Dias",
+            "cargo": "deputada (PT-PI)",
+            "opinioes": [
+                "Defende que as mulheres indígenas enfrentam formas diversas e sucessivas de discriminação histórica",
+                "Relata o estupro da menina indígena de 12 anos e destaca a vulnerabilidade das mulheres indígenas"
+            ]
+        },
+        {
+            "nome": "Érika Kokay",
+            "cargo": "deputada (PT-DF)",
+            "opinioes": [
+                "Defende a proteção aos territórios indígenas",
+                "Defende o avanço nas políticas de demarcação dos territórios"
+            ]
+        }
+    ]
+}

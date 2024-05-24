@@ -1,0 +1,61 @@
+{
+    "assunto": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+    "envolvidos": [
+        {
+            "nome": "Sara Casagrande",
+            "cargo": "neurologista",
+            "opinioes": [
+                "Explicou que a distonia provoca espasmos musculares, a maioria das vezes contínuos, que geram posturas anormais e torções corporais."
+            ]
+        },
+        {
+            "nome": "Patrícia Moller",
+            "cargo": "neurologista pediátrica",
+            "opinioes": [
+                "A distonia pode causar dor, deformidade nos ossos, internações frequentes e perda permanente de movimento, além de impactos sociais e econômicos, como abandono de estudos e dificuldade no mercado de trabalho.",
+                "É possível sim controlar sintomas, reduzir complicações e melhorar a qualidade de vida das pessoas com distonia."
+            ]
+        },
+        {
+            "nome": "Heitor Felipe Lima",
+            "cargo": "neurologista",
+            "opinioes": [
+                "É preciso capacitar os profissionais de saúde para reconhecer a distonia, para facilitar o diagnóstico e o tratamento adequado, além de garantir o acesso do paciente a uma rede de reabilitação multiprofissional, com fonoaudiólogos e fisioterapeutas, por exemplo.",
+                "Um dos tratamentos para a distonia é a aplicação regular da toxina botulínica, o botox, que diminui a quantidade de contrações involuntárias sem atrapalhar a função do músculo."
+            ]
+        },
+        {
+            "nome": "Rosângela Moro",
+            "cargo": "deputada",
+            "opinioes": [
+                "É essencial a ampliação da informação sobre a distonia.",
+                "Sugeriu a criação de uma cadeira obrigatória sobre doenças de origem genética nos cursos superiores de medicina e a capacitação de profissionais da porta de entrada do SUS.",
+                "Saúde não é só cura, saúde é qualidade de vida e, se nós temos tratamentos disponíveis para melhorar a qualidade de vida, precisamos sim fornecê-los."
+            ]
+        },
+        {
+            "nome": "Amira Awada",
+            "cargo": "presidente do Instituto Vidas Raras",
+            "opinioes": [
+                "As pessoas com doenças e condições crônicas, como é a distonia, precisam ser incluídas na sociedade.",
+                "Além de um tratamento integral, é necessário o direito à educação e ao trabalho."
+            ]
+        },
+        {
+            "nome": "Kedna de Souza Pereira",
+            "cargo": "representante do Instituto Distonia Saúde",
+            "opinioes": [
+                "Teve de abandonar a profissão de cabeleireira por causa da distonia, que demorou muito para ser diagnosticada."
+            ]
+        },
+        {
+            "nome": "Maria Nilde Soares",
+            "cargo": "presidente do Instituto Distonia Saúde",
+            "opinioes": [
+                "Foram sete neurologistas em quatro anos e meio até que ela fosse diagnosticada.",
+                "A ativista defende o acesso à informação.",
+                "Nós não somos um fardo, somos vítimas de um diagnóstico errado, tardio."
+            ]
+        }
+    ]
+}

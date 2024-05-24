@@ -1,0 +1,31 @@
+{
+    "assunto": "Prazo para envio de propostas para o novo PAC",
+    "envolvidos": [
+        {
+            "nome": "Jader Barbalho Filho",
+            "cargo": "Ministro das Cidades",
+            "opinioes": [
+                "Alertou sobre o fim do prazo para que prefeituras enviem propostas para o novo PAC",
+                "Informou que o número de propostas recebidas está muito abaixo do esperado",
+                "Destacou que até 2026 estão previstos R$ 609,7 bilhões em investimentos para o eixo Cidades Sustentáveis e Resilientes",
+                "Falou sobre o programa Minha Casa, Minha Vida, mencionando que a meta para os quatro anos do governo do presidente Lula é de 2 milhões de unidades habitacionais, representando R$ 345 bilhões de novos investimentos"
+            ]
+        },
+        {
+            "nome": "Joseildo Ramos",
+            "cargo": "Deputado (PT-BA)",
+            "opinioes": [
+                "Destacou a necessidade de universalização dos serviços públicos de saneamento",
+                "Ressaltou que apenas com a iniciativa privada não será possível alcançar bons resultados"
+            ]
+        },
+        {
+            "nome": "Bebeto",
+            "cargo": "Deputado (PP-RJ)",
+            "opinioes": [
+                "Lembrou tragédias provocadas pelas chuvas no estado do Rio de Janeiro",
+                "Mencionou a prevenção de calamidades públicas, com previsão orçamentária de R$ 1,36 bilhão e R$ 200 milhões em financiamento para os próximos dois anos"
+            ]
+        }
+    ]
+}

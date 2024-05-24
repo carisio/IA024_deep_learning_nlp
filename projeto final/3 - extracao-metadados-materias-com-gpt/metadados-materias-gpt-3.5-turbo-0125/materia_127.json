@@ -1,0 +1,38 @@
+{
+    "assunto": "Necessidade de uma política nacional de cuidados para idosos",
+    "envolvidos": [
+        {
+            "nome": "Maria Carolina Pereira Alves",
+            "cargo": "representante da Secretaria Nacional da Política de Cuidados e Família do MDS",
+            "opinioes": [
+                "Defende a análise das políticas existentes e a cobertura das lacunas por meio de ação conjunta entre Estado, famílias e iniciativa privada",
+                "Propõe identificar as ofertas já existentes, as demandas de cuidado da população, as lacunas a serem preenchidas e as políticas a serem regulamentadas e financiadas"
+            ]
+        },
+        {
+            "nome": "Symone Bonfim",
+            "cargo": "secretária substituta da Secretaria Nacional em Defesa da Pessoa Idosa",
+            "opinioes": [
+                "Defende que a política de cuidados para idosos deve envolver outros setores da sociedade, extrapolando o âmbito familiar",
+                "Destaca a importância de avaliar os níveis de desigualdade entre a população idosa para direcionar melhor as políticas de cuidado e de transferência de renda",
+                "Observa que as trajetórias de vida do idoso podem influenciar seu direito a envelhecer com dignidade"
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "deputada (PT-DF)",
+            "opinioes": [
+                "Defende que o cuidado deve ter centralidade nas pessoas e não ser apropriado pelo mercado",
+                "Critica a mercantilização das pessoas em detrimento do cuidado adequado"
+            ]
+        },
+        {
+            "nome": "Vicente Faleiros",
+            "cargo": "representante do Fórum Distrital da Sociedade Civil em Defesa dos Direitos da Pessoa Idosa",
+            "opinioes": [
+                "Destaca a importância de considerar os idosos como detentores de direitos e não como pessoas fragilizadas",
+                "Defende a diversidade e heterogeneidade do envelhecimento, citando o Estatuto que defende a dignidade sem distinção"
+            ]
+        }
+    ]
+}

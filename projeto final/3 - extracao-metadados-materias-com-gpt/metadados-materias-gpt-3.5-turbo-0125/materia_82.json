@@ -1,0 +1,50 @@
+{
+    "assunto": "Aprovação de projeto que valoriza cultura popular",
+    "envolvidos": [
+        {
+            "nome": "Mestre Paizinho",
+            "cargo": "presidente da Companhia de Moçambique de São Benedito",
+            "opinioes": [
+                "Defende a aprovação urgente de projetos de lei que valorizam os mestres dos saberes e fazeres populares",
+                "Cantou: 'Nós somos a cultura / cultura popular / e a lei dos mestres / com certeza vencerá'"
+            ]
+        },
+        {
+            "nome": "Mestre Alcides",
+            "cargo": "presidente do Fórum para as Culturas Populares Tradicionais",
+            "opinioes": [
+                "Reclama que os textos estão em análise há 11 anos no Parlamento",
+                "Deu o recado ao som de berimbau: 'Quando eu morrer, ah, quando eu morrer / para eu não penar / para eu não sofrer / pega meu axé / e planta no kizumbe // É muito importante trabalharmos nesse PL. São 11 anos e os mestres não esperam. Política pública e reconhecimento econômico para os mestres. Não dá mais para esperar'"
+            ]
+        },
+        {
+            "nome": "Mãe Beth de Oxum",
+            "cargo": "responsável pelo Centro Cultural Coco de Umbigada de Olinda",
+            "opinioes": [
+                "Cantou: 'Cadê a rádio do povo preto? / Cadê a rádio do povo indígena? / Cadê a rádio da cultura? / Cadê a rádio das mulheres? / Cadê a rádio dos terreiros? / É cabeça de rádio, cabeça de rádio. // ‘Cabeça de rádio’ é uma provocação e reflexão sobre a mídia que invisibiliza a nossa música'"
+            ]
+        },
+        {
+            "nome": "Mestre Chico",
+            "cargo": "diretor do Centro Cultural Tambores de Angola e do Comitê dos Povos e Comunidades Tradicionais dos Pampas",
+            "opinioes": [
+                "Lembrou que muitos ritmos têm sido oficialmente declarados patrimônios nacionais pelo Iphan, mas sem o devido apoio aos artistas que mantêm essa arte viva"
+            ]
+        },
+        {
+            "nome": "Mestre Paulão Kikongo",
+            "cargo": "especialista em direitos culturais e pesquisador do Observatório do Patrimônio Cultural do Sudeste, da Universidade Federal do Estado do Rio de Janeiro (Unirio)",
+            "opinioes": [
+                "Afirma que falta incluir a cultura popular na economia",
+                "Acrescentou que as propostas analisadas na Câmara valorizam os mestres da cultura popular nas 'dimensões simbólica, econômica e cidadã', como já aconteceu na gestão de Gilberto Gil no extinto Ministério da Cultura"
+            ]
+        },
+        {
+            "nome": "Deputada Erika Kokay",
+            "cargo": "PT-DF",
+            "opinioes": [
+                "Anunciou medidas para tentar acelerar a aprovação dos projetos de lei: 'O primeiro encaminhamento que vamos tomar é buscar o presidente da Comissão de Constituição e Justiça para que possamos dar celeridade [à proposta]. Os mestres e mestras teimam todos os dias em fazer soar os pandeiros, os tambores, os bonecos, as marionetes, criar cirandas, enfim, expressar o que o povo brasileiro construiu para se espelhar. Cultura popular é resistência'"
+            ]
+        }
+    ]
+}

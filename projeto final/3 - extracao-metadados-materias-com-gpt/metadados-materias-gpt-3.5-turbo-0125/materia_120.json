@@ -1,0 +1,43 @@
+{
+    "assunto": "Condições de trabalho na mineração brasileira",
+    "envolvidos": [
+        {
+            "nome": "Mário Parreiras de Faria",
+            "cargo": "mestre em saúde pública e auditor fiscal do trabalho",
+            "opinioes": [
+                "Defende a necessidade de uma legislação moderna para controle de todos os fatores de risco no setor mineral.",
+                "Afirmou: 'O setor mineral mata quase três vezes mais do que os outros setores [econômicos].'"
+            ]
+        },
+        {
+            "nome": "Eduardo Armond de Araújo",
+            "cargo": "Dirigente da Rede de Sindicatos em Barragens",
+            "opinioes": [
+                "Relatou precarização acentuada no setor, agravada pela Lei da Terceirização.",
+                "Citou a sucessão de tragédias e graves transtornos sociais envolvendo a mineração."
+            ]
+        },
+        {
+            "nome": "Álvaro da Silva Alves",
+            "cargo": "Presidente do Sindicato dos Trabalhadores da Indústria de Extração de Minerais de Sergipe (Sindimina-SE)",
+            "opinioes": [
+                "Reclamou do duro cotidiano nas minas e das dificuldades de aposentadoria."
+            ]
+        },
+        {
+            "nome": "Cíntia Pantoja Leão",
+            "cargo": "Procuradora do Ministério Público do Trabalho no Pará",
+            "opinioes": [
+                "Admitiu problemas de precarização e de subnotificação do adoecimento de trabalhadores na mineração.",
+                "Informou que a instituição atua com grupos de trabalho focados em prevenção e promoção dos direitos do trabalho."
+            ]
+        },
+        {
+            "nome": "Alexandre Lindenmeyer",
+            "cargo": "Deputado (PT-RS)",
+            "opinioes": [
+                "Lamentou a ausência de representantes das mineradoras na audiência."
+            ]
+        }
+    ]
+}

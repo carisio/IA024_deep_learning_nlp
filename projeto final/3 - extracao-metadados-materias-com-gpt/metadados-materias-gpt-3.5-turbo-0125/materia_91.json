@@ -1,0 +1,94 @@
+{
+    "assunto": "Reajuste na conta de luz devido ao represamento de tarifas na pandemia",
+    "envolvidos": [
+        {
+            "nome": "Marcos Madureira",
+            "cargo": "presidente da Associação Brasileira de Distribuidores de Energia Elétrica (Abradee)",
+            "opinioes": [
+                "Defende que os reajustes nas contas de luz em 2022 são custos que estão vindo de anos anteriores",
+                "Deixou de serem repassados para as contas de luz R$ 28,34 bilhões em 2020 e 2021"
+            ]
+        },
+        {
+            "nome": "Davi Antunes Lima",
+            "cargo": "superintendente de Gestão Tarifária da Aneel",
+            "opinioes": [
+                "Explicou que o reajuste de 24,85% nas tarifas da Enel Distribuidora Ceará incorporou 11,42 pontos percentuais retidos no passado",
+                "Destacou que medidas similares para mitigar os aumentos nas contas de luz foram adotadas em vários estados"
+            ]
+        },
+        {
+            "nome": "Domingos Neto",
+            "cargo": "deputado (PSD-CE)",
+            "opinioes": [
+                "Propôs o Projeto de Decreto Legislativo (PDL) 94/22, que susta a autorização da Aneel para o reajuste da energia elétrica no Ceará",
+                "Busca barrar reajustes em vários estados e 'zerar o jogo', abrindo espaço para soluções"
+            ]
+        },
+        {
+            "nome": "Danilo Cabral",
+            "cargo": "deputado (PSB-PE)",
+            "opinioes": [
+                "Propôs o Projeto de Decreto Legislativo (PDL) 123/22, que pretende evitar o aumento de 18,98% em Pernambuco"
+            ]
+        },
+        {
+            "nome": "Anton Schwyter",
+            "cargo": "representante do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "opinioes": [
+                "Aumentos dessa magnitude elevam a inadimplência das famílias, mas postergá-los multiplica o problema à frente"
+            ]
+        },
+        {
+            "nome": "Victor Iocca",
+            "cargo": "representante da Associação dos Grandes Consumidores Industriais de Energia e de Consumidores Livres (Abrace)",
+            "opinioes": [
+                "Adiar os reajustes é como pagar o mínimo na fatura do cartão de crédito, e deixar para o futuro é pior"
+            ]
+        },
+        {
+            "nome": "Domingos Romeu Andreatta",
+            "cargo": "secretário adjunto de Energia Elétrica do Ministério de Minas e Energia",
+            "opinioes": [
+                "Alertou que mudanças nas fórmulas das tarifas poderão trazer insegurança jurídica, com risco para os investimentos no setor"
+            ]
+        },
+        {
+            "nome": "Mário Menel",
+            "cargo": "presidente do Fórum de Associações do Setor Elétrico (Fase)",
+            "opinioes": [
+                "Rechaçou medidas intempestivas e defendeu a redução de tributos e subsídios nas contas de luz"
+            ]
+        },
+        {
+            "nome": "Márcia Sandra Silva",
+            "cargo": "presidente da Enel Distribuidora Ceará",
+            "opinioes": [
+                "Informou que até março, 200 mil famílias passaram a ter direito à tarifa social de energia elétrica, menor",
+                "A carteira de clientes de baixa renda cresceu 28%, para 910 mil"
+            ]
+        },
+        {
+            "nome": "Danilo Forte",
+            "cargo": "deputado (União-CE)",
+            "opinioes": [
+                "Sugeriu que o debate sobre as contas de luz precisa ser ampliado e passar pelas energias renováveis",
+                "Defende que é preciso contemplar as necessidades das concessionárias sem penalizar o consumidor com reajustes acima da inflação"
+            ]
+        },
+        {
+            "nome": "Benes Leocádio",
+            "cargo": "deputado (União-RN)",
+            "opinioes": [
+                "Critica o setor elétrico e menciona que os contratos foram firmados em outra realidade"
+            ]
+        },
+        {
+            "nome": "Eduardo da Fonte",
+            "cargo": "deputado (PP-PE)",
+            "opinioes": [
+                "Critica o setor elétrico e menciona a existência de absurdos nos reajustes"
+            ]
+        }
+    ]
+}

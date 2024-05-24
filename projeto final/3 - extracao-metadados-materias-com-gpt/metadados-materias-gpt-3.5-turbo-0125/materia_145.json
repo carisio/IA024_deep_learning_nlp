@@ -1,0 +1,48 @@
+{
+    "assunto": "Desempenho atual na segurança pública e orçamento para 2024",
+    "envolvidos": [
+        {
+            "nome": "Flávio Dino",
+            "cargo": "Ministro da Justiça e Segurança Pública",
+            "opinioes": [
+                "Destacou os resultados preliminares do governo Lula na segurança pública e no combate a organizações criminosas",
+                "Afirmou: 'Isso é tirar arma e dinheiro das facções, isso é combater facções'",
+                "Declarou: 'Quando chegar o próximo ano e saírem os números definitivos, vamos poder comparar 2022 com 2023, e eu tenho confiança de que a imensa maioria dos resultados do governo Lula serão melhores'",
+                "Disse: 'Pela primeira vez existe um diálogo com empresas e plataformas da internet, como Google e Whatsapp. Aqueles que nem tinham representação no País hoje respeitam as leis brasileiras'",
+                "Respondeu a Evair Vieira de Melo: 'Não há guarda eterna de imagens'. O material do Ministério da Justiça considerado relevante segue anexado a inquéritos sobre os atos de vandalismo em Brasília",
+                "Rebateu a acusação de interferência na Polícia Federal feita por Nikolas Ferreira: 'Nunca conversei com qualquer delegado que preside inquérito na PF'",
+                "Em resposta a Junio Amaral, afirmou: 'A proposta orçamentária para a segurança pública, sem considerar as emendas parlamentares, prevê em 2024 os mesmos R$ 5,17 bilhões deste ano. Em relação a 2022, o valor aumentou 17%'"
+            ]
+        },
+        {
+            "nome": "Bia Kicis",
+            "cargo": "Deputada (PL-DF) e Presidente da Comissão de Fiscalização Financeira e Controle",
+            "opinioes": [
+                "Convidou Flávio Dino para explicar questões relacionadas à atuação de empresas de tecnologia no Brasil, câmeras de segurança do ministério, supostas interferências na Polícia Federal e o orçamento do ministério em 2024",
+                "Teve que pedir comedimento a deputados governistas e da oposição durante a reunião"
+            ]
+        },
+        {
+            "nome": "Evair Vieira de Melo",
+            "cargo": "Deputado (PP-ES)",
+            "opinioes": [
+                "Questionou Flávio Dino sobre a guarda de imagens do Ministério da Justiça e supostas interferências na Polícia Federal",
+                "Afirmou: 'Ficou claro na CPMI do 8 de Janeiro, estive lá em todas as audiências, o esforço do governo para não participar da investigação'"
+            ]
+        },
+        {
+            "nome": "Nikolas Ferreira",
+            "cargo": "Deputado (PL-MG)",
+            "opinioes": [
+                "Critico Flávio Dino por suposta interferência na Polícia Federal: 'Ele fugiu da pergunta'"
+            ]
+        },
+        {
+            "nome": "Junio Amaral",
+            "cargo": "Deputado (PL-MG)",
+            "opinioes": [
+                "Questionou Flávio Dino sobre o orçamento do ministério em 2024"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "assunto": "Nível de dificuldade do exame Revalida",
+    "envolvidos": [
+        {
+            "nome": "Francisco de Assis",
+            "cargo": "coordenador-geral de Gestão da Educação em Saúde do Ministério da Educação",
+            "opinioes": [
+                "Considera complexa a questão da reavaliação dos diplomas.",
+                "Espera conseguir aprimorar o sistema do exame.",
+                "Talvez permitir uma facilitação, principalmente na segunda etapa da prova, que é muito complexa."
+            ]
+        },
+        {
+            "nome": "Elizabeth Guedes",
+            "cargo": "presidente da Associação Nacional das Universidades Particulares (Anup)",
+            "opinioes": [
+                "Afirmou que ao conseguir a classificação, o médico que sabe pouco mais da metade do que ele deveria saber ainda consegue o diploma.",
+                "Opinou que a prova não é difícil, pois aprova com 65%, que é o mínimo que exige."
+            ]
+        },
+        {
+            "nome": "Evair Vieira de Melo",
+            "cargo": "deputado (PP-ES)",
+            "opinioes": [
+                "Questionou a falta de investimento no ensino brasileiro.",
+                "Afirmou que o País precisa criar um ambiente para que o ensino público possa ter 'capacidade e autonomia financeira para gerar os seus recursos e captá-los'."
+            ]
+        }
+    ]
+}

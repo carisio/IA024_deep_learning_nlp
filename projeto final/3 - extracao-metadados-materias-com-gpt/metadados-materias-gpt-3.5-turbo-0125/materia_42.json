@@ -1,0 +1,42 @@
+{
+    "assunto": "Reivindicação de aprovação da PEC que cria tarifa zero no transporte público",
+    "envolvidos": [
+        {
+            "nome": "Cleomar Manhas",
+            "cargo": "assessora política do Instituto de Estudos Socioeconômicos (Inesc)",
+            "opinioes": [
+                "Defende a implementação da tarifa zero no transporte público como um direito social, argumentando que a população mais pobre paga proporcionalmente mais impostos do que as parcelas mais ricas.",
+                "Destaca a necessidade de correção de distorções na reforma tributária em andamento no Legislativo."
+            ]
+        },
+        {
+            "nome": "Celso Haddad",
+            "cargo": "da Empresa Pública de Transporte de Maricá",
+            "opinioes": [
+                "Apresentou resultados positivos da implementação da tarifa zero em Maricá, com economia significativa para os moradores."
+            ]
+        },
+        {
+            "nome": "Lucio Gregori",
+            "cargo": "ex-secretário de Obras da prefeitura de São Paulo na gestão Luiza Erundina (1989-1992)",
+            "opinioes": [
+                "Apresentou cálculos sobre a cobrança de taxa para a circulação de carros e a viabilidade financeira da tarifa zero, destacando a ocupação do espaço urbano pelos veículos particulares."
+            ]
+        },
+        {
+            "nome": "Millena Nascimento",
+            "cargo": "do Movimento Passe Livre",
+            "opinioes": [
+                "Defende a gestão da tarifa zero por empresas públicas de transporte para evitar desvios de dinheiro.",
+                "Destaca a importância da participação social e da gestão controlada pelos usuários e trabalhadores para garantir um transporte público de qualidade."
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "deputada (PT-DF)",
+            "opinioes": [
+                "Propõe mobilização para a aprovação da tarifa zero, sugerindo a formação de uma frente parlamentar e de uma rede de legislativos para discutir o tema, além da criação de uma subcomissão na Comissão de Direitos Humanos para trabalhar nessa perspectiva."
+            ]
+        }
+    ]
+}

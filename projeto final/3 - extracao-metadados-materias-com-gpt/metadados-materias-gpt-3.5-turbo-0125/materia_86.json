@@ -1,0 +1,57 @@
+{
+    "assunto": "Propostas de novas coberturas de seguros diante de catástrofes climáticas",
+    "envolvidos": [
+        {
+            "nome": "Dyogo Oliveira",
+            "cargo": "Presidente da Confederação Nacional das Seguradoras (CNSeg)",
+            "opinioes": [
+                "Defende a criação do Seguro Social de Catástrofe, que prevê indenização emergencial de R$ 15 mil por moradia",
+                "Propõe que o Seguro Social de Catástrofe seja subsidiado por cobrança de R$ 3 por mês na conta de energia elétrica",
+                "Explicou: 'Foi desenhada para objetivamente ter celeridade, então, não vai demandar inspeção nem vistoria das unidades. A única demanda é que o município delimite a área afetada. Pelo nosso desenho, seria uma transferência por Pix: todas as famílias receberiam, imediatamente após a delimitação da área [do desastre], uma transferência na conta no valor de R$ 15 mil de uso livre, para poder se restabelecer naquele momento de dificuldade'"
+            ]
+        },
+        {
+            "nome": "Tiago Vieira",
+            "cargo": "Diretor de operações da Brasilseg",
+            "opinioes": [
+                "Apresentou proposta de seguro para reforçar o papel do produtor rural como 'guardião de áreas florestais'"
+            ]
+        },
+        {
+            "nome": "Isadora Buchala",
+            "cargo": "Analista de resiliência da organização Iclei - Governos Locais pela Sustentabilidade",
+            "opinioes": [
+                "Apresentou o Mecanismo de Seguro para Infraestruturas Urbanas (UIIF), financiado pelo Banco de Desenvolvimento da Alemanha (KfW) e já aplicado em parceria com dez cidades da América Latina"
+            ]
+        },
+        {
+            "nome": "Gesner Oliveira",
+            "cargo": "Representante do Instituto de Inovação em Seguros e Resseguros da Fundação Getúlio Vargas (FGV)",
+            "opinioes": [
+                "Mostrou o manual de conceitos e práticas elaborado para os municípios enfrentarem extremos climáticos, com ações voltadas para economia circular, água de reuso e drenagem sustentável"
+            ]
+        },
+        {
+            "nome": "Frederico Knapp",
+            "cargo": "Presidente da Swiss Re Brasil Resseguros",
+            "opinioes": [
+                "Apresentou uma série de 'soluções inovadoras' de transferência de riscos do setor público em curso em todo o mundo"
+            ]
+        },
+        {
+            "nome": "Evair Vieira de Melo",
+            "cargo": "Deputado (PP-ES)",
+            "opinioes": [
+                "Afirmou que as atuais ferramentas de socorro à população são insuficientes diante das mudanças climáticas",
+                "Avalia que a participação do mercado de seguros é fundamental para a busca de respostas mais imediatas"
+            ]
+        },
+        {
+            "nome": "Leo Prates",
+            "cargo": "Deputado (PDT-BA) e presidente da comissão especial",
+            "opinioes": [
+                "Sugeriu a incorporação das ideias e sugestões das seguradoras em projetos de lei que tratam de seguro obrigatório de danos causados por desastres naturais"
+            ]
+        }
+    ]
+}

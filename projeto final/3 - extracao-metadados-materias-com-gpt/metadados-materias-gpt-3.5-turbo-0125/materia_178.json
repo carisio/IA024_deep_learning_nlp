@@ -1,0 +1,53 @@
+{
+    "assunto": "Impacto dos parques de energia eólica em alto-mar",
+    "envolvidos": [
+        {
+            "nome": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama)",
+            "cargo": "Responsável pelo licenciamento dos parques eólicos instalados em alto-mar",
+            "opinioes": [
+                "Defende a aprovação de um planejamento espacial marinho com regras claras de mitigação e redução dos impactos socioambientais",
+                "Citou dificuldades na conciliação das atividades dos parques eólicos com outras atividades marítimas"
+            ]
+        },
+        {
+            "nome": "Breno Bispo",
+            "cargo": "Coordenador-geral substituto de licenciamento do Ibama",
+            "opinioes": [
+                "Há a disputa territorial entre os próprios parques eólicos e os outros usos de exploração de petróleo, pesca artesanal, rotas de navegação, etc.",
+                "É necessário fazer um planejamento marinho para evitar conflitos na esfera do licenciamento ambiental"
+            ]
+        },
+        {
+            "nome": "Ana Paula Prates",
+            "cargo": "Diretora do Departamento de Oceano e Gestão Costeira do Ministério do Meio Ambiente",
+            "opinioes": [
+                "Parte do planejamento para redução dos impactos está presente no projeto da Lei do Mar (PL 6969/13)",
+                "Defende a inclusão do tema no Projeto de Lei 11247/18 e apensados, que buscam a regulamentação das eólicas offshore"
+            ]
+        },
+        {
+            "nome": "Talíria Petrone",
+            "cargo": "Deputada (Psol-RJ)",
+            "opinioes": [
+                "Defende a transição energética com justiça climática",
+                "Destaca a importância da energia limpa mitigar ou reduzir os impactos ambientais e sociais"
+            ]
+        },
+        {
+            "nome": "Adryane Gorayeb",
+            "cargo": "Coordenadora do Laboratório de Geoprocessamento e Cartografia Social da Universidade Federal do Ceará (UFCE)",
+            "opinioes": [
+                "Ajudou a mapear comunidades tradicionais ameaçadas por projetos eólicos no litoral cearense",
+                "Explicou que os parques offshore afetam a pesca e a navegação das comunidades tradicionais"
+            ]
+        },
+        {
+            "nome": "Carine Santos Silva",
+            "cargo": "Dirigente da Articulação Povos de Luta do Ceará",
+            "opinioes": [
+                "Alertou para os problemas que afetam as comunidades de pesca artesanal devido aos parques eólicos offshore",
+                "Destacou que a energia eólica offshore perde o efeito de ser limpa e sustentável diante dos problemas reais enfrentados pelas comunidades"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "assunto": "Reconhecimento do Cerrado e da Caatinga como patrimônios nacionais",
+    "envolvidos": [
+        {
+            "nome": "Maria de Lurdes Nascimento",
+            "cargo": "Coordenadora-geral da Rede Cerrado",
+            "opinioes": [
+                "Critica o atual foco de proteção apenas em biomas predominantemente florestais",
+                "Afirmou: 'Ninguém deve ter a ilusão de que a vida estará salva ao se preservar só a Amazônia. Não estará. A Amazônia não sobreviverá se o Cerrado e a Caatinga deixarem de existir. Temos que dar as mãos e salvar todos os biomas, porque um é tão importante quanto o outro'"
+            ]
+        },
+        {
+            "nome": "Paulo Pedro de Carvalho",
+            "cargo": "Coordenador da ASA na Caatinga de Pernambuco",
+            "opinioes": [
+                "Defende o reconhecimento dos biomas na Constituição Federal",
+                "Afirma: 'Nós não estamos aqui contra o desenvolvimento. Muito pelo contrário: povos da Caatinga e do Cerrado merecemos ter os nossos biomas reconhecidos na Constituição Federal'"
+            ]
+        },
+        {
+            "nome": "Sílvio Porto",
+            "cargo": "Diretor de política agrícola da Conab",
+            "opinioes": [
+                "Destaca a variedade de alimentos da agricultura familiar nos biomas",
+                "Cita: 'Da Caatinga, a gente recebeu (no PAA) propostas que representam 221 tipos de produtos e de alimentos diferentes; do Cerrado, são 235. Isso mostra que não é só um, dois ou três produtos (da monocultura) que são relevantes por terem relação com as exportações e a balança comercial'"
+            ]
+        },
+        {
+            "nome": "Alexandre Pires",
+            "cargo": "Diretor do departamento de combate à desertificação do Ministério do Meio Ambiente",
+            "opinioes": [
+                "Destaca a importância da PEC no contexto de mudanças climáticas e valorização da sociobioeconomia e agroecologia",
+                "Sustenta: 'A aprovação dessa PEC é sobretudo reconhecer a importância dos povos que neles vivem e a importância da biodiversidade para a sustentação e a sobrevivência desse planeta'"
+            ]
+        },
+        {
+            "nome": "Célia Xakriabá",
+            "cargo": "Deputada (Psol-MG) e presidente da Comissão da Amazônia e dos Povos Originários",
+            "opinioes": [
+                "Anuncia nova articulação para a aprovação da PEC do Cerrado e da Caatinga",
+                "Aponta: 'Não dá para o Brasil sediar a COP sem o compromisso com os outros biomas'"
+            ]
+        },
+        {
+            "nome": "Dandara",
+            "cargo": "Deputada (PT-MG)",
+            "opinioes": [
+                "Fala sobre o lançamento do GT Cerrado da frente ambientalista",
+                "Diz: 'São mais de 12 mil espécies de plantas, a grande maioria ainda nem estudada a fundo. Por isso, nos dói tanto ver incêndios criminosos no Cerrado, porque, para nós, é a mesma coisa que botar fogo em uma biblioteca sem ela nunca ter sido lida'"
+            ]
+        }
+    ]
+}

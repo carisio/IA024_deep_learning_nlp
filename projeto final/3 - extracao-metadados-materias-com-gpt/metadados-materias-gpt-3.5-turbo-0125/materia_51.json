@@ -1,0 +1,47 @@
+{
+    "assunto": "Financiamento da extensão universitária no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Alexandre Fonseca",
+            "cargo": "diretor de Políticas e Programas de Educação Superior do Ministério da Educação",
+            "opinioes": [
+                "Defende orçamento permanente para a extensão universitária"
+            ]
+        },
+        {
+            "nome": "Geísa Boaventura",
+            "cargo": "coordenadora do Fórum de Pró-reitores de Extensão dos Institutos Federais de Educação Profissional e Tecnológica",
+            "opinioes": [
+                "Defende que fazer extensão exige investimento"
+            ]
+        },
+        {
+            "nome": "Dandara",
+            "cargo": "deputada (PT-MG)",
+            "opinioes": [
+                "Realizou projeto de extensão universitária em uma comunidade indígena do Mato Grosso",
+                "Citação direta: 'Eu deixei de trabalhar na lan house do meu bairro para fazer Pibid [Programa Institucional de Bolsa de Iniciação à Docência], educação do campo. Eu consegui me dedicar à educação, à ciência, à pesquisa graças à bolsa de R$ 400 que eu recebia. Se hoje consigo debater a demarcação de terras indígenas e lutar contra esse marco temporal, cuja urgência foi aprovada ontem de forma abrupta, é porque eu tive a oportunidade, em 2013, de ir para as aldeias Guarani-Kayowá'"
+            ]
+        },
+        {
+            "nome": "Penildon Silva Filho",
+            "cargo": "vice-reitor da Universidade Federal da Bahia (UFBA)",
+            "opinioes": [
+                "Defende que as atividades de extensão podem e devem se integrar a outras políticas do governo federal, como educação básica",
+                "Acredita que a extensão pode contribuir com as políticas de distribuição de renda",
+                "Aponta que parte da assistência estudantil na UFBA ocorre por meio de bolsas de extensão universitária",
+                "Destaca que a interação entre a universidade e a educação básica pode reduzir o abandono dos estudos por alunos do ensino médio",
+                "Afirma que a evasão do ensino superior é alta e que a pandemia de Covid-19 agravou o problema"
+            ]
+        },
+        {
+            "nome": "Lídice da Mata",
+            "cargo": "deputada (PSB-BA)",
+            "opinioes": [
+                "Se compromete a trabalhar para assegurar destinação orçamentária permanente para os programas de extensão universitária",
+                "Considera fundamental a criação de uma política sistêmica da extensão, em integração com as demais ações do governo",
+                "Defende a inclusão de estados e municípios no debate para o estabelecimento da política de extensão"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "assunto": "Ampliação de crédito do BNDES para empresas atingidas por enchente no RS",
+    "envolvidos": [
+        {
+            "nome": "Paulo Pimenta",
+            "cargo": "Ministro da Secretaria de Comunicação Social da Presidência da República",
+            "opinioes": [
+                "Defende a ampliação da linha de crédito do BNDES para grandes empresas atingidas pelas enchentes no RS"
+            ],
+            "disse": "Queremos criar um programa específico para empresas que têm faturamento de até R$ 300 milhões, uma linha específica do BNDES que está sendo regulamentada, num modelo parecido com esse que nós construímos para a restruturação das cooperativas. Então, nós vamos atender também aquelas empresas maiores"
+        },
+        {
+            "nome": "Waldez Góes",
+            "cargo": "Ministro da Integração e do Desenvolvimento Regional",
+            "opinioes": [
+                "Destaca o esforço conjunto dos governos federal, estadual e de prefeituras para mitigar os efeitos da calamidade",
+                "Reconhece os entraves da burocracia, mas reforça o compromisso do governo federal em executar as etapas de restruturação e prevenção de tragédias naturais"
+            ],
+            "disse": "Há uma sinergia muito forte entre o governo federal com a defesa civil estadual e as defesas civis municipais. O que tiver que ser feito para passar os recursos ao governo do estado nós vamos passar, o que for decidido passar para prefeitura, vamos passar para as prefeituras"
+        },
+        {
+            "nome": "Leandro Evaldt",
+            "cargo": "Diretor-geral da Secretaria de Desenvolvimento Econômico do Rio Grande do Sul",
+            "opinioes": [
+                "Defende urgência para atender às 14 grandes empresas afetadas do Vale do Taquari",
+                "Sugere que as operadoras de crédito regionais sejam autorizadas a operar esses recursos para dar mais rapidez aos repasses"
+            ],
+            "disse": "A gente precisa que as empresas atingidas tenham não privilégio, mas sim a prioridade de serem as primeiras atendidas"
+        },
+        {
+            "nome": "Zucco",
+            "cargo": "Deputado (Republicanos-RS)",
+            "opinioes": [
+                "Cobra agilidade do auxílio federal para resolver os problemas enfrentados pelas prefeituras atingidas pelas enchentes"
+            ],
+            "disse": "O que será feito porque estamos sabendo dos problemas. As prefeituras estão desesperadas, temos promessas feitas, mas as pessoas precisam de planejamento"
+        }
+    ]
+}

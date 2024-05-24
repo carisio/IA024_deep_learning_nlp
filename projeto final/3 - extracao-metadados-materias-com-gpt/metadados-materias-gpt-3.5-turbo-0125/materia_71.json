@@ -1,0 +1,48 @@
+{
+    "assunto": "Críticas à venda da Refinaria Gabriel Passos (Regap) da Petrobras em Minas Gerais",
+    "envolvidos": [
+        {
+            "nome": "Rogério Correia",
+            "cargo": "Deputado (PT-MG)",
+            "opinioes": [
+                "Critica a privatização da Refinaria Gabriel Passos (Regap) da Petrobras, alegando preocupação com a possibilidade de monopólio privado regional e prática de preços abusivos",
+                "Afirmou: 'Há uma preocupação grande do povo mineiro em relação a esse processo de privatização da Regap. Há uma preocupação de aumento de preços, que já não estão baixos, da gasolina, do diesel'"
+            ]
+        },
+        {
+            "nome": "Alexandre Finamori",
+            "cargo": "Coordenador geral do Sindicato dos Trabalhadores na Indústria de Destilação e Refinação do Petróleo no Estado de Minas Gerais (Sindpetro-MG)",
+            "opinioes": [
+                "Afirma que a possibilidade de criação de um monopólio privado já foi atestada pelo Tribunal de Contas da União (TCU), com risco de formação de mercados pouco competitivos e aumento de preços para os consumidores",
+                "Disse: 'Não há nenhum estudo, feito por ninguém, que leve a uma análise clara de que vai ter competitividade, vai ter redução de preço'"
+            ]
+        },
+        {
+            "nome": "Deyvid Bacelar",
+            "cargo": "Coordenador-geral da Federação Única dos Petroleiros (FUP)",
+            "opinioes": [
+                "Rebate o argumento dos defensores da privatização das refinarias, afirmando que a privatização da Regap resultaria em preços mais altos e desabastecimento de combustível",
+                "Afirmou: 'A Regap é importante para o estado de Minas Gerais. Se for privatizada, vamos ter preços ainda mais altos e desabastecimento de combustível'",
+                "Acrescentou: 'Desde a quebra do monopólio [1997], nenhuma refinaria foi construída pelo capital privado'"
+            ]
+        },
+        {
+            "nome": "Eric Futino",
+            "cargo": "Gerente geral de Planejamento Logístico da Petrobras",
+            "opinioes": [
+                "Defende que a venda da Refinaria Gabriel Passos (Regap) faz parte de um acordo com o Conselho Administrativo de Defesa Econômica (Cade) para encerrar investigação sobre conduta anticompetitiva da estatal",
+                "Afirmou: 'A Petrobras tem uma atuação estratégica no refino e ela é consistente com a priorização das atividades de exploração e produção no pré-sal, nas bacias de Campos e Santos e com a integração logística das refinarias de São Paulo e do Rio de Janeiro'",
+                "Disse: 'Isso vai garantir maior qualidade de produtos para a população e maior quantidade para o País'"
+            ]
+        },
+        {
+            "nome": "Eduardo Costa Pinto",
+            "cargo": "Pesquisador do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis (Ineep)",
+            "opinioes": [
+                "Afirma que a Petrobras está passando por um processo de privatização 'por dentro', por meio da venda de ativos",
+                "Defende a necessidade de mudar a gestão de portfólio da Petrobras e colocar a empresa no centro da política energética",
+                "Disse: 'Existe uma estratégia política de encolher a empresa. É necessário mudar essa gestão de portfólio e colocar a Petrobras no centro da política energética'"
+            ]
+        }
+    ]
+}

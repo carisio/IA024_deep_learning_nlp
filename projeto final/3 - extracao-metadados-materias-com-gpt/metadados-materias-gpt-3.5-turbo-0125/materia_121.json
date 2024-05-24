@@ -1,0 +1,31 @@
+{
+    "assunto": "Atendimento a mulheres vítimas de violência doméstica",
+    "envolvidos": [
+        {
+            "nome": "Eldom Stevem Barbosa dos Santos",
+            "cargo": "magistrado do Tribunal de Justiça do Paraná",
+            "opinioes": [
+                "Defende a ampliação e melhoria das varas especializadas em atendimento às mulheres",
+                "Mencionou que alguns estados só contam com um juizado especializado em violência doméstica",
+                "Apontou que juizados de cidades pequenas não contam com estrutura"
+            ]
+        },
+        {
+            "nome": "Marcio Luiz Coelho de Freitas",
+            "cargo": "integrante do Conselho Nacional de Justiça",
+            "opinioes": [
+                "Defende a ampliação das varas especializadas e a contratação de equipes multidisciplinares para o atendimento a mulheres vítimas de violência doméstica",
+                "Considera fundamental capacitar as varas para o acolhimento das vítimas"
+            ]
+        },
+        {
+            "nome": "Aline Yamamoto",
+            "cargo": "diretora de Proteção e Direitos do Ministério das Mulheres",
+            "opinioes": [
+                "Considera fundamental a mudança na atuação da Justiça para atender à demanda integral das mulheres em situação de violência",
+                "Apontou que muitos conflitos familiares têm relação com violência doméstica e familiar",
+                "Destacou que a Justiça continua enfatizando a busca de conciliação e mediação"
+            ]
+        }
+    ]
+}

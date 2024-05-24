@@ -1,0 +1,73 @@
+{
+    "assunto": "Debate sobre mudanças no sistema de proteção social dos militares",
+    "envolvidos": [
+        {
+            "nome": "Glauber Braga",
+            "cargo": "Deputado (Psol-RJ)",
+            "opinioes": [
+                "Defende a criação de um grupo de trabalho para discutir o sistema de proteção social dos militares"
+            ]
+        },
+        {
+            "nome": "Fernanda Melchionna",
+            "cargo": "Deputada (Psol-RS)",
+            "opinioes": [
+                "Defende a contestação das mudanças decorrentes da Lei 13.954/19",
+                "Critica o aumento da desigualdade nas remunerações e os impactos negativos para alguns militares"
+            ]
+        },
+        {
+            "nome": "Albuquerque",
+            "cargo": "Deputado (Republicanos-RR)",
+            "opinioes": [
+                "Apoiou a cobrança do Ministério da Defesa para a criação de um grupo de trabalho sobre o sistema de proteção social dos militares"
+            ]
+        },
+        {
+            "nome": "Sargento Portugal",
+            "cargo": "Deputado (Pode-RJ)",
+            "opinioes": [
+                "Apoiou a cobrança do Ministério da Defesa para a criação de um grupo de trabalho sobre o sistema de proteção social dos militares"
+            ]
+        },
+        {
+            "nome": "Heraldo Luiz Rodrigues",
+            "cargo": "Secretário de Pessoal, Saúde, Desporto e Projetos Sociais do Ministério da Defesa",
+            "opinioes": [
+                "Concluiu que os dispositivos da Lei 13.954/19 ainda estão sendo implantados e não há necessidade de ajustes neste momento",
+                "Vai levar o assunto ao ministro da Defesa para avaliar a criação de um grupo de trabalho"
+            ]
+        },
+        {
+            "nome": "George Brito",
+            "cargo": "Representante de militares reformados",
+            "opinioes": [
+                "Critica as perdas salariais dos praças e pensionistas devido à Lei 13.954/19",
+                "Mostrou o impacto financeiro nas contribuições de um militar devido às mudanças na lei"
+            ]
+        },
+        {
+            "nome": "Vanderley Gonçalves",
+            "cargo": "Representante de militares reformados",
+            "opinioes": [
+                "Fez críticas às mudanças na contribuição mensal para as pensões e aos impactos financeiros para os pensionistas"
+            ]
+        },
+        {
+            "nome": "Jéssica Rocha",
+            "cargo": "Advogada",
+            "opinioes": [
+                "Avaliou que pontos da lei poderiam ser reexaminados",
+                "Representante de algumas pensionistas"
+            ]
+        },
+        {
+            "nome": "Cláudio Lino",
+            "cargo": "Advogado do Instituto Brasileiro de Análise de Legislações Militares",
+            "opinioes": [
+                "Avaliou que pontos da lei poderiam ser reexaminados",
+                "Mencionou a existência de ações em curso no STF e no STJ"
+            ]
+        }
+    ]
+}

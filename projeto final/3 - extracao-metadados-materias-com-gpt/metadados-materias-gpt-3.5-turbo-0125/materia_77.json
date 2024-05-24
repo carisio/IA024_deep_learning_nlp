@@ -1,0 +1,41 @@
+{
+    "assunto": "Financiamento federal do transporte coletivo urbano",
+    "envolvidos": [
+        {
+            "nome": "Elias Vaz",
+            "cargo": "Deputado (PSB-GO)",
+            "opinioes": [
+                "Defende a garantia de orçamento federal para o setor de transporte coletivo urbano",
+                "Defende que o transporte precisa se tornar uma política pública de Estado"
+            ]
+        },
+        {
+            "nome": "Marcos Bicalho dos Santos",
+            "cargo": "Diretor administrativo e institucional da NTU",
+            "opinioes": [
+                "Defende que os custos dos sistemas de transportes não devem ser financiados pela tarifa cobrada do usuário",
+                "Defende que a qualidade do serviço é afetada quando o diferencial entre custo e receita se acumula"
+            ]
+        },
+        {
+            "nome": "Sebastião Melo",
+            "cargo": "Prefeito de Porto Alegre (RS) e vice-presidente de Mobilidade Urbana da Frente Nacional dos Prefeitos (FNP)",
+            "opinioes": [
+                "Defende que o setor precisa de um financiamento perene",
+                "Opina que o setor não pode ser financiado apenas com receita tarifária",
+                "Critica a gratuidade de tarifas para idosos, argumentando que encarece o preço para os demais usuários"
+            ],
+            "citacao": "É o BNDES? Não se faz metrô com dinheiro do IPTU. Não se compra BRT com dinheiro de ISS. Os países capitalistas, socialistas, comunistas, todos botam dinheiro, porque só a receita tarifária não dá conta"
+        },
+        {
+            "nome": "Rafael Calabria",
+            "cargo": "Coordenador de Mobilidade Urbana do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "opinioes": [
+                "Defende um financiamento estrutural não tarifário do setor",
+                "Defende que o pagamento do custo dá mais estabilidade para o sistema de transporte coletivo",
+                "Critica os contratos muito longos firmados para o setor, que inviabilizam mudanças"
+            ],
+            "citacao": "O debate importante é de como fazer a conta. Hoje, ainda é feita por passageiro. Por passageiro, o custo do número de viagens não importa, porque vai receber por pessoa. O pagamento do custo dá mais estabilidade para o sistema, vincula as partidas, as execuções das viagens. Se não fizer a partida, não recebe"
+        }
+    ]
+}

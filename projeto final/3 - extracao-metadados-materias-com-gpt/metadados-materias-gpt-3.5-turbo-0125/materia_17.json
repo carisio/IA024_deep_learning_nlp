@@ -1,0 +1,37 @@
+{
+    "assunto": "Ativismo judicial",
+    "envolvidos": [
+        {
+            "nome": "Rodrigo Saraiva",
+            "cargo": "Professor da Fundação Escola Superior de Advocacia do Ceará e da Pós-Graduação da Universidade de Fortaleza",
+            "opinioes": [
+                "Defende que o ativismo judicial é indevido",
+                "Questionou se as ações do Supremo Tribunal Federal ultrapassaram os ditames legais"
+            ]
+        },
+        {
+            "nome": "Pedro Estevam",
+            "cargo": "Professor de Direito no mestrado e doutorado da PUC-SP",
+            "opinioes": [
+                "Defende que as constituições existem para limitar decisões políticas",
+                "Acredita que são necessários mecanismos de defesa da constituição e da democracia, como a Suprema Corte"
+            ]
+        },
+        {
+            "nome": "Lafayette de Andrada",
+            "cargo": "Deputado (Republicanos-MG)",
+            "opinioes": [
+                "Defende que o Parlamento deve tratar sobre certos assuntos, mesmo que seja ao não votar nada sobre o tema",
+                "Acredita que o Poder Legislativo deve exprimir a voz da população e dos anseios da sociedade"
+            ]
+        },
+        {
+            "nome": "Alencar Santana",
+            "cargo": "Deputado (PT-SP)",
+            "opinioes": [
+                "Defende que se for para mudar as regras, todos devem participar da discussão",
+                "Propõe promover debates, seminários e audiências públicas para discutir alterações no sistema judicial brasileiro"
+            ]
+        }
+    ]
+}

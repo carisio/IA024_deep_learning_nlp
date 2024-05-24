@@ -1,0 +1,56 @@
+{
+    "assunto": "Impactos dos desastres climáticos no Brasil em 2023",
+    "envolvidos": [
+        {
+            "nome": "Wolnei Wolff",
+            "cargo": "secretário nacional de Proteção e Defesa Civil",
+            "opinioes": [
+                "Defende a estruturação da defesa civil como carreira de Estado",
+                "Reconhece a necessidade de novos investimentos diante dos desafios impostos pelas mudanças climáticas"
+            ]
+        },
+        {
+            "nome": "Gilson Daniel",
+            "cargo": "relator da comissão",
+            "opinioes": [
+                "Defende a derrubada do veto presidencial a artigo da Lei 14.691/23 que destinava 5% de multas por crimes ambientais e de acordos judiciais de reparação de danos socioambientais para o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil",
+                "Afirmou: 'Nós trabalhamos muito bem na pronta resposta, mas realmente precisamos trabalhar na prevenção. Muitos desses acidentes e desastres poderiam ter sido evitados. A prevenção tem muito menos custo para o poder público'"
+            ]
+        },
+        {
+            "nome": "Tarcísio Motta",
+            "cargo": "deputado",
+            "opinioes": [
+                "Comprometeu-se com a derrubada do veto presidencial"
+            ]
+        },
+        {
+            "nome": "Pedro Aihara",
+            "cargo": "deputado",
+            "opinioes": [
+                "Comprometeu-se com a derrubada do veto presidencial"
+            ]
+        },
+        {
+            "nome": "Jorge Goetten",
+            "cargo": "deputado",
+            "opinioes": [
+                "Elogiou os esforços de socorro às vítimas de enchentes em várias regiões do estado"
+            ]
+        },
+        {
+            "nome": "Leo Prates",
+            "cargo": "presidente da comissão especial",
+            "opinioes": [
+                "Avalia que a situação exige apoio extra às vítimas e propõe a criação de um sistema nacional de apoio às vítimas de desastres"
+            ]
+        },
+        {
+            "nome": "Armin Braun",
+            "cargo": "diretor do Centro Nacional de Gerenciamento de Riscos e Desastres",
+            "opinioes": [
+                "Detalhou a busca de aperfeiçoamento dos alertas de eventos críticos para a população"
+            ]
+        }
+    ]
+}

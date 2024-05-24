@@ -1,0 +1,54 @@
+{
+    "assunto": "Regulamentação da reforma tributária",
+    "envolvidos": [
+        {
+            "nome": "Danilo Forte",
+            "cargo": "presidente da Comissão de Desenvolvimento Econômico",
+            "opinioes": [
+                "Defende que a legislação seja compatível com a carga tributária excessiva, visando o crescimento econômico sustentável."
+            ]
+        },
+        {
+            "nome": "Aguinaldo Ribeiro",
+            "cargo": "relator da reforma tributária",
+            "opinioes": [
+                "Defende a manutenção dos acordos feitos na aprovação da emenda constitucional."
+            ]
+        },
+        {
+            "nome": "Pedro Lupion",
+            "cargo": "presidente da Frente Parlamentar da Agropecuária",
+            "opinioes": [
+                "Defende a redução de alíquotas de PIS e Cofins para produtos da cesta nacional de alimentos."
+            ]
+        },
+        {
+            "nome": "Arnaldo Jardim",
+            "cargo": "presidente da Frente Parlamentar Mista do Brasil Competitivo",
+            "opinioes": [
+                "Defende a não cumulatividade de impostos."
+            ]
+        },
+        {
+            "nome": "Joaquim Passarinho",
+            "cargo": "presidente da Frente Parlamentar Mista do Empreendedorismo",
+            "opinioes": [
+                "Defende a realização de grupos paralelos para apresentar propostas de regulamentação, ouvindo a sociedade."
+            ]
+        },
+        {
+            "nome": "Domingos Sávio",
+            "cargo": "presidente da Frente Parlamentar da Defesa do Comércio e Serviços",
+            "opinioes": [
+                "Defende o diálogo entre deputados da base governista e da oposição na regulamentação da reforma tributária."
+            ]
+        },
+        {
+            "nome": "Nilto Tatto",
+            "cargo": "deputado",
+            "opinioes": [
+                "Defende que o Estado tem um papel importante para promover justiça tributária e que a reforma tributária gere oportunidades."
+            ]
+        }
+    ]
+}

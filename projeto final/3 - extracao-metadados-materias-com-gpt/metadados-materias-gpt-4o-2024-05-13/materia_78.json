@@ -1,0 +1,39 @@
+{
+  "assunto": "Venda da Unidade de Industrialização do Xisto (SIX) no Paraná pela Petrobras",
+  "envolvidos": [
+    {
+      "nome": "Henrique Jager",
+      "cargo": "Economista e pesquisador do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis (Ineep)",
+      "opinioes": [
+        "Considera o contrato prejudicial porque a compradora vai pagar metade do que a Petrobras pagava em royalties ao estado, município e União.",
+        "\"É um absurdo! A Agência Nacional de Petróleo (ANP) exigiu que a Petrobras pagasse ‘royalties’ de 10%, mas o comprador vai pagar 5%\"."
+      ]
+    },
+    {
+      "nome": "Omar Picheth",
+      "cargo": "Presidente da Câmara Municipal de São Mateus do Sul, vereador (Pros)",
+      "opinioes": [
+        "Lembra que a tecnologia Petrosix é única no mundo e está sendo passada sem ter sido mensurada no contrato.",
+        "Queixa-se de que a venda da SIX vai trazer grandes prejuízos para o município.",
+        "\"O nosso município é muito dependente da SIX. A perda da unidade vai corresponder a aproximadamente 40% dos impostos do município. A gente vai ter um grande vazio que, infelizmente, não temos condições de compor e recompor\"."
+      ]
+    },
+    {
+      "nome": "Mário Alberto Dal Zot",
+      "cargo": "Presidente da Associação Nacional dos Petroleiros Acionistas Minoritários da Petrobras (Anapetro)",
+      "opinioes": [
+        "Denunciou o que considera outra ilegalidade no processo de venda.",
+        "\"O processo de venda foi direcionado para essa empresa que participou, de 2007 até 2012, do processo de internacionalização do Petrosix, recebendo informações privilegiadas, chegando até a espionagem industrial\"."
+      ]
+    },
+    {
+      "nome": "Enio Verri",
+      "cargo": "Deputado (PT-PR)",
+      "opinioes": [
+        "Citou o caso da Bahia, onde a privatização da refinaria de Rilam trouxe aumento do preço dos combustíveis no estado.",
+        "Para ele, o processo de privatização de refinarias da Petrobras não vai trazer concorrência para o setor, como defende o governo e a direção da estatal brasileira de Petróleo.",
+        "\"A privatização da Petrobras não vai aumentar a concorrência, vai apenas transferir o monopólio público para o privado. E já está provado, com a experiência da Bahia, que o privado sempre vai custar muito mais caro ao povo. O privado vai priorizar o lucro e não o que é melhor para a população\"."
+      ]
+    }
+  ]
+}

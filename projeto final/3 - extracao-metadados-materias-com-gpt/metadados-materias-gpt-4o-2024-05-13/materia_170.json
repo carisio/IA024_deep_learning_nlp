@@ -1,0 +1,26 @@
+{
+  "assunto": "Necessidade de investimentos para melhorar o atendimento de urgências",
+  "envolvidos": [
+    {
+      "nome": "Gisele Odwye",
+      "cargo": "Pesquisadora da Fiocruz",
+      "opinioes": [
+        "A falta de estrutura dos hospitais é o principal obstáculo para a melhoria do serviço."
+      ]
+    },
+    {
+      "nome": "Zé Neto",
+      "cargo": "Deputado (PT-BA)",
+      "opinioes": [
+        "O atendimento domiciliar dos pacientes deve ser colocado em pauta."
+      ]
+    },
+    {
+      "nome": "Felipe Reque",
+      "cargo": "Coordenador geral de Urgência do Ministério da Saúde",
+      "opinioes": [
+        "O governo tem como prioridade a boa formação dos profissionais da rede de urgência, considerada fundamental."
+      ]
+    }
+  ]
+}

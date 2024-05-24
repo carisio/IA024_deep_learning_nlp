@@ -1,0 +1,31 @@
+{
+  "assunto": "Urgência para socorrer produtores do norte de Minas Gerais devido à seca sem precedentes",
+  "envolvidos": [
+    {
+      "nome": "Tales Domingos Vieira",
+      "cargo": "Representante da Emater Minas",
+      "opinioes": [
+        "A situação é muito grave.",
+        "\"Temos um ano muito atípico em Minas Gerais, especificamente no norte de Minas. Nunca tivemos uma seca, um evento tão dramático como o que a gente vive agora.\""
+      ]
+    },
+    {
+      "nome": "Ricardo Demichelli",
+      "cargo": "Subsecretário de Agricultura de Minas Gerais",
+      "opinioes": [
+        "Nunca viu situação semelhante.",
+        "\"Fui de carro cortando o estado. Deparamos com um cenário de gado comendo terra, magro, coro e o osso e sem saída.\"",
+        "Não é um problema do produtor, que maneja bem sua convivência com a seca.",
+        "Chegar ao fim do ano sem ter chovido, não há reserva estratégica nem metodologia de convivência com a seca que suporte."
+      ]
+    },
+    {
+      "nome": "Zé Silva",
+      "cargo": "Deputado (Solidariedade-MG), presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "Vai entregar o documento com 14 medidas emergenciais ao ministro da Agricultura, Carlos Fávaro, e ao Ministro do Desenvolvimento Agrário, Paulo Teixeira.",
+        "\"A nossa preocupação é que não seja uma audiência que não gere medidas concretas.\""
+      ]
+    }
+  ]
+}

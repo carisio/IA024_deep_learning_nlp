@@ -1,0 +1,59 @@
+{
+    "assunto": "Fornecimento de fertilizantes para o Brasil",
+    "envolvidos": [
+        {
+            "nome": "Luís Rangel",
+            "cargo": "diretor de programa da secretaria executiva do Ministério da Agricultura",
+            "opinioes": [
+                "Atribui à diplomacia o atual quadro de normalidade no abastecimento de fertilizantes no Brasil",
+                "Deixou de agir na promoção do agronegócio para garantir o abastecimento dos insumos",
+                "Só da Rússia, aumentaram as importações em 70% no primeiro trimestre"
+            ]
+        },
+        {
+            "nome": "Reginaldo Minaré",
+            "cargo": "diretor técnico da Confederação da Agricultura e Pecuária do Brasil (CNA)",
+            "opinioes": [
+                "Elogiou a estratégia do governo em direcionar a diplomacia para a questão dos insumos e fertilizantes",
+                "Destacou a produção doméstica acanhada e a grande dependência do Brasil em nitrogênio, fósforo e potássio importados"
+            ]
+        },
+        {
+            "nome": "Luís Rangel",
+            "cargo": "diretor de programa da secretaria executiva do Ministério da Agricultura",
+            "opinioes": [
+                "Mantém o tom de alerta devido ao aumento do preço dos fertilizantes"
+            ]
+        },
+        {
+            "nome": "Bosco Costa",
+            "cargo": "deputado (PL-SE)",
+            "opinioes": [
+                "A guerra entre Rússia e Ucrânia está prejudicando o setor agrícola brasileiro"
+            ]
+        },
+        {
+            "nome": "Vinícius Benites",
+            "cargo": "presidente do Comitê Gestor de Nutrientes da Embrapa",
+            "opinioes": [
+                "O Brasil depende e dependerá, por muito tempo, da importação de fertilizantes",
+                "O problema dos fertilizantes no Brasil é estrutural e geológico"
+            ]
+        },
+        {
+            "nome": "Amalia Borsari",
+            "cargo": "diretora de biológicos da Croplife Brasil",
+            "opinioes": [
+                "Mostrou avanços na produção de fertilizantes de base animal, vegetal e microbiana",
+                "Os produtos permitem maior absorção de nutrientes, redução da dose de fertilizante e até substituição de fertilizantes"
+            ]
+        },
+        {
+            "nome": "Ricardo Parahyba",
+            "cargo": "superintendente de pesquisa da Agência Nacional de Mineração (ANM)",
+            "opinioes": [
+                "Mesmo em caso de liberação da licença, ainda haverá muito tempo até a efetiva produção de potássio no Brasil"
+            ]
+        }
+    ]
+}

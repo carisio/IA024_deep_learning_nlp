@@ -1,0 +1,46 @@
+{
+    "assunto": "Universidades comunitárias cobram ajustes na legislação para manter qualidade do ensino",
+    "envolvidos": [
+        {
+            "nome": "Gelson Rech",
+            "cargo": "Reitor da Universidade de Caxias do Sul",
+            "opinioes": [
+                "Defende a necessidade de mudanças na legislação para manter a qualidade do ensino",
+                "Disse: 'Os dados mostram que temos qualidade, mas também mostram que estamos morrendo devagarinho'"
+            ]
+        },
+        {
+            "nome": "Cláudio Jacoski",
+            "cargo": "Presidente da Associação Brasileira das Universidades Comunitárias (Abruc)",
+            "opinioes": [
+                "Defende um novo modelo de financiamento para as universidades comunitárias, com recursos públicos",
+                "Disse: 'Eu diria que hoje nós estamos totalmente amarrados na questão legal, apertados pelo orçamento e disputando um mercado desleal em que o objetivo é o corte de custos'"
+            ]
+        },
+        {
+            "nome": "Pedro Uczai",
+            "cargo": "Deputado (PT-SC)",
+            "opinioes": [
+                "Defende a criação de um grupo de trabalho nos Ministérios da Educação e da Ciência, Tecnologia e Inovação em busca de ações concretas",
+                "Concorda com ajustes na lei que regulamentou as universidades comunitárias",
+                "Disse: 'Elas querem a oportunidade de serem ainda melhores. Elas não querem precarizar. Olha a dor de todo mundo [reitores] aqui ao ter que demitir doutores ou fechar programas. Nós queremos potencializar as universidades comunitárias com mediação do Congresso e novo marco legal'"
+            ]
+        },
+        {
+            "nome": "Giovanna Gamba",
+            "cargo": "Coordenadora da Secretaria de Regulação e Supervisão da Educação Superior do Ministério da Educação",
+            "opinioes": [
+                "Informou a intenção de valorizar o papel das universidades comunitárias no ecossistema educacional",
+                "Não há citação direta na matéria"
+            ]
+        },
+        {
+            "nome": "Laerte Ferreira Junior",
+            "cargo": "Diretor do programa de bolsas da Capes",
+            "opinioes": [
+                "Reconhece a relevância das universidades comunitárias na formação acadêmica de mestres e doutores",
+                "Disse: 'Eu comparo uma instituição comunitária de educação superior a uma Santa Casa. Se uma Santa Casa fechar, a saúde e o SUS ficam totalmente comprometidos. Estamos falando de instituições comprometidas com o País'"
+            ]
+        }
+    ]
+}

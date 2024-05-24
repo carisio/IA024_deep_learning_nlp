@@ -1,0 +1,35 @@
+{
+    "assunto": "Seleção e formação de diretores escolares",
+    "envolvidos": [
+        {
+            "nome": "Antonio Bresolin",
+            "cargo": "diretor executivo da associação Dados para um Debate Democrático na Educação",
+            "opinioes": [
+                "Os diretores representam o segundo fator que mais impacta na qualidade da educação, atrás apenas dos professores.",
+                "Os gestores escolares interferem no bom clima escolar e na promoção de um ambiente de aprendizado e formação constante."
+            ]
+        },
+        {
+            "nome": "Lara Simielli",
+            "cargo": "professora da Fundação Getúlio Vargas e uma das autoras do estudo",
+            "opinioes": [
+                "A maioria das secretarias oferece formação continuada, mas a maioria ainda está relacionada a um aspecto pedagógico e isso feito por meio de aulas expositivas, tem muito pouco uso de aulas práticas, para formação desses diretores."
+            ]
+        },
+        {
+            "nome": "Idilvan Alencar",
+            "cargo": "deputado (PDT-CE)",
+            "opinioes": [
+                "Diretor que não é escolhido por mérito, por competência, fica à mercê do ditame de um determinado político.",
+                "As pessoas não respeitam diretor que não tem competência, e aí começam a vir resultados desastrosos."
+            ]
+        },
+        {
+            "nome": "Ana Cristina de Oliveira",
+            "cargo": "professora de pedagogia da Universidade Federal do Estado do Rio de Janeiro",
+            "opinioes": [
+                "Existe uma correlação muito importante e significativa entre a representatividade ou o reconhecimento do trabalho de liderança da equipe de gestão escolar eleita ou que passou por um processo seletivo que envolve a comprovação da sua competência técnica para atuar naquele cargo em comparação àquela que foi indicada politicamente."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "assunto": "Prevenção de transtornos mentais no ambiente de trabalho",
+  "envolvidos": [
+    {
+      "nome": "Cirlene Zimmermann",
+      "cargo": "Procuradora do Ministério Público do Trabalho",
+      "opinioes": [
+        "O risco psicossocial pode estar presente em qualquer órgão ou empresa e necessita ser combatido.",
+        "\"Os superiores hierárquicos devem estimular tratamento justo e respeitoso nas relações no ambiente de trabalho.\"",
+        "As normas trabalhistas precisam funcionar como um conjunto de regras que orientam empregadores a tornarem seus espaços de trabalho mais seguros e saudáveis, independentemente do tamanho ou faturamento da corporação.",
+        "Reafirmou a importância de se falar sobre os riscos psicossociais ainda em setembro, mês que há uma série ações no País de combate ao suicídio."
+      ]
+    },
+    {
+      "nome": "Carlos Veras",
+      "cargo": "Deputado (PT-PE)",
+      "opinioes": [
+        "A Comissão de Trabalho analisa o Projeto de Lei 3588/20, que obriga o governo federal a editar norma regulamentadora com medidas de prevenção e gestão de riscos no ambiente de trabalho que podem afetar a saúde mental dos trabalhadores.",
+        "Além de impactar a saúde mental dos funcionários, os riscos psicossociais prejudicam as relações interpessoais e a produtividade.",
+        "\"Os governos precisam cuidar do seu maior patrimônio que é a sua população, o seu povo, a classe trabalhadora.\""
+      ]
+    },
+    {
+      "nome": "Anne Caroline da Silva",
+      "cargo": "Representante da Coordenação-geral de Vigilância em Saúde do Trabalhador do Ministério da Saúde",
+      "opinioes": [
+        "O ambiente de trabalho deveria ser um local de proteção para a saúde mental, mas, muitas vezes, acaba tornando-se um fator de risco.",
+        "\"A gente não tem autonomia. São diferentes formas de assédio, de violência no ambiente de trabalho, de exigências de resultados. Tudo isso isso afeta nossa saúde mental.\"",
+        "Os gestores devem atuar também como promotores de saúde nos locais de trabalho.",
+        "\"Para isso, precisamos conhecer os fatores de risco de cada processo e agir na prevenção.\""
+      ]
+    }
+  ]
+}

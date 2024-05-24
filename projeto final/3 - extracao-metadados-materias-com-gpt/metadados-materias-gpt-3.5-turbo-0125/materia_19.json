@@ -1,0 +1,46 @@
+{
+    "assunto": "Projeto de lei para redução da velocidade média nas vias urbanas",
+    "envolvidos": [
+        {
+            "nome": "Jilmar Tatto",
+            "cargo": "Deputado (PT-SP)",
+            "opinioes": [
+                "Apresentou o projeto de lei que reduz a velocidade nas vias urbanas."
+            ]
+        },
+        {
+            "nome": "Juninho do Pneu",
+            "cargo": "Deputado (União-RJ)",
+            "opinioes": [
+                "Propôs a criação de um grupo de trabalho para agilizar a tramitação do projeto de lei."
+            ],
+            "citacao": "Vamos criar um grupo de trabalho. Acho que é muito importante para a gente encaminhar o assunto."
+        },
+        {
+            "nome": "Letícia Cardoso",
+            "cargo": "Representante do Ministério da Saúde",
+            "opinioes": [
+                "Defendeu a redução da velocidade nas vias urbanas.",
+                "Citou a bem-sucedida experiência de Fortaleza com a redução da velocidade."
+            ],
+            "citacao": "Existe um mito de que, se a gente reduz a velocidade dentro do perímetro urbano, os engarrafamentos aumentam"
+        },
+        {
+            "nome": "Victor Pavarino",
+            "cargo": "Técnico em Segurança Viária da Opas",
+            "opinioes": [
+                "Destacou que a velocidade é o principal fator de risco no trânsito."
+            ],
+            "citacao": "De todos os fatores de risco que a gente tem, de longe a velocidade continua sendo o principal."
+        },
+        {
+            "nome": "Carlos Henrique Carvalho",
+            "cargo": "Representante do Instituto de Pesquisa Econômica Aplicada (Ipea)",
+            "opinioes": [
+                "Destacou a importância de mais educação para motociclistas.",
+                "Defendeu a modernização das leis de trânsito, incluindo a redução da velocidade média."
+            ],
+            "citacao": "Nos últimos 25 anos, a participação das motocicletas em mortes por sinistros de trânsito eram menos de 5%, hoje já são 30%"
+        }
+    ]
+}

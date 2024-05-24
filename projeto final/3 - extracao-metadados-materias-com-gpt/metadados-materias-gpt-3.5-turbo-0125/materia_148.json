@@ -1,0 +1,61 @@
+{
+    "assunto": "Autorização para caça a javalis",
+    "envolvidos": [
+        {
+            "nome": "Marcos Pollon",
+            "cargo": "Deputado pelo PL-MS",
+            "opinioes": [
+                "Defende a volta das autorizações para caça a javalis",
+                "Cobra o enfrentamento da situação sem restrições ideológicas"
+            ]
+        },
+        {
+            "nome": "Ismael Alexandrino",
+            "cargo": "Deputado pelo PSD-GO",
+            "opinioes": [
+                "Defende a volta das autorizações para caça a javalis",
+                "Alerta sobre os riscos de uma espécie exótica invasora transmitir doenças"
+            ]
+        },
+        {
+            "nome": "Rafael Salerno",
+            "cargo": "Presidente da Associação Brasileira de Caçadores",
+            "opinioes": [
+                "Afirmou que a suspensão temporária do Simaf poderá prejudicar o controle da população de javalis",
+                "Caçadores prestam serviço de utilidade pública"
+            ]
+        },
+        {
+            "nome": "Livia Martins",
+            "cargo": "Diretora de Uso Sustentável da Biodiversidade e Florestas do Ibama",
+            "opinioes": [
+                "Defende a necessidade de um novo Sistema Integrado de Manejo de Fauna (Simaf)",
+                "Uma atualização do sistema já foi pedida, mas não há prazo para entrega"
+            ]
+        },
+        {
+            "nome": "Guilherme Takeda",
+            "cargo": "Coordenador da vigilância sobre doenças animais do Ministério da Agricultura e Pecuária",
+            "opinioes": [
+                "Defende o manejo do javali"
+            ]
+        },
+        {
+            "nome": "João Carlos Carli",
+            "cargo": "Consultor do Instituto Pensar Agropecuária",
+            "opinioes": [
+                "Defende o manejo do javali"
+            ]
+        },
+        {
+            "nome": "Humberto Brandão",
+            "cargo": "Chefe da divisão de controle de armas da Polícia Federal",
+            "opinioes": []
+        },
+        {
+            "nome": "Rodrigo Bordeaux",
+            "cargo": "Chefe da Divisão de Regulação da Diretoria de Fiscalização de Produtos Controlados do Exército",
+            "opinioes": []
+        }
+    ]
+}

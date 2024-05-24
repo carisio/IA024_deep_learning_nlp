@@ -1,0 +1,36 @@
+{
+    "assunto": "Dificuldade de acesso a diagnóstico de câncer de mama no SUS",
+    "envolvidos": [
+        {
+            "nome": "Verônica Savatin",
+            "cargo": "diretora do Conselho de Secretários Municipais de Saúde (Conasems)",
+            "opinioes": [
+                "Defende que muitos exames são de fácil acesso na rede privada, mas não na rede pública."
+            ]
+        },
+        {
+            "nome": "Weliton Prado",
+            "cargo": "deputado (Solidariedade-MG) e presidente da Comissão Especial de Combate ao Câncer",
+            "opinioes": [
+                "Defende a criação de um Fundo Nacional de Enfrentamento ao Câncer para garantir recursos para o tratamento da doença.",
+                "Afirmou: 'Nós não vamos tirar recursos de outros lugares, nós estamos propondo recursos que estão parados e podem salvar vidas.'"
+            ]
+        },
+        {
+            "nome": "Cíntia Cerqueira",
+            "cargo": "representante do Grupo Escolhemos Viver e paciente oncológica",
+            "opinioes": [
+                "Relatou que a falta de medicamentos é prejudicial aos pacientes acometidos pelo câncer.",
+                "Disse: 'O nosso outubro, infelizmente, não é rosa. O nosso outubro é cinza e sombrio, por falta de medicamentos, por falta de exames e por falta de médicos que tenham compaixão.'"
+            ]
+        },
+        {
+            "nome": "Silvia Cristina",
+            "cargo": "deputada (PL-RO)",
+            "opinioes": [
+                "Defende que o poder público ainda precisa fazer mais para contribuir com os pacientes oncológicos.",
+                "Afirmou: 'Não adianta só falar sobre melhorias se não houver ação. Um pronunciamento que não consegue atingir o seu José e a dona Maria com políticas públicas não serve.'"
+            ]
+        }
+    ]
+}

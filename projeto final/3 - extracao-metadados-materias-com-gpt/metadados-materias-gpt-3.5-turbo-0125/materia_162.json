@@ -1,0 +1,35 @@
+{
+    "assunto": "Prevenção de transtornos mentais no ambiente de trabalho",
+    "envolvidos": [
+        {
+            "nome": "Cirlene Zimmermann",
+            "cargo": "procuradora do Ministério Público do Trabalho",
+            "opinioes": [
+                "Defende a adoção de medidas para prevenir a ocorrência de transtornos mentais no ambiente de trabalho",
+                "Defende que os superiores hierárquicos devem estimular tratamento justo e respeitoso nas relações no ambiente de trabalho",
+                "Defende que as normas trabalhistas precisam funcionar como um conjunto de regras que orientam empregadores a tornarem seus espaços de trabalho mais seguros e saudáveis"
+            ],
+            "disse": "Os superiores hierárquicos devem estimular tratamento justo e respeitoso nas relações no ambiente de trabalho"
+        },
+        {
+            "nome": "Carlos Veras",
+            "cargo": "deputado",
+            "opinioes": [
+                "Defende a análise do Projeto de Lei 3588/20, que obriga o governo federal a editar norma regulamentadora com medidas de prevenção e gestão de riscos no ambiente de trabalho que podem afetar a saúde mental dos trabalhadores",
+                "Defende que os riscos psicossociais prejudicam as relações interpessoais e a produtividade",
+                "Destaca a importância de trabalhar em todos os dias do ano para garantir que a população tenha segurança nas leis trabalhistas"
+            ],
+            "disse": "Além de impactar a saúde mental dos funcionários, os riscos psicossociais prejudicam as relações interpessoais e a produtividade"
+        },
+        {
+            "nome": "Anne Caroline da Silva",
+            "cargo": "representante da Coordenação-geral de Vigilância em Saúde do Trabalhador do Ministério da Saúde",
+            "opinioes": [
+                "Destaca que o ambiente de trabalho deveria ser um local de proteção para a saúde mental",
+                "Defende que os gestores devem atuar como promotores de saúde nos locais de trabalho",
+                "Defende que é necessário conhecer os fatores de risco de cada processo e agir na prevenção"
+            ],
+            "disse": "A gente não tem autonomia. São diferentes formas de assédio, de violência no ambiente de trabalho, de exigências de resultados. Tudo isso isso afeta nossa saúde mental"
+        }
+    ]
+}

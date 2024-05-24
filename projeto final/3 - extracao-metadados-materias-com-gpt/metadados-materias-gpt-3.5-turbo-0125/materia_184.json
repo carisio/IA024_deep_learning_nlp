@@ -1,0 +1,44 @@
+{
+    "assunto": "Mudanças na Lei do Bem para facilitar colaboração entre universidades, empresas e governo",
+    "envolvidos": [
+        {
+            "nome": "Gianna Sagazio",
+            "cargo": "diretora de Inovação da Confederação Nacional da Indústria (CNI)",
+            "opinioes": [
+                "Defende que as empresas sejam apoiadas a inovar através da Lei do Bem"
+            ]
+        },
+        {
+            "nome": "Vitor Lippi",
+            "cargo": "deputado (PSDB-SP) e relator do projeto que muda a Lei do Bem",
+            "opinioes": [
+                "Destaca a importância da nova Lei do Bem para dar estabilidade e sustentabilidade às empresas a curto, médio e longo prazo"
+            ],
+            "citacao": "Temos consciência da importância da nova Lei do Bem, que realmente traz algumas contribuições importantes para dar mais estabilidade para as empresas e sustentabilidade de curto, médio e longo prazo"
+        },
+        {
+            "nome": "Guilherme Calheiro",
+            "cargo": "secretário de desenvolvimento tecnológico e inovação do Ministério da Ciência e Tecnologia",
+            "opinioes": [
+                "Explica que o marco legal da ciência, tecnologia e inovação já regulamenta os instrumentos necessários para o funcionamento do modelo de colaboração entre universidades, empresas e governo",
+                "Reconhece que há dificuldades impostas pelos órgãos de controle que dificultam a aplicação efetiva do marco legal"
+            ],
+            "citacao": "Isso dificulta, em grande parte, a aplicação efetiva do marco legal. Os órgãos de controle que não absorveram esse espírito da lei"
+        },
+        {
+            "nome": "Ricardo Galvão",
+            "cargo": "presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+            "opinioes": [
+                "Aponta dificuldades para colocar contratos diretos nas empresas para desenvolver componentes devido a obstáculos da consultoria jurídica da União"
+            ],
+            "citacao": "Temos uma dificuldade muito grande, por exemplo, de colocar contratos direto nas empresas para desenvolver componentes. Nunca era reconhecido pela consultoria jurídica da União como uma coisa possível de ser realizada. E isso é um problema seríssimo"
+        },
+        {
+            "nome": "Lílian Amaral",
+            "cargo": "gerente de relações Institucionais da Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras",
+            "opinioes": [
+                "Destaca a necessidade de melhorar o ambiente regulatório para promover a integração entre universidades, empresas e governo"
+            ]
+        }
+    ]
+}

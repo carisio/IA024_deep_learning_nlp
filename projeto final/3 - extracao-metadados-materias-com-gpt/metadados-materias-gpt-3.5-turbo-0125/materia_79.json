@@ -1,0 +1,51 @@
+{
+    "assunto": "Falhas no projeto de código de defesa dos contribuintes",
+    "envolvidos": [
+        {
+            "nome": "Mauro Silva",
+            "cargo": "presidente da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil (Unafisco)",
+            "opinioes": [
+                "Defende que para os que cumprem as obrigações tributárias, é necessário simplificar e facilitar a cobrança. Para os que tentam cumprir e não conseguem, é preciso instruí-los e auxiliá-los. Já para os que estão decididos a não cumprir, é necessário aplicar a força mais rigorosa da lei."
+            ]
+        },
+        {
+            "nome": "Fernando Mombelli",
+            "cargo": "subsecretário de Tributação e Contencioso da Secretaria Especial da Receita Federal do Brasil",
+            "opinioes": [
+                "Observou que colocar empecilhos ou alterações que inibem a fiscalização privilegia o mau contribuinte."
+            ]
+        },
+        {
+            "nome": "Isac Moreno Santos",
+            "cargo": "presidente do Sindifisco",
+            "opinioes": [
+                "Está preocupado com trechos da proposta que vedam a edição de normas infralegais pela fazenda pública e que passam a exigir autorização judicial para o uso de força policial em diligências no estabelecimento do contribuinte."
+            ]
+        },
+        {
+            "nome": "Ricardo Luiz de Souza",
+            "cargo": "representante do Comsefaz",
+            "opinioes": [
+                "Entende que as mudanças previstas no projeto promovem uma 'blindagem patrimonial do sonegador'."
+            ]
+        },
+        {
+            "nome": "Francelino Valença Junior",
+            "cargo": "diretor da Federação Nacional do Fisco Estadual e Distrital (Fenafisco)",
+            "opinioes": [
+                "Acredita que o projeto, da maneira como está, pode ser chamado de 'código de defesa do sonegador'. Questionou se alguém nas receitas estaduais e municipais ou da Receita Federal vai fazer alguma atuação sabendo que, se o auto cair, terá que ressarcir o contribuinte."
+            ]
+        },
+        {
+            "nome": "Pedro Paulo",
+            "cargo": "relator da matéria",
+            "opinioes": [
+                "Vai apresentar alterações no texto para diferenciar o tratamento dado ao bom contribuinte do recebido por sonegadores, fraudadores e devedores contumazes.",
+                "Vai manter a ideia original do projeto de harmonizar as relações entre fisco e o contribuinte.",
+                "O substitutivo deixa de proibir as fazendas públicas de editar atos normativos, mas passará a prever a participação de representantes dos contribuintes no processo.",
+                "Optou por permitir o apoio policial em processos de fiscalização de contribuintes sem a necessidade de autorização judicial, desde que seja apresentada justificativa.",
+                "Vai retirar do texto a parte que impedia as autoridades tributárias de bloquear, suspender ou cancelar a inscrição de contribuintes antes da decisão terminativa do processo administrativo."
+            ]
+        }
+    ]
+}

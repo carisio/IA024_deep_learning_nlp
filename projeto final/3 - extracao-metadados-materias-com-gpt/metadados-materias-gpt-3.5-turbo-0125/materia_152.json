@@ -1,0 +1,44 @@
+{
+    "assunto": "Extinção da lei que regulamenta o seguro obrigatório para vítimas do trânsito",
+    "envolvidos": [
+        {
+            "nome": "Carlos Roberto Alves de Queiroz",
+            "cargo": "Diretor da Superintendência de Seguros Privados (Susep)",
+            "opinioes": [
+                "Explicou que o governo suspendeu a cobrança do DPVAT em 2020 e que as empresas de seguro decidiram dissolver o consórcio."
+            ]
+        },
+        {
+            "nome": "Márcio Jerry",
+            "cargo": "Deputado (PCdoB-MA)",
+            "opinioes": [
+                "Autor do pedido para a realização do debate",
+                "Anunciou a criação de uma subcomissão para acompanhar o assunto e negociar uma solução junto ao governo federal"
+            ]
+        },
+        {
+            "nome": "Patrícia Menezes",
+            "cargo": "Diretora jurídica do Centro de Defesa das Vítimas do Trânsito",
+            "opinioes": [
+                "Critica o Ministério da Fazenda por não debater o assunto ou apresentar uma proposta sobre o novo modelo de funcionamento do DPVAT",
+                "Disse: 'Cadê o fundo? O valor? Nós não sabemos quanto tem, onde tem. Nós precisamos saber, nós precisamos de transparência para que possamos ter a real noção, e para que seja feita, de maneira urgente, a manutenção do seguro obrigatório DPVAT'"
+            ]
+        },
+        {
+            "nome": "Ênio Alberto Siloti",
+            "cargo": "Representante da Associação Nacional dos Procuradores de Seguro",
+            "opinioes": [
+                "Apontou que o valor pago a vítimas de acidentes de trânsito está congelado há 17 anos",
+                "Se tivesse sido corrigido para corresponder aos 40 salários mínimos que valiam em 2007, o pagamento em caso de morte ou invalidez seria de R$ 52,8 mil. Para despesas médicas, seria de R$ 10.560,00"
+            ]
+        },
+        {
+            "nome": "Carlos Ademir Veras Pinheiro",
+            "cargo": "Vice-presidente da Associação Brasileira de Atendimento às Vítimas de Trânsito",
+            "opinioes": [
+                "Afirmou que 65% das vítimas de trânsito no Brasil ganham entre zero e 1 salário mínimo",
+                "Destacou que o seguro é fundamental para que possam se reestabelecer"
+            ]
+        }
+    ]
+}

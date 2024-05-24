@@ -1,0 +1,47 @@
+{
+    "assunto": "Violência nas escolas e medidas de prevenção",
+    "envolvidos": [
+        {
+            "nome": "Daniel Cara",
+            "cargo": "Professor de Educação da Universidade de São Paulo",
+            "opinioes": [
+                "Defende que a melhor prevenção da violência nas escolas é que o ambiente escolar seja democrático e saudável",
+                "Afirmou que 'a melhor prevenção é que o ambiente escolar seja democrático e saudável'"
+            ]
+        },
+        {
+            "nome": "Catarina de Almeida",
+            "cargo": "Professora da Faculdade de Educação da Universidade de Brasília (UnB)",
+            "opinioes": [
+                "Defende que transformar a escola em prisão não é uma boa ideia",
+                "Afirmou que 'transformar a escola em prisão não é uma boa ideia'",
+                "A inserção de artefatos de segurança nas escolas não vai enfrentar o impacto do extremismo de direita nos jovens"
+            ]
+        },
+        {
+            "nome": "Pastor Henrique Vieira",
+            "cargo": "Deputado (Psol-RJ)",
+            "opinioes": [
+                "Defende que as forças de segurança foquem em inteligência para combater a violência nas escolas",
+                "Lamentou a cultura de ódio, preconceito e discriminação entre os jovens",
+                "Defende a valorização da escola como espaço de diversidade"
+            ]
+        },
+        {
+            "nome": "Josevanda Franco",
+            "cargo": "Presidente da União Nacional dos Dirigentes Municipais de Educação (Undime-se)",
+            "opinioes": [
+                "Defende que soluções como a militarização das escolas não funcionam",
+                "A violência escolar reflete o que acontece na sociedade"
+            ]
+        },
+        {
+            "nome": "Ana Paula Lima",
+            "cargo": "Deputada (PT-SC)",
+            "opinioes": [
+                "Critica personalidades políticas que incitam o ódio e a violência",
+                "Critica parlamentares que tiram foto com metralhadora empunhada, disseminando o ódio e a violência"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "assunto": "Medidas para evitar pane em São Paulo após temporal",
+    "envolvidos": [
+        {
+            "nome": "Carlos Manuel Baigorri",
+            "cargo": "Presidente da Agência Nacional de Telecomunicações (Anatel)",
+            "opinioes": [
+                "Defende o trabalho conjunto com as operadoras de telefonia para evitar uma pane generalizada no sistema de telecomunicações em São Paulo após o temporal",
+                "Reconhece que a falta de energia elétrica pode prejudicar o fornecimento dos serviços no estado",
+                "Defende a reforma das leis do setor de telecomunicações, criticando a assimetria entre os meios de comunicação tradicionais e os novos"
+            ]
+        },
+        {
+            "nome": "Amaro Neto",
+            "cargo": "Deputado (Republicanos-ES)",
+            "opinioes": [
+                "Apoiou a modernização legislativa no setor de telecomunicações, visando evitar que a radiodifusão e o serviço de TV a cabo fiquem presos e permitindo que as novas mídias possam ser taxadas ou cumprir determinações"
+            ]
+        }
+    ]
+}

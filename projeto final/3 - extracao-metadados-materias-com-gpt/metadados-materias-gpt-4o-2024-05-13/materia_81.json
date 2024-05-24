@@ -1,0 +1,55 @@
+{
+  "assunto": "Fornecimento e preço de fertilizantes no Brasil em meio ao conflito entre Rússia e Ucrânia",
+  "envolvidos": [
+    {
+      "nome": "Luís Rangel",
+      "cargo": "Diretor de programa da secretaria executiva do Ministério da Agricultura",
+      "opinioes": [
+        "Atribuiu à diplomacia o atual quadro de normalidade no abastecimento de fertilizantes no Brasil.",
+        "\"Deixou de agir na promoção do nosso agronegócio lá fora para garantir o abastecimento dos insumos que vinham de fora para dentro. Só da Rússia, nós aumentamos as importações em 70% no primeiro trimestre\".",
+        "\"O sinal é amarelo. Apesar de todos os esforços, o preço dos fertilizantes disparou e isso foi dramático para o que chamamos de custo variável de produção\"."
+      ]
+    },
+    {
+      "nome": "Reginaldo Minaré",
+      "cargo": "Diretor técnico da Confederação da Agricultura e Pecuária do Brasil (CNA)",
+      "opinioes": [
+        "Elogiou a estratégia do governo de direcionar o trabalho da diplomacia para a questão dos insumos e fertilizantes.",
+        "Ressaltou a “acanhada” produção doméstica e a grande dependência do País em nitrogênio, fósforo e potássio (NPK) importados."
+      ]
+    },
+    {
+      "nome": "Bosco Costa",
+      "cargo": "Deputado (PL-SE)",
+      "opinioes": [
+        "\"A gente sabe que o agro vem dando grande contribuição ao PIB do Brasil, mas como 23% dos insumos dos fertilizantes vêm da Rússia, a guerra está prejudicando muito o setor\"."
+      ]
+    },
+    {
+      "nome": "Vinícius Benites",
+      "cargo": "Presidente do Comitê Gestor de Nutrientes da Embrapa",
+      "opinioes": [
+        "Não vê solução imediata para a dependência do Brasil na importação de fertilizantes.",
+        "\"O Brasil depende e dependerá, por muito tempo, da importação de fertilizantes. O problema dos fertilizantes no Brasil é estrutural, geológico: as nossas fontes de fósforo e potássio não são suficientes para suprir a nossa demanda\".",
+        "O Brasil pode aproveitar a crise para investir em novas tecnologias, como redução da quantidade de adubação, aproveitamento de pastagens degradadas, nutrientes organominerais e o uso de resíduos orgânicos.",
+        "\"O que existe de potássio em dejetos de suínos e aves é mais do que a (atual) produção nacional de potássio\"."
+      ]
+    },
+    {
+      "nome": "Amalia Borsari",
+      "cargo": "Diretora de biológicos da Croplife Brasil",
+      "opinioes": [
+        "Mostrou avanços na produção de fertilizantes de base animal, vegetal e microbiana.",
+        "São produtos que permitem maior absorção de nutrientes, redução da dose de fertilizante e até substituição de fertilizantes, sobretudo os nitrogenados.",
+        "O setor cresce a taxa anual de 8% a 11% e o faturamento global é de cerca US$ 1,2 bilhões."
+      ]
+    },
+    {
+      "nome": "Ricardo Parahyba",
+      "cargo": "Superintendente de pesquisa da Agência Nacional de Mineração (ANM)",
+      "opinioes": [
+        "Disse que, mesmo em caso de liberação da licença, ainda haverá muito tempo até a efetiva produção de potássio no Brasil."
+      ]
+    }
+  ]
+}

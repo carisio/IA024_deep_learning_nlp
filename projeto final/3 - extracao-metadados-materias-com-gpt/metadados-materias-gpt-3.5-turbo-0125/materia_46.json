@@ -1,0 +1,55 @@
+{
+    "assunto": "Aplicação de recursos do Fust para conectar meio rural",
+    "envolvidos": [
+        {
+            "nome": "Zé Silva",
+            "cargo": "Deputado (Solidariedade-MG)",
+            "opinioes": [
+                "Defende a aplicação de recursos do Fust para a conexão do meio rural à internet",
+                "Propõe a criação de um grupo específico no conselho gestor do fundo para tratar do setor agrícola",
+                "Vai propor uma indicação nesse sentido"
+            ]
+        },
+        {
+            "nome": "Wilson Diniz",
+            "cargo": "Diretor de Política Setorial de Telecomunicações no Ministério das Comunicações",
+            "opinioes": [
+                "Elogiou a aprovação pelo Congresso Nacional da lei que alterou a regulamentação do Fust"
+            ]
+        },
+        {
+            "nome": "Sibelle Silva",
+            "cargo": "Diretora da Secretaria de Inovação, Desenvolvimento Sustentável e Irrigação do Ministério da Agricultura",
+            "opinioes": [
+                "Informou sobre o baixo percentual de cobertura de internet no território agrícola",
+                "Destacou a relação entre conectividade e inovação no setor agropecuário",
+                "Estimou o incremento do valor da produção bruta agropecuária com a melhoria da cobertura de internet"
+            ]
+        },
+        {
+            "nome": "José Ferreira da Costa Neto",
+            "cargo": "Presidente da Agência Nacional de Assistência Técnica e Extensão Rural",
+            "opinioes": [
+                "Destacou a importância de conectar o pequeno e médio produtor para ajudá-los a vender seus produtos",
+                "Citou benefícios da conectividade rural, como aumento da área de abrangência da atuação da Anater e formação e qualificação a distância de agricultores"
+            ]
+        },
+        {
+            "nome": "Daniela Martins",
+            "cargo": "Gerente de Relações Institucionais e de Comunicação da Conexis Brasil Digital",
+            "opinioes": [
+                "Garantiu que as empresas cumpriram as exigências dos editais anteriores ao 5G",
+                "Defendeu a necessidade de políticas públicas para garantir acesso das pessoas de baixa renda",
+                "Considera fundamental que os recursos do Fust não sejam contingenciados",
+                "Afirmou a importância de legislação atualizada para permitir a instalação ágil de equipamentos do 5G"
+            ]
+        },
+        {
+            "nome": "Luis Fernando Volpato",
+            "cargo": "Representante da Organização das Cooperativas Brasileiras",
+            "opinioes": [
+                "Defendeu a aprovação do Projeto de Lei 8824/17, que permite a prestação dos serviços de telecomunicações por cooperativas"
+            ]
+        }
+    ]
+}

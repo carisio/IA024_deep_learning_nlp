@@ -1,0 +1,47 @@
+{
+    "assunto": "Necessidade de mais regulamentação do e-commerce, especialmente para importações",
+    "envolvidos": [
+        {
+            "nome": "Jorge Gonçalves",
+            "cargo": "presidente do Instituto para o Desenvolvimento do Varejo",
+            "opinioes": [
+                "Destacou o aumento no número de pacotes de encomendas de pequeno valor recebidos do exterior pelos Correios entre 2018 e 2022",
+                "Pediu apoio dos parlamentares para a instrução normativa da Receita Federal que altera os procedimentos de controle aduaneiro aplicáveis às remessas internacionais"
+            ]
+        },
+        {
+            "nome": "Guilherme Santos",
+            "cargo": "representante da Associação Brasileira de Comércio Eletrônico",
+            "opinioes": [
+                "Concorda que a questão fiscal é um grande desafio para o comércio digital",
+                "Não entende como problema a isenção de impostos para compras de até 50 dólares no Brasil",
+                "Acredita que o problema está no mau uso da ferramenta de forma intencional e na impossibilidade de controle, que não deve penalizar o consumidor"
+            ]
+        },
+        {
+            "nome": "Zé Neto",
+            "cargo": "deputado (PT-BA)",
+            "opinioes": [
+                "Destacou a necessidade de um marco regulatório para garantir competição adequada e proteger o setor produtivo brasileiro",
+                "Afirmou que o setor espera um crescimento de 24% neste ano"
+            ]
+        },
+        {
+            "nome": "Adriana Azevedo",
+            "cargo": "representante do Ministério do Desenvolvimento, Indústria e Comércio",
+            "opinioes": [
+                "Destacou o lançamento de um painel de dados sobre produtos comercializados pela internet no Brasil",
+                "Enfatizou o compromisso do MDIC com o comércio leal e a importância de aproveitar os benefícios do e-commerce de forma adequada",
+                "Entende que o comércio eletrônico veio para ficar e que é necessário adequar o que estiver fora do lugar"
+            ]
+        },
+        {
+            "nome": "Lucas Ramos",
+            "cargo": "deputado (PSB-PE)",
+            "opinioes": [
+                "Entende que o Poder Legislativo não pode mais ignorar a necessidade de uma regulamentação eficaz para o setor",
+                "Destacou a importância de construir uma legislação favorável para o desenvolvimento de negócios no ambiente do e-commerce"
+            ]
+        }
+    ]
+}

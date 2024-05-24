@@ -1,0 +1,48 @@
+{
+    "assunto": "Regulamentação do trabalho de motoristas de aplicativo",
+    "envolvidos": [
+        {
+            "nome": "Paulo Xavier",
+            "cargo": "presidente da Federação dos Motoristas por Aplicativos do Brasil",
+            "opinioes": [
+                "Defende autonomia para os motoristas",
+                "Defende a rejeição integral da proposta do Executivo"
+            ]
+        },
+        {
+            "nome": "Tadeu Henrique Lopes",
+            "cargo": "procurador do trabalho e gerente nacional do Projeto Estratégico Plataformas",
+            "opinioes": [
+                "Considera insuficiente o valor de R$ 8 por hora trabalhada para garantir a aposentadoria"
+            ],
+            "disse": "Considerando a reforma da Previdência, para que a pessoa tenha o benefício, ela tem que ter um salário de contribuição relativo ao salário mínimo. A gente vê aqui uma possibilidade real de que motoristas recolham e não recebam o benefício futuramente, porque esses R$ 8 por hora podem não alcançar no final do mês esse valor do salário mínimo."
+        },
+        {
+            "nome": "Rodrigo Carelli",
+            "cargo": "coordenador do Grupo Direito do Trabalho no Século 21",
+            "opinioes": [
+                "Critica o projeto por não garantir autonomia aos trabalhadores nem tratá-los como empregados"
+            ],
+            "disse": "O projeto tem o slogan de que seria um autônomo com direitos. Não, na verdade, é um subordinado sem direitos."
+        },
+        {
+            "nome": "Carina Mineia dos Santos Trindade",
+            "cargo": "representante da Federação Nacional dos Sindicatos dos Motoristas de Aplicativos",
+            "opinioes": [
+                "Defende o projeto do governo",
+                "Defende a necessidade de cobertura às famílias dos motoristas",
+                "Defende a criação oficial da categoria para retirá-los da invisibilidade",
+                "Faz um apelo para que o projeto seja aperfeiçoado por meio de emendas"
+            ],
+            "disse": "Foram feitas audiências públicas estaduais e federais, foram feitas pesquisas em vários órgãos, nas quais os trabalhadores foram ouvidos. Muitos motoristas morreram, infelizmente, e a gente depende de ações na Justiça para que a família receba alguma coisa."
+        },
+        {
+            "nome": "Glauber Braga",
+            "cargo": "deputado",
+            "opinioes": [
+                "Defende a retirada da urgência constitucional para análise da proposta em até 45 dias no Plenário da Câmara"
+            ],
+            "disse": "Temos que trabalhar por um projeto que represente ganhos reais para os trabalhadores"
+        }
+    ]
+}

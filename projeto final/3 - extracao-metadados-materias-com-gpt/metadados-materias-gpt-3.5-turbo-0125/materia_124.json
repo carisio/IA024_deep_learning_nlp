@@ -1,0 +1,32 @@
+{
+    "assunto": "Política de regularização de terras no Incra",
+    "envolvidos": [
+        {
+            "nome": "César Aldrighi",
+            "cargo": "Presidente do Instituto Nacional de Colonização e Reforma Agrária (Incra)",
+            "opinioes": [
+                "A política de regularização não será paralisada no atual governo",
+                "Houve uma parada momentânea nos processos para adequar o sistema de gestão fundiária do Incra (Sigef) às regras do decreto",
+                "As superintendências regionais estão orientadas a retomar o processo de regularização"
+            ]
+        },
+        {
+            "nome": "Coronel Fernanda",
+            "cargo": "Deputada (PL-MT)",
+            "opinioes": [
+                "Manifestou preocupação com a regularização das ocupações em glebas públicas rurais, principalmente nos casos em que ocorre sobreposição a florestas públicas",
+                "É importante que o Incra atue de acordo com a lei, sem posicionamentos ideológicos",
+                "Defende que o Incra atenda todos os pequenos produtores"
+            ]
+        },
+        {
+            "nome": "Bohn Gass",
+            "cargo": "Deputado (PT-RS)",
+            "opinioes": [
+                "O decreto corrigiu distorções no processo de regularização fundiária",
+                "Critica quem defende a regularização de áreas em florestas públicas",
+                "Defende que a regulação fundiária seja dada para quem está dentro da lei, e não fora da lei"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "assunto": "Censo quilombola e demarcação de terras",
+    "envolvidos": [
+        {
+            "nome": "Reginete Bispo",
+            "cargo": "Deputada (PT-RS)",
+            "opinioes": [
+                "Defende que o censo das comunidades quilombolas é o primeiro passo na garantia de direitos",
+                "Defende a utilização dos dados do censo para garantir políticas públicas efetivas para a população negra e quilombola",
+                "Afirmou: 'Esses dados são um marco histórico, porque demonstram a diversidade e a amplitude das comunidades quilombolas no nosso País; no entanto, eles também ressaltam desafios críticos, como o acesso à terra, o enfrentamento à violência (como nós bem acompanhamos há décadas) e, no último período, o assassinato da Bernardete no estado da Bahia'"
+            ]
+        },
+        {
+            "nome": "Francinete Pereira da Cruz",
+            "cargo": "Representante do Ministério da Igualdade Racial",
+            "opinioes": [
+                "Apontou que existem 494 quilombos delimitados oficialmente, mas apenas 147 são titulados pelo Incra ou pelos órgãos estaduais",
+                "Destacou a necessidade de reconhecimento territorial para resolver o problema da falta de titulação"
+            ]
+        },
+        {
+            "nome": "José Henrique Sampaio Pereira",
+            "cargo": "Coordenador de territórios quilombolas do Incra",
+            "opinioes": [
+                "Informou que o Incra tem 1.800 processos de regularização de territórios quilombolas abertos, mas não possui estrutura para atender a demanda",
+                "Relatou que o Incra perdeu 40% do seu quadro de funcionários entre 2014 e 2022 e possui um orçamento de R$ 400 mil para todas as suas atividades"
+            ]
+        },
+        {
+            "nome": "Luiz Couto",
+            "cargo": "Deputado (PT-PB)",
+            "opinioes": [
+                "Defende a cobrança do Parlamento para a reestruturação dos órgãos públicos visando garantir os direitos dos quilombolas",
+                "Ressaltou: 'O importante primeiro é dar a condição para que, de fato, esse levantamento de todos os quilombos possa ser regulamentado, e, para isso, precisa ter técnicos, gente. Por isso, acho que a luta nossa aqui é de exigir também que o próprio governo possa fazer um concurso com técnicos que, efetivamente, sejam comprometidos com essa causa'"
+            ]
+        },
+        {
+            "nome": "Denildo de Moraes Biko Rodrigues",
+            "cargo": "Representante da Coordenação Nacional de Articulação de Quilombos",
+            "opinioes": [
+                "Apontou que o ritmo de demarcação atual levará mais de 2 mil anos para regularizar os mais de 6 mil territórios quilombolas no Brasil",
+                "Defende que a situação é resultado do 'racismo fundiário'",
+                "Defende o reconhecimento e demarcação dos territórios quilombolas como forma de combater o racismo fundiário",
+                "Propõe políticas como formação escolar específica para a população quilombola e linhas de financiamento com regras especiais para essas comunidades"
+            ]
+        }
+    ]
+}

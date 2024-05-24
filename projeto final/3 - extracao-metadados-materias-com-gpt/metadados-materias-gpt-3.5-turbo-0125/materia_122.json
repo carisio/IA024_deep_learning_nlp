@@ -1,0 +1,44 @@
+{
+    "assunto": "Negociação de recursos para seguro rural e apoio à cadeia de leite",
+    "envolvidos": [
+        {
+            "nome": "Carlos Fávaro",
+            "cargo": "Ministro da Agricultura e Pecuária",
+            "opinioes": [
+                "Está negociando com a equipe econômica do governo mais R$ 500 milhões para o programa de subvenção ao Prêmio do Seguro Rural",
+                "Não podemos fechar o ano sem aportar, pelo menos, mais 500 milhões para o seguro rural. É prioridade total, e não há nenhuma insensibilidade do governo com relação a isso",
+                "O governo está aberto a discutir o trabalho temporário no campo para participantes do Bolsa Família"
+            ]
+        },
+        {
+            "nome": "Afonso Hamm",
+            "cargo": "Deputado (PP-RS)",
+            "opinioes": [
+                "Defende o fim do contingenciamento dos recursos reservados no Orçamento para o PSR",
+                "É autor de um projeto nesse sentido que tramita na Câmara (PL 1511/23)"
+            ]
+        },
+        {
+            "nome": "Domingos Sávio",
+            "cargo": "Deputado (PL-MG)",
+            "opinioes": [
+                "Lamentou que o decreto editado para ajudar a cadeia de leite só vai produzir efeitos a partir de janeiro",
+                "Critica a existência do prazo de noventena que incentivou os importadores a fazerem estoques de leite, prejudicando o segmento nacional"
+            ]
+        },
+        {
+            "nome": "Welter",
+            "cargo": "Deputado (PT-PR)",
+            "opinioes": [
+                "Pediu mais apoio à cadeia leiteira"
+            ]
+        },
+        {
+            "nome": "Zé Trovão",
+            "cargo": "Deputado (PL-SC)",
+            "opinioes": [
+                "Pediu mais apoio à cadeia leiteira"
+            ]
+        }
+    ]
+}

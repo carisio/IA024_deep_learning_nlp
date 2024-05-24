@@ -1,0 +1,30 @@
+{
+    "assunto": "Urgência para socorrer produtores do norte de Minas em seca sem precedentes",
+    "envolvidos": [
+        {
+            "nome": "Tales Domingos Vieira",
+            "cargo": "Representante da Emater Minas",
+            "opinioes": [
+                "Defende a urgência do socorro aos produtores do norte de Minas devido à seca sem precedentes",
+                "Afirmou: 'Temos um ano muito atípico em Minas Gerais, especificamente no norte de Minas. Nunca tivemos uma seca, um evento tão dramático como o que a gente vive agora'"
+            ]
+        },
+        {
+            "nome": "Ricardo Demichelli",
+            "cargo": "Subsecretário de Agricultura de Minas Gerais",
+            "opinioes": [
+                "Confirma a gravidade da situação de seca sem precedentes no norte de Minas Gerais",
+                "Relatou: 'Fui de carro cortando o estado. Deparamos com um cenário de gado comendo terra, magro, coro e o osso e sem saída'",
+                "Avalia que não há reserva estratégica nem metodologia de convivência com a seca que suporte a falta de chuvas"
+            ]
+        },
+        {
+            "nome": "Zé Silva",
+            "cargo": "Deputado (Solidariedade-MG) e presidente da comissão",
+            "opinioes": [
+                "Idealizou a audiência e elaborou um documento com 14 medidas emergenciais para a região, incluindo operações com carros pipa e liberação de crédito rural",
+                "Disse: 'A nossa preocupação é que não seja uma audiência que não gere medidas concretas'"
+            ]
+        }
+    ]
+}

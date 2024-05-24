@@ -1,0 +1,47 @@
+{
+    "assunto": "Retomada de projetos de hidrelétricas com reservatórios",
+    "envolvidos": [
+        {
+            "nome": "Geraldo Mendes",
+            "cargo": "Deputado (União-PR)",
+            "opinioes": [
+                "Defende a retomada da construção de usinas hidrelétricas com grandes reservatórios de água",
+                "Defende que os reservatórios das usinas hidrelétricas não prejudicam o meio ambiente",
+                "Disse: 'É um grande equivoco que o ‘usineiro’ não tem responsabilidade ambiental. Pelo contrário, nós somos os maiores preservadores ambientais do mundo para poder ter uma boa qualidade de produção de energia'"
+            ]
+        },
+        {
+            "nome": "Charles Lenzi",
+            "cargo": "Presidente executivo da Associação Brasileira de Geração de Energia Limpa (Abragel)",
+            "opinioes": [
+                "Defende que os reservatórios de acumulação podem ajudar o País a cumprir as metas de descarbonização assumidas em acordos internacionais"
+            ]
+        },
+        {
+            "nome": "Ludimila Lima da Silva",
+            "cargo": "Superintendente de Concessões, Permissões e Autorizações dos Serviços de Energia Elétrica (SCE) da Aneel",
+            "opinioes": [
+                "Aponta a queda no número de projetos para construção de hidrelétricas no Brasil",
+                "Aponta múltiplos fatores, como questões ambientais e o excesso de ofertas de outras fontes, para a diminuição do interesse das empresas do setor",
+                "Defende que o setor precisa melhorar a sua comunicação com a sociedade sobre o papel das usinas hidrelétricas no suprimento nacional"
+            ]
+        },
+        {
+            "nome": "Alessandra Torres",
+            "cargo": "Presidente da Associação Brasileira de Centrais Geradoras Hidrelétricas e Pequenas Centrais Hidrelétricas (Abrapch)",
+            "opinioes": [
+                "Defende que é preciso descontruir a ideia de que as hidrelétricas prejudicam o meio ambiente",
+                "Disse: 'Precisamos consertar o discurso de demonização ambiental de parte da sociedade'"
+            ]
+        },
+        {
+            "nome": "Christiany Salgado Faria",
+            "cargo": "Diretora do Departamento de Planejamento e Outorgas de Geração de Energia Elétrica do Ministério de Minas e Energia",
+            "opinioes": [
+                "Aponta que o potencial a ser explorado de geração hídrica chega a 52 gigawatts, o equivalente a quase quatro Itaipus",
+                "Defende que a instalação de novos empreendimentos deve passar pelo debate com outros atores",
+                "Afirma: 'Novos reservatórios não têm que ser focados só na geração de energia elétrica. A gente tem que sentar com outros atores e pensar nos usos múltiplos'"
+            ]
+        }
+    ]
+}

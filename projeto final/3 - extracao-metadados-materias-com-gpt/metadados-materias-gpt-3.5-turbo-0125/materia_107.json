@@ -1,0 +1,52 @@
+{
+    "assunto": "Reivindicação de melhorias na infraestrutura de prevenção a desastres",
+    "envolvidos": [
+        {
+            "nome": "Coronel Henguel Ricardo",
+            "cargo": "Coordenador de Proteção e Defesa Civil de São Paulo",
+            "opinioes": [
+                "Defende a modernização do sistema de radar para previsão meteorológica",
+                "Disse: 'Radares eficientes e modernos para conseguirmos enxergar com mais precisão o que se aproxima de cada região'"
+            ]
+        },
+        {
+            "nome": "Coronel Carlos Frederico Otoni Garcia",
+            "cargo": "Coordenador da Defesa Civil de Minas Gerais",
+            "opinioes": [
+                "Defende a cobertura de satélite em 100% dos municípios para prevenção de desastres"
+            ]
+        },
+        {
+            "nome": "Coronel Luciano Chaves Boeira",
+            "cargo": "Representante do Rio Grande do Sul",
+            "opinioes": [
+                "Defende a implantação do sistema de alerta chamado de Céu Broadcast",
+                "Disse: 'O prazo inicial previsto pelo governo federal para implantar o serviço era o final do ano passado. Agora, segundo afirmou, a entrega deve ocorrer em maio deste ano'"
+            ]
+        },
+        {
+            "nome": "Deputado Gilson Daniel",
+            "cargo": "Deputado (PODE-ES)",
+            "opinioes": [
+                "Sugeriu a realização de uma nova audiência pública para discutir o novo serviço de alertas de risco",
+                "Defendeu a destinação de mais recursos para a defesa civil",
+                "Disse: 'Até para esclarecer como será a resposta da população lá na ponta. O perigo é o sistema de alerta cair no descrédito. A população quando recebe um alerta tem de saber para onde vai e o que fazer'"
+            ]
+        },
+        {
+            "nome": "Marlisson Soares Cunha",
+            "cargo": "Representante do Maranhão",
+            "opinioes": [
+                "Destacou a demora na destinação de verbas para atendimento emergencial à população vítima de desastres"
+            ]
+        },
+        {
+            "nome": "Pedro Henrique Correa Teixeira",
+            "cargo": "Gestor de Políticas Públicas do Acre",
+            "opinioes": [
+                "Defendeu a criação de um plano de ação para situações recorrentes de desastres",
+                "Disse: 'Se eu já sei no início do ano que eu vou ter esse evento, que a União, o Ministério do Desenvolvimento Regional, que os deputados consigam dentro dos mecanismos legais dar para a gente o subsídio imediatamente, quando a chuva chegar'"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "assunto": "Revisão da alíquota de taxação das operadoras de apostas esportivas",
+    "envolvidos": [
+        {
+            "nome": "José Francisco Mansur",
+            "cargo": "Assessor especial da Secretaria Executiva do Ministério da Fazenda",
+            "opinioes": [
+                "Defende a flexibilização da alíquota de taxação das empresas que operam apostas esportivas, sinalizando que o número pode ficar abaixo dos 18%",
+                "Afirmou que a tributação das bets é uma questão de justiça tributária, contribuindo com a arrecadação para investimentos em setores prioritários como saúde e educação",
+                "Informou que o governo pode judicializar a questão das licenças emitidas pelos estados que permitem às bets operar em todo o País"
+            ]
+        },
+        {
+            "nome": "Adolfo Viana",
+            "cargo": "Deputado (PSDB-BA)",
+            "opinioes": [
+                "Está discutindo com o assessor José Francisco Mansur valores mínimo e máximo aceitos pelo Executivo para a alíquota final de taxação das empresas de apostas esportivas"
+            ]
+        },
+        {
+            "nome": "Bandeira de Mello",
+            "cargo": "Deputado (PSB-RJ)",
+            "opinioes": [
+                "Questionou José Francisco Mansur sobre a flexibilização do imposto, que segundo o assessor tornará o mercado muito acessível"
+            ]
+        },
+        {
+            "nome": "Mauricio do Vôlei",
+            "cargo": "Deputado (PL-MG)",
+            "opinioes": [
+                "Defende a taxação das casas de apostas esportivas, argumentando que a regulamentação é necessária para garantir contrapartidas para o País"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "assunto": "Ausência do presidente da Enel Brasil em audiência na Câmara",
+    "envolvidos": [
+        {
+            "nome": "Nicola Cotugno",
+            "cargo": "Presidente da Enel Brasil",
+            "opinioes": [
+                "Não compareceu a uma audiência na Câmara para tratar do apagão do início de novembro em 23 municípios paulistas atendidos pela Enel São Paulo",
+                "Informou que não viria por ter outro compromisso profissional"
+            ]
+        },
+        {
+            "nome": "Rodrigo de Castro",
+            "cargo": "Presidente da Comissão de Minas e Energia",
+            "opinioes": [
+                "Fez duras críticas à ausência do presidente da Enel, demonstrando intolerância e falta de capacidade de diálogo da empresa"
+            ]
+        },
+        {
+            "nome": "Ivan Valente",
+            "cargo": "Deputado (Psol-SP)",
+            "opinioes": [
+                "Considerou a atitude de Cotugno desrespeitosa com a Câmara"
+            ]
+        },
+        {
+            "nome": "Arnaldo Jardim",
+            "cargo": "Deputado (Cidadania-SP)",
+            "opinioes": [
+                "Defendeu a necessidade de debater uma lei para regular a renovação das concessões de distribuição que vencem a partir de 2025"
+            ]
+        },
+        {
+            "nome": "Max Lemos",
+            "cargo": "Deputado (PDT-RJ)",
+            "opinioes": [
+                "Está colhendo assinaturas de apoio para a criação de uma CPI para apurar a atuação da Enel"
+            ]
+        },
+        {
+            "nome": "Alex Manente",
+            "cargo": "Deputado (Cidadania-SP)",
+            "opinioes": [
+                "Propôs uma 'força-tarefa' para criar a CPI e verificar o contrato da concessão da Enel"
+            ]
+        },
+        {
+            "nome": "Altineu Côrtes",
+            "cargo": "Deputado (PL-RJ)",
+            "opinioes": [
+                "Pediu união dos partidos para criar a comissão parlamentar de inquérito (CPI)"
+            ]
+        },
+        {
+            "nome": "Bacelar",
+            "cargo": "Deputado (PV-BA)",
+            "opinioes": [
+                "Critica o grupo Enel e a ausência de seu presidente na audiência"
+            ]
+        },
+        {
+            "nome": "Celso Russomanno",
+            "cargo": "Deputado (Republicanos-SP)",
+            "opinioes": [
+                "Critica o grupo Enel e a ausência de seu presidente na audiência"
+            ]
+        },
+        {
+            "nome": "Aureo Ribeiro",
+            "cargo": "Deputado (Solidariedade-RJ)",
+            "opinioes": [
+                "Critica o grupo Enel e a ausência de seu presidente na audiência"
+            ]
+        },
+        {
+            "nome": "Roberto Monteiro Pai",
+            "cargo": "Deputado (PL-RJ)",
+            "opinioes": [
+                "Critica o grupo Enel e a ausência de seu presidente na audiência"
+            ]
+        },
+        {
+            "nome": "Julio Lopes",
+            "cargo": "Deputado (PP-RJ)",
+            "opinioes": [
+                "Está insatisfeito com a atuação da empresa, mas ponderou que o caso de São Paulo foi provocado por eventos climáticos extremos"
+            ]
+        }
+    ]
+}

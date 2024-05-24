@@ -1,0 +1,43 @@
+{
+  "assunto": "Reivindicação de uma lei sobre equipamentos e softwares para diagnóstico e reparo de veículos",
+  "envolvidos": [
+    {
+      "nome": "Celso Mattos",
+      "cargo": "Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios do Rio de Janeiro (Sindirepa-RJ)",
+      "opinioes": [
+        "O consumidor tem o direito de ter o carro reparado da forma correta, até por razões de segurança.",
+        "Se o reparador não tem todas as informações para fazer a adequada correção do veículo, ele e o consumidor poderão colocar em risco a segurança de quem está dirigindo e de quem está transitando nas vias."
+      ]
+    },
+    {
+      "nome": "Marcelo Gabriel",
+      "cargo": "Assessor especial do Sindirepa nacional",
+      "opinioes": [
+        "O Brasil é o quarto mercado de substituição automotiva do mundo, só atrás de Estados Unidos, China e Japão, o que mostra a relevância do setor."
+      ]
+    },
+    {
+      "nome": "Gilberto Martins",
+      "cargo": "Gerente de Assuntos Técnicos da Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea)",
+      "opinioes": [
+        "Isso é destaque agora na Europa, então é o momento.",
+        "Os carros são hoje 'computadores sobre rodas', e as montadoras se preocupam com os riscos decorrentes da eventual liberação ampla do acesso às centrais eletrônicas e à tecnologia embarcada.",
+        "Alterações em códigos poderiam aumentar a poluição emitida pelo carro. A eliminação equivocada de alguns deles afetaria o funcionamento de airbags, enquanto a introdução de outros permitiria o uso de chaves falsas."
+      ]
+    },
+    {
+      "nome": "Jorge Braz",
+      "cargo": "Deputado (Republicanos-RJ), presidente da Comissão de Defesa do Consumidor",
+      "opinioes": [
+        "É claro que precisamos de segurança, aprimoramento e treinamento, mas a liberação do acesso é necessária.",
+        "É lógico que não será para qualquer um, mas o consumidor precisa ter o leque de opções.",
+        "O brasileiro, criativo como é, sempre dá um jeito, e na verdade essas coisas já acontecem, ainda que informalmente, até porque, quando a pessoa leva o carro numa concessionária, o preço dos serviços vai lá para cima."
+      ]
+    },
+    {
+      "nome": "Celso Russomanno",
+      "cargo": "Deputado (Republicanos-SP), 1º vice-presidente da Comissão de Defesa do Consumidor",
+      "opinioes": []
+    }
+  ]
+}

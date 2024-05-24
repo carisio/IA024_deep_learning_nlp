@@ -1,0 +1,40 @@
+{
+    "assunto": "Atualização do protocolo de tratamento de edema macular diabético no SUS",
+    "envolvidos": [
+        {
+            "nome": "Dr. Zacharias Calil",
+            "cargo": "Deputado (União-GO)",
+            "opinioes": [
+                "Defende a atualização dos protocolos clínicos do SUS para preservar a visão e a qualidade de vida dos pacientes.",
+                "Defende a inclusão de diretrizes claras e abrangentes para o diagnóstico, tratamento e acompanhamento do edema macular no SUS.",
+                "Defende a necessidade de garantir um sistema de financiamento adequado que cubra os custos."
+            ]
+        },
+        {
+            "nome": "Vanessa Pirolo",
+            "cargo": "Coordenadora da Coalizão Vozes do Advocacy",
+            "opinioes": [
+                "Defende que o Estado invista mais na prevenção do edema macular diabético para reduzir o número de pessoas improdutivas.",
+                "Alerta que o custo com complicações da doença pode aumentar no futuro e destaca a importância de trabalhar com a prevenção."
+            ]
+        },
+        {
+            "nome": "Fernando Korn Malerbi",
+            "cargo": "Coordenador do Departamento de Doenças Oculares da Sociedade Brasileira de Diabetes (SBD)",
+            "opinioes": [
+                "Defende a necessidade de um programa amplo e universal de rastreamento da doença para diminuir o problema.",
+                "Aponta a falta de sensibilidade de clínicos gerais e endocrinologistas para encaminhar diabéticos para o oftalmologista.",
+                "Estima que 16 milhões de brasileiros precisariam fazer exame anualmente para detectar doenças na retina."
+            ]
+        },
+        {
+            "nome": "Arnaldo Furman Bordon",
+            "cargo": "Presidente da Sociedade Brasileira de Retina e Vítreo",
+            "opinioes": [
+                "Endossa a importância da prevenção do edema macular diabético.",
+                "Destaca que a doença é prevenível e pode ser evitada quando detectada precocemente.",
+                "Aponta problemas crônicos de acesso da população ao SUS para tratamento da doença."
+            ]
+        }
+    ]
+}

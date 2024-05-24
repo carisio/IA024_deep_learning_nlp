@@ -1,0 +1,36 @@
+{
+    "assunto": "Melhoria das condições da pós-graduação no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Vinícius Soares",
+            "cargo": "presidente da Associação Nacional de Pós-Graduandos",
+            "opinioes": [
+                "Defende melhorias nas condições dos estudantes de pós-graduação, incluindo proteção social e direitos trabalhistas",
+                "Lamentou a perda de talentos devido à falta de atratividade dos programas de pós-graduação"
+            ]
+        },
+        {
+            "nome": "Ricardo Galvão",
+            "cargo": "presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+            "opinioes": [
+                "Destacou a necessidade de promover a ocupação de mestres e doutores nos setores produtivos",
+                "Alertou para a importância do Brasil acompanhar a economia do conhecimento e ter uma sociedade com alfabetização científica"
+            ]
+        },
+        {
+            "nome": "Mercedes Bustamante",
+            "cargo": "presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes)",
+            "opinioes": [
+                "Defende uma adequação dos currículos universitários para maior interação com outros setores, como administração pública, saúde e indústria"
+            ]
+        },
+        {
+            "nome": "Alice Portugal",
+            "cargo": "deputada (PCdoB-BA)",
+            "opinioes": [
+                "Comprometeu-se a atuar para solucionar problemas, como estender a licença-maternidade a estudantes não bolsistas e propor direitos previdenciários para pós-graduandos",
+                "Propôs a ideia de isenção fiscal para quem eleva a qualidade técnica e tecnológica de seus quadros"
+            ]
+        }
+    ]
+}

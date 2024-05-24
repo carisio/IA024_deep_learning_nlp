@@ -1,0 +1,44 @@
+{
+  "assunto": "Inclusão de pessoas com deficiência em projetos culturais",
+  "envolvidos": [
+    {
+      "nome": "Walleria Suri",
+      "cargo": "atriz com baixa visão",
+      "opinioes": [
+        "Defende que os produtores devem recorrer à consultoria com as próprias pessoas com deficiência para garantir acessibilidade efetiva",
+        "É fundamental que os cursos de formação em artes tenham disciplinas sobre inclusão"
+      ]
+    },
+    {
+      "nome": "Luegio de Souza",
+      "cargo": "produtor do Festival de Cultura para Surdos",
+      "opinioes": [
+        "Afirmou que consultando as pessoas com deficiência é possível solucionar falhas de acessibilidade em eventos culturais"
+      ]
+    },
+    {
+      "nome": "Renata Rezende",
+      "cargo": "atriz e produtora do Festival de Cultura para Surdos",
+      "opinioes": [
+        "Defende a consulta às pessoas com deficiência para solucionar falhas de acessibilidade em eventos culturais",
+        "Reclamou da dificuldade que pessoas com deficiência encontram ao concorrer a financiamentos em editais de fomento à cultura"
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "deputada (PT-DF)",
+      "opinioes": [
+        "Comprometeu-se a levar a proposta de inclusão de temas sobre acessibilidade nos currículos de formação de produtores culturais e a cotas para pessoas com deficiências em cursos de arte ao Ministério da Educação",
+        "Defende a reserva de vagas para pessoas com deficiência em editais de fomento à cultura e a aplicação de parte dos recursos destinados ao setor pelas empresas em projetos de inclusão",
+        "Defende que a cidade seja universal e possibilite o acesso a toda ela e, em particular, à cultura"
+      ]
+    },
+    {
+      "nome": "Paula Wenke",
+      "cargo": "produtora cultural, criadora do Teatro dos Sentidos",
+      "opinioes": [
+        "Defende a necessidade de organização e mobilização para envolver a comunidade de produtores culturais na causa da acessibilidade"
+      ]
+    }
+  ]
+}

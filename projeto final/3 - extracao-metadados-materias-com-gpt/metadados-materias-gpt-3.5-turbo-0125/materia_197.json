@@ -1,0 +1,68 @@
+{
+    "assunto": "Necessidade de revisão do Marco Legal da Inovação",
+    "envolvidos": [
+        {
+            "nome": "Leopoldo Muraro",
+            "cargo": "consultor jurídico do Ministério da Ciência e Tecnologia",
+            "opinioes": [
+                "Defende aprimorar o regime jurídico e as previsões legais das agências de fomento e dos institutos de ciência e tecnologia",
+                "Sugere deixar na nova legislação até onde o pesquisador pode ou não pode atuar, para evitar problemas com órgãos de controle"
+            ]
+        },
+        {
+            "nome": "Daniel Nascimento",
+            "cargo": "Assessor da área de negócios da Embrapa",
+            "opinioes": [
+                "Cita modelo de pesquisadora em Israel que é sócia de uma startup e defende esse modelo de parceria entre universidades e empresas"
+            ]
+        },
+        {
+            "nome": "Paulo Foina",
+            "cargo": "Presidente da Associação Brasileira das Instituições de Pesquisa Tecnológica e Inovação (Abipti)",
+            "opinioes": [
+                "Considera fazer pesquisa no Brasil uma atividade de alto risco",
+                "Critica órgãos no Brasil que atrapalham o desenvolvimento científico"
+            ]
+        },
+        {
+            "nome": "Ricardo Galvão",
+            "cargo": "Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+            "opinioes": [
+                "Defende a revisão da legislação para ser melhor executada",
+                "Cita a necessidade de modernizar o supercomputador e a dificuldade em realizar a compra de partes devido à falta de concorrência"
+            ]
+        },
+        {
+            "nome": "Odir Dellagostin",
+            "cargo": "Presidente do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap)",
+            "opinioes": [
+                "Reclama do tempo gasto com atividades burocráticas exigidas pela legislação, mesmo quando os recursos estão disponíveis para o pesquisador",
+                "Destaca a necessidade de agilizar processos para evitar a demora na obtenção de insumos"
+            ]
+        },
+        {
+            "nome": "Gianna Sagazio",
+            "cargo": "Diretora de Inovação da Confederação Nacional da Indústria (CNI)",
+            "opinioes": [
+                "Cita um projeto de lei em tramitação no Senado que concede autonomia financeira aos institutos de ciência e tecnologia públicos e dá segurança jurídica para a concessão de bolsas e isenção de impostos de importação para empresas em projetos de pesquisa e desenvolvimento",
+                "Destaca a posição do Brasil em índices globais de inovação e competitividade"
+            ]
+        },
+        {
+            "nome": "Bruno Monteiro Portela",
+            "cargo": "Procurador Federal da Advocacia-Geral da União (AGU)",
+            "opinioes": [
+                "Afirma que o marco legal da inovação deu muita liberdade ao gestor e defende a simplificação e desburocratização para o tema",
+                "Destaca a importância de construir alianças estratégicas entre entidades públicas, privadas, nacionais e estrangeiras"
+            ]
+        },
+        {
+            "nome": "Luisa Canziani",
+            "cargo": "Deputada (PSD-PR)",
+            "opinioes": [
+                "Argumentou que é necessário avaliar os benefícios, as limitações e gargalos na legislação",
+                "Solicitou a audiência pública para discutir o tema"
+            ]
+        }
+    ]
+}

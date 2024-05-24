@@ -1,0 +1,50 @@
+{
+    "assunto": "Caminhos para transição energética sustentável e descarbonização do setor de combustíveis",
+    "envolvidos": [
+        {
+            "nome": "Pietro Mendes",
+            "cargo": "Secretário de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia",
+            "opinioes": [
+                "Defende o projeto de lei sobre 'combustíveis do futuro' (PL 4516/23) que combina a trajetória do RenovaBio com o Programa Rota 2030, focando em eficiência energética.",
+                "Afirmou: 'Quando digo melhores indicadores, estou falando de substituição de veículos movidos a diesel por biometano; menor utilização de fertilizantes com emissão associada; e melhoras de eficiência do processo.'"
+            ]
+        },
+        {
+            "nome": "Alexandre Alonso",
+            "cargo": "Chefe-geral da Embrapa Agroenergia",
+            "opinioes": [
+                "Apresentou detalhes técnicos das metodologias de Análise do Ciclo de Vida (ACV) dos biocombustíveis, destacando a RenovaCalc como instrumento de cálculo do impacto ambiental de cada rota de produção."
+            ]
+        },
+        {
+            "nome": "Gonçalo Pereira",
+            "cargo": "Professor do Instituto de Biologia da Unicamp",
+            "opinioes": [
+                "Defende avanços na produção de etanol a partir do sisal, cultivado no Semiárido nordestino.",
+                "Apontou mitos ambientais em torno do carro elétrico."
+            ]
+        },
+        {
+            "nome": "Plínio Nastari",
+            "cargo": "Presidente da Consultoria Agrícola Datagro",
+            "opinioes": [
+                "Destacou a importância de um marco regulatório claro para direcionar investimentos em eficiência energética e menores emissões, promovendo consistência, convergência e coerência dos instrumentos de política pública."
+            ]
+        },
+        {
+            "nome": "Leônidas Cristino",
+            "cargo": "Deputado (PDT-CE)",
+            "opinioes": [
+                "Afirmou: 'Está aí o problema posto e, aqui nesta Casa, nós temos a obrigação de elaborar um marco regulatório que seja factível e bom para todo o País.'",
+                "Defendeu a elaboração de um marco regulatório que acompanhe as experiências acadêmicas e seja bom para o Brasil e o planeta."
+            ]
+        },
+        {
+            "nome": "Valéria Lima",
+            "cargo": "Representante do Instituto Brasileiro de Petróleo e Gás (IBP)",
+            "opinioes": [
+                "Destacou a importância da legislação para atrair investimentos em um setor que gera empregos e arrecada tributos."
+            ]
+        }
+    ]
+}

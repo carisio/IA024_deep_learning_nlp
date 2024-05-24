@@ -1,0 +1,113 @@
+{
+  "assunto": "Acesso a dados para combater crimes digitais",
+  "envolvidos": [
+    {
+      "nome": "George Lodder",
+      "cargo": "Procurador da República, membro do Grupo de Apoio sobre Criminalidade Cibernética do Ministério Público Federal (MPF)",
+      "opinioes": [
+        "Defendeu o acesso facilitado a dados de plataformas digitais, em particular o número de endereços de IP.",
+        "\"As plataformas negam informações para autoridades brasileiras e não comunicam crimes a que têm acesso\"."
+      ]
+    },
+    {
+      "nome": "Luis Miranda",
+      "cargo": "Deputado (DEM-DF)",
+      "opinioes": [
+        "Ressaltou o crescimento dos crimes cibernéticos em número e complexidade.",
+        "\"Estamos vivendo um dos piores momentos no mundo dos crimes cibernéticos. Cresceu demais. Não é apenas a tentativa de tomar dinheiro das vítimas on-line ou sequestro de informações. Foram agora para um nível muito mais perigoso que são os crimes antidemocráticos\"."
+      ]
+    },
+    {
+      "nome": "Regilene Siqueira Rozal",
+      "cargo": "Delegada, representante da Associação dos Delegados de Polícia Civil do Distrito Federal (Adepol-DF)",
+      "opinioes": [
+        "Apontou para a dificuldade de preservar provas no ambiente cibernético.",
+        "\"A gente usa print de telas de celular, mas são passíveis de manipulação. A legislação precisa definir como produzir provas e levá-las ao processo\".",
+        "Considera necessário aprimorar a regulamentação sobre o fornecimento de dados.",
+        "\"Provedores de conexão pequenos não têm critério para cadastrar usuários, que não são localizados\"."
+      ]
+    },
+    {
+      "nome": "Dario Taciano de Freitas Junior",
+      "cargo": "Delegado da Delegacia Especial de Repressão aos Crimes Cibernéticos da Polícia Civil do Distrito Federal",
+      "opinioes": [
+        "Afirmou que a necessidade de ordem judicial para conseguir o endereço de IP tem sobrecarregado o Ministério Público Federal e o Judiciário.",
+        "Defendeu a possibilidade de obtenção do IP por ofício da autoridade policial para evitar a demora nas investigações.",
+        "\"Há situações de emergência, como no caso de sequestro\".",
+        "Pediu mudanças na legislação para permitir a participação de especialistas para cooperar com a polícia e a possibilidade de utilizar equipamentos apreendidos no combate ao crime cibernético."
+      ]
+    },
+    {
+      "nome": "Aristides Moura",
+      "cargo": "Gerente de Relacionamento com Autoridades de Investigação e Assuntos Digitais da Microsoft",
+      "opinioes": [
+        "Reconheceu as dificuldades de atender pedidos de investigações criminais.",
+        "\"Nós da indústria de tecnologia ficamos muitas vezes numa situação complicada quando vemos que precisamos responder às determinações que foram feitas pelas autoridades, mas acabamos não tendo instrumentos que garantam a segurança para que o façamos. Se um juiz entender que a solicitação foi feita de forma irregular, isso vai invalidar a investigação\"."
+      ]
+    },
+    {
+      "nome": "Diogo Rais",
+      "cargo": "Diretor-geral do Instituto Liberdade Digital",
+      "opinioes": [
+        "Alertou para o risco da desinformação e divulgação de notícias falsas.",
+        "\"Espalhar fake news não é exercer a liberdade de expressão. Pode mudar o destino político\".",
+        "Disse ser necessário distinguir quem compartilha notícias falsas de escritórios dedicados à prática.",
+        "\"Devemos agir como na lei de drogas, que distingue usuário de traficante\"."
+      ]
+    },
+    {
+      "nome": "Carlos Affonso Souza",
+      "cargo": "Diretor do Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS Rio)",
+      "opinioes": [
+        "Disse estar preocupado com a preservação dos dados pessoais.",
+        "Criticou as propostas legislativas que saíram do relatório da Comissão Parlamentar de Inquérito (CPI) da Pandemia, aprovado no mês passado no Senado.",
+        "\"As propostas podem piorar a desinformação\".",
+        "Para ele, o crime de criação e divulgação de notícia falsa deveria ter dolo e especificar qual dano foi provocado."
+      ]
+    },
+    {
+      "nome": "Ygor Valerio",
+      "cargo": "Consultor da Motion Picture Association (MPA)",
+      "opinioes": [
+        "Defendeu a necessidade de legislação para orientar as investigações sobre crimes cibernéticos.",
+        "\"São muitos casos que carecem de orientação legislativa, desde o telefone bloqueado encontrado na cena do crime até o pedido de busca e apreensão de arquivos de pessoas jurídicas.\""
+      ]
+    },
+    {
+      "nome": "Jonas Antunes Couto",
+      "cargo": "Diretor jurídico-regulatório da Associação Brasileira de Televisão por Assinatura (ABTA)",
+      "opinioes": [
+        "Reclamou das perdas da indústria audiovisual com o aumento da pirataria, que calcula em R$ 10 bilhões por ano.",
+        "\"Os brasileiros precisam ser de alguma forma protegidos pelo Parlamento brasileiro. O consumidor acredita que se dá bem acessando produtos desta forma, mas corre o risco de baixar softwares maliciosos capazes de minerar bitcoin e cometer ataques.\""
+      ]
+    },
+    {
+      "nome": "Evandro Mário Lorens",
+      "cargo": "Diretor de Assuntos Parlamentares da Associação Nacional dos Peritos Criminais Federais (APCF)",
+      "opinioes": [
+        "Propôs que a sociedade se mobilize na prevenção de crimes digitais para evitar danos permanentes na vida de crianças e adolescentes.",
+        "Para ele, é necessário compartilhar as responsabilidades da família e da escola nessa abordagem preventiva.",
+        "\"Crianças e adolescentes são mais vulneráveis e não entendem a implicação da exposição excessiva nos meios digitais. Falta maturidade para tomar decisões sobre a privacidade e compartilhamento de dados.\""
+      ]
+    },
+    {
+      "nome": "Thiago Tavares",
+      "cargo": "Presidente da SaferNet Brasil",
+      "opinioes": [
+        "Destacou a importância da cooperação internacional, já que muitas páginas de pornografia infantil são hospedadas em outros países.",
+        "Informou que a Safernet mantém canal de denúncias que são enviadas ao Ministério Público Federal.",
+        "\"Informações já temos muitas, mas falta investimento e pessoal.\""
+      ]
+    },
+    {
+      "nome": "Rafael Zanatta",
+      "cargo": "Membro da Coalizão Direitos na Rede",
+      "opinioes": [
+        "Notou que falta lei específica sobre tratamento e fluxo de dados em investigações criminais.",
+        "\"Isso impede a construção de confiança mínima, até mesmo para acordos de cooperação que o Ministério Público Federal tenta obter com a Europol.\"",
+        "Disse ser necessário preservar direitos fundamentais durante as investigações.",
+        "\"São crimes moralmente repulsivos, mas não podem servir para tática agressiva de coleta de dados massiva sem determinação de suspeitos.\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+    "assunto": "Impactos nocivos das telas na saúde mental de jovens",
+    "envolvidos": [
+        {
+            "nome": "Bruno Ziller",
+            "cargo": "Representante do Instituto Cactus",
+            "opinioes": [
+                "Defende ações de prevenção, como moderação de conteúdo para jovens e educação sobre como o mundo virtual pode distorcer a realidade.",
+                "\"A maior parte dos transtornos mentais não são biológicos, mas determinantes sociais. A gente pode então incidir para mitigar alguma condição mental para que ela dure menos ou se agrave menos\""
+            ]
+        },
+        {
+            "nome": "Thais Hagge",
+            "cargo": "Executiva da Unilever",
+            "opinioes": [
+                "Falou sobre a campanha promovida pela empresa na qual influencers passaram um período sem usar filtros em suas publicações, alertando para o fato de que rostos e corpos perfeitos não existem.",
+                "\"Não é uma questão sobre usar ou não filtro, mas entender os impacto que a distorção de imagem pode gerar na autoestima, principalmente para as meninas mais jovens\""
+            ]
+        },
+        {
+            "nome": "Deputada Rosângela Moro",
+            "cargo": "União-SP",
+            "opinioes": [
+                "\"Esse padrão de beleza estabelecido pela cultura das redes sociais muitas vezes promove uma imagem que é idealizada e inatingível, e isso pode ter sérios efeitos na saúde mental\""
+            ]
+        },
+        {
+            "nome": "Maria Aparecida Cina da Silva",
+            "cargo": "Representante da Secretaria de Informação e Saúde Digital do Ministério da Saúde",
+            "opinioes": [
+                "\"É impossível estabelecer qualquer aspecto de saúde, se a gente não fala de um processo de alfabetização emocional\""
+            ]
+        },
+        {
+            "nome": "Joana de Vilhena Novaes",
+            "cargo": "Psicóloga e pesquisadora da PUC-Rio",
+            "opinioes": [
+                "\"Precisamos falar sobre dor e sofrimento dos nossos jovens e precisamos falar sobre isso nas escolas, não só no âmbito dos consultórios particulares\"",
+                "\"Ter uma vida instagramável, sem sofrimento, não diminui a ansiedade dos jovens\""
+            ]
+        }
+    ]
+}

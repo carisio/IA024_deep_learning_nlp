@@ -1,0 +1,45 @@
+{
+    "assunto": "Regulação econômica da praticagem no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Lilian Schaefer",
+            "cargo": "representante da Confederação Nacional dos Transportes (CNT)",
+            "opinioes": [
+                "Defende a regulação econômica dos serviços de praticagem como forma de controlar eventuais abusos nos valores cobrados",
+                "Afirmou: 'É evidente que o vácuo normativo, nas palavras do Tribunal de Conta da União (TCU) no tocante à regulação econômica da praticagem, resulta nesse custo descontrolado ora experimentado, impactando negativamente os usuários dos serviços e, por consequência, o consumidor final dos produtos transportados'"
+            ]
+        },
+        {
+            "nome": "Murillo Barbosa",
+            "cargo": "diretor-presidente da Associação de Terminais Portuários Privados",
+            "opinioes": [
+                "Entende que a escala de rodízio único adotado na praticagem reforça o monopólio da prestação de serviços",
+                "Defende que os tomadores de serviço possam ter uma instância que coíba a abusividade na cobrança de serviços, que acompanhe os reajustes e principalmente arbitre conflitos",
+                "É favorável ao PL 757/22, do Poder Executivo, que transfere para a Agência Nacional de Transportes Aquaviários (Antaq) a regulação econômica do serviço de praticagem"
+            ]
+        },
+        {
+            "nome": "Coronel Meira",
+            "cargo": "deputado (PL-PE) e relator das propostas na Comissão de Administração e Serviço Público",
+            "opinioes": [
+                "Entende que a prática da cabotagem e sua regulamentação devem ser discutidas no Congresso Nacional"
+            ]
+        },
+        {
+            "nome": "Ricardo Falcão",
+            "cargo": "diretor-presidente do Conselho Nacional de Praticagem",
+            "opinioes": [
+                "Defende que não existe vácuo na legislação e que se trata de uma relação privada o que os projetos de lei em análise querem tabelar",
+                "Afirmou: 'O TCU já concluiu que a Marinha regula e regulamenta muito corretamente a praticagem'"
+            ]
+        },
+        {
+            "nome": "Cláudio Loureiro",
+            "cargo": "diretor-executivo do Centro Nacional de Navegação Transatlântica",
+            "opinioes": [
+                "Reconhece a excelência técnica da praticagem do Brasil",
+                "Defende a necessidade de uma regulação econômica, em casos excepcionais, onde não há acordo e nem há possibilidade de acordo"
+            ]
+        }
+    ]
+}

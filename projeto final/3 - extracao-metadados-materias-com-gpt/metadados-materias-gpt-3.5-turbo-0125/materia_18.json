@@ -1,0 +1,36 @@
+{
+    "assunto": "Pedido de aumento de verba para formação de professores pela Capes",
+    "envolvidos": [
+        {
+            "nome": "Mercedes Maria da Cunha Bustamante",
+            "cargo": "Presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes)",
+            "opinioes": [
+                "Defende o pedido de aporte adicional de R$ 150 milhões no Orçamento de 2024 para financiar a formação de professores",
+                "Defende o lançamento de um edital do Programa Institucional de Bolsa de Iniciação à Docência (Pibid) para a oferta de 90 mil bolsas de licenciatura em pedagogia",
+                "Defende que a ampliação do Pibid garantiria à iniciação à docência uma dimensão semelhante ao aporte conferido pela Capes às bolsas de pós-graduação"
+            ]
+        },
+        {
+            "nome": "Rogério Correia",
+            "cargo": "Deputado (PT-MG)",
+            "opinioes": [
+                "É favorável à institucionalização do Programa Institucional de Bolsa de Iniciação à Docência (Pibid) por meio do Projeto de Lei 7552/14"
+            ]
+        },
+        {
+            "nome": "Mariana Breim",
+            "cargo": "Diretora de políticas educacionais do Instituto Península",
+            "opinioes": [
+                "Acredita que a institucionalização do programa pode reforçar a garantia de pagamento das bolsas"
+            ]
+        },
+        {
+            "nome": "Dandara",
+            "cargo": "Deputada (PT-MG)",
+            "opinioes": [
+                "Chamou a atenção para a finalidade de corrigir desigualdades sociais",
+                "Elogiou a nova regra da Capes que permite o acúmulo de bolsas financiadas com recursos federais"
+            ]
+        }
+    ]
+}

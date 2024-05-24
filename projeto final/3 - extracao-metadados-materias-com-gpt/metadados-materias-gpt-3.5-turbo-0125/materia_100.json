@@ -1,0 +1,60 @@
+{
+    "assunto": "Acesso direto a dados de conexão de abusadores de crianças",
+    "envolvidos": [
+        {
+            "nome": "Representantes do Ministério Público Federal (MPF)",
+            "cargo": "Não especificado",
+            "opinioes": [
+                "Defendem mais autonomia nas investigações de crimes sexuais contra crianças e adolescentes, incluindo o acesso direto a dados cadastrais e de conexão dos suspeitos."
+            ]
+        },
+        {
+            "nome": "Polícia Federal (PF)",
+            "cargo": "Delegada do departamento de Repressão a Crimes Cibernéticos",
+            "opinioes": [
+                "Critica a dificuldade de acesso a dados de conexão dos suspeitos e a lentidão de resposta dos provedores.",
+                "Defende que os provedores devem ser obrigados a permitir o acesso aos registros de conexão."
+            ]
+        },
+        {
+            "nome": "Deputada Silvye Alves",
+            "cargo": "Relatora do projeto de lei",
+            "opinioes": [
+                "Defende o projeto de lei que define novas regras para a guarda e a transferência de dados de usuários por provedores de internet em caso de investigação de crimes contra crianças e adolescentes.",
+                "Afirma: 'Precisamos de uma resposta aqui do nosso legislativo para esse tipo de crime'."
+            ]
+        },
+        {
+            "nome": "Delegada Erika de Oliveira",
+            "cargo": "Não especificado",
+            "opinioes": [
+                "Critica a dificuldade de acesso a dados de conexão dos suspeitos e a lentidão de resposta dos provedores.",
+                "Afirma: 'A gente quer ter meios e instrumentos adequados para conseguir os dados cadastrais de maneira célere, para que a gente consiga enfrentar realmente os crimes'."
+            ]
+        },
+        {
+            "nome": "Procurador da República George Neves Lodder",
+            "cargo": "Não especificado",
+            "opinioes": [
+                "Defende a autorização para que o Ministério Público e a polícia possam fazer diretamente a requisição de retirada de conteúdo envolvendo abuso sexual de crianças.",
+                "Defende a garantia de acesso aos dados de conexão dos suspeitos sem necessidade de decisão judicial."
+            ]
+        },
+        {
+            "nome": "Rodrigo Santana",
+            "cargo": "Autoridade Nacional de Proteção de Dados",
+            "opinioes": [
+                "Alerta sobre os riscos à privacidade pelo compartilhamento de conteúdos com crianças nas redes sociais.",
+                "Destaca a importância de aumentar o controle do que os filhos fazem nas redes."
+            ]
+        },
+        {
+            "nome": "Tais Niffinegger",
+            "cargo": "Não especificado",
+            "opinioes": [
+                "Afirma: 'Nós não permitimos conteúdo ou atividades que explorem sexualmente ou coloquem em risco as crianças. Isso inclui também o conteúdo gerado por inteligência artificial'.",
+                "Conclui: 'Sempre que tomamos conhecimento de alguma situação, denunciamos esse conteúdo diretamente ao NCMEC'."
+            ]
+        }
+    ]
+}

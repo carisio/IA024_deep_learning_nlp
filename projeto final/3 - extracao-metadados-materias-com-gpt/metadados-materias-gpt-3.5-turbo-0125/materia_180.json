@@ -1,0 +1,53 @@
+{
+    "assunto": "Anistia a partidos que não cumpriram cotas para mulheres e negros",
+    "envolvidos": [
+        {
+            "nome": "Ricardo Vita Porto",
+            "cargo": "presidente da comissão de direito eleitoral da OAB de São Paulo",
+            "opinioes": [
+                "Defende a anistia como forma de garantir a saúde econômica dos partidos políticos",
+                "Afirmou: 'O partido político com as contas de campanha não aprovadas por não cumprimento de cota vai ter como resultado a suspensão do Fundo Partidário.'"
+            ]
+        },
+        {
+            "nome": "Raquel Branquinho",
+            "cargo": "procuradora regional de República",
+            "opinioes": [
+                "Critica a anistia, considerando a proposta um retrocesso nos ganhos de mulheres e negros na política",
+                "Afirmou: 'Essa anistia vai representar um grave problema para campanhas vindouras.'"
+            ]
+        },
+        {
+            "nome": "Guilherme France",
+            "cargo": "representante da Transparência Internacional",
+            "opinioes": [
+                "Defende que a proposta deveria ser para aprimoramento da transparência no uso dos recursos públicos e para a diminuição nos gastos de eleições",
+                "Afirmou: 'Representa, de uma só vez, uma ameaça a três de seus princípios basilares: a promoção da diversidade e o aumento da representação de grupos marginalizados em espaços de poder.'"
+            ]
+        },
+        {
+            "nome": "Brisa Lima",
+            "cargo": "representante do Instituto Marielle Franco",
+            "opinioes": [
+                "Critica a anistia, apontando que perpetuará o financiamento da reserva de gênero",
+                "Afirmou: 'As mulheres brancas candidatas receberam um percentual de recursos advindos dos partidos num valor de 18,1%, proporcionais às suas candidaturas (18,1%). No entanto, candidatos negros continuaram a ser subfinanciados pelos partidos.'"
+            ]
+        },
+        {
+            "nome": "Delegado Éder Mauro",
+            "cargo": "deputado (PL-PA)",
+            "opinioes": [
+                "Defende alterações na lei para esclarecer o financiamento para mulheres e negros",
+                "Afirmou: 'O artigo 16 da Constituição estabelece que a lei que alterar o processo eleitoral entrará em vigor na data da sua publicação, não se aplicando à eleição que ocorra em até um ano da data da sua vigência.'"
+            ]
+        },
+        {
+            "nome": "Sâmia Bomfim",
+            "cargo": "deputada (Psol-SP)",
+            "opinioes": [
+                "Destaca que as cotas para negros e mulheres foram uma conquista dos movimentos sociais",
+                "Afirmou: 'A nossa representação poderia ser muito superior não fosse o não cumprimento dessas regras.'"
+            ]
+        }
+    ]
+}

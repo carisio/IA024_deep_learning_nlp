@@ -1,0 +1,68 @@
+{
+    "assunto": "Regulamentação de aplicativos de transporte e entrega",
+    "envolvidos": [
+        {
+            "nome": "Celso Russomanno",
+            "cargo": "Deputado (Republicanos-SP)",
+            "opinioes": [
+                "Defende que o projeto de regulamentação prejudica a concorrência e aumenta os preços para passageiros",
+                "Disse: 'Tudo isso que está sendo discutido vai incidir no bolso do consumidor. Esse é o grande problema.'"
+            ]
+        },
+        {
+            "nome": "Gilson Marques",
+            "cargo": "Deputado (Novo-SC)",
+            "opinioes": [
+                "Defende que as novas regras podem produzir efeitos indesejados e não atendem aplicativos de entrega e regionais",
+                "Disse: 'Essa regulamentação tem custos, que serão embutidos no preço do consumidor. Você vai matar os pequenos aplicativos, e o cliente vai procurar outras alternativas de transporte.'"
+            ]
+        },
+        {
+            "nome": "Carlos Shigueo Nishikawa",
+            "cargo": "Diretor de Relações Governamentais do aplicativo InDrive",
+            "opinioes": [
+                "Propõe que a contribuição para o INSS seja cobrada com base no faturamento da empresa",
+                "Disse: 'O PLP tem uma lógica inversa sobre o impacto da contribuição do INSS por parte da empresa. Quanto maior a comissão da empresa, menor será a contribuição do INSS para o governo.'"
+            ]
+        },
+        {
+            "nome": "Eliseu Paulino",
+            "cargo": "Proprietário do Urbano Norte",
+            "opinioes": [
+                "Reclama que o PLP 12/24 apenas levou em consideração o modelo de negócios das multinacionais, prejudicando os aplicativos regionais",
+                "Sugeriu que os motoristas recolham a contribuição como microempreendedores individuais (MEIs)"
+            ]
+        },
+        {
+            "nome": "João Sabino",
+            "cargo": "Diretor-sênior de Assuntos Governamentais e Políticas Públicas do iFood",
+            "opinioes": [
+                "Defende a criação de um regime para os trabalhadores com ganhos mais baixos",
+                "Disse: 'Há uma diferença grande entre motorista e entregador. Você utiliza um veículo menor, que consome menos gasolina, e o valor da corrida é mais baixo.'"
+            ]
+        },
+        {
+            "nome": "André Porto",
+            "cargo": "Diretor-executivo da Associação Brasileira de Mobilidade e Tecnologia",
+            "opinioes": [
+                "Defende a inclusão dos trabalhadores de aplicativo na Previdência",
+                "Disse: 'O trabalhador de plataforma ganha mais do que o trabalhador com vínculo tradicional. A regulamentação é importante. O ponto de equilíbrio é o grande desafio que a gente precisa atingir.'"
+            ]
+        },
+        {
+            "nome": "Renan Bernardi Kalil",
+            "cargo": "Promotor da Coordenadoria Nacional de Combate às Fraudes nas Relações de Trabalho da Procuradoria Geral do Trabalho",
+            "opinioes": [
+                "Questiona os trechos do projeto que caracterizam as empresas como meras intermediárias e os trabalhadores como autônomos"
+            ]
+        },
+        {
+            "nome": "Lucas Dias",
+            "cargo": "Motorista de aplicativo",
+            "opinioes": [
+                "Reclama da taxa variável adotada pelas plataformas sobre as corridas, que tem baixado a remuneração dos motoristas e prejudicado a qualidade dos serviços",
+                "Disse: 'Quem roda sabe que estamos ganhando menos. A qualidade caiu demais, tendo como justificativa a baixa remuneração do motorista. Os usuários, porém, continuam pagando os mesmos valores, talvez até mais.'"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "assunto": "Manutenção do Programa Emergencial de Retomada do Setor de Eventos (Perse)",
+    "envolvidos": [
+        {
+            "nome": "Fabiano Camargo",
+            "cargo": "Presidente do Conselho de Administração da Associação Brasileira de Operadores de Turismo",
+            "opinioes": [
+                "Defende a manutenção do Programa Emergencial de Retomada do Setor de Eventos (Perse)",
+                "Precisamos que a segurança jurídica seja mantida"
+            ]
+        },
+        {
+            "nome": "Orlando Souza",
+            "cargo": "Presidente executivo do Fórum dos Operadores Hoteleiros do Brasil",
+            "opinioes": [
+                "Defende a manutenção do Programa Emergencial de Retomada do Setor de Eventos (Perse)",
+                "O Perse, neste momento, é o respirador para a hotelaria"
+            ]
+        },
+        {
+            "nome": "Bibo Nunes",
+            "cargo": "Deputado (PL-RS)",
+            "opinioes": [
+                "Alerta que o fim do Perse representará uma retirada de algo entre R$ 120 bilhões e R$ 244 bilhões da economia",
+                "O fim desse programa sinaliza falta de previsibilidade e compromete investimentos no País"
+            ]
+        },
+        {
+            "nome": "Jorge Goetten",
+            "cargo": "Deputado (PL-SC)",
+            "opinioes": [
+                "Critica a decisão do governo, chamando-a de calote",
+                "Passa uma mensagem para o mercado: olha não vale a pena investir no Brasil porque lá é uma insegurança"
+            ]
+        },
+        {
+            "nome": "José Guimarães",
+            "cargo": "Deputado (PT-CE)",
+            "opinioes": [
+                "Apresentou o Projeto de Lei 1026/24, que reduz de 44 para 12 as atividades econômicas beneficiadas, prevendo a reoneração gradativa dos tributos até a retomada completa das cobranças em 2027"
+            ]
+        },
+        {
+            "nome": "Tiago Xavier",
+            "cargo": "Fórum dos Operadores Hoteleiros do Brasil",
+            "opinioes": [
+                "Apresentou números sobre receita, emprego e endividamento do setor",
+                "Argumentou que não é possível entender os critérios usados pelo governo para manter alguns setores e excluir outros do programa"
+            ]
+        },
+        {
+            "nome": "Milton Zuanazzi",
+            "cargo": "Secretário Nacional de Planejamento, Sustentabilidade e Competitividade do Ministério do Turismo",
+            "opinioes": [
+                "Considera o projeto de lei 'pouco inteligente'",
+                "Vai provocar um conjunto de judicialização",
+                "Não discute bem a questão das atividades econômicas beneficiadas e separa cadeias produtivas que não podem ser separadas"
+            ]
+        },
+        {
+            "nome": "Magda Mofatto",
+            "cargo": "Deputada (PRD-GO)",
+            "opinioes": [
+                "Informou que o colegiado enviou um convite ao ministro da Fazenda, Fernando Haddad, para falar sobre o programa"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "assunto": "Debate sobre abertura do comércio aos domingos e feriados",
+    "envolvidos": [
+        {
+            "nome": "Daniela Reinehr",
+            "cargo": "Deputada (PL-SC)",
+            "opinioes": [
+                "Critica o governo por não ter debatido previamente a questão com trabalhadores e empregados."
+            ]
+        },
+        {
+            "nome": "Saulo Pedroso",
+            "cargo": "Deputado (PSD-SP)",
+            "opinioes": [
+                "Critica a falta de clareza do governo em relação às suas propostas.",
+                "Disse: 'Se eventualmente tiver que fazer algum tipo de mudança, que não seja da maneira como foi feito, numa publicação num feriado.'"
+            ]
+        },
+        {
+            "nome": "Luiz Gastão",
+            "cargo": "Deputado (PSD-CE)",
+            "opinioes": [
+                "Afirmou que o ministério errou ao não dar um prazo para os empregados e empregadores negociarem.",
+                "É autor do projeto que suspende a portaria do MTE (PDL 405/23)."
+            ]
+        },
+        {
+            "nome": "Antônio Lisboa",
+            "cargo": "Advogado da divisão jurídica e sindical da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+            "opinioes": [
+                "Avalia que a portaria trouxe instabilidade jurídica para a questão.",
+                "Defende: 'Precisamos de segurança jurídica para que o empresário possa investir, sabendo que ele vai poder exercer de fato a sua atividade.'"
+            ]
+        },
+        {
+            "nome": "Pablo Rolim Carneiro",
+            "cargo": "Gerente de assuntos trabalhistas da Confederação Nacional da Indústria (CNI)",
+            "opinioes": [
+                "Afirma que as mudanças tecnológicas tornaram o funcionamento ininterrupto uma necessidade do comércio e da indústria.",
+                "Defende a aprovação de uma lei regulando a questão."
+            ]
+        },
+        {
+            "nome": "Zilmara David de Alencar",
+            "cargo": "Assessora jurídica da Federação dos Comerciários do Estado de São Paulo (Fecomerciários-SP)",
+            "opinioes": [
+                "Afirma que a decisão do MTE resgata o privilégio da negociação coletiva.",
+                "Diz: 'A lei que rege o comerciário diz que qualquer tipo de alteração de jornada de trabalho que traga condições de saúde e segurança deve ser previamente objeto de negociação coletiva.'",
+                "Defende que a autorização para trabalho aos domingos e feriados é questão típica de negociação coletiva entre trabalhadores e patrões."
+            ]
+        }
+    ]
+}

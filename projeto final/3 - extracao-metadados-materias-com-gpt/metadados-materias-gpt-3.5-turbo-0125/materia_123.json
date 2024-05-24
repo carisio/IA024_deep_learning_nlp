@@ -1,0 +1,31 @@
+{
+    "assunto": "Aumento de orçamento para combate à tuberculose no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Antonio Brito",
+            "cargo": "Deputado (PSD-BA)",
+            "opinioes": [
+                "Defendeu a necessidade de aumentar o orçamento para o combate à tuberculose",
+                "Destacou que o governo passado deixou apenas R$ 14 milhões para essa finalidade",
+                "Compromisso de ampliar o orçamento em reunião com o senador Marcelo Castro"
+            ]
+        },
+        {
+            "nome": "Ethel Maciel",
+            "cargo": "Secretária de Vigilância em Saúde e Ambiente do Ministério da Saúde",
+            "opinioes": [
+                "Confirmou que o Brasil registrou 81.538 casos de tuberculose no ano passado",
+                "Retrocesso de duas décadas em relação aos óbitos por tuberculose no Brasil",
+                "Aderência dos pacientes ao tratamento é afetada pela pobreza e fome",
+                "É fundamental adotar medidas voltadas às pessoas em maior vulnerabilidade, como a população em situação de rua"
+            ]
+        },
+        {
+            "nome": "Miguel Aragón",
+            "cargo": "Coordenador de Prevenção e Controle de Doenças Transmissíveis da Organização Pan-Americana de Saúde",
+            "opinioes": [
+                "Estima que ocorram cerca de 105 mil novos casos da doença a cada ano no Brasil"
+            ]
+        }
+    ]
+}

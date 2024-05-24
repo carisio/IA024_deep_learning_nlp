@@ -1,0 +1,62 @@
+{
+    "assunto": "Substituição do saque-aniversário do FGTS por consignado com juros mais baixos",
+    "envolvidos": [
+        {
+            "nome": "Ministério do Trabalho e Emprego",
+            "cargo": "",
+            "opinioes": [
+                "Defende acabar com o saque-aniversário do FGTS e substituir por um empréstimo consignado com juros mais baixos",
+                "Aumento de operações do saque-aniversário ameaça a sustentabilidade do FGTS",
+                "Estima que o saque-aniversário consumirá R$ 262 bilhões até 2030, valor que daria para financiar 1,3 milhão de moradias"
+            ]
+        },
+        {
+            "nome": "Carlos Augusto Simões",
+            "cargo": "Secretário de Proteção ao Trabalhador do Ministério do Trabalho e Emprego",
+            "opinioes": [
+                "Defende substituir o saque-aniversário por um novo consignado com taxas semelhantes às de antecipação de saques",
+                "Promete apresentar uma taxa próxima da antecipação, visando o sonho de ter uma moradia no futuro"
+            ]
+        },
+        {
+            "nome": "Capitão Alberto Neto",
+            "cargo": "Deputado (PL-AM)",
+            "opinioes": [
+                "Vai requerer informações sobre os cálculos atuariais do FGTS que evidenciem a insustentabilidade do fundo com o saque-aniversário",
+                "Acredita que o saque-aniversário pode ser aperfeiçoado"
+            ]
+        },
+        {
+            "nome": "Renato Correia",
+            "cargo": "Presidente da Câmara Brasileira da Indústria da Construção",
+            "opinioes": [
+                "Acredita que o saque-aniversário pode inviabilizar o financiamento de moradias para famílias de baixa renda",
+                "Trabalhadores contratam operações de antecipação dos saques com juros de 23% ao ano, perdendo a oportunidade de usar os recursos para comprar a casa própria a 4% ao ano"
+            ]
+        },
+        {
+            "nome": "Representantes dos bancos",
+            "cargo": "",
+            "opinioes": [
+                "Afirmam que 57% dos trabalhadores usam os créditos para pagar dívidas mais caras e que a arrecadação do FGTS está crescendo",
+                "Defendem a possibilidade de o trabalhador sacar o saldo em caso de demissão sem justa causa"
+            ]
+        },
+        {
+            "nome": "Henrique Lian",
+            "cargo": "Diretor da organização Euroconsumers-Brasil",
+            "opinioes": [
+                "Afirma que 75% dos beneficiados por operações de antecipação de saque-aniversário estavam negativados ao contratar os empréstimos",
+                "Defende o direito de escolha do trabalhador e critica interferência do Estado no mercado"
+            ]
+        },
+        {
+            "nome": "Clóvis Scherer",
+            "cargo": "Representante da bancada dos trabalhadores no Conselho Curador do FGTS",
+            "opinioes": [
+                "Defende a revisão do saque-aniversário devido a trabalhadores comprometerem quase todo o saldo com múltiplas operações de antecipações de saques",
+                "Critica os juros excessivos cobrados pelos bancos nas antecipações"
+            ]
+        }
+    ]
+}

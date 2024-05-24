@@ -1,0 +1,43 @@
+{
+    "assunto": "Falhas no protocolo do SUS para o tratamento da retinopatia diabética",
+    "envolvidos": [
+        {
+            "nome": "Arnaldo Bordon",
+            "cargo": "Presidente da Sociedade Brasileira de Retina e Vítreo",
+            "opinioes": [
+                "O diabetes é a principal causa de cegueira irreversível na fase mais produtiva do ser humano",
+                "Temos médicos qualificados e equipamentos de ponta nos hospitais, por outro lado temos uma fila enorme de pacientes que necessita de uma melhor organização para que os que realmente necessitam sejam tratados"
+            ]
+        },
+        {
+            "nome": "Vanessa Pirolo",
+            "cargo": "Representante do Vozes do Advocacy",
+            "opinioes": [
+                "80% de todos os casos de cegueira no País poderiam ser evitados",
+                "A pessoa com diabetes, no mínimo, tem que passar uma vez ao ano para fazer o exame adequado nos olhos e para ver como está o controle da doença"
+            ]
+        },
+        {
+            "nome": "Dr. Zacharias Calil",
+            "cargo": "Deputado (União-GO) e médico",
+            "opinioes": [
+                "A fila de espera por uma consulta é o principal problema. Porque o paciente fica sem acompanhamento. A gente sabe que o diabetes é uma doença progressiva, crônica e silenciosa, que vai causando uma série de problemas",
+                "O Ministério da Saúde está 'lavando as mãos' e jogando a responsabilidade para estados e municípios"
+            ]
+        },
+        {
+            "nome": "Marcos Ávila",
+            "cargo": "Representante do Conselho Brasileiro de Oftalmologia",
+            "opinioes": [
+                "O financiamento é inadequado. São medicamentos caros, que precisam ser remunerados para que a medicação possa ser adquirida"
+            ]
+        },
+        {
+            "nome": "Patrícia Peres de Souza",
+            "cargo": "Representante do Ministério da Saúde",
+            "opinioes": [
+                "Esse tratamento não pode ser financiado apenas pela tabela SUS. A gestão local, estado e município, tem obrigação de fazer o seu incentivo também nos tratamentos da sua população"
+            ]
+        }
+    ]
+}

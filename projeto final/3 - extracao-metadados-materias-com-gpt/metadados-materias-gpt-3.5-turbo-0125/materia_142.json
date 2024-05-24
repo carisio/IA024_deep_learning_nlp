@@ -1,0 +1,43 @@
+{
+    "assunto": "Regulamentação do consignado para servidores públicos",
+    "envolvidos": [
+        {
+            "nome": "Cynthia Curado",
+            "cargo": "representante do Ministério da Gestão e Inovação em Serviços Públicos",
+            "opinioes": [
+                "Anunciou que a regulamentação da lei que aumentou a margem de empréstimo consignado para servidores públicos será publicada até a semana que vem.",
+                "Disse que a questão dos juros está em estudo."
+            ]
+        },
+        {
+            "nome": "Pedro de Souza",
+            "cargo": "Diretor da Confederação dos Trabalhadores no Serviço Público Federal",
+            "opinioes": [
+                "Afirmou que as dívidas dos servidores são impagáveis.",
+                "Pediu ao governo um programa de negociação de dívidas específico para os servidores públicos e limites para os juros do consignado."
+            ]
+        },
+        {
+            "nome": "Prof. Paulo Fernando",
+            "cargo": "Deputado (Republicanos-DF)",
+            "opinioes": [
+                "É relator de um projeto que busca manter o limite do consignado em 45% e permitir que o servidor escolha se uma reserva mínima de 5% será usada para cartão de crédito ou cartão de benefícios."
+            ]
+        },
+        {
+            "nome": "Rafael Baldi",
+            "cargo": "Diretor adjunto de Produtos da Federação Brasileira de Bancos (Febraban)",
+            "opinioes": [
+                "Informou que os servidores públicos têm 54,8% do crédito consignado, enquanto os aposentados do INSS ficam com 38,5%.",
+                "Apresentou dados de pesquisa da entidade sobre o uso dos empréstimos consignados."
+            ]
+        },
+        {
+            "nome": "Vitor Hugo Ferreira",
+            "cargo": "Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça",
+            "opinioes": [
+                "Disse que os servidores, apesar das dificuldades, não conseguem renegociar o consignado porque estão sempre adimplentes, já que o pagamento é descontado em folha."
+            ]
+        }
+    ]
+}

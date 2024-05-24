@@ -1,0 +1,25 @@
+{
+    "assunto": "Alternativa ao saque-aniversário no FGTS",
+    "envolvidos": [
+        {
+            "nome": "Luiz Marinho",
+            "cargo": "Ministro do Trabalho e Emprego",
+            "opinioes": [
+                "Defende acabar com o saque-aniversário no FGTS",
+                "Defende que o FGTS volte a servir como proteção para o trabalhador no desemprego e como fonte de financiamento da infraestrutura",
+                "Disse: 'Estou convencido de que é melhor acabar com o saque-aniversário'",
+                "Disse: 'Antes de mandar um projeto de lei, queremos conversar com o Congresso, ouvir e combinar o jogo antes, para saber se tem aderência ou não'",
+                "Disse: 'É preciso que a gente enfrente esse debate'",
+                "Assegurou: 'A nova modalidade não trará prejuízos, pelo contrário. O trabalhador terá crédito barato, a partir da folha de pagamento, e preservará o FGTS se vier a perder o emprego. Será muito melhor'"
+            ]
+        },
+        {
+            "nome": "Capitão Alberto Neto",
+            "cargo": "Deputado (PL-AM)",
+            "opinioes": [
+                "Critica a possibilidade de extinção do saque-aniversário",
+                "Disse: 'O saque-aniversário é como se fosse o 14º salário do trabalhador'"
+            ]
+        }
+    ]
+}

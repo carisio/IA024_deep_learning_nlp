@@ -1,0 +1,47 @@
+{
+    "assunto": "Impacto dos cigarros eletrônicos no índice de fumantes no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Margareth Dalcolmo",
+            "cargo": "Presidente da Sociedade Brasileira de Pneumologia e Tisiologia",
+            "opinioes": [
+                "Alerta sobre a ameaça dos cigarros eletrônicos para a queda no número de fumantes no Brasil",
+                "Estima que o Brasil já conte com dois milhões de usuários de cigarros eletrônicos",
+                "Critica a facilidade de compra dos cigarros eletrônicos, mesmo sendo proibida a venda no país",
+                "Alerta sobre os danos nos pulmões de adolescentes causados pelos cigarros eletrônicos"
+            ]
+        },
+        {
+            "nome": "Sandra Marques",
+            "cargo": "Coordenadora estadual do Programa Nacional de Controle do Tabagismo de São Paulo",
+            "opinioes": [
+                "Afirma que 25% dos jovens de 18 a 24 anos estão experimentando tabaco através do cigarro eletrônico",
+                "Apresenta dados sobre o aumento de 20% no índice de jovens que experimentam tabaco via cigarro eletrônico"
+            ]
+        },
+        {
+            "nome": "Dr. Zacharias Calil",
+            "cargo": "Deputado (União-GO)",
+            "opinioes": [
+                "Explica que a DPOC é responsável por metade das mortes decorrentes de tabaco",
+                "Destaca os custos para o sistema de saúde com o tratamento da DPOC"
+            ]
+        },
+        {
+            "nome": "Diogo Alves",
+            "cargo": "Oficial nacional de Controle de Tabaco e Impostos Saudáveis da OMS no Brasil",
+            "opinioes": [
+                "Destaca que o Brasil conseguiu reduzir significativamente a prevalência de fumantes com políticas públicas",
+                "Menciona que nenhum outro país alcançou o mesmo índice de redução no consumo de produtos com nicotina"
+            ]
+        },
+        {
+            "nome": "Monica Andreis",
+            "cargo": "Diretora-geral da ONG Aliança de Controle do Tabagismo",
+            "opinioes": [
+                "Defende a criação de imposto seletivo para cigarros e derivados do tabaco como medida efetiva para reduzir o consumo",
+                "Destaca que a política de preço e impostos foi eficaz na redução do número de fumantes"
+            ]
+        }
+    ]
+}

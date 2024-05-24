@@ -1,0 +1,40 @@
+{
+    "assunto": "Medidas para impulsionar uso do biometano no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Hugo Leal",
+            "cargo": "Deputado (PSD-RJ)",
+            "opinioes": [
+                "Defende medidas para incentivar o uso do biometano na matriz energética brasileira",
+                "Avalia que o mercado de biometano já é uma realidade no País e precisa ser dinamizado",
+                "Aposta no uso do biocombustível no setor de transportes pesados",
+                "Autor de um projeto de lei (PL 4861/23) de incentivos ao biometano"
+            ]
+        },
+        {
+            "nome": "Marcelo Mendonça",
+            "cargo": "Diretor da Associação Brasileira das Empresas Distribuidoras de Gás Canalizado (Abegás)",
+            "opinioes": [
+                "Vê no setor de transportes a saída para impulsionar o mercado de biometano",
+                "Afirma que o veículo a gás custa três vezes menos do que o veículo elétrico",
+                "Destaca a vantagem de aproveitar a infraestrutura de gasodutos e postos de gás natural veicular"
+            ]
+        },
+        {
+            "nome": "Gustavo Bonini",
+            "cargo": "Diretor institucional da montadora Scania e representante da Abiogás",
+            "opinioes": [
+                "Afirma que o Brasil tem vocação para produzir biometano a partir de resíduos e esgoto",
+                "Destaca que o biometano é um combustível que transforma um passivo ambiental em ativo energético"
+            ]
+        },
+        {
+            "nome": "Leônidas Cristino",
+            "cargo": "Deputado (PDT-CE)",
+            "opinioes": [
+                "Propõe que outros setores da economia, além dos transportes, também possam usar o biometano",
+                "Defende abranger todos os segmentos da economia para reduzir o gás carbônico na atmosfera"
+            ]
+        }
+    ]
+}

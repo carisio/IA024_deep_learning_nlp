@@ -1,0 +1,29 @@
+{
+    "assunto": "Riscos na regulamentação do mercado digital",
+    "envolvidos": [
+        {
+            "nome": "Any Ortiz",
+            "cargo": "Deputada (Cidadania-RS)",
+            "opinioes": [
+                "defende o aprimoramento da legislação",
+                "quer ouvir não só o ponto de vista dos empreendedores, mas também dos consumidores"
+            ]
+        },
+        {
+            "nome": "Paula Farani",
+            "cargo": "Diretora de Política de Concorrência para América Latina da Meta",
+            "opinioes": [
+                "questionou o PL 2768/22",
+                "defende que o Cade é o órgão regulador mais adequado para atuar na defesa da concorrência"
+            ]
+        },
+        {
+            "nome": "Janaína Camilo Vendramini",
+            "cargo": "Analista técnica de Mercados e Transformação Digital do Sebrae",
+            "opinioes": [
+                "defende que a regulamentação dos mercados digitais no Brasil poderá beneficiar as micro e pequenas empresas e especialmente os microempreendedores individuais",
+                "afirma que a regulamentação coíbe práticas abusivas, trazendo maior segurança jurídica a quem atua nas plataformas"
+            ]
+        }
+    ]
+}

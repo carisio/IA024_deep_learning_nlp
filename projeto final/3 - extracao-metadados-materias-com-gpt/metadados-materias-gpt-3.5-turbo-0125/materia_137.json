@@ -1,0 +1,45 @@
+{
+    "assunto": "Possibilidade de professor ter dois cargos públicos em áreas diferentes",
+    "envolvidos": [
+        {
+            "nome": "Alessio Costa Lima",
+            "cargo": "presidente da União Nacional dos Dirigentes Municipais de Educação",
+            "opinioes": [
+                "Defende que a exceção constitucional atual enriquece a atividade docente ao permitir o acúmulo de dois cargos na mesma área de formação",
+                "Acredita que permitir um segundo cargo desvinculado da atividade docente pode afetar a qualidade da educação e precarizar a profissionalização docente",
+                "Defende a valorização da atividade docente por meio de salário digno e jornada única de 8 horas diárias"
+            ]
+        },
+        {
+            "nome": "Heder Noronha",
+            "cargo": "assessor da Subsecretaria de Gestão Administrativa do Ministério da Educação",
+            "opinioes": [
+                "Considera que a PEC vai no sentido contrário à tendência atual de ter professores com dedicação exclusiva e remuneração vinculada à titulação",
+                "Acredita que a proposta em análise pode levar à precarização ainda maior da atividade de professor da educação básica"
+            ]
+        },
+        {
+            "nome": "Prof. Paulo Fernando",
+            "cargo": "deputado (Republicanos-DF) e relator do texto",
+            "opinioes": [
+                "Defende que a PEC assegura a liberdade de escolha do professor em relação à carga horária de trabalho",
+                "Destaca que a PEC abrange todo o exercício do magistério, em toda a sua amplitude"
+            ]
+        },
+        {
+            "nome": "Fernando Mineiro",
+            "cargo": "deputado (PT-RN)",
+            "opinioes": [
+                "Defende a necessidade de mais debate sobre a PEC, sugerindo a participação de representantes de todas as categorias de professores, do ensino básico ao superior, incluindo os da rede privada"
+            ]
+        },
+        {
+            "nome": "José Pinheiro de Queiroz Neto",
+            "cargo": "representante do Conselho Superior do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+            "opinioes": [
+                "Defende a mudança constitucional, alegando que é importante para locais distantes e de difícil acesso, como o interior de estados como Amazonas e Pará",
+                "Acredita que a medida permitirá que professores ajudem comunidades com sua capacitação"
+            ]
+        }
+    ]
+}

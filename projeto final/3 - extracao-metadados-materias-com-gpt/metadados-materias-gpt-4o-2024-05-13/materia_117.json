@@ -1,0 +1,58 @@
+{
+  "assunto": "Acusações contra a Braskem por conduta criminosa em Maceió e a resposta de órgãos de fiscalização",
+  "envolvidos": [
+    {
+      "nome": "Alfredo Gaspar",
+      "cargo": "Deputado (União-AL), presidente da comissão externa que investiga o colapso do solo em bairros de Maceió",
+      "opinioes": [
+        "Questionou o representante do Instituto do Meio Ambiente (IMA) de Alagoas sobre as licenças ambientais concedidas à Braskem.",
+        "Afirmou que a Braskem foi criminosa e a ANM, omissa."
+      ]
+    },
+    {
+      "nome": "Ricardo César de Barros Oliveira",
+      "cargo": "Representante do Instituto do Meio Ambiente (IMA) de Alagoas",
+      "opinioes": [
+        "Admitiu que a Braskem nunca apresentou nenhum estudo de impacto ambiental.",
+        "Afirmou que a concessão do direito de explorar sal-gema na cidade foi concedida em 1966, quando não havia exigência das licenças ambientais previstas atualmente."
+      ]
+    },
+    {
+      "nome": "Helder Pasti",
+      "cargo": "Superintendente substituto de Fiscalização da Agência Nacional de Mineração (ANM)",
+      "opinioes": [
+        "Explicou que o órgão mudou as regras de fiscalização em 2010, quando passou a dar prioridade às minas subterrâneas.",
+        "Afirmou que desde 2015 o órgão pedia estudos sobre as operações, mas a Braskem só apresentou relatórios sobre quatro instalações no período.",
+        "Afirmou que o órgão fez tudo o que podia com a estrutura de que dispõe.",
+        "Ressaltou que a agência conta com apenas um fiscal para todo o estado de Alagoas."
+      ]
+    },
+    {
+      "nome": "Marx Beltrão",
+      "cargo": "Deputado (PP-AL)",
+      "opinioes": [
+        "Disse não acreditar que a Braskem agiu sozinha.",
+        "\"Eu espero que o Ministério Público Federal, que a Polícia Federal, identifiquem os nomes dos responsáveis, e que o Poder Judiciário julgue com todas as forças da lei, chegue a quem chegar, porque, por trás desse crime, teve muita gente importante que se associou à Braskem.\""
+      ]
+    },
+    {
+      "nome": "Paulo Roberto Farias Falcão",
+      "cargo": "Diretor do Departamento de Obras de Proteção da Secretaria Nacional de Proteção e Defesa Civil",
+      "opinioes": [
+        "Disse que o afundamento de terra na lagoa Mundaú, em Maceió, no domingo, provavelmente foi o colapso de uma das minas.",
+        "Ressaltou que não é possível ainda afirmar com certeza se esse colapso foi total ou parcial porque os equipamentos de monitoramento do local foram danificados.",
+        "Garantiu que a lagoa não será sugada pelo desabamento da mina.",
+        "\"Isso é um volume muito pequeno em relação ao volume total da lagoa, que é uma lagoa bem grande.\"",
+        "Afirmou que a velocidade de afundamento do terreno na área de mineração é de 18 cm por ano, mas um pouco antes do afundamento no domingo esse deslocamento alcançou uma velocidade de 52 cm por dia."
+      ]
+    },
+    {
+      "nome": "Leandro Galvanese",
+      "cargo": "Pesquisador do Serviço Geológico do Brasil",
+      "opinioes": [
+        "Afirmou que levantamentos feitos por satélite pela Braskem ainda no início dos anos 2000 já apontavam deslocamentos da superfície em Maceió.",
+        "Não pode afirmar se naquele momento o movimento da terra já era suficiente para apontar o colapso atual."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "assunto": "Financiamento estudantil para ampliar o ensino superior",
+    "envolvidos": [
+        {
+            "nome": "Lúcia Maria Teixeira",
+            "cargo": "Presidente do Sindicato das Entidades Mantenedoras de Estabelecimentos de Ensino Superior de São Paulo",
+            "opinioes": [
+                "Defende que o Brasil precisa de um programa de financiamento estudantil sustentável para atingir a meta de 33% dos jovens matriculados no ensino superior",
+                "Defende que a ausência de políticas públicas tem provocado recuo nas taxas de escolarização e nos distanciado da meta",
+                "Afirmou: 'Essa ausência de políticas públicas tem provocado recuo nas taxas de escolarização e nos distanciado ainda mais da nossa meta. A realidade da população brasileira demonstra que não haverá desenvolvimento do ensino superior sem essa política pública que dê acesso aos mais carentes'"
+            ]
+        },
+        {
+            "nome": "Átila Lira",
+            "cargo": "Deputado (PP-PI)",
+            "opinioes": [
+                "Defende a reformulação do Fies para garantir acesso ao ensino superior",
+                "Critica a modificação do Fies em 2017, afirmando que tornou o financiamento mais caro e reduziu o número de beneficiários",
+                "Reclamou: 'Eu acho que o Fies de hoje só está sendo bom para o banco, que administra. O aluno não está concluindo, ele está ficando inadimplente, porque ele não tem condição de pagar. Não é um financiamento social'",
+                "Afirmou que o impacto social do investimento em bolsas de estudo compensaria o custo"
+            ]
+        },
+        {
+            "nome": "Rafael Tavares",
+            "cargo": "Coordenador-geral de Financiamento Estudantil no Fundo Nacional de Desenvolvimento da Educação (FNDE)",
+            "opinioes": [
+                "Explicou que o pagamento do financiamento atualmente pode atingir mais da metade da renda do estudante depois de formado",
+                "Adiantou que o comitê gestor do Fies estuda limitar a cobrança a, no máximo, 13% da renda do participante",
+                "Afirmou que não há previsão de recursos no governo federal para arcar com os custos da proposta de Átila Lira"
+            ]
+        },
+        {
+            "nome": "Celso Niskier",
+            "cargo": "Diretor-presidente da Associação Brasileira de Mantenedoras de Ensino Superior",
+            "opinioes": [
+                "Afirma que o governo gasta menos com subsídio a um aluno da rede privada do que com um aluno da universidade pública",
+                "Comparou o custo de um jovem com bolsa integral do Prouni com um estudante da universidade pública"
+            ]
+        }
+    ]
+}

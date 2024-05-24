@@ -1,0 +1,64 @@
+{
+    "assunto": "Pedido de autorização da Petrobras para explorar petróleo perto da foz do Rio Amazonas",
+    "envolvidos": [
+        {
+            "nome": "Representante do governo",
+            "cargo": "não especificado",
+            "opinioes": [
+                "Defende a permissão para as pesquisas na área da Foz do Rio Amazonas para a produção de petróleo e gás."
+            ]
+        },
+        {
+            "nome": "Rodrigo Agostinho",
+            "cargo": "Presidente do Ibama",
+            "opinioes": [
+                "Enumerou motivos para negar o pedido da Petrobras, como a distância do centro logístico para lidar com emergências, a região pouco estudada e a proximidade com a fronteira com a Guiana.",
+                "Destacou a sensibilidade da área, com grande biodiversidade e terras indígenas, e a necessidade de rigor na análise."
+            ]
+        },
+        {
+            "nome": "Carlos Agenor Cabral",
+            "cargo": "Ministério de Minas e Energia",
+            "opinioes": [
+                "Defende a necessidade de distribuir melhor a produção de petróleo no país, abrindo novas fronteiras.",
+                "Destacou a importância da exploração de petróleo na Margem Equatorial para a segurança energética do Brasil."
+            ]
+        },
+        {
+            "nome": "Carlos Eduardo Rezende",
+            "cargo": "Pesquisador da Universidade Estadual do Norte Fluminense",
+            "opinioes": [
+                "Apontou a sensibilidade social e econômica da área da Foz do Amazonas e os possíveis impactos de um acidente com a produção de petróleo."
+            ]
+        },
+        {
+            "nome": "Suely Araújo",
+            "cargo": "Ex-presidente do Ibama, do Observatório do Clima",
+            "opinioes": [
+                "Defende a realização da Avaliação Ambiental de Área Sedimentar (AAAS) antes da exploração de petróleo e gás na Margem Equatorial, para garantir segurança jurídica e técnica."
+            ]
+        },
+        {
+            "nome": "Daniele Lomba",
+            "cargo": "Gerente de Sustentabilidade e Meio Ambiente da Petrobras",
+            "opinioes": [
+                "Defende a necessidade de novas reservas de petróleo para garantir a soberania energética do país.",
+                "Destacou que a área de testes no litoral do Amapá está distante de áreas sensíveis e que a Petrobras tem estrutura de resposta à emergência."
+            ]
+        },
+        {
+            "nome": "Ivan Valente",
+            "cargo": "Deputado (Psol-SP)",
+            "opinioes": [
+                "Defende a capacidade estratégica da Petrobras e destaca a importância de equilibrar a produção de petróleo com a sustentabilidade ambiental."
+            ]
+        },
+        {
+            "nome": "Mauro de Almeida",
+            "cargo": "Secretário de Meio Ambiente do Pará",
+            "opinioes": [
+                "Informou que os secretários dos estados da Amazônia Legal concordam com a exploração de petróleo e gás na Foz do Amazonas, visando resolver questões econômicas e sociais da região."
+            ]
+        }
+    ]
+}

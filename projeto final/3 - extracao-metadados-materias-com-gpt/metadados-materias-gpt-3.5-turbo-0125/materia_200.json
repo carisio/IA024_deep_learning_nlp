@@ -1,0 +1,49 @@
+{
+    "assunto": "Instituição da Política Nacional de Saúde Funcional",
+    "envolvidos": [
+        {
+            "nome": "Eduardo Santana",
+            "cargo": "fisioterapeuta, representante da Associação Internacional de Especialistas e Pesquisadores em Funcionalidade e CIF",
+            "opinioes": [
+                "Defende a aprovação do Projeto de Lei 1673/21, que institui a Política Nacional de Saúde Funcional",
+                "A proposta 'não muda muita coisa' na estrutura do SUS, mas deverá apresentar impactos sociais e econômicos"
+            ]
+        },
+        {
+            "nome": "Eduardo Cordeiro",
+            "cargo": "não especificado",
+            "opinioes": [
+                "A proposta 'muda a organização do sistema e introduz o pensamento biopsicossocial'",
+                "Beneficiará pessoas tanto do ponto de vista assistencial quanto do direito social, com a inclusão por meio de cotas ou com auxílio-doença e aposentadoria especial, entre outros"
+            ]
+        },
+        {
+            "nome": "Dr. Leonardo",
+            "cargo": "ex-deputado",
+            "opinioes": [
+                "Defende a avaliação da saúde funcional, do bem-estar e da qualidade de vida dos brasileiros",
+                "A Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID) é insuficiente para classificar e descrever o contexto em que esses problemas acontecem",
+                "A CIF é capaz de gerar dados mais compatíveis com a realidade dos indivíduos"
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "deputada (PT-DF)",
+            "opinioes": [
+                "A adoção da Política Nacional de Saúde Funcional será de extrema importância",
+                "A CIF é uma ferramenta que pode ajudar na compreensão das necessidades das pessoas com doenças crônicas e na definição de políticas públicas",
+                "'Saúde não é contraponto de doença, e a ausência de doença não significa que eu tenho saúde'",
+                "'Saúde deve significar qualidade de vida, e a qualidade de vida deve significar que tenho funcionalidade para as diversas atividades que reafirmam a condição humana'",
+                "Doenças crônicas afetam cerca de 40% da população brasileira, interferindo na capacidade do indivíduo de desenvolver atividades diárias"
+            ]
+        },
+        {
+            "nome": "Professora Goreth",
+            "cargo": "deputada (PDT-AP)",
+            "opinioes": [
+                "Concordou com as manifestações favoráveis ao PL 1673/21",
+                "'As pessoas querem produzir para fazermos um País melhor, mas não conseguem'"
+            ]
+        }
+    ]
+}

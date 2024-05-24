@@ -1,0 +1,45 @@
+{
+    "assunto": "Perseguição a professores devido à radicalização política no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Pâmella Passos",
+            "cargo": "professora do Instituto Federal do Rio de Janeiro",
+            "opinioes": [
+                "Defende que professores estão sendo perseguidos por razões ideológicas",
+                "Gostariam de apoio psicológico e jurídico para lidar com a situação"
+            ]
+        },
+        {
+            "nome": "Juliana Andozio",
+            "cargo": "professora da rede estadual de Santa Catarina",
+            "opinioes": [
+                "Foi vítima de cerco e processo administrativo por acusação de doutrinação política na escola",
+                "Foi punida com 15 dias sem salário, mesmo sem comprovação das acusações"
+            ]
+        },
+        {
+            "nome": "Salomão Barros Ximenes",
+            "cargo": "professor da Universidade Federal do ABC",
+            "opinioes": [
+                "Defende a criação de redes de proteção para garantir a liberdade de ensinar",
+                "Propõe políticas públicas de defesa jurídica e psicológica para os professores"
+            ]
+        },
+        {
+            "nome": "Professora Luciene Cavalcante",
+            "cargo": "deputada (Psol-SP)",
+            "opinioes": [
+                "Elogia a iniciativa de um observatório para monitorar a perseguição contra professores",
+                "Destaca a importância de dados para embasar propostas de políticas públicas"
+            ]
+        },
+        {
+            "nome": "Talíria Petrone",
+            "cargo": "deputada (Psol-RJ)",
+            "opinioes": [
+                "Defende a necessidade de um protocolo para garantir que o papel fiscalizador dos parlamentares fique dentro da lei",
+                "Propõe responsabilizar aqueles que promovem ódio e atacam profissionais de educação"
+            ]
+        }
+    ]
+}

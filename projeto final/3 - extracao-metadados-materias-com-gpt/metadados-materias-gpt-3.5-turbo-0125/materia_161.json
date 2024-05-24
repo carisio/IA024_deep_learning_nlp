@@ -1,0 +1,31 @@
+{
+    "assunto": "Aumento dos preços das passagens aéreas no Brasil",
+    "envolvidos": [
+        {
+            "nome": "Jurema Monteiro",
+            "cargo": "da Associação Brasileira das Empresas Aéreas",
+            "opinioes": [
+                "Combustíveis e dólar explicam o aumento dos preços das passagens aéreas no Brasil",
+                "Defende uma nova política de preços para combustíveis, o que poderia diminuir em até 17% o preço das passagens",
+                "Não considera os preços excessivos",
+                "Apenas 5% dos bilhetes têm tarifas superiores a R$ 1.500. A maioria dos passageiros que se organiza consegue com planejamento e compras antecipadas encontrar tarifas competitivas abaixo de R$ 500, na maior parte das vezes."
+            ]
+        },
+        {
+            "nome": "Eduardo Catanant",
+            "cargo": "Diretor da Agência Nacional de Aviação Civil (Anac)",
+            "opinioes": [
+                "Explica que a diferença de preços nas passagens se deve à antecedência na compra",
+                "Defende que a solução passa pela entrada de novas companhias no mercado"
+            ]
+        },
+        {
+            "nome": "Neto Carletto",
+            "cargo": "Deputado (PP-BA)",
+            "opinioes": [
+                "Cobrou mais benefícios para o consumidor em resposta aos incentivos que as empresas têm recebido",
+                "É importante que haja um compromisso das empresas para com os consumidores"
+            ]
+        }
+    ]
+}

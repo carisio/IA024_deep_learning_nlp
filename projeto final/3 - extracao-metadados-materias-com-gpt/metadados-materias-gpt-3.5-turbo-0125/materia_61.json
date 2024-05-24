@@ -1,0 +1,51 @@
+{
+    "assunto": "Política de retomada do setor industrial",
+    "envolvidos": [
+        {
+            "nome": "Jorge Nascimento",
+            "cargo": "presidente-executivo da Associação Nacional dos Fabricantes Produtos Eletroeletrônicos (Eletros)",
+            "opinioes": [
+                "Defende uma série de medidas para melhorar o ambiente de negócios, como a reforma administrativa e ações de geração de emprego e renda.",
+                "Destacou a necessidade de uma reforma tributária que não onere ainda mais a indústria e o consumidor."
+            ]
+        },
+        {
+            "nome": "Patrícia Gomes",
+            "cargo": "diretora-executiva de mercado externo da Associação Brasileira da Indústria de Máquinas e Equipamentos (Abimaq)",
+            "opinioes": [
+                "Destacou a necessidade da redução do custo do crédito no Brasil.",
+                "Mencionou que 80% das empresas de máquinas e equipamentos se financiam com capital próprio, o que limita o investimento em inovação e capacitação."
+            ]
+        },
+        {
+            "nome": "Marcos Borges de Castro",
+            "cargo": "gerente-executivo de assuntos legislativos da Confederação Nacional da Indústria (CNI)",
+            "opinioes": [
+                "Apresentou dados sobre o investimento de outros países em políticas de apoio à indústria.",
+                "Destacou a queda da participação da indústria brasileira na produção mundial de 2,58% para 1,28% entre 2006 e 2021."
+            ]
+        },
+        {
+            "nome": "Alexis Fonteyne",
+            "cargo": "deputado (Novo-SP)",
+            "opinioes": [
+                "Critica a falta de um Plano Indústria no Brasil e destaca a necessidade de uma reforma tributária."
+            ]
+        },
+        {
+            "nome": "Vitor Lippi",
+            "cargo": "deputado (PSDB-SP)",
+            "opinioes": [
+                "Destaca problemas como o sistema tributário, ambiente de negócios e a área de pesquisa e desenvolvimento que precisam ser melhorados para o crescimento da indústria."
+            ]
+        },
+        {
+            "nome": "Zé Neto",
+            "cargo": "deputado (PT-BA)",
+            "opinioes": [
+                "Defende a criação de um comitê interministerial para discutir uma política industrial.",
+                "Propõe um novo experimento com câmaras técnicas para tratar de temas interministeriais."
+            ]
+        }
+    ]
+}

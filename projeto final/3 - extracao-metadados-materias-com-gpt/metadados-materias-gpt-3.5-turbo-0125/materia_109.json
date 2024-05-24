@@ -1,0 +1,42 @@
+{
+    "assunto": "Plano Nacional de Proteção e Defesa Civil",
+    "envolvidos": [
+        {
+            "nome": "Waldez Góes",
+            "cargo": "Ministro da Integração e do Desenvolvimento Regional",
+            "opinioes": [
+                "Defende a entrega do Plano Nacional de Proteção e Defesa Civil no início do segundo semestre",
+                "Defende que o plano vai trazer melhorias na governança e no atendimento às populações que vivem em áreas de risco ou enfrentam desastres naturais",
+                "Defende que o plano vai criar uma sinergia maior entre a defesa civil nacional, estadual e municipais"
+            ]
+        },
+        {
+            "nome": "Wolnei Wolf",
+            "cargo": "Secretário Nacional de Proteção e Defesa Civil",
+            "opinioes": [
+                "Informou que o Brasil possui hoje perto de 2 mil municípios em situação de emergência ou de calamidade pública"
+            ]
+        },
+        {
+            "nome": "Pedro Campos",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Defende a aprovação do projeto que institui uma política de proteção da Caatinga (PL 4623/19)"
+            ]
+        },
+        {
+            "nome": "Gaguim",
+            "cargo": "Deputado",
+            "opinioes": [
+                "É favorável à aprovação da Proposta de Emenda à Constituição (PEC) 504/10, que reconhece a Caatinga como patrimônio nacional"
+            ]
+        },
+        {
+            "nome": "Padovani",
+            "cargo": "Deputado",
+            "opinioes": [
+                "Defende a Ferrovia Bioceânica, que vai ligar os portos de Paranaguá (PR) e Antofagasta (Chile), facilitando o comércio com a Ásia"
+            ]
+        }
+    ]
+}

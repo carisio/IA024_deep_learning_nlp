@@ -1,0 +1,53 @@
+{
+    "assunto": "Comemoração dos 150 anos de nascimento de Santos Dumont e sua contribuição para a aviação e ciência",
+    "envolvidos": [
+        {
+            "nome": "Jean Robert Batana Ferreira",
+            "cargo": "coordenador-geral de Tecnologias Estratégicas da Secretaria de Desenvolvimento Tecnológico e Inovação do Ministério da Ciência, Tecnologia e Inovação (MCTI)",
+            "opinioes": [
+                "Defende que Santos Dumont contribuiu para o desenvolvimento de motores aeroespaciais e princípios aeronáuticos",
+                "Afirmou: 'Ele desenvolveu esses motores, trazendo uma contribuição extremamente importante na tecnologia aeroespacial e, com isso, também propôs alguns princípios aeronáuticos que permitem o controle de aeronaves e a estabilidade de direção, assim influenciando a aviação moderna'"
+            ]
+        },
+        {
+            "nome": "Claudio Gomide",
+            "cargo": "coordenador do Museu Santos Dumont",
+            "opinioes": [
+                "Defende que Santos Dumont precisa ser mais reconhecido no Brasil e que a educação museal é importante",
+                "Relatou: 'A gente precisa divulgar mais Santos Dumont, a gente precisa que Santos Dumont seja muito mais reconhecido no Brasil. É muito triste que eu receba escolas no museu e que as escolas não sabem absolutamente nada'"
+            ]
+        },
+        {
+            "nome": "Luciano Valentim Rechiuti",
+            "cargo": "chefe do Subdepartamento Técnico do Departamento de Ciência e Tecnologia Aeroespacial da Aeronáutica",
+            "opinioes": [
+                "Destacou o avanço na pesquisa aeroespacial no Brasil devido às pesquisas de Santos Dumont",
+                "Explicou: 'Teremos pela primeira vez no País a capacidade, não só de produzir satélite, mas também, com um veículo lançador brasileiro, fazer o lançamento desse satélite e colocá-lo em órbita. É um projeto em conjunto com a Alemanha'"
+            ]
+        },
+        {
+            "nome": "Henrique Lins de Barros",
+            "cargo": "especialista na vida e obra de Santos Dumont",
+            "opinioes": [
+                "Apontou que Santos Dumont enxergou no motor a explosão a petróleo o futuro da aviação e inaugurou o século 20 como o século do voo",
+                "Disse: 'É o início da era da navegação aérea. Vasco da Gama, início da era da navegação marítima. Então Santos Dumont mostra que é possível você voar no ar controladamente com tempo definido. E ele passa a ser o inaugurador do século 20, o século do voo'"
+            ]
+        },
+        {
+            "nome": "Luisa Canziani",
+            "cargo": "deputada (PSD-PR)",
+            "opinioes": [
+                "Destacou as pesquisas de Santos Dumont na área de medição da pressão atmosférica e seus avanços na meteorologia e em outras disciplinas científicas",
+                "Afirmou: 'Especialmente para que todos nós tivéssemos as nossas Cataratas do Iguaçu como um legado para humanidade. Santos Dumont foi visitar a fazenda à época e, quando viu as Cataratas do Iguaçu, ele se assustou e proferiu a seguinte frase, de acordo com aqueles que estudam a vida de Santos Dumont: ‘essas maravilhas não podem pertencer a um particular’'"
+            ]
+        },
+        {
+            "nome": "Ricardo Jacob Magalhães",
+            "cargo": "vice-presidente do Instituto Cultural Santos Dumont",
+            "opinioes": [
+                "Divulgou a exposição 'Santos Dumont: entre Máquinas e Sonhos' em São Paulo",
+                "Informou: 'A mostra vai até abril do ano que vem'"
+            ]
+        }
+    ]
+}

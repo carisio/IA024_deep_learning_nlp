@@ -1,0 +1,39 @@
+{
+    "assunto": "Necessidade de mais orçamento e estrutura para atletas com deficiência",
+    "envolvidos": [
+        {
+            "nome": "Fábio de Araújo",
+            "cargo": "Secretário Nacional de Paradesporto",
+            "opinioes": [
+                "Reclamou do orçamento de pouco mais de R$ 1,8 milhão para este ano",
+                "Apontou a necessidade de conseguir mais emendas parlamentares",
+                "Defendeu a corresponsabilidade entre estados, municípios e famílias na área do Paradesporto",
+                "Busca sensibilizar estados e municípios a criar unidades específicas que cuidem do Paradesporto"
+            ]
+        },
+        {
+            "nome": "Nayara Falcão",
+            "cargo": "Advogada",
+            "opinioes": [
+                "Relatou que faltam maior acessibilidade, visibilidade e tratamento equitativo para os atletas com deficiência",
+                "Lamentou: 'Olham para o que falta na gente e não para o que nós somos capazes, para as nossas potencialidades'"
+            ]
+        },
+        {
+            "nome": "Dr. Zacharias Calil",
+            "cargo": "Deputado (União-GO)",
+            "opinioes": [
+                "Ressaltou a importância de estimular a prática esportiva para a população com deficiência em ambientes educacionais",
+                "Destacou que o esporte é uma ferramenta poderosa para a transformação social",
+                "Defendeu o acesso igualitário às práticas esportivas para todas as pessoas, independentemente de suas limitações"
+            ]
+        },
+        {
+            "nome": "Luiz Lima",
+            "cargo": "Deputado (PL-RJ)",
+            "opinioes": [
+                "Destacou a qualidade das instalações do Centro de Treinamento Paraolímpico Brasileiro"
+            ]
+        }
+    ]
+}

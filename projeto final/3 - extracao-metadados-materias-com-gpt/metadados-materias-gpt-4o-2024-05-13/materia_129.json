@@ -1,0 +1,51 @@
+{
+  "assunto": "Debate sobre a vacinação de crianças contra Covid-19",
+  "envolvidos": [
+    {
+      "nome": "Nísia Trindade",
+      "cargo": "Ministra da Saúde",
+      "opinioes": [
+        "Defende a inclusão da vacina contra Covid-19 para crianças de 6 meses a 5 anos no Programa Nacional de Imunização.",
+        "A medida segue recomendação de sociedades científicas.",
+        "Em 2023, 110 crianças morreram em decorrência da Covid-19.",
+        "Em 2023, o País registrou 3.379 casos de síndrome respiratória aguda grave por Covid-19 em menores de 1 ano, e 1.707 casos na faixa de 1 a 4 anos.",
+        "A vacina é o mais recomendado.",
+        "\"A indicação é muito clara e está baseada em um dado muito simples: 110 mortes de crianças por Covid em 2023, é esse o dado que leva a essa determinação.\"",
+        "Afirmou que a declaração de Bia Kicis sobre a vacina ser uma terapia gênica \"é mentirosa\".",
+        "\"O FDA jamais falou que a vacina de RNA mensageiro é uma terapia gênica. Esse é o problema que nós temos hoje, as falas são feitas como se houvesse verdades por trás, e não há verdade.\"",
+        "Falar contra as vacinas é uma temeridade, que coloca em risco a saúde e a vida da população.",
+        "\"Devo dizer da temeridade do que está sendo colocado aqui, por quem está atacando, sim, a proteção à vida que a vacina dá. Não se sabem, inclusive, as implicações neurológicas da Covid, não se sabem muitas das implicações no aparelho circulatório, os casos de trombose entre as pessoas que têm Covid são muito maiores do que naqueles que não têm.\""
+      ]
+    },
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Deputada (PL-DF)",
+      "opinioes": [
+        "Contrária à obrigatoriedade da vacinação contra a Covid para crianças.",
+        "Afirmou que já realizou audiências públicas com vários médicos que trabalham com vacinas e todos são contra a medida.",
+        "O imunizante não deveria ser chamado de vacina, mas de terapia gênica.",
+        "O assunto precisa de mais debates.",
+        "\"Nós somos todos favoráveis às vacinas que estão no PNI há muito tempo, que são vacinas seguras, de eficácia comprovada, mas essa, o próprio FDA chama de terapia gênica.\""
+      ]
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "cargo": "Deputado (PL-SP)",
+      "opinioes": [
+        "Argumentou que vários países europeus já restringiram a aplicação da vacina contra a Covid-19 a idosos.",
+        "Afirmou que na Suíça, cientistas teriam concluído que as vacinas traziam mais riscos que benefícios à população em geral.",
+        "Afirmou que \"há uma epidemia mundial\" de morte súbita depois da vacinação contra a Covid."
+      ]
+    },
+    {
+      "nome": "Jorge Solla",
+      "cargo": "Deputado (PT-BA)",
+      "opinioes": [
+        "Acusou os representantes da oposição de mentir em relação à vacina, prejudicando todo o programa de imunização.",
+        "Ressaltou que municípios onde há dez anos se alcançava uma cobertura vacinal de 90% hoje chegam a apresentar um índice de apenas 40% da população vacinada.",
+        "Acusou os oposicionistas de colocarem a vida da população em risco para conseguir dividendos políticos.",
+        "\"Vocês estão mentindo, isso é um prática criminosa, vocês são responsáveis por cada criança que vier a ter sarampo nesse País, vocês serão responsáveis por cada caso de pólio que vier a acontecer. Vocês estão usando o movimento antivacina, pregando mentiras, para ter vantagens eleitorais. Comprometer a proteção de crianças, de gestantes, de idosos para ganhar voto, para lacrar nas redes sociais, para ganhar seguidores, para ganhar apoiadores.\""
+      ]
+    }
+  ]
+}
