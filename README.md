@@ -131,35 +131,12 @@ Projeto: Implementar o RAGAS para avaliar 50 respostas do dataset do IIRC.
 
 <br> 
 
-## 11. 
+## 11. Multiagentes
 
-Leitura da semana: []()
+Leitura da semana: [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/pdf/2305.14325)
 
-Projeto: 
+- Tópicos relevantes da leitura do artigo: [Word](./11%20-%20multiagentes/leitura/[Aula%2011]%20Multiagentes%20-%20Principais%20contribuições%20do%20artigo.docx) / [PDF](./11%20-%20multiagentes/leitura/[Aula%2011]%20Multiagentes%20-%20Principais%20contribuições%20do%20artigo.pdf)
 
-- Implementação: [Jupyter notebook]() / [Colab]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
+<br>
 
-<br> 
-
-## 12. 
-
-Leitura da semana: []()
-
-Projeto: 
-
-- Implementação: [Jupyter notebook]() / [Colab]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
-
-<br> 
-
-## 13. 
-
-Leitura da semana: []()
-
-Projeto: 
-
-- Implementação: [Jupyter notebook]() / [Colab]()
-- Tópicos relevantes da leitura do artigo: [Word]() / [PDF]()
-
-<br> 
+## Projeto final 
