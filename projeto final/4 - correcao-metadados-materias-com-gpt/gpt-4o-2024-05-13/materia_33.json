@@ -5,7 +5,7 @@
       "nome": "Samira Cunha",
       "cargo": "Presidente da Federação Nacional dos Jornalistas (Fenaj)",
       "opinioes": [
-        "Defende que o diploma em jornalismo é necessário para qualificar o jornalismo praticado no Brasil.",
+		"\"Em um cenário onde a gente tem a maioria da população se informando por redes sociais, nós precisamos qualificar cada vez mais o jornalismo praticado no Brasil.\"",
         "Acredita que o jornalismo profissional é o antídoto contra a desinformação e notícias falsas.",
         "\"Vivemos em uma sociedade que se baseia em mentiras propagadas em larga escala e com objetivos específicos, e deixamos de lado o papel de um profissional que se capacita, no mínimo, por quatro anos para exercer um papel fundamental na democracia.\"",
         "Revelou que atualmente, sem a necessidade de diploma, há casos de menores de idade e de analfabetos com registro profissional de jornalista no País."
@@ -34,8 +34,7 @@
       "cargo": "Presidente da Associação Brasileira de Pesquisadores em Jornalismo (SBPJor)",
       "opinioes": [
         "Citou dados de uma pesquisa que revela que 1 em cada 5 brasileiros acredita que a terra é plana.",
-        "A mesma proporção de brasileiros acredita que vacinas fazem mais mal do que bem para crianças.",
-        "\"Essas pessoas podem, por exemplo, contribuir para o retorno de doenças que pareciam estar superadas pelo Plano Nacional de Imunização.\""
+        "1 em cada 5 brasileiros acredita que vacinas fazem mais mal do que bem para crianças: \"Essas pessoas podem, por exemplo, contribuir para o retorno de doenças que pareciam estar superadas pelo Plano Nacional de Imunização.\""
       ]
     },
     {
@@ -55,14 +54,6 @@
         "\"Queria perguntar ao ministro Gilmar Mendes se ele faria uma cirurgia com algum médico que não tivesse sentado nas cadeiras do curso de medicina.\"",
         "Afirmou que o fim da obrigatoriedade do diploma desvalorizou a função dos cursos de jornalismo.",
         "\"Hoje ninguém mais quer fazer faculdade de jornalismo. Para que ficar quatro anos estudando jornalismo se nem do diploma precisa?\""
-      ]
-    },
-    {
-      "nome": "Gilmar Mendes",
-      "cargo": "Ministro do Supremo Tribunal Federal (STF)",
-      "opinioes": [
-        "Concedeu liminar em 2006 permitindo o exercício da atividade aos que atuavam na área mesmo sem graduação em jornalismo ou registro profissional.",
-        "Em 2009, concluiu que \"a formação específica em cursos de jornalismo não é meio idôneo para evitar eventuais riscos à coletividade ou danos a terceiros.\""
       ]
     }
   ]
