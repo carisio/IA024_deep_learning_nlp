@@ -1,0 +1,50 @@
+{
+  "assunto": "Discussão sobre a eficácia de guardas armados e medidas de segurança nas escolas para combater a violência",
+  "envolvidos": [
+    {
+      "nome": "Daniel Cara",
+      "cargo": "Professor de Educação da Universidade de São Paulo",
+      "opinioes": [
+        "A melhor prevenção é que o ambiente escolar seja democrático e saudável.",
+        "Há uma tese, chamada teoria da janela quebrada, que demonstra a correlação entre espaços degradados e aumento da violência.",
+        "O Brasil é atualmente o segundo país do mundo com mais casos de ataque a escolas, atrás apenas dos Estados Unidos."
+      ]
+    },
+    {
+      "nome": "Catarina de Almeida",
+      "cargo": "Professora da Faculdade de Educação da Universidade de Brasília (UnB)",
+      "opinioes": [
+        "A experiência dos Estados Unidos deixa claro que transformar a escola em prisão não é uma boa ideia.",
+        "Desde 1989, algumas instituições de ensino norte-americanas contam com segurança armada. Hoje, especialistas de lá clamam por sua retirada, porque os ataques até aumentaram.",
+        "A inserção nas escolas de artefatos de segurança, tais como catracas, detector de metal e segurança armada, não vai enfrentar o impacto do extremismo de direita nos jovens. Pelo contrário, eles querem esse confronto.",
+        "O crescimento da violência escolar acompanha o aumento do número de armas em circulação no País. A população civil brasileira já tem um arsenal sete vezes e meia maior que aquele que está nas mãos das forças de segurança."
+      ]
+    },
+    {
+      "nome": "Pastor Henrique Vieira",
+      "cargo": "Deputado (Psol-RJ)",
+      "opinioes": [
+        "Duas escolas que sofreram ataques com o maior número de mortos nos Estados Unidos contavam com policiais.",
+        "As forças de segurança devem focar principalmente em inteligência, uma vez que os ataques são organizados pela internet.",
+        "Há uma cultura instaurada que estimula esse tipo de comportamento entre jovens, que é uma cultura de ódio, de preconceito, de discriminação.",
+        "Precisamos de ações interdisciplinares que possam enfrentar a cultura do extremismo e valorizar a escola como espaço de diversidade.",
+        "Iniciativas como rondas nos arredores das escolas também podem ser efetivas, mas a solução da violência depende de mudanças culturais."
+      ]
+    },
+    {
+      "nome": "Josevanda Franco",
+      "cargo": "Presidente da União Nacional dos Dirigentes Municipais de Educação (Undime-se)",
+      "opinioes": [
+        "Soluções como a militarização não funcionam porque a violência escolar reflete o que acontece na sociedade."
+      ]
+    },
+    {
+      "nome": "Ana Paula Lima",
+      "cargo": "Deputada (PT-SC)",
+      "opinioes": [
+        "O aumento da violência nas escolas é reflexo do ambiente político vigente no Brasil nos últimos anos.",
+        "O que a gente podia esperar se tivemos personalidades políticas que incitavam o ódio e a violência, faziam 'arminha'? Até hoje parlamentares desta Casa tiram foto com metralhadora empunhada, disseminando o ódio e a violência."
+      ]
+    }
+  ]
+}

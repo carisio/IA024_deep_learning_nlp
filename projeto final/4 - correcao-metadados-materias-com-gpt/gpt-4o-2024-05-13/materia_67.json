@@ -1,0 +1,45 @@
+{
+  "assunto": "Debate sobre mudanças na legislação para assegurar direitos dos trabalhadores portadores de lesão",
+  "envolvidos": [
+    {
+      "nome": "Luís Fabiano Costa",
+      "cargo": "Presidente da Associação dos Trabalhadores Lesionados nas Indústrias Metalúrgicas do Vale do Paraíba (SP)",
+      "opinioes": [
+        "Estamos cada vez mais expostos à exploração, ao assédio moral, às péssimas condições de trabalho, aos salários cada vez mais rebaixados e principalmente aos acidentes e doenças profissionais.",
+        "Nos últimos anos foram revogadas diversas normas aplicadas ao setor que funcionavam como medidas de segurança para evitar acidentes e lesões."
+      ]
+    },
+    {
+      "nome": "Orlando Silva",
+      "cargo": "Deputado (PCdoB-SP)",
+      "opinioes": [
+        "A precarização das relações de trabalho no último período agravou enormemente as lesões.",
+        "Por isso é importante que a Câmara adote medidas na legislação que sejam protetivas do ambiente do trabalho."
+      ]
+    },
+    {
+      "nome": "Gustavo de Paula Oliveira",
+      "cargo": "Advogado da Associação dos Trabalhadores Lesionados nas Indústrias Metalúrgicas do Vale do Paraíba (SP)",
+      "opinioes": [
+        "É uma tragédia que, além de impactar o próprio trabalhador, vai impactar também a vida da família e também os cofres públicos, porque a partir do momento que o trabalhador se lesiona e se afasta, quem vai assumir a despesa é a Previdência Social."
+      ]
+    },
+    {
+      "nome": "Renata Rothje Ruiz",
+      "cargo": "Trabalhadora lesionada",
+      "opinioes": [
+        "Desde que me tornei lesionada, fui perseguida, maltratada e muitas vezes humilhada dentro da empresa.",
+        "Disse ter sofrido de depressão.",
+        "Defende que as regras sobre o tema sejam fixadas em lei, e não em acordos coletivos."
+      ]
+    },
+    {
+      "nome": "Antônio Benedito Gonçalves",
+      "cargo": "Trabalhador lesionado",
+      "opinioes": [
+        "A qualquer momento eu posso ser chamado para uma nova perícia que pode cortar meu benefício.",
+        "Peço que olhem para nós não como simples peças de reposição."
+      ]
+    }
+  ]
+}

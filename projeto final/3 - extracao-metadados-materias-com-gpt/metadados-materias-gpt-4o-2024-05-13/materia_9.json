@@ -19,7 +19,6 @@
         "A solicitação da certidão não tem fundamentação legal clara.",
         "\"Muitas vezes, essa solicitação poderá ser considerada um ato discriminatório, inclusive relacionado ao assédio moral a esses cuidadores.\"",
         "É preciso discutir antes alguma forma de regulamentação para a atividade.",
-		"Qualquer território em que a população com mais de 60 anos ultrapassa os 15% do total deve ser considerado envelhecido",
         "\"As pessoas idosas precisam de cuidado, mas é necessário olhar também para quem está cuidando delas.\"",
         "\"A gente precisa apoiar os cuidadores, não criminalizar essas pessoas.\""
       ]
@@ -29,7 +28,17 @@
       "cargo": "Deputado (PP-MG)",
       "opinioes": [
         "Apresentou o Projeto de Lei 731/24, que permite ao contratante pedir a certidão negativa de antecedentes criminais do trabalhador no cuidado de pessoas idosas.",
+        "\"Não seria uma obrigatoriedade.\"",
         "\"Também não haveria impeditivo em caso de certidão positiva, o empregador decidiria prosseguir ou não com a contração.\""
+      ]
+    },
+    {
+      "nome": "Coronel Fernanda",
+      "cargo": "Deputada (PL-MT)",
+      "opinioes": [
+        "Institui, no Ministério da Justiça e Segurança Pública, uma central para a consulta pública de antecedentes criminais.",
+        "Esse serviço deverá ser gratuito e oferecerá garantia de confidencialidade.",
+        "\"Essa central desempenhará papel crucial na prevenção de crimes e no fortalecimento da segurança pública.\""
       ]
     }
   ]

@@ -1,0 +1,26 @@
+{
+  "assunto": "Abusos em cadastros de consumidores feitos por farmácias e drogarias",
+  "envolvidos": [
+    {
+      "nome": "Representante da Autoridade Nacional de Proteção de Dados (ANPD)",
+      "cargo": "Autoridade Nacional de Proteção de Dados",
+      "opinioes": [
+        "Em muitos casos, o tratamento dos dados não é feito de forma adequada."
+      ]
+    },
+    {
+      "nome": "Associação Brasileira das Redes de Farmácias e Drogarias (Abrafarma)",
+      "cargo": "Associação Brasileira das Redes de Farmácias e Drogarias",
+      "opinioes": [
+        "O processo utilizado pelas farmácias e drogarias é apoiado fortemente na tecnologia da informação."
+      ]
+    },
+    {
+      "nome": "Jorge Braz",
+      "cargo": "Deputado (Republicanos-RJ)",
+      "opinioes": [
+        "Iniciativa do debate."
+      ]
+    }
+  ]
+}

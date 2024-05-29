@@ -1,0 +1,50 @@
+{
+  "assunto": "Criação de grupo de trabalho para estudar proposta de redução da velocidade média nas vias urbanas",
+  "envolvidos": [
+    {
+      "nome": "Jilmar Tatto",
+      "cargo": "Deputado (PT-SP)",
+      "opinioes": [
+        "Apresentou o projeto de lei que reduz de 80 para 60 km/h a velocidade nas vias urbanas de trânsito rápido e de 60 para 50 km/h nas vias arteriais."
+      ]
+    },
+    {
+      "nome": "Juninho do Pneu",
+      "cargo": "Deputado (União-RJ)",
+      "opinioes": [
+        "Propôs a criação de um grupo de trabalho para dar agilidade à tramitação do projeto de lei.",
+        "\"Vamos criar um grupo de trabalho. Acho que é muito importante para a gente encaminhar o assunto.\""
+      ]
+    },
+    {
+      "nome": "Letícia Cardoso",
+      "cargo": "Representante do Ministério da Saúde",
+      "opinioes": [
+        "Defendeu a redução da velocidade nas vias urbanas.",
+        "Citou a experiência bem-sucedida de Fortaleza, onde a medida foi implantada pela prefeitura em maio.",
+        "\"Existe um mito de que, se a gente reduz a velocidade dentro do perímetro urbano, os engarrafamentos aumentam.\"",
+        "Afirmou que um estudo recente do trânsito em Fortaleza mostra que a readequação de velocidade não impactou no tempo de viagens."
+      ]
+    },
+    {
+      "nome": "Victor Pavarino",
+      "cargo": "Técnico em Segurança Viária da Organização Pan-Americana da Saúde (Opas)",
+      "opinioes": [
+        "Citou conclusões de conferências internacionais sobre o assunto.",
+        "\"De todos os fatores de risco que a gente tem, de longe a velocidade continua sendo o principal.\"",
+        "Afirmou que a velocidade perpassa todos os demais fatores de risco, como não usar capacete ou dirigir depois de beber.",
+        "\"Quanto maior a velocidade, tanto maior são as consequências dos demais fatores.\""
+      ]
+    },
+    {
+      "nome": "Carlos Henrique Carvalho",
+      "cargo": "Representante do Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "opinioes": [
+        "Defendeu mais educação aos motociclistas como uma importante medida.",
+        "\"Nos últimos 25 anos, a participação das motocicletas em mortes por sinistros de trânsito eram menos de 5%, hoje já são 30%.\"",
+        "Afirmou que o Parlamento precisa modernizar as leis para se igualar aos modelos adotados em outros países.",
+        "Defendeu a redução da velocidade média e a fiscalização da aplicação dos recursos públicos destinados a melhorar o trânsito, como o DPVAT e a Cide."
+      ]
+    }
+  ]
+}

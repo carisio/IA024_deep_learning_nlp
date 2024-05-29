@@ -1,0 +1,64 @@
+{
+  "assunto": "Atuação dos bancos no combate aos golpes financeiros e fraudes envolvendo vazamento de dados bancários",
+  "envolvidos": [
+    {
+      "nome": "Antônio Carlos Cintra",
+      "cargo": "Coordenador da Comissão dos Direitos do Consumidor da Associação Nacional das Defensoras e Defensores Públicos (Anadep)",
+      "opinioes": [
+        "O golpe de maior impacto é aquele no qual o aposentado é levado a fazer um empréstimo consignado sem saber.",
+        "O golpe é praticado por estelionatários e até por correspondentes bancários.",
+        "Pediu a criação de uma lei nacional que proíba o empréstimo digital para pessoas idosas, exigindo a presença física para a contratação."
+      ]
+    },
+    {
+      "nome": "Márcia Moro",
+      "cargo": "Presidente da Associação Brasileira dos Procons",
+      "opinioes": [
+        "Relatou o problema dos vazamentos de dados bancários e do INSS que têm permitido aos criminosos fazer uma 'engenharia social' mais eficiente."
+      ]
+    },
+    {
+      "nome": "Rogério Ferreira",
+      "cargo": "Delegado da Delegacia de Defesa do Consumidor de Mato Grosso",
+      "opinioes": [
+        "Afirmou que o crime de estelionato tem uma baixa punição.",
+        "O cartão de crédito consignado não deveria permitir o saque de recursos porque o idoso paga o mínimo, acreditando que é um empréstimo comum.",
+        "Citou pesquisa da empresa de segurança Fortinet que coloca o Brasil em segundo lugar em tentativas de golpes na América Latina, com 103 bilhões de tentativas em 2022."
+      ]
+    },
+    {
+      "nome": "Gisela Simona",
+      "cargo": "Deputada (União-MT)",
+      "opinioes": [
+        "Uma grande dificuldade é que o consumidor tem vários produtos bancários pré-aprovados que ele nem sabe que tem e que são uma porta aberta para os criminosos.",
+        "Defendeu a extinção do cartão de crédito consignado e a necessidade de o consumidor autorizar alguns serviços de forma presencial.",
+        "\"As facilidades do mundo moderno são excelentes para uns, mas para outros só trazem problemas.\""
+      ]
+    },
+    {
+      "nome": "Ione Amorim",
+      "cargo": "Coordenadora do Programa de Serviços Financeiros do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+      "opinioes": [
+        "Os bancos poderiam ter uma atuação mais ativa na prevenção dos golpes.",
+        "\"O banco tem o algoritmo que é tão utilizado para nos oferecer produtos. Por que não é usado para ver movimentações atípicas na conta da pessoa e questioná-la previamente?\""
+      ]
+    },
+    {
+      "nome": "Walter Faria",
+      "cargo": "Diretor adjunto de Serviços da Federação Brasileira de Bancos (Febraban)",
+      "opinioes": [
+        "A questão está em estudo, mas que extrapola a ação dos bancos, já que a vítima costuma permitir o acesso por meio de um link malicioso.",
+        "A entidade está investindo em campanhas de conscientização.",
+        "Citou projeto em tramitação no Senado (PL 2254/22) que criminaliza a utilização de contas bancárias para fraudes."
+      ]
+    },
+    {
+      "nome": "Belline Santana",
+      "cargo": "Chefe de Supervisão Bancária do Banco Central",
+      "opinioes": [
+        "Leu o relatório do Idec e está questionando os bancos sobre a implantação do bloqueio.",
+        "Sugeriu que as pessoas que forem abrir contas bancárias confiram antes o ranking de instituições mais reclamadas feito pelo BC."
+      ]
+    }
+  ]
+}

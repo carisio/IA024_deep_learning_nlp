@@ -1,0 +1,36 @@
+{
+  "assunto": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+  "envolvidos": [
+    {
+      "nome": "Monize Marques",
+      "cargo": "Juíza, coordenadora da Central Judicial do Idoso no Distrito Federal",
+      "opinioes": [
+        "A certidão não deveria ser obrigatória para os cuidadores.",
+        "Defendeu a análise do empregador sobre a pertinência do documento.",
+        "\"A depender das funções exercidas, sabemos que o cuidador poderá exercer mais ou menos influência sobre a pessoa idosa. Se já foi preso por estelionato, há um risco maior de que haja algum tipo de comprometimento.\""
+      ]
+    },
+    {
+      "nome": "Kenio Lima",
+      "cargo": "Coordenador-geral de Política de Envelhecimento Ativo e Saudável e Desenho Universal do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "A certidão de antecedentes criminais é exigida de trabalhadores formais.",
+        "Grande parte dos cuidadores no Brasil corresponde hoje a trabalhadores informais e empregados domésticos, sobretudo mulheres negras.",
+        "A solicitação da certidão não tem fundamentação legal clara.",
+        "\"Muitas vezes, essa solicitação poderá ser considerada um ato discriminatório, inclusive relacionado ao assédio moral a esses cuidadores.\"",
+        "É preciso discutir antes alguma forma de regulamentação para a atividade.",
+		"Qualquer território em que a população com mais de 60 anos ultrapassa os 15% do total deve ser considerado envelhecido",
+        "\"As pessoas idosas precisam de cuidado, mas é necessário olhar também para quem está cuidando delas.\"",
+        "\"A gente precisa apoiar os cuidadores, não criminalizar essas pessoas.\""
+      ]
+    },
+    {
+      "nome": "Pinheirinho",
+      "cargo": "Deputado (PP-MG)",
+      "opinioes": [
+        "Apresentou o Projeto de Lei 731/24, que permite ao contratante pedir a certidão negativa de antecedentes criminais do trabalhador no cuidado de pessoas idosas.",
+        "\"Também não haveria impeditivo em caso de certidão positiva, o empregador decidiria prosseguir ou não com a contração.\""
+      ]
+    }
+  ]
+}

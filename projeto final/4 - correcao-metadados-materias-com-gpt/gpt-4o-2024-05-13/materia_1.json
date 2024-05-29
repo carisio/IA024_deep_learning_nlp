@@ -1,0 +1,87 @@
+{
+  "assunto": "Acusações de censura contra Alexandre de Moraes por exigir bloqueio de contas na rede social X",
+  "envolvidos": [
+    {
+      "nome": "Michael Shellenberger",
+      "cargo": "Jornalista norte-americano",
+      "opinioes": [
+        "Acusou Alexandre de Moraes de censura ao solicitar o bloqueio de contas na rede social X.",
+		"Divulgou, no início do mês, um compilado de e-mails trocados por funcionários da plataforma X a respeito de decisões judiciais brasileiras que envolviam a rede social e investigações ao longo do período de 2020 a 2022. O caso ficou conhecido como Twitter Files Brasil",
+        "Defendeu a liberdade de expressão de forma ampla, incluindo o direito de nazistas e fascistas defenderem suas ideias.",
+        "\"A gente quer debater e vencer as ideias ruins deles.\""
+      ]
+    },
+    {
+      "nome": "Glenn Greenwald",
+      "cargo": "Jornalista norte-americano, colunista do jornal Folha de S. Paulo e fundador do site The Intercept",
+      "opinioes": [
+        "Acredita que Alexandre de Moraes agiu sem base legal ao exigir a remoção de postagens e o banimento de contas, inclusive de parlamentares.",
+        "Afirmou que as pessoas não receberam aviso prévio do banimento nem explicações dos motivos.",
+        "Acrescentou que essas ordens de banimento foram sigilosas e sem o devido processo legal."
+      ]
+    },
+    {
+      "nome": "Marcel van Hattem",
+      "cargo": "Deputado (Novo-RS)",
+      "opinioes": [
+        "Destacou que foi um dos parlamentares alvo de pedidos de remoção de conteúdo em processo sigiloso e que vai solicitar o fim do sigilo.",
+        "Afirmou que está em curso \"um processo industrial de censura\" e de \"perseguição covarde contra desafetos\" do ministro Alexandre de Moraes.",
+        "\"A censura não pode prevalecer, e a liberdade de expressão tem que ser regra, porque sem liberdade de expressão não há democracia, sem devido processo legal não há democracia.\"",
+		"Afirmou que uma convidada indicada por Chinaglia foi convidada, mas não compareceu, assim como o representante da plataforma X"
+      ]
+    },
+    {
+      "nome": "Arlindo Chinaglia",
+      "cargo": "Deputado (PT-SP)",
+      "opinioes": [
+        "Lamentou a ausência de contraditório na audiência, já que todos os convidados defenderam o mesmo ponto de vista.",
+        "Apontou que, de 2012 a 2021, na soma das solicitações de remoção por país recebidas pela plataforma X, o Brasil figura em antepenúltimo da lista.",
+        "\"Portanto, tentar caracterizar que, no Brasil de hoje, e desde 2012, haja uma atitude de censura é um exagero retórico que se transforma em mentira.\"",
+        "Argumentou que, assim como fez com Alexandre de Moraes no Brasil, o dono da rede X promoveu ataques do tipo em outros países.",
+        "Citou que a Comissão Europeia abriu processo contra o X por possíveis violações da recente lei de serviços digitais.",
+        "\"A resposta do Musk foi atacar a presidente da comissão, que é eleita por todos os países da Comunidade Europeia.\""
+      ]
+    },
+    {
+      "nome": "Filipe Barros",
+      "cargo": "Deputado (PL-PR)",
+      "opinioes": [
+        "Ressaltou que o Marco Civil da Internet é muito claro ao estabelecer que, se houver afronta à legislação, deve-se censurar uma publicação específica mediante decisão judicial motivada.",
+        "\"Nós não vimos isso em nenhuma das decisões que vieram a público até agora.\"",
+        "Apontou que as decisões são genéricas, visando retirar do ar o perfil de usuários por tempo indeterminado."
+      ]
+    },
+    {
+      "nome": "Florentino Neto",
+      "cargo": "Deputado (PT-PI)",
+      "opinioes": [
+        "Argumentou que não há censura em curso, porque os processos podem ser contestados no âmbito do Supremo Tribunal Federal.",
+        "\"Não podemos ter uma sociedade baseada em ameaças e mentiras. Temos que estabelecer parâmetros mínimos para a convivência nessas plataformas.\"",
+        "Defendeu a regulamentação das redes sociais, para proteger os usuários contra excessos praticados.",
+        "\"Não vejo razão para termos dificuldades em colocarmos à disposição dos usuários recursos para que eles possam denunciar serviços ilegais da plataforma.\""
+      ]
+    },
+    {
+      "nome": "Eli Vieira Junior",
+      "cargo": "Jornalista da Gazeta do Povo",
+      "opinioes": [
+        "Afirmou que em nenhum lugar da legislação brasileira está escrito que é proibido produzir ou propagar fake news, desinformação ou discurso de ódio.",
+        "\"Esses termos são particulares de uma determinada visão política, que, não satisfeita que essas expressões não são tipificadas como crimes, planeja usar o aparato burocrático do País para fazer valer a sua opinião.\"",
+        "\"É a lei que deve mandar, e não a opinião política em voga no momento.\"",
+        "Acredita que permitir que preconceituosos falem com liberdade não é um endosso ao conteúdo que eles falam e não causam aumento do preconceito e da discriminação.",
+        "Na visão dele, mentir não deve ser um crime no Brasil, assim como odiar, até que isso culmine em ações danosas concretas, ameaças credíveis ou difamação e calúnia."
+      ]
+    },
+    {
+      "nome": "David Ágape",
+      "cargo": "Jornalista freelancer",
+      "opinioes": [
+        "Avaliou que, por meio do caso 'Twitter Files', o Judiciário brasileiro exige que a plataforma X descumpra a lei e entregue dados de cidadãos, em desconformidade com o Marco Civil da Internet e com a proteção da privacidade garantida em lei.",
+        "A atitude da plataforma de não entregar os dados é correta diante das 'demandas ilegais da Justiça brasileira'.",
+        "Acredita que o combate às fake news está sendo direcionado apenas à direita.",
+        "Embora os conteúdos de alguns atores de esquerda tenham sido removidos judicialmente, no caso dos atores de direita, muitos perfis foram bloqueados e continuam bloqueados, o que seria censura prévia.",
+        "Criticou o Projeto de Lei 2630/20, conhecido como PL das Fake News, e defendeu o Marco Civil da Internet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "assunto": "Desoneração tributária para baratear custo de remédios para doenças raras",
+  "envolvidos": [
+    {
+      "nome": "Daniela Cerqueira",
+      "cargo": "Representante do Ministério da Saúde",
+      "opinioes": [
+        "Cinco produtos estão registrados no País, com preços entre R$ 1,7 milhão e R$ 7,6 milhões, em tratamentos de doenças como o mieloma múltiplo.",
+        "Os preços são provisórios devido aos dados de segurança e eficácia ainda limitados.",
+        "\"As empresas fizeram um compromisso com a Anvisa de que vão apresentar dados adicionais de segurança e de eficácia dessas terapias ao longo dos próximos anos.\""
+      ]
+    },
+    {
+      "nome": "Antoine Daher",
+      "cargo": "Representante da Federação Brasileira de Associações de Doenças Raras",
+      "opinioes": [
+        "Não há garantia de que, daqui a algum tempo, não sejam necessárias várias aplicações dos medicamentos.",
+        "As discussões sobre os preços dos medicamentos para as terapias gênicas devem englobar todos os segmentos interessados.",
+        "Se aplicada nos primeiros meses de vida, essa medicação pode significar cura e uma vida normal.",
+        "\"Ao contrário das terapias biológicas, que são para o resto da vida, muitas vezes o paciente depende semanalmente de infusões, depende de ter tratamento por equipes e isso gera custo altíssimo e impacto muito grande social na família toda.\""
+      ]
+    },
+    {
+      "nome": "Bruno Abreu",
+      "cargo": "Diretor do Sindicato da Indústria de Produtos Farmacêuticos",
+      "opinioes": [
+        "Uma solução em torno dos preços deve ter, como um dos objetivos, evitar que a população tenha que entrar na Justiça para ter acesso aos medicamentos.",
+        "Enumerou as dificuldades de produção, entre elas, a dependência do exterior."
+      ]
+    },
+    {
+      "nome": "Paulão",
+      "cargo": "Deputado (PT-AL)",
+      "opinioes": [
+        "O tema é complexo e a indústria de medicamentos é uma das mais poderosas do mundo.",
+        "\"É importante a gente socializar esse debate, principalmente com o setor farmacêutico, porque a gente sabe dos altos custos desses medicamentos.\""
+      ]
+    },
+    {
+      "nome": "Valtenir Pereira",
+      "cargo": "Ex-deputado e autor do projeto de lei",
+      "opinioes": [
+        "Uma precificação justa deve separar as regras sobre medicamentos para doenças prevalentes, as mais comuns na população, daquelas sobre produtos para doenças raras."
+      ]
+    }
+  ]
+}

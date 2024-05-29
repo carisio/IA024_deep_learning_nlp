@@ -1,0 +1,27 @@
+{
+  "assunto": "Complexidade no licenciamento de hidrelétricas na região Norte do Brasil",
+  "envolvidos": [
+    {
+      "nome": "Edio Lopes",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Solicitou o debate sobre as dificuldades e a complexidade dos fatores envolvidos na construção e no licenciamento ambiental de hidrelétricas na região Norte do País."
+      ]
+    },
+    {
+      "nome": "Representante do Ministério das Minas e Energia",
+      "cargo": "Representante do Ministério das Minas e Energia",
+      "opinioes": [
+        "É a favor das hidrelétricas.",
+        "Lembrou que diversos entraves, como terras indígenas e questões administrativas, levantam problemas para os investidores em hidrelétricas na região."
+      ]
+    },
+    {
+      "nome": "Representante do Ibama",
+      "cargo": "Representante do Ibama",
+      "opinioes": [
+        "Defendeu a necessidade de mais debates em torno do assunto."
+      ]
+    }
+  ]
+}
