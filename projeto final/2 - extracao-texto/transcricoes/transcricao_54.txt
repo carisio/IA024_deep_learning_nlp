@@ -1,617 +1,241 @@
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Bom dia a todos.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Declaro aberta a reunião de audiência pública extraordinária para discutir os impactos da dependência tecnológica na sociedade, em atendimento ao Requerimento nº 9, de 2023, de minha autoria, e subscrito pelos Deputados Marcelo Queiroz e Defensor Stélio Dener.
 
-Esta reunião de audiência pública foi convocada em atendimento aos Requerimentos nºs 13, de 2023, e 19, de 2023, de minha autoria, para debater descontos concedidos por farmácias e drogarias mediante cadastro com dados pessoais, bem como a possibilidade de vazamento dessas informações e outras irregularidades derivadas dessa prática.
+Os convidados para esta audiência são o Sr. Cristiano Nabuco, coordenador do Grupo de Dependência Tecnológica do Hospital das Clínicas da Universidade de São Paulo; a Sra. Aline Paz, psicóloga clínica e terapeuta cognitivo-comportamental; o Sr. Eduardo Guedes, especialista em mídias digitais; e a Sra. Beatriz Mendes, psicóloga especialista.
 
-Inicialmente, agradeço a presença de todos e passo à apresentação dos senhores expositores: Sr. Ricardo Lovatto Blattes, Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor — SENACON, do Ministério da Justiça e Segurança Pública; Sr. Jeferson Dias Barbosa, Gerente de Projetos da Autoridade Nacional de Proteção de Dados — ANPD; Sr. Arthur Rollo, Presidente do Instituto Nacional de Defesa do Consumidor — INADEC; e Sr. Sergio Mena Barreto, Presidente da Associação Brasileira de Redes de Farmácias e Drogarias — ABRAFARMA, que participará da reunião por meio da plataforma Zoom.
+Convido a Sra. Aline Paz para compor a Mesa.
 
-Esclareço que a reunião está sendo gravada e transmitida ao vivo na página da Comissão, no aplicativo Infoleg e no canal da Câmara dos Deputados no Youtube.
+O requerimento de minha autoria trata de um tema discutido agora pela novelaTravessia, da escritora Glória Perez, que é a nomofobia. Convidamos os palestrantes para debater o assunto do requerimento, aprovado pela Comissão de Cultura da Câmara dos Deputados.
 
-Para o bom ordenamento dos trabalhos, adotaremos o seguinte critério: os convidados terão o prazo de 10 minutos para sua exposição, prorrogável a juízo desta Presidência, não podendo ser aparteados.
+Passo a palavra agora à primeira expositora, Sra. Aline Paz.
 
-Concedo a palavra ao Sr. Ricardo Lovatto Blattess, Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor — SENACON, do Ministério da Justiça e Segurança Pública.
+A SRA. ALINE PAZ- Bom dia a todos e todas.
 
-O SR. RICARDO LOVATTO BLATTES- Bom dia, Presidente, senhoras e senhores.
+Primeiramente, gostaria de agradecer a honra de participar deste importante evento promovido pela Comissão de Cultura na pessoa do Deputado Aureo Ribeiro. Enalteço essa iniciativa, porque é extremamente importante abrirmos espaços para debates tão relevantes, de tanta relevância pública, como é o caso da nomofobia e desse uso indiscriminado das tecnologias.
 
-Para o Ministério da Justiça, é sempre uma satisfação vir a esta Casa tratar de temas de defesa e proteção do consumidor.
+Gostaria aqui de passar rapidamente uma apresentação que traz os impactos da dependência tecnológica na sociedade, mais especificamente a questão da nomofobia.
 
-Um pouco antes de entrar diretamente no tema, acho necessário fazer uma pequena abordagem sobre a SENACON — Secretaria Nacional do Consumidor, o trabalho dessa Secretaria, os objetivos dela e a amplitude da sua atuação.
+Pois bem, desde que celulares e computadores passaram a entrar pela primeira vez na vida dos indivíduos, nós passamos a perceber mudanças importantes no comportamento, nos hábitos, nos costumes, nas emoções, nas relações pessoais e sociais resultantes dessa interatividade.
 
-Nós temos hoje o Sistema Nacional de Defesa do Consumidor, que é coordenado pela SENACON, mas lidera...
+Diante dessas diversas mudanças, estudos foram necessários para melhor compreensão dos impactos, consequências, da dimensão dessas alterações em relação aos benefícios e prejuízos, com relação aos ganhos e às perdas advindos do uso abusivo dessas novas tecnologias.
 
-Não sei se todos estão me ouvindo.(Pausa.)
+Nesse sentido, dentre as várias constatações que foram realizadas desses estudos, observou-se aí a identificação de dois tipos de dependência, e podemos nos encaixar ou nos identificar com relação a um desses modos. A primeira é uma dependência natural, que é aquela dependência que nos permite tirar proveito de toda a tecnologia; aquela dependência pela qual nós necessitamos do uso do celular, dosmartphonee computador para a realização das nossas atividades diárias. Essa dependência não gera grandes sofrimentos quando da ausência ou impossibilidade de contato com essas tecnologias.
 
-Retomando, desejo um muito bom dia a todas e a todos.
+Todavia, esses mesmos estudos identificaram, por exemplo, uma dependência patológica, que já é uma dependência que gera sentimentos de medo, de angústia, de ansiedade, um incômodo muito grande, um pavor até quando da impossibilidade de acesso ao celular, ao computador ou à Internet. Nesse contexto é que surge o termo nomofobia.
 
-Presidente, é uma satisfação para o Ministério da Justiça outra vez estar nesta Casa tratando dos temas de proteção e defesa do consumidor.
+O termo nomofobia surgiu na Inglaterra a partir da expressãono mobile, que significa sem celular, e juntou-se a outra palavra,phobos, que significa fobia, em grego. E aí trouxe o significado: fobia, medo de ficar sem o celular. Inicialmente, era esse o significado. Todavia, posteriormente, o significado foi ampliado para fobia ou medo de ficar sem contato com o celular, Internet ou computador.
 
-Esta pauta específica de descontos concedidos em farmácias aos cidadãos e cidadãs brasileiras envolve outras organizações — aproveito para cumprimentar a ANPD, o Dr. Arthur Rollo, do INADEC, as senhoras e os senhores.
+Por que é tão importante nomear esse tipo de fobia? É importante assim como foi importante se nomearem todos os outros tipos de fobia. Nomear é importante para classificar, para compreender e também para destinar o tratamento adequado para esse tipo de fobia. Então, ao nomear a queixa, é possível se estabelecerem protocolos de atendimento, se estabelecerem condutas práticas relacionadas ao tratamento da nomofobia.
 
-Estava tratando inicialmente sobre a atuação da SENACON. A SENACON tem como objetivo coordenar o Sistema Nacional de Defesa do Consumidor, que envolve hoje, além das Defensorias Públicas e da área do Ministério Público referente a consumidores, entidades civis de pesquisa, os institutos de defesa do consumidor e também os PROCONs, que são o ponto mais próximo da população para a defesa do consumidor.
+É importante destacar que a nomofobia é apenas um sinal para alertar para a existência de algum transtorno primário. Há relatos de pacientes com diagnóstico, por exemplo, de transtorno de pânico, que passaram a apresentar uma dependência patológica do celular, de tal maneira que esses pacientes só se sentiam seguros e confiantes para sair de casa, para ir a lugares mais distantes quando estavam ali com o celular em mãos.
 
-Os PROCONs foram instituídos a partir do Código de Defesa do Consumidor. Hoje, cada Estado tem seu PROCON, e existem também PROCONs municipais. Há quase mil PROCONs no Brasil, com as mais distintas formas de organização. Não há uma linearidade na sua forma de atuação. Há PROCONs organizados a partir do próprio Legislativo, há PROCONS conveniados com universidades, ligados a Prefeituras, a institutos. Então, há uma complexidade nesse sistema.
+A partir do relato desses mesmos pacientes, eles dizem que a sensação de ter o celular em mãos é a mesma sensação de segurança, como se eles estivessem acompanhados, ou seja, gerando uma dependência patológica e a necessidade extrema do uso do celular, inclusive para sair de casa.
 
-O objetivo da SENACON é traçar diretrizes para a proteção e defesa do consumidor para que se atinja, lá na ponta, a proteção efetiva de consumidores e consumidoras.
+Há casos também de indivíduos com transtorno de fobia social que apresentam uma dependência patológica do computador para se relacionar socialmente, ou seja, como o contato social é algo que gera muita ansiedade e muito incômodo, eles passam a fazer uso dos computadores como uma forma de relacionamento social, passam a utilizar esses computadores como uma forma de escudo para se sentirem protegidos desses contatos ao vivo e como uma forma de se esquivar desse contato social.
 
-A SENACON tem participação nos principais conselhos e colegiados da República. Destaco, já adentrando um tema que é correlato a esta audiência pública, Presidente, a participação do Ministério da Justiça, por meio da SENACON, na CMED — Câmara de Regulação do Mercado de Medicamentos, um órgão que, além de ser a segunda instância das decisões da ANVISA, trata da liberação de novos medicamentos, do preço de venda ao consumidor e do preço de venda a governos. É um assunto de bastante complexidade que a SENACON está tratando. E nós nos deparamos hoje com essa questão da proteção de dados e dos descontos concedidos a cidadãos e cidadãs na compra de medicamentos.
+Estudos também apontam pacientes com transtorno obsessivo compulsivo que fazem uso indevido dos computadores, de jogos virtuais e passam horas jogando, dando vazão aos seus comportamentos compulsivos e obsessivos, que são próprios, inclusive, do quadro.
 
-Eu me permito fazer uma breve análise do trabalho da SENACON. Esta Casa está tratando nesta semana da questão das plataformas digitais. Essa também é uma atribuição da SENACON. O Ministério da Justiça está atuando com as plataformas digitais, e é justamente a SENACON que faz essa abordagem. O tema de plataformas digitais e proteção de dados também está no escopo da atenção da Secretaria Nacional do Consumidor.
+Em todos esses quadros, percebemos um relacionamento, uma convivência, na realidade, abusiva com o uso dessas tecnologias, diferente dessa convivência natural. Além disso, percebemos ser bem característico um apego patológico a esses eletrônicos, a esses dispositivos tecnológicos.
 
-Essa chamada pontuação por créditos — a rotulação de clientes — não se dá apenas no campo de medicamentos. Dá-se em outros tantos campos em que a inteligência artificial acaba sendo utilizada para a identificação de perfis de clientes. Mas, a partir da abordagem da defesa do consumidor, a primeira questão a se considerar envolve a informação e a não discriminação.
+Falarei um pouco do tratamento para esses pacientes, para essas pessoas, uma vez identificado um quadro de nomofobia. Lembro que ela chama atenção para algum transtorno primário pré-existente, algum tipo de transtorno ansioso, por exemplo.
 
-Eu acho que é importante dizer que a solicitação do CPF para a atribuição de descontos tem que ser vinculada de forma clara e precisa como informação ao consumidor. O consumidor tem que saber exatamente por que ele está dando aquele seu dado e para que ele está sendo utilizado.
+A literatura científica aponta como formas de tratamento eficazes o uso de medicação — ansiolíticos e antidepressivos são os mais utilizados nesses casos — e terapia cognitivo comportamental, a TCC, que utiliza técnicas cognitivas e comportamentais para ajudar o paciente a lidar com esses sintomas fóbicos.
 
-O Código de Defesa do Consumidor, como todos sabem, veda qualquer tipo de discriminação de consumidores. Se eventualmente há um programa de desconto diferenciado para consumidores, ele deve ser muito bem divulgado, bem como as suas margens de descontos, e, se elas forem progressivas ou diferenciadas, não se pode impedir que os clientes entendam esse ponto. Esse entendimento é precípuo.
+A parte comportamental da terapia vai trabalhar a exposição controlada e progressiva do paciente ao objeto fóbico, por meio de técnicas de relaxamento, respiração diafragmática, controle de ansiedade, procurando dessensibilizar o paciente.
 
-É importante ressaltar que não há nenhuma obrigatoriedade por parte de nenhum cidadão ou cidadã brasileiros, salvo na compra de medicamentos que têm o uso controlado. A partir daí, evidentemente, há outra regra; não se trata de desconto. Alguém que compra um medicamento que não é de uso controlado não tem obrigatoriedade de fornecer o seu CPF, os seus dados, seja para o que for. Há, sim, um caráter deliberativo dos consumidores que pode ser exercido. Portanto, precisa haver de fato um desconto acessível de forma igual para todos e todas.
+A parte cognitiva da terapia vai trabalhar a reestruturação dos pensamentos disfuncionais, por meio da construção de uma nova interpretação e de uma nova percepção dessas cognições negativas construídas pelo próprio paciente.
 
-Uma segunda questão trata justamente da proteção de dados. Uma coisa é o consumidor entregar o seu dado, o seu CPF e, em alguns casos, até a sua biometria para a obtenção de descontos; outra é, de repente, esses dados serem vazados ou utilizados para outra atividade. É um fato muito importante a chamada pontuação de créditos, quer dizer, como a eventual rotulagem de determinados clientes pode ser feita a partir da obtenção de dados em quaisquer tipos de comércios e serviços. Isso inclui, evidentemente, a compra de medicamentos.
+Além disso, todo esse processo, na parte comportamental da terapia, é feito a partir de exercícios mentais e também por meio de exposição de informações relativas à fobia, o que nós chamamos de psicoeducação.
 
-Então, a solicitação do CPF na compra de medicamentos tem que estar atrelada à proteção dos dados. O que nós temos feito, a partir da Secretaria Nacional do Consumidor? Orientado e trabalhado em conjunto com a própria Autoridade Nacional de Proteção de Dados — ANPD, trabalhado em conjunto com o Sistema Nacional de Defesa do Consumidor, para fazer com que esses descontos não sejam uma forma corriqueira de tabelamento de preço para baixo.
+O que se observa a partir do tratamento? À medida que esses transtornos ansiosos são tratados, nós observamos um desapego, uma redução gradativa do uso dessas tecnologias e uma redução desses sintomas provenientes dessa dependência patológica.
 
-Muitas vezes, quando o cidadão chega a uma farmácia, o medicamento lá custa 30 reais, mas, de repente, fornecendo o seu CPF, o preço baixa para 10 reais. Na verdade, nós estamos tratando de um medicamento que custa 10 reais.Há uma sobrevaloração momentânea conforme essa base de dados, essa rotulagem de clientes.
+Considero importante destacar que, além do tratamento medicamentoso e psicoterápico, que é recomendado pela literatura científica, é importante também a adoção de políticas públicas voltadas para a sensibilização e para a conscientização da população sobre esses efeitos nocivos da dependência tecnológica.
 
-Então, há um trabalho árduo a ser feito, que não diz respeito especificamente ao mercado de medicamentos. Uma prática cada vez mais adotada também em outras indústrias, em outros tipos de mercado, é a concessão de dados, sejam eles biométricos ou de outra natureza. A partir daí, há uma busca ativa por clientes e, pior do que isso — este talvez seja o ponto mais delicado de nós tratarmos —, a rotulagem de determinados clientes. A partir dessa rotulagem, ocorre a exclusão de acesso a determinados tipos de serviços, ou, eventualmente, a utilização indevida dos dados para outros fins, até, eu posso dizer aqui, ilegais e criminosos.
+Isso pode ser feito por meio de campanhas publicitárias do Ministério da Saúde, da inclusão de temas como um dos objetivos da atenção primária e da inclusão desses debates na escola, desde as séries iniciais, para que se construa essa consciência quanto ao uso adequado das tecnologias.
 
-Então, qual o objetivo de a SENACON vir a esta audiência pública? Nós reconhecemos no Congresso Nacional a Casa que trata diretamente dessas questões, a partir não só da representação parlamentar de Deputados e Deputadas, mas sobretudo da participação efetiva da população.
+Também sobre esse assunto, eu gostaria de parabenizar a iniciativa do Deputado Aureo Ribeiro na formulação do seu Projeto de Lei 2.498, que propõe a criação de centros de atenção a usuários compulsivos de serviços de Internet e redes sociais.
 
-Nós nos colocamos, como representantes da SENACON, à inteira disposição para tratar do tema.
+Tenho convicção de que será de grande valia, a fim de orientar, conscientizar e adotar ações práticas e concretas no controle da nomofobia.
 
-Eu quero reiterar a importância que nós temos na Câmara de Regulação do Mercado de Medicamentos. Hoje este órgão, que trata justamente da definição dos preços de venda dos medicamentos em farmácias e também de venda a governos, muitas vezes é colocado de lado. Ele passa ao largo da atenção da população.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Agradeço a exposição da Sra. Aline Paz e convido agora, pelo nosso sistema híbrido da Câmara dos Deputados, o Sr. Cristiano Nabuco.
 
-É muito complicado para população compreender como se faz a definição do preço dos medicamentos. Como se define esse preço? Qual de fato é o preço do medicamento, quando alguém chega a um determinado estabelecimento comercial e tem, a partir da concessão dos seus dados, um desconto que vai além da razoabilidade? Muitas vezes não se trata de um desconto de 5% ou 10%; muitas vezes se altera substancialmente o valor dos produtos.
+Agradeço, ainda, a presença do Sr. Paulo Fernando, nosso Deputado Federal da Comissão de Cultura.
 
-Então, nós temos que fazer uma grande reflexão a respeito de qual a necessidade que tem o cidadão e de que forma ele tem verdadeiramente uma liberdade de dar os seus dados, quando lhe é concedido um desconto que é convidativo. Na verdade, há uma concessão dos dados quase que obrigatória. Quem aqui não gostaria de ter um desconto de, talvez, mais de 50% num medicamento?
+Passo a palavra ao Sr. Cristiano Nabuco, Coordenador do Grupo de Dependência Tecnológica do Hospital das Clínicas da Universidade de São Paulo.
 
-Nós vivemos numa situação em que a defesa do consumidor pressupõe informação, e talvez esse seja o principal ponto. É importante para a população saber qual preço de venda foi estabelecido para aquele medicamento, qual margem de desconto deliberado pode ser dado pelo comerciante e de que forma isso tem que ser fiscalizado.
+Tem a palavra.
 
-O trabalho da SENACON, como eu disse no início — foi importante destacar isto —, é de coordenação do sistema. Nós temos um sistema muito diverso. Fazer com que isso chegue a cada um dos PROCONs, com alinhamento, com capacidade de fiscalização uníssona de norte a sul do Brasil, é uma dificuldade que nós enfrentamos, mas que, certamente, pode ser superada a partir de um amplo diálogo.
+O SR. CRISTIANO NABUCO- Bom dia a todos.
 
-Eu me coloco à disposição. Vim aqui basicamente para expor essa atuação da SENACON, a atenção para esse tema, que, certamente, está no nosso foco de atuação.
+Gostaria de saudar a iniciativa do Deputado Aureo Ribeiro, que é urgente, necessária e de uma visão vanguardista, Deputado, que muito poucas pessoas conseguem ter.
 
-Muito obrigado, Presidente.
+Se V.Exa. e os demais presentes me permitirem, vou mostrar rapidamente uma apresentação a respeito dessas questões que envolvem os impactos da dependência tecnológica na sociedade como um todo.
 
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Agradeço a exposição do Sr. Ricardo Lovatto Blattes.
+Eu não sei se é de conhecimento de todos, mas o desenvolvimento da Internet hoje, da maneira como a conhecemos, está sendo equiparado à descoberta do fogo, há 2 milhões de anos.
 
-Concedo a palavra ao Sr. Jeferson Dias Barbosa, Gerente de Projetos da Autoridade Nacional de Proteção de Dados — ANPD.
+Isso faz que, ao longo da história da humanidade, nada tenha crescido tanto quanto o desenvolvimento do conhecimento que nós vivenciamos nestas últimas décadas. Para termos uma noção, em 2017, duas em cada quatro pessoas viviam em grandes centros.
 
-O SR. JEFERSON DIAS BARBOSA- Bom dia a todos.
+Estima-se, inclusive, que houve um processo de abreviação com a pandemia e que, daqui a muito pouco tempo, três em cada quatro pessoas estarão vivendo nos grandes centros.
 
-Inicialmente, eu gostaria de cumprimentar as autoridades aqui presentes, os Srs. Deputados e as Sras. Deputadas, os excelentíssimos senhores que nos ouvem e que participam deste debate hoje, todos aqueles que nos acompanham pela TV e pela Internet.
+Isso permite que nós tenhamos acesso à tecnologia de uma forma extremamente surpreendente. Para ilustrar, a população mundial estimada em janeiro de 2023 era de 8,01 bilhões de pessoas e 5,44 bilhões já possuíam, na ocasião, um telefone celular. De uma maneira bem rápida, seis em cada dez pessoas no mundo acessam hoje a Internet diariamente, e seis em cada dez pessoas no mundo não possuem sanitários em casa.
 
-Eu gostaria de parabenizar esta Casa por esta iniciativa, que eu acho muito importante, na pessoa do Sr. Deputado Jorge Braz, pois é muito caro esse tema para a Autoridade Nacional de Proteção de Dados.
+Isso quer dizer que as necessidades começam a ser articuladas de uma maneira distinta, o que faz com que o Brasil esteja na lista dos países que mais navegam no mundo por dia. Os dados são assustadores.
 
-Eu sou Jeferson Barbosa. Eu trabalho como assessor do Conselho Diretor da Autoridade Nacional de Proteção de Dados.
+Nós vamos observar este gráfico, que foi publicado no ano passado, onde uma barrinha branca no meio mostra a média mundial de acesso dos diferentes países: alguma coisa em torno de 7 horas por dia.
 
-Eu vou me permitir acompanhar umscript, porque a ideia da ANPD hoje é trazer o trabalho que tem desenvolvido junto ao setor. Há alguns meses, nós estamos trabalhando na avaliação e análise das políticas de privacidade e das práticas de tratamento de dados pessoais por esse setor.
+Vemos, de um lado para outro, que a média em alguns países, do lado direito, é de 5,45 horas. Onde está o Brasil? O Brasil está do lado esquerdo aí. Ele é hoje o segundo país onde mais se acessa a tecnologia no mundo.
 
-A ANPD recebeu — vem recebendo — demandas de titulares de dados relacionados ao condicionamento de descontos ao financiamento ou cadastro dedados pessoais, como biometria, CPF, registros de identidade, telefones, endereços e outros. Foram relatados casos em que houve restrição na...(Pausa.)
+Hoje, segundo os dados anteriores e que estão já equivocados, o Brasil acessa 10 horas e 19 minutos por dia por usuário.
 
-Temos recebido petições de titulares referentes a esses assuntos e à concessão de desconto condicionada ao fornecimento dos dados pessoais. Foi relatado que houve restrição de concessão de desconto na venda de produtos quando a pessoa se recusou a fornecer dados pessoais ou fez uso de outras justificativas na coleta de dados, baseadas na Lei Geral de Proteção de Dados. Então, este é um assunto que tem grande relação com a proteção de dados pessoais e que, para além dos parâmetros estabelecidos na LGPD, atinge também as questões de direitos consumeristas.
+Se formos novamente fazer uma conta bem rápida, isso vai dar aproximadamente 110 dias por ano olhando para as telas. Obviamente isso começa a ter uma implicação extremamente significativa, porque se trata de uma quantidade de vida não vivida na realidade, e, sim, na vida digital, que começa a fazer, então, com que principalmente os nossos jovens e as nossas crianças comecem a sentir esse impacto de uma forma muito expressiva.
 
-Em face disso, a ANPD buscou compreender melhor o tratamento de dados pessoais no setor farmacêutico. Então, além de estudar investigações já em curso em outros órgãos, ela analisou as políticas de privacidade das principais redes do setor. A análise teve o intuito de levar as associações a promover as boas práticas do setor para adequação à LGPD e também objetivou promover a atualização das políticas e dos avisos de privacidade e a melhora no diálogo e na transparência dessas associações com os titulares de dados pessoais, que somos todos nós cidadãos brasileiros.
+Outra publicação vai mostrar, por exemplo, que o Brasil é o segundo país, logo atrás das Filipinas, do ponto de vista estatístico relevante, dos países que mais gastam tempo na frente das telas.
 
-Em colaboração com a SENACON, a ANPD analisou também o tratamento de dados em farmácias a partir de casos pragmáticos, como os do Ministério Público do Distrito Federal e do Ministério Público do Estado de Minas Gerais.
+Então, talvez nós todos tenhamos uma visão muito romântica ainda. A população leiga tem uma visão muito romântica de que:"Nossa, a tecnologia veio para ficar! Ela é ótima!", mas, na medida em que ficamos cuidando de um hospital ou de um centro de atendimento à população, vemos que os casos que nos chegam são extremamente graves.
 
-Dessa análise das políticas de privacidade — vou resumir um pouco como foi feito este trabalho —, verificou-se uma falta de adequação e atualização dos grupos farmacêuticos em relação à LGPD. Algunssitesinstitucionais dos grupos estudados não disponibilizavam informações sobre as políticas de privacidade. Redes de farmácia que possuíam programas de fidelidade por vezes não detalhavam sua metodologia nem as condições sob as quais os dados pessoais eram tratados. Algumas políticas de privacidade analisadas não apresentavam informações acerca de quais dados são coletados, as formas de exercício dos direitos dos titulares, nem as bases legais utilizadas que amparavam o tratamento de dados pessoais.
+Esta é a pergunta que eu trago para os senhores: qual será o efeito colateral? Ninguém se pergunta qual é o efeito colateral. As pessoas ficam olhando para as benesses se encantando ou se deleitando, só que ninguém sabe que isso já vem sendo falado, no mundo como um todo, como uma grande epidemia, como o grande problema da nossa atualidade.
 
-Pôde-se constatar nesse estudo pouca maturidade quanto à Lei Geral de Proteção de Dados, uma lei recém-outorgada no País. Isso é também o que acontece no mundo todo. Então, isso não acontece só no Brasil, mas em todos os países, nesse processo de adequação às Leis Gerais de Proteção de Dados.
+Trata-se de impactos que são sentidos das mais variadas formas. Na saúde física, há uma série de impactos: síndrome do olho seco, problemas ligados à postura. Alguns estudos científicos começam a trazer dados mais sérios e preocupantes, como a perda da memória em função da radiação do telefone celular.
 
-Foram verificadas a insuficiência de informações para o titular e a pouca clareza no tratamento, ou seja, verificou-se uma falta de transparência, o que gera prejuízo ao exercício do direito de titulares previsto lá no art. 9º da LGPD, já que essas informações devem ser disponibilizadas de forma facilitada, gratuita, e devem se referir a todas as facetas do tratamento, o que envolve as questões de finalidade, a identificação dos agentes de tratamento que estão envolvidos, informações sobre o compartilhamento desses dados. Assim, os titulares encontram certa dificuldade para exercer seus direitos e efetivamente denunciar possíveis irregularidades, caso ocorram. No caso, não houve nenhuma irregularidade específica, mas esse é um estudo exploratório para analisar como é feito o tratamento nesse setor tão importante da sociedade.
+Eu teria aqui várias pesquisas para passar, mas eu nem vou me deter muito nelas.
 
-Sobre a arquitetura de dados do setor e a categoria dos dados coletados, alguns dos principais desafios verificados nessa arquitetura foram a complexidade e multiplicidade de atores e a variedade de modelos de negócio envolvidos, incluindo os agentes de tratamento da administração pública — podemos citar o caso do Programa Farmácia Popular.
+Nós sabemos que esses telefones celulares emitem o que se chama de campos eletromagnéticos. Uma pesquisa, por exemplo, mostrou que em casos de mães grávidas, quanto mais tempo ficavam com o telefone celular apoiado sobre a barriga, maior era a chance de experimentarem em 14 semanas aborto espontâneo.
 
-Nem todas as redes associadas compartilham as mesmas práticas — é importante ressaltar isso —, ainda que seja possível traçar denominadores comuns em cada uma dessas associações.
+Há outra pesquisa, que é chocante. Aliás, eu entrei em contato com a mídia, que se recusou a divulgar. Um estudo feito em cinco países, com 85 pares de pessoas, mães e crianças, avalia o uso do telefone celular por essas mães durante a gestação. Esse estudo acompanha essas crianças até os 5 e aos 7 anos de idade. O que essa pesquisa mostra? Quanto mais uso de telefone celular foi observado, maior foi a presença de déficit de atenção e hiperatividade em crianças. É como se a radiação estivesse, então, mudando a expressão gênica.
 
-No processo de tratamento desses dados, existem convênios com entidades representativas de classe, contratos com empresas demarketing, serviços de entrega, Programas de Benefício em Medicamentos — PBMs e programas de fidelização.
+Mas vamos, na verdade, ao que interessa, que é a saúde mental.
 
-Eu vou tratar aqui três pontos que nos são muito caros, nos quais nos aprofundamos bastante nessa avaliação: os programas de fidelização; a questão do consentimento, que foi trazida aqui pela SENACON; e, por último, a questão do tratamento de dados biométricos.
+Não é de hoje que a mídia vem descrevendo que esses equipamentos estão levando — entre aspas — "o ser humano à loucura".Ele está começando a ter mais satisfação na interação com os eletrônicos e com as telas do que com os próprios pares. E aí há uma série de coisas que dizem que hoje essas tecnologias seriam o novo vício da atualidade.
 
-Quanto aos programas de fidelização, verificou-se a existência tanto de programas atuantes no âmbito das próprias redes farmacêuticas, que são as controladoras dos dados, como também de programas gerenciados por terceiros, que se relacionam com outros segmentos de mercado. Nem sempre esses programas de fidelização pertencem ao mesmo grupo econômico da drogaria, o que corrobora aquela preocupação da ANPD quanto à arquitetura do fluxo informacional de transferência desses dados nos diferentes modelos de negócio que foram analisados.
+O grande ponto que eu gostaria de passar é o seguinte. Quando falamos isto, principalmente com os repórteres, eles dizem assim:"Espera um pouquinho, Dr. Cristiano! Isso é uma questão de controle. A tecnologia está aí, como sempre esteve. Sobrevivemos à televisão, ao telefone, ao jornal. Então, desculpe, não queira demonizar aqui a tecnologia!". E eu mostro esta fotografia aqui para esses repórteres — como eu mostro aos senhores e às senhoras também — e talvez nos perguntemos:"O que tem essa foto, Cristiano?". Essa foto seria absolutamente normal se não tivesse sido tirada às 3 horas da manhã, numa dasbig techsdo Vale do Silício.
 
-Preocupa constatar esse tipo de compartilhamento de dados pessoais, especialmente quando decorrem da coleta em grupos farmacêuticos, já que o histórico de compras realizado pode dar ensejo a inferências acerca de dados pessoais sensíveis. Além disso, há dúvidas quanto a quais dados são compartilhados com quais agentes de tratamento, já que as políticas de privacidade analisadas não esclareciam com exatidão essas informações.
+O que isso quer nos dizer, então? Que estas empresas, a cada 24 horas, alteram os princípios dessesoftware, fazendo exatamente com que os nossos usuários naveguem cada vez mais. Inclusive, existe um teórico inglês que disse que os únicos comércios do mundo que chamam os seus clientes de usuários seriam o das drogas e o das tecnologias!
 
-Quanto à questão do consentimento, cabe destacar que a temática do consentimento no âmbito do tratamento de dados pessoais, especialmente no que diz respeito aos programas de fidelização, é muito importante, porque uma das bases legais utilizadas para esse tipo de tratamento é a questão do consentimento, inclusive na concessão dos descontos. Há também a interface desse tema com as questões consumeristas. Pode haver prejuízos ao direito do titular de dados quando há uma diferenciação de preços decorrente de participação nos programas de fidelização, como está previsto no Código de Defesa do Consumidor.Como se sabe, muitas vezes o valor do desconto só é informado após o fornecimento de dados pessoais, como o número de inscrição do CPF, ou seja, quando já ocorre o tratamento de dados pela controladora ou operadora a fim de fornecer esse desconto.
+Então, para não dizer que sou eu que estou falando isto, está aí amplamente mostrado, documentado. Isso está fazendo, então, com que essas pessoas se tornem cada vez mais dependentes, ou seja, quanto mais utilizamos, mais dependentes nos tornamos.
 
-Também há de se problematizar a utilização do consentimento livre e informado como base de tratamento de dados pessoais. Nem sempre resta clara para o titular de dados ou para a própria ANPD a base legal utilizada nos diferentes tratamentos que são realizados, seja pelos grupos farmacêuticos, seja pelos programas de fidelização a eles relacionados.
+Esta aqui é uma matéria que saiu ontem no jornalO Estado de S.Paulo, de uma criança que tem um problema de saúde crônico e que saiu do coma, depois de quase 16 dias. A primeira pergunta dela é:"Cadê meu celular?".
 
-Além da falta de informação, a falta de liberdade pode ser verificada no fornecimento de dados pessoais, inclusive biométricos, se for uma condicionante para a concessão do desconto, o que pode ter um vício de consentimento. O consentimento, conforme previsto no art. 5º, inciso XII, da LGPD, consiste na"manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada". O próprio § 3º do art. 8º também da LGPD determina que é"vedado o tratamento de dados pessoais mediante vício de consentimento". Nas hipóteses em que o tratamento envolve dados pessoais sensíveis, como os biométricos, as condições de fornecimento de consentimento são ainda mais criteriosas, porque tem que haver um consentimento qualificado, conforme prevê o art. 11 da LGPD.
+Então, minha gente, eu acho que alguma coisa muito séria está se passando sob nossas barbas, como diz o velho ditado. Ou nós nos movimentamos rapidamente ou nós vamos entrar em um estado de calamidade pública jamais visto!
 
-Por fim, temos a questão do tratamento dos dados biométricos. A finalidade geralmente apresentada para o tratamento de dados biométricos em farmácias é que a confirmação de identidade por biometria validaria o cadastro do cliente, prevenindo ali fraudes, o que seria justificado com base no art. 11, inciso II, alínea "g", da LGPD. No entanto, o principal ponto levantado contra a prática da coleta de dados biométricos é que ela pode não atender aos princípios da necessidade e da minimização dos dados estabelecidos pela LGPD, bem como às medidas de segurança que são necessárias nesse processo, as quais podem não ser suficientes para mitigar os riscos proporcionados aos titulares. Isso é muito importante.
+Se vocês me permitem aqui, vou usar 1 minuto para pegar um relato de uma pessoa.
 
-Então, há de se salientar, sob o ponto de vista da necessidade, o tratamento de dados biométricos para a finalidade de validação de identidade. Tendo em vista que os dados biométricos não constituem a única forma de verificação de identidade, é importante ressaltar que poderiam ser empregadas outras ferramentas de tratamento de dados menos gravosas em relação à utilização de dados sensíveis, como biometrias faciais e digitais. Dados pessoais sensíveis, sejam eles biométricos ou referentes à saúde, à vida sexual dos usuários, necessitam de salvaguardas adicionais em seu tratamento, conforme determina o art. 11 da LGPD.
+O SR. CRISTIANO NABUCO- Enfim, gente, a situação é extremamente grave. Nós realmente precisamos de alguma coisa urgente.Nós estamos com uma epidemia silenciosa sob os nossos cuidados e nós teremos gravíssimas consequências se nada for feito urgentemente, urgentemente.
 
-Por fim, considera-se que o emprego de dados biométricos exige uma ponderação de outros fatores relacionados à privacidade e proteção de dados à luz de princípios como a finalidade, a adequação, a necessidade e a segurança, presentes no art. 6º da LGPD. Além da proporcionalidade e da sensibilidade dos dados envolvidos, também devem ser observados os padrões mínimos de segurança técnicos e administrativos, a fim de salvaguardar os dados pessoais que são tratados com esse tipo de dados biométricos.
+Para concluir, o que eu gostaria de sugerir? A criação de um grupo de trabalho.
 
-Passando para a conclusão, Sr. Deputado, observamos oportunidade para uma atuação efetiva da ANPD no campo educativo, a fim de promover ali orientação para adequação de boas práticas em proteção de dados. Tal cenário sugeria que uma abordagem educativa, para além do contexto específico dos grandes grupos estudados, teria o potencial de levar conformidade a um número maior de estabelecimentos comerciais. Assim, o Conselho Diretor da ANPD decidiu por buscar diálogo com algumas entidades associativas, como a própria ABRAFARMA, e várias outras entidades do setor.
+Deputado, a esperança que eu coloco no senhor é inominável no sentido de o senhor capitanear e ser o porta-voz de um problema que está afetando mais pessoas no mundo do que a depressão, mais pessoas no mundo do que os transtornos ansiosos, mais pessoas no mundo do que os transtornos de várias ordens, inclusive de saúde.
 
-Eu posso relatar que esse foi um relacionamento profícuo. As associações tiveram interesse em apresentar suas informações, em crescer e em seguir as orientações da ANPD. Cabe destacar que, durante esse estudo, a ANPD orientou as associações a seguir ações de adequação à LGPD, o que elas já vinham fazendo logo no início da lei, até antes mesmo da LGPD, como uma necessidade de ampliar as atividades de prevenção, a governança da segurança da informação, a gestão de risco e o tratamento de incidentes de segurança. Dessas orientações, nós pudemos observar durante o trabalho um recuo na coleta de biometrias por parte de algumas redes de farmácia.
+Precisamos criar um grupo de trabalho, desenvolver programas de orientação que trabalhem com a ideia da saúde, da educação e, mais, com a questão do direito, da preocupação, do cuidado, da criação de uma legislação específica. Finalmente, precisamos fazer uma série de treinamentos. Talvez um bom começo fosse a criação do dia dodetoxdigital no Brasil.
 
-A Coordenação-Geral de Tecnologia e Pesquisa da ANPD concluiu recentemente esse trabalho. A ANPD continuará com a adoção das medidas necessárias para promover a adequação do setor quanto ao tratamento de dados pessoais.
+Eu só tenho a agradecer ao senhor e a todos que estão aqui me ouvindo a oportunidade de compartilhar esse assunto.
 
-Como encaminhamento desse trabalho, pretendemos adotar algumas linhas de ação, entre muitas outras possíveis, que serão deliberadas pelo nosso Conselho Diretor. Seriam elas a publicação desse estudo exploratório, por meio de nota técnica; a emissão de um guia orientativo para o setor, a fim de promover a adequação das práticas de tratamento — a emissão de guias é uma prática da ANPD para orientar o setor na área de tratamento de dados do setor público, no guia de eleições e muitos outros, e pretendemos trabalhar na elaboração de um guia específico para o setor —; o aprofundamento, juntamente com a SENACON, de questões que tangenciam a proteção de dados pessoais e direitos do consumidor, nos termos de um acordo de cooperação já existente entre a ANPD e a SENACON, o que é muito importante; e, por fim, a instalação de processo de fiscalização em casos concretos, a fim de verificar práticas inadequadas e determinar as correções necessárias, inclusive, em último caso, situações mais gravosas, que podem levar a sansões por parte da autoridade, o que se espera que não seja necessário.
+Muito obrigado.
 
-Então, seria essa a nossa apresentação. Ficamos à vontade para debater o assunto. Muito obrigado.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Agradeço ao Sr. Cristiano pela exposição.
 
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Agradeço a exposição do Sr. Jeferson Dias Barbosa.
+Recebi com bastante tristeza mais uma notícia de uma violência muito comum nos dias de hoje, que é o estupro virtual contra adolescentes. Diversas vítimas sofreram ataques de criminosos na Discord, uma plataforma que deveria ser utilizada para a comunicação saudável, mas que, pelo contrário, virou um tema de bandidos que instigam violência, abusos sexuais e até suicídio.
 
-Concedo a palavra ao Sr. Arthur Rollo, Presidente do Instituto Nacional de Defesa do Consumidor — INADEC.
+Ressalto que a tecnologia é importante na nossa sociedade, mas precisamos deixar claro e entender quais são os seus limites, para que casos como esses da plataforma Discord não voltem a ocorrer em nosso País. Lamento o ocorrido e me solidarizo com as vítimas e suas famílias. Parabenizo a polícia do Rio de Janeiro pelas prisões e apreensões, já que havia o envolvimento de menores. Esse é mais um caso de violência que acontece no Brasil, hoje no meu Estado, o Rio de Janeiro.
 
-O senhor tem a palavra.
+Por isso é que estamos debatendo esse grande problema da dependência tecnológica no nosso País.
 
-O SR. ARTHUR ROLLO- Sr. Deputado Jorge Braz, Sr. Deputado Celso Russomanno, demais integrantes da Mesa — Ricardo Blattes, da SENACON, Jeferson Barbosa, da ANPD, e Sergio Barreto, Presidente da ABRAFARMA —, senhoras e senhores que nos assistem presencialmente ou pela Internet, como disse já há bastante tempo Clive Humby, um matemático inglês especializado em ciência dos dados: os dados são o novo petróleo.Depois que ele disse isso, muita gente vem repetindo a mesma afirmação. Então, o que está sendo discutido nesta audiência pública é que estão extraindo petróleo à custa dos consumidores brasileiros. Estão utilizando esses dados brasileiros pelo menos desde 2008.
+Eu tive oportunidade de apresentar um projeto de lei que tramita na Câmara dos Deputados, tratando do assunto, para que possamos aqui, através de audiências públicas, escutar especialistas, aprofundar e debater um tema que vai ser muito importante para a sociedade. Cresce o número de dependentes tecnológicos no Brasil.
 
-Eu fiz uma pesquisa interna nos dados do INADEC, que é uma associação civil integrante do Sistema Nacional do Consumidor e representa os consumidores em todo o território nacional. Desde 2008, temos trabalhos no INADEC sobre essa obrigatoriedade de cadastro para obtenção de desconto. Mas, como disse aqui o Dr. Ricardo, será que é desconto mesmo, ou é um sobrepreço?
+Já há universidades no nosso País que estudam o assunto, como citou o Sr. Cristiano, Coordenador do Grupo de Dependências Tecnológicas. Acho que a sugestão do Sr. Cristiano Nabuco é fundamental para a Câmara de Deputados, que é estabelecer um grupo de trabalho, para que possamos debater, nesse grupo de trabalho, a legislação brasileira e como vamos enfrentar esse grande problema, que não é só do Brasil, mas do mundo.
 
-Pessoalmente, tentei me livrar durante muito tempo desses cadastros das farmácias. Quando foi que eu não consegui me livrar mais? Um belo dia, fui comprar um medicamento, e me perguntaram:"Tem o CPF?"Eu respondi:"Não, não tenho o CPF cadastrado".Fui pagar, e o preço do medicamento era o dobro. Naquele momento, eu tive que me curvar. Eu, que nunca gostei de me cadastrar à toa, que sempre zelei pelos meus dados, tive que me submeter. Então, desde 2008, é assim que acontece.
+Abro o tempo para as perguntas.
 
-Esse procedimento foi implantado em todas as grandes redes. O consumidor não tinha liberdade de escolha, não tinha para onde fugir, porque, se ele não quisesse fazer o cadastro, ele ia pagar muito mais caro, e, se ele mudasse de rede, se mudasse de farmácia, iria encontrar aquele mesmo procedimento. Ninguém tem dúvida de que quando eles concedem o suposto desconto já está preservada a margem de lucro das farmácias, o que significa que, quando o consumidor não dá o seu CPF, o sobrepreço é absurdo e maximiza o lucro das redes de farmácia. O consumidor não tem liberdade de escolha nesse caso, porque a diferença de preço é muito grande.
+Dirijo as seguintes perguntas à Sra. Aline Paz. De que maneira a dependência tecnológica afeta a capacidade das pessoas de se engajar em suas atividades cotidianas, como trabalho, estudo e lazer?Quais são as formas de se identificar a dependência? Em que ponto ela vira realmente uma dependência? Crianças e adolescentes muito provavelmente precisam de uma abordagem diferente da utilizada no tratamento em adultos. Como lidar com essa situação e proteger as nossas crianças? Quais tratamentos são usados nesses casos? Até que momento devemos adiar, dentro do possível, o contato das crianças com os meios eletrônicos?
 
-De 2008 para cá, as práticas abusivas das drogarias, das farmácias, das redes de farmácia, ficaram mais sofisticadas. Hoje não se pede só o CPF, perguntam se o consumidor tem plano de saúde, perguntam se o consumidor faz parte de uma entidade de classe, perguntam qual é o cartão de crédito do consumidor, e chegaram ao absurdo de exigir identificação biométrica. Só retrocederam nisto porque o IDEC tomou uma medida imediatamente, foi para cima das redes, acionou inclusive a associação.
+Estas são as perguntas que eu faço ao Sr. Cristiano Nabuco. Com base em sua experiência no tratamento de dependência tecnológica, quais são os desafios enfrentados ao lidar com a dependência tecnológica em termos de diagnóstico, intervenção e prevenção? Como a abordagem interdisciplinar e a colaboração entre profissionais de saúde mental podem contribuir para enfrentar esses desafios?
 
-Uma coisa que é importante deixar claro é que isso não é um programa de fidelidade. As companhias aéreas, por exemplo, têm programas de fidelidade: quanto mais você voa, mais benefícios você tem. É diferente. No caso específico, o consumidor é obrigado a se cadastrar para poder pagar o preço justo, o preço correto, já preservada a margem de lucro das farmácias. Então, neste caso específico, não se trata de um programa de fidelidade, porque, imediatamente após o cadastro, o consumidor já tem o suposto desconto. A justificativa das redes é que os descontos são individualizados, mas, quando nós chegamos lá, eles dão uns cupons de desconto que não têm nada a ver com o nosso padrão de consumo.Então, definitivamente os dados não são usados para isso.Desde 2008, a prática é abusiva, porque fere o art. 43, § 2º, do Código do Consumidor. O cadastro tem que ser opcional. O consumidor só se cadastra se quiser. Mas ele acaba sendo obrigado a se cadastrar, em virtude do preço. Muita gente já não tem condição de comprar o medicamento com esse, em tese, desconto, então com o sobrepreço ele simplesmente não consegue pagar e acaba sendo obrigado a se cadastrar, contra a sua vontade, sem o consentimento de que o Dr. Jeferson falou, que tem que ser livre, informado, inequívoco: aquele famoso vício de consentimento. Então, ele era obrigado a se cadastrar para ter acesso ao pagamento do preço correto.
+A novelaTravessia, da escritora Glória Perez, da Rede Globo, realizou um importante papel de informar a população obre a existência dessa fobia, até então desconhecida por muitos como algo cientificamente classificado. Na Coreia do Sul, o sistema de saúde já atende viciados em Internet. Em países como Austrália, China, Itália e Japão reconhece-se oficialmente o problema.
 
-A prática também fere o art. 9º, inciso VII, do Decreto nº 5.903, de 20 de setembro de 2006, que regulamentou a Lei nº 10.962, que trata da oferta e fixação de preços, porque, Deputado Celso Russomanno, estão atribuindo preços distintos para o mesmo item. O mesmo medicamento tem dois preços distintos, a depender de o consumidor fornecer o CPF, o cartão de crédito, ou, por exemplo, o nome do seu plano de saúde. Essa prática de dois preços distintos para o mesmo item é vedada, só pôde acontecer a partir de 2017, pela Lei nº 13.455, e quando os descontos são oferecidos em função do prazo ou do instrumento de pagamento utilizado. Exemplo disso é o caso de consumidores que pagam em dinheiro e que normalmente recebem um desconto, porque não haverá incidência daquela taxa do cartão de crédito e do cartão de débito. Isso é possível. Atribuir preços distintos para o mesmo produto é vedado como regra, e, excepcionalmente, é permitido quando é oferecido desconto em função do prazo do instrumento de pagamento utilizado.
+Dr. Cristiano, quais recomendações o senhor teria para os Governos e órgãos reguladores no sentido de abordar a dependência tecnológica como um problema de saúde pública? Quais estratégias e políticas públicas poderiam ser implantadas a fim de conscientizar sobre essa dependência, prevenir sua ocorrência e oferecer suporte adequado às pessoas afetadas? Por fim, de que maneira a sociedade, o setor educacional e as famílias podem desempenhar um papel relevante na abordagem desses fenômenos e na promoção de uso saudável da tecnologia?
 
-Então, como já dissemos aqui, na verdade não existe desconto. Quem não fornece os dados acaba é pagando muitas vezes o dobro, como já aconteceu comigo.
+Essas são as minhas perguntas aos dois expositores.
 
-A prática já era vedada, já era considerada abusiva. Veio a Lei Geral de Proteção de Dados, Lei nº 13.709, de 14 de agosto de 2018, e aquela abusividade que já existia acentuou-se, porque as farmácias, na grande maioria dos casos, tratam dados sensíveis, referentes à saúde e à vida sexual dos consumidores. O consumidor compra, por exemplo, um preservativo. Esse é um dado referente à sua vida sexual que as farmácias passam a ter. E o que acontece? O Dr. Jeferson já falou dos trabalhos que a ANPD vem desenvolvendo. Realmente isso é muito sério, porque, infelizmente, muitas redes não adequaram seus cadastros antigos à Lei Geral de Proteção de Dados. Eu, pessoalmente, aqueles cadastros que eu fiz antes da Lei Geral de Proteção de Dados não foram revalidados. Colocam os termos e condições nosite, mas O consumidor não tem acesso a essa informação. O direito do consumidor à informação não se confirma nosite.Há uma série de precedentes judiciais dizendo que não basta informação nosite, que o consumidor tem que ser informado na hora. Então, todos esses dados antigos tinham que ser validados, e isso não aconteceu — comigo, por exemplo, não aconteceu.
+Passo a palavra ao Deputado Prof. Paulo Fernando, para fazer aqui as suas indagações.
 
-Não existe o consentimento pleno, existe o vício de consentimento, porque, no caso, para pagar o preço justo o consumidor é obrigado a se cadastrar. E falta transparência, porque não se sabe para onde vão esses dados, não se sabe como esses dados são tratados, não se sabe se existe compartilhamento com parceiros. Os dados sobre planos de saúde, por exemplo, me intrigam muito. Para que pedem dado de plano de saúde quando a pessoa vai fazer a compra? Por exemplo, ela compra uma metformina porque existe um indicativo de que ela é pré-diabética. Isso pode ser utilizado para negar uma cobertura por doença preexistente. Essas informações não se sabe como são tratadas e compartilhadas.
+O SR. PROF. PAULO FERNANDO(Bloco/REPUBLICANOS - DF) - Bom dia, Sr. Presidente. Gostaria de felicitá-lo pela iniciativa do requerimento para discutir esse assunto tão importante.
 
-O art. 9º da Lei Geral de Proteção de Dados diz que o consumidor tem o direito de saber a finalidade específica do tratamento, forma e duração do tratamento, identificação do controlador, informações de contato do controlador, informações acerca do uso compartilhado de dados e responsabilidade dos agentes. Em relação aos meus dados que as redes tratam lá em São Paulo, não tenho nada disso, à exceção, como já foi dito aqui pelo Dr. Ricardo, do caso de medicamentos controlados que exigem retenção de receita.
+Eu e a Senadora Damares estamos lançando a Frente Parlamentar Mista do Uso Saudável das Tecnologias Digitais, da qual V.Exa., inclusive, é um dos subscritores. Desde já eu o convido para fazer parte da nossa diretoria. Esse assunto é muito importante e nos preocupa, principalmente em relação à dependência das crianças.
 
-Uma questão interessante é que, no Estado de São Paulo, existe uma lei estadual, a Lei nº 17.301, que, na prática, no meu entender não está sendo cumprida. Ela diz que as farmácias e drogarias estão proibidas de exigir Cadastro de Pessoa Física do consumidor no ato da compra sem informar de forma clara e adequada sobre a abertura de cadastro ou registro de dados pessoais e de consumo. Ela prevê uma pena, depois diz que nas farmácias e drogarias deverão ser afixados avisos contendo os dizeres:"Proibida a exigência do CPF no ato da compra que condiciona a concessão de determinadas promoções".Então, já existe lei estadual em São Paulo. O IDEC acionou a ABRAFARMA e tem ficado atento a isso. E nós, lá no INADEC, também estamos atentos.
+O expositor falou sobre déficit de atenção, sobre casos de hiperatividade. Também me chamou muita a atenção quando ele abordou o assunto da implicação ou dos efeitos nos bebês em gestação.Esse é um assunto em relação à saúde neonatal bastante importante.
 
-O resumo da peça, Deputado Jorge, é que precisamos mudar. É necessária uma regulação específica, até porque, como disse aqui o Dr. Ricardo, essa não é uma prática só das farmácias, é prática também de supermercados e de outros setores da economia, porque, na medida em que tiram o petróleo do consumidor e nada acontece, e ninguém recebe punição, isso acaba se expandindo para outros setores do mercado.
-
-São essas as razões e considerações do INADEC, Excelência.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Agradeço a exposição do Sr. Arthur Rollo.
-
-Concedo a palavra ao Sr. Sergio Mena Barreto, Presidente da Associação Brasileira das Redes de Farmácias e Drogarias — ABRAFARMA.
-
-Sr. Sergio, o senhor tem a palavra.
-
-O SR. SERGIO MENA BARRETO- Bom dia a todos.
-
-Sr. Deputado Jorge Braz, Presidente da Comissão, Srs. Deputados presentes, não pude estar em Brasília hoje em razão de outros compromissos, mas é sempre um prazer atender as solicitações da Câmara dos Deputados, neste caso, da Comissão de Defesa do Consumidor. Já estive aí outras vezes. É muito bom ter a oportunidade de esclarecer pontos como os que foram levantados agora.
-
-Quero fazer minha saudação também ao Dr. Ricardo Blattes, ao Jeferson Dias e ao Arthur Rollo.
-
-Eu gostaria de fazer uma apresentação. Vou compartilhar minha tela.
-
-Eu sou o CEO da ABRAFARMA, que representa as maiores redes de farmácias do Brasil.
-
-Quero saudar também o pessoal da Internet e da TV que está nos acompanhando.
-
-Estas são as redes associadas à ABRAFARMA. O setor de farmácias, geralmente, digamos assim, tem muito meme na Internet. As pessoas têm umas visões diferentes do setor. Então, é interessante esta oportunidade. Eu vou colocar aqui algumas questões, para que as pessoas entendam um pouco mais a complexidade do setor.
-
-Quando falamos de farmácia no Brasil, na verdade estamos falando de quatro tipos de farmácias. Temos 90 mil farmácias no Brasil, classificadas em quatro grandes tipos.
-
-Temos aqui a ABRAFARMA, representada por esta parte azul-clara do quadro, com 9.700 lojas aproximadamente. A ABRAFARMA tem 10% das farmácias do Brasil.
-
-Esta parte verde aqui, do lado esquerdo, são as farmácias associativistas, farmácias independentes que se juntaram e formaram grupos. São outro tipo de farmácia.
-
-Esta parte azul mais clara representa a maioria das farmácias brasileiras, 53 mil farmácias, as farmácias independentes, aquelas farmácias de pequeno porte, que geralmente faturam 60 mil reais por mês aproximadamente, o típico estabelecimento brasileiro, optante do SIMPLES, microempresas.
-
-E existem outras redes, que não estão na ABRAFARMA, representadas nesta parte laranja do quadro.
-
-Esses tipos têm níveis diferentes. Por exemplo, uma loja da ABRAFARMA fatura, por ano, 8 milhões. Tudo que eu vou falar aqui é totalmente transparente, como a ABRAFARMA costuma se posicionar perante a sociedade brasileira. Então, uma loja da ABRAFARMA fatura 8,6 milhões por ano; uma outra, de rede, fatura a metade, 4 milhões; as lojas associativistas faturam 1,3 milhão aproximadamente; e as farmácias independentes faturam aproximadamente 600 mil por ano.
-
-Eu tenho que dizer isto porque às vezes fica a impressão de que a maioria das farmácias são grandes. Não são. Temos uma série de tipos diferentes de estabelecimentos, todos com suas particularidades e dificuldades. A loja típica brasileira, a farmácia típica brasileira... É verdade, realmente se inaugura muita farmácia no Brasil. Existe uma baixa barreira de entrada. Qualquer pessoa pode instalar uma farmácia. Aluga um ponto, vai à distribuidora, coloca os medicamentos. Nos últimos 2 anos, foram abertos quase 16 mil estabelecimentos no Brasil. Mas, em compensação, fecham muitas farmácias também. Aproximadamente 5 mil farmácias fecham todos os anos. Essas farmácias vivem, no máximo, 2 anos, 3 anos, e são dois os problemas: um problema é de logística e estoques, que eu vou já aprofundar aqui, até para entendermos para onde vão os dados, para que se usam os dados, que são o foco desta sessão; e o outro é de má gestão. As pessoas são neófitas, elas não entendem do mercado.
-
-Esse é um segmento que, aparentemente — por isso agradeço esta oportunidade —, ganha muito dinheiro. Apesar dessa visão de que as farmácias lucram demais, na verdade toda lucratividade está prevista em lei, as margens, tudo. O que se tem é repasse de benefício ao consumidor, como vamos mostrar daqui para adiante, para manter a fidelidade do consumidor.
-
-Na verdade, esses são estabelecimentos muito complexos de gerenciar. Eles exigem grandes quantidades de itens. Uma farmácia típica vai ter 10 mil, 15 mil itens, e 80% desses medicamentos têm baixíssimo giro. Então, a farmácia compra, não vende — vai vender ao longo de um tempo — e paga ao fornecedor antes mesmo da venda. É interessante entender isso, porque é isso que resulta em baixa margem do negócio, e é por isso que muitas empresas morrem, e é também por isso que é preciso gerenciar muito bem o negócio, gerenciar essas margens, senão o negócio está fadado ao insucesso, ao fracasso.
-
-Para se ter uma ideia, de cada 100 reais que entram no caixa de uma farmácia, 3 reais, 4 reais vão para imposto. Isso era maior até 2007, ano em que se implantou a substituição tributária no Brasil, então a indústria recolhe o imposto antecipadamente, e por isso esse valor baixou de 14 reais para 4 reais. O último dado mostra que, de cada 100 reais, aproximadamente 69 reais, quase 70 reais, vão para pagamento do produto da indústria, e aí a margem bruta, ou seja, o que sobrou na farmácia, fica em torno de 30 reais, de cada 100 reais. Com esses 30 reais de cada 100 reais, é preciso pagar aluguéis, salários, logística, distribuição, toda a operação, taxas, impostos adicionais... Dos 30 reais que sobraram, essa operação consome 26,78 reais. No final, o que vai sobrar mesmo desse negócio são 3,41%, ou 3,41 reais de cada 100 reais.
-
-Então, para começar, quero desmistificar a ideia de que farmácia é um negócio que dá muito dinheiro, que é incrível. É óbvio que o negócio dá resultado, mas em grandes volumes, por isso pequenas farmácias abrem e fecham imediatamente, em seguida, porque elas não têm volume para justificar o negócio. No final, depois que se pagou tudo, o lucro líquido ficou em 1,96% do resultado, 2% na média, com algumas empresas trabalhando melhor.
-
-O grande desafio do setor é a ineficiência logística do Brasil. Aquilo que vocês viram na pandemia — não tem vacina, está faltando vacina, veio pouca vacina para o Brasil! —, esse é o nosso dia a dia. O Brasil é totalmente dependente de fatores externos, de estoques externos, de princípios ativos externos... E temos outro grave problema no Brasil: 50% dos doentes crônicos abandonam o tratamento depois de 6 meses. Há vários estudos internacionais e vários estudos nacionais que mostram que, no Brasil, a taxa é um pouco maior, porque aqui 54% das pessoas abandonam o tratamento todos os meses, ou seja, o paciente que deveria fazer o tratamento não o faz. E por que ele não o faz? Por causa dos estoques, por causa da ineficiência logística, por falta de previsibilidade. Se você não prevê com assertividade o que vai vender e o que vai comprar da indústria — estou fazendo toda esta preparação para os senhores entenderem onde usamos os dados —, é impossível ter um negócio bem-sucedido.
-
-Hoje, somos uma das farmácias mais bem-sucedidas do mundo, respeitados na América Latina, no mundo inteiro, porque o Brasil saiu do nível de ineficiência de 2004, 2005, dos anos 2000, para um alto nível de eficiência. Na farmácia típica brasileira, aquela farmácia pequena, o nível de falta é de 50%. Se a pessoa chega com uma prescrição de dez itens, faltarão cinco. E o que acontece quando falta um item? Sete por cento dos clientes aceitam esperar. Uma parte dos clientes, 23% deles, troca por outros itens. Outros clientes procuram o item em outro local, mas, quando chegam ao outro local, descobrem que lá também estão faltando 50% dos itens. E, no final, temos esse abandono em torno de 54%. Essa é a média do mercado. Nas redes da ABRAFARMA, a taxa de ruptura, ou seja, de falta de produto, é de 12%.Não faltam 5 em 10; aqui falta 1,2 em 10. Os clientes acostumaram-se com essas redes porque elas oferecem previsibilidade.
-
-Como as redes resolveram o problema da ruptura de estoque e da ineficiência logística gritante que existe no setor no Brasil? Montando grandes centros de distribuição. No eslaide vemos que a rede chamada Pague Menos tem um centro de distribuição. Outra rede que tem um centro de distribuição, esse prédio branco no meio, é a Panvel. Na imagem vemos o interior desse centro de distribuição da Panvel, no Rio Grande do Sul. Na imagem seguinte vemos o novo centro de distribuição de uma rede chamada São João. A Raia Drogasil, a maior rede do Brasil, tem 11 centros de distribuição para atender suas farmácias no País.
-
-Essas grandes redes compram em grande volume para garantir que consigam atender o cliente e não falte produto. Mas para isso tem que haver eficiência, para isso tem que haver previsibilidade. Como eu sei quanto eu tenho que comprar de um laboratório ao longo do tempo, com 1 ano de antecedência, por exemplo, período para que o laboratório se programa para produzir para mim, se eu não tiver dados? Isso é impossível, senhores! É impossível esse mundo ser eficiente se eu não usar dados.
-
-Usamos muito no setor de logística um critério chamado OTIF. Para os senhores entenderem, vou mostrar um caso real: de 5.772 medicamentos, há falta crônica no meu centro de distribuição de 1.287 itens. Apesar de toda a previsibilidade, todo o esforço em usar bem os dados, de identificar o consumidor, de saber o que o consumidor vai comprar, é sofrível o OTIF no Brasil. OTIF quer dizer on time, ou seja, a entrega é no prazo correto, ein full, ou seja, a entrega é de todo o pedido.
-
-De cada 100 pedidos para a indústria, eu recebo 50, 40, 65. Esse é um caso real. Não vou falar o nome do laboratório, pois, obviamente, não posso fazer isso. Nesse caso, nessa rede, naquele grande centro de distribuição que eu mostrei para os senhores, em junho de 2022, só havia 43% de tudo o que ela pediu, apesar dos esforços de usar dados para a previsão. Em fevereiro deste ano ela tinha 50% do que havia pedido, no prazo e da forma correta.
-
-O uso de dados aumenta a previsibilidade de compras; auxilia os fabricantes a programar a produção, porque, se eu vou comprar ao longo do ano, eu digo o quanto preciso; melhora o OTIF; e fideliza o cliente, por oferecer a ele uma compra com menos fricção, ou seja, ele não vai ter falta de produto e vai saber que vai encontrá-lo, com melhores ofertas — vou já explicar por que oferecemos ofertas com base em dados — e baixa ruptura de estoques. Então, o uso de dados serve para que essa indústria não seja ineficiente, para que ela melhore a eficiência.
-
-O Brasil é muito melhor do que todos os países da América do Sul e até da América do Norte. Há indicadores que dizem que nós somos melhores do que os americanos em termos de abastecimento, porque nós somos previsíveis, porque nós utilizamos dados, porque nós fazemos algo para melhorar. Olhem só, estou falando que há falta de produtos em metade das vezes. Imaginem se nós não utilizássemos dados!
-
-Em 2005, 2008, esse mercado era um desastre. Também nas grandes redes, em todo lugar, você não encontrava alguns medicamentos. Ainda hoje isso acontece. Há um produto chamado Ozempic, usado no mundo inteiro, mas que não se acha para comprar no Brasil. Os diabéticos não o estão encontrando. Há época em que não temos bombinha de aerossol para asma e não temos vacina, porque temos que disputar com o mercado global.Então, quando há previsibilidade, a fábrica se programa para produzir, eu consigo colocar o produto no meu centro de distribuição, eu consigo atender o cliente.Tudo o que se faz é para algo chamado "centralidade no cliente". Para toda essa operação, o dado do cliente é ouro. Vou antecipar a minha fala do final: o dado do cliente não vai para absolutamente ninguém, porque é o mais importante que essa empresa tem para gerenciar, para fazer com que seu negócio sobreviva ao longo do tempo, para garantir previsibilidade. Então, não se preocupem com os dados. Nunca se ouvir falar em vazamento de dados de farmácia. Isso não vai ocorrer. Não se mandam dados para plano de saúde, não se mandam dados para ninguém. Esse dado é usado para haver previsibilidade, para melhorar a logística, para aumentar a eficiência.
-
-Onde foi que aprendemos isso? Com os grandes provedores de Internet. Quando você navega em umsite— eu não pedi autorização para falar da empresa, mas sou cliente da Amazon —, omousevai mostrando todos os seus interesses na página e, a partir daí, essesitepassa a oferecer a você uma previsão cada vez melhor, produtos recomendados, produtos com o preço que você procura. Por exemplo, na página que aparece no eslaide, há 60 pontos de interesse.
-
-Eu já visitei muitos centros de distribuição no mundo. Nós montamos os processos com base nisso. Esse é um centro da Amazon que eu tive a oportunidade de visitar, onde a entrega interna é personalizada, os robôs trazem o produto até o separador, que vai entregar o produto específico que o cliente pediu. É possível isso porque se aprendeu com o cliente.
-
-Já vou me encaminhando para o final da minha apresentação, que é, obviamente, o foco desta sessão, mas não podia deixar de explicar para os senhores essa lógica toda e os desafios de logística no Brasil, que é o motivo de se usarem dados de forma intensiva. Nós usamos dados em várias situações. A primeira já foi citada, que é atender questões de saúde pública, questões legais. Hoje, os dados estão integrados, por exemplo, com a Rede Nacional de Dados em Saúde. Se alguém fizer um teste em uma farmácia, esse dado vai para o aplicativo da pessoa do Conecte SUS; se alguém comprar na Farmácia Popular, a informação também vai para o aplicativo.
-
-Então, cada vez mais essa integração de dados com a base do Governo vai acontecer de forma mais forte. Isso está previsto, inclusive, na Lei Geral de Proteção de Dados, para uso público. Não se consegue vender na Farmácia Popular se não for enviada a identificação do paciente. Nós mandávamos, por exemplo, o resultado do teste de COVID para a Rede Nacional de Dados em Saúde. O Governo recebia todos esses dados.
-
-Vou falar das quatro grandes áreas em que se usam dados. É claro que cada rede tem sua particularidade, mas as farmácias, de modo geral, adotam quatro modalidades de programas. Apresentamos, inclusive, todos esses formatos em umworkshopque realizamos com a ANPD em novembro de 2021, esclarecendo como isso funcionava.
-
-Há quatro grandes tipos. O primeiro é o PBM Corporativo. Por exemplo, a PETROBRAS e a OAB têm acordo com uma PBM. Se a OAB quer oferecer para os associados dela uma condição de desconto na farmácia — assim como a PETROBRAS e várias outras empresas —, ela contrata empresas para gerenciar esse catálogo, e a farmácia atua como dispensadora.
-
-Vamos continuar usando o exemplo da OAB. A pessoa tem a carteirinha da OAB. Daí se pergunta a ela:"Você é da OAB?"ou"Você é da PETROBRAS?"Por que perguntamos se a pessoa é da OAB?Porque a OAB tem convênio com alguém, e você vai oferecer aquela condição. Planos de saúde também fazem isso. Não devo citar a empresa, mas a AMIL, o Bradesco, todos fazem. São as operadoras brasileiras. Quando elas vão vender um seguro saúde, elas dizem:"Você tem benefício em farmácia".Ela oferece. Por isso, nós perguntamos:"Você é da AMIL? Você é do Bradesco? Você tem um plano de saúde?"Se a pessoa tiver, ela está dentro de um desses PBMs corporativos, mas nenhuma informação vai para elas. Na verdade, nós acessamos um portal — o portal da operadora que a OAB contratou, que a AMIL contratou — e ali se oferece esse desconto corporativo. Eu vou até tirar as operadoras de saúde daqui, porque elas estão em outro lugar, mas o modo se assemelha muito. Todas as empresas que fizeram esse convênio de dar desconto para alguém estão nesse local.Há também outra operação, relativa à indústria. A indústria, para também ter previsibilidade, cadastra os consumidores dela nos programas. Eu falei do Ozempic. Por exemplo, se você estiver cadastrado no programa, na canetinha que trata diabetes, muito cara, você tem um desconto. Essa operação é feita pela própria indústria, que contrata uma operadora, um PBM, e a farmácia acessa o portal daquele PBM e digita a identificação. O desconto é concedido pela indústria diretamente ao usuário, e nós cobramos esse valor. Vai haver depois um encontro de contas? Sim, mas essa informação não vai para ninguém. Essa informação está no cadastro que já estava lá. Nós não temos acesso, inclusive, ao cadastro, não guardamos nem o CPF da pessoa nesse caso. Entra-se em um portal, que nós acessamos diretamente. Depois, nós vamos entrar nesse portal para fazer o encontro de contas. Aí, sim, há dois lados operados realmente pela farmácia.Há ainda o programa de fidelidade. O cliente pode se interessar em participar de um programa de fidelidade. Daí ele se cadastra na farmácia e fornece o CPF. Esse programa de fidelidade é próprio. Mesmo que ele tenha uma participação em programas de terceiros, os dados não são enviados para ninguém. Assim como o Pão de Açúcar não vai enviar a base dele para a minha rede, a minha rede também não vai enviar a base dela para outra empresa. Como eu falei antes, esse dado do consumidor é usado de forma interna, a fim de gerar melhor ciência no negócio, compras melhores, que ao final traduzam benefícios para o próprio consumidor.
-
-Nós temos acordos firmados com 13 operadoras de saúde. Eu vou pedir perdão, porque eu coloquei as operadoras do PBM Corporativo, mas elas estão no convênio. Aqui há inúmeras empresas, são convênios empresariais. Essas empresas vão lá e pedem:"Eu quero que o meu funcionário compre na sua farmácia e não tenha que pagar nada, vou descontar na folha de pagamento dele".Eu tenho uma forma de fazer isso, e vou mostrá-la.
-
-Os convênios de planos de saúde, como eu falei, podem até entrar no PBM Corporativo. As empresas dão desconto."Eu vou oferecer um desconto, venha para o meu processo, esteja no meu plano de saúde, você vai ter vários benefícios."Seguradoras fazem o mesmo. Quando você faz um seguro de carro, a seguradora oferece chaveiro, oferece bombeiro. A seguradora não manda dados do cliente para o bombeiro, não manda dados de cliente para o chaveiro, como nós não mandamos dados de cliente para nenhum plano de saúde.
-
-O plano de saúde oferece o desconto àquela rede. Qual é o benefício da rede? Saber que você vai atender, vai fidelizar o cliente daquele plano de saúde. Aqueles clientes vão para sua empresa, não vão para outra empresa. O objetivo é esse. Não há troca de informações.
-
-Eu trouxe um quadro bem resumido, porque oworkshopque nós fizemos com a ANPD foi de uma manhã inteira.
-
-De modo geral, para convênios, apresenta-se CPF, carteirinha do plano ou cartão de crédito. O sistema autorizador é próprio ou terceirizado e os dados são internos, para gerar estatísticas e melhor previsibilidade. Não há abertura de dados sensíveis para terceiros. Aliás, eu quero deixar consignado, se for do interesse dos senhores, que todos os contratos estão à disposição. A maior parte dessas empresas é de capital aberto, capital em bolsa, todas auditadas.
-
-PBMs corporativos: apresenta-se a carteirinha ou o CPF, que é tratado por algum sistema motorizador. Os dados são gerenciados pelos próprios PBMs e as vendas são conciliadas, mas nós não temos acesso ao cadastro do cliente. Qual empresa gostaria de entregar toda a sua base de dados a uma farmácia para fazermarketing?Não entrega. Por isso, ela contrata um terceiro no meio do caminho para gerenciar aquele processo para ela, assim como há operadoras de saúde que contratam gerenciadores de saúde.
-
-Para o PBM da indústria, o modo de entrada é o CPF. Há várias empresas e sistemas autorizadores. É o mesmo procedimento: o cliente cadastra-se nos programas de acompanhamento da indústria. Isso existe no mundo inteiro, como falei, para dar previsibilidade.
-
-Para o programa de fidelidade, o CPF também é a entrada. Isto, sim, é o sistema corporativo: os dados são internos, utilizados para ações e ofertas personalizadas, com previsibilidade no abastecimento das empresas. Elas sabem que vão oferecer o melhor serviço ao cliente.
-
-Sr. Presidente, esse é um dos milagres que nós mostramos à ANPD. Como funciona o convênio com desconto em folha? O empregado chega à farmácia, escolhe os produtos; a farmácia verifica a legibilidade da confirmação do convênio pelo CPF e o empregado leva os produtos. O que faz a empresa? Acessa uma plataforma de gestão, que geralmente é dela mesma, terceirizada ou não; ela checa qual foi o valor daquelas vendas totais; o valor gasto é descontado no salário do usuário. Nenhum dado pessoal, nem as compras que o empregado fez, nós mandamos para as empresas. Só quem tem acesso hoje em dia às compras é o próprio usuário: o empregador encaminha ao empregado o valor que vai descontar; se o empregado tiver dúvida, ele vai à plataforma, no sistema de gestão, e checa se aquele holerite está coincidindo com o que ele realmente consumiu na farmácia. As empresas hoje não têm acesso ao que o empregado consumiu.
-
-Outro exemplo que eu quero trazer é o do programa de fidelidade. Estou trazendo o meu próprio exemplo, no caso, de um associado nosso. Eu forneço o meu CPF e, com base no meu consumo, ele vai me oferecer ofertas personalizadas. Ele sabe que eu consumo muito fio dental, e vai me oferecer uma oferta de fio dental; ele sabe que eu consumo repositor de flora, e vai me oferecer uma oferta repositor de flora; ele vai me oferecer também antigripais. Nesse caso, ele me ofereceu também multivitamínicos, mas eu nem uso multivitamínicos, porque eu compro fora. É assim que funciona o sistema.
-
-Tudo isso existe por causa do paciente, para acrescentar valor ao paciente, para não deixar faltar o produto, para ter informação para ele, para haver uma jornada. A jornada do paciente é muito difícil. O paciente leva tempo para fazer exames, leva tempo para fazer atendimento.E não há produto para ele. Se ele não faz o tratamento, sua condição vai agravar-se e ele vai morrer mais cedo. Nós ficamos muito assustados por terem morrido 700 mil pessoas na pandemia, mas 600 mil pessoas morrem por ano por não tratarem de diabetes e hipertensão, por abandonarem o tratamento, às vezes algo simples.
-
-Por fim, eu queria lembrar que houve realmente uma investigação do Ministério Público do Distrito Federal e Territórios. Essa investigação mostrou que os descontos oferecidos pelas farmácias configuram operação complexa, envolvendo diversas partes, como farmácias, laboratórios, distribuidores e clientes. Infelizmente, no Brasil, o CPF é a chave principal de validação das pessoas naturais, já que outros identificadores, tais como número de RG, telefone e endereço, são dados que não ajudam, porque mudam bastante, as pessoas trocam muito o número do celular. Por exemplo, nos Estados Unidos, não é CPF, é telefone. As pessoas nos Estados Unidos não mudam de telefone. No caixa da farmácia, você digita seu número de telefone para ter acesso às ofertas. Aqui, não é assim, devido às diversas possibilidades. No caso do RG, ele é emitido pelos Estados.
-
-Então, uma possível decisão do Ministério Público do Distrito Federal e Territórios em buscar o fim da prática de identificação dos clientes em troca de descontos, seja por meio de TAC ou mesmo pela busca de decisão judicial proibitória, causaria enormes prejuízos aos clientes, que ficariam privados dos descontos ou mesmo limitados aos descontos da própria farmácia, excluindo-se os dos laboratórios.
-
-Diante do exposto, determinou-se o arquivamento do inquérito civil público. Esse foi o resultado, em 31 de agosto de 2021.
-
-Na verdade, senhores, os clientes estão muito mais exigentes. A pandemia, por exemplo, levou a loja para casa. Não há mais barreira. Os atrasos não são mais aceitáveis. Os clientes estão impacientes, querem menos atrito. Na verdade, o que nós oferecemos é essa logística mais estratégica, essa segurança de que o cliente tem que ter o seu produto. Isso só se consegue com previsibilidade. Nós vamos continuar sendo um serviço de muita presença humana, mas cada vez mais dependentes de tecnologia para sermos mais eficientes, para fazer mais sentido, para as coisas serem mais previsíveis, para podermos entregar essa incrível farmácia que temos hoje no Brasil, da qual temos muito orgulho. Temos muito orgulho do sistema eficiente que temos no Brasil, apesar da ineficiência logística e de todo o contratempo existente nesse processo todo.
-
-Quero agradecer a oportunidade. Fico à disposição de todos para os debates.
+Outra questão é a do Detox Digital Brasil. Na gestão passada, no Ministério da Mulher, da Família e dos Direitos Humanos, nós tínhamos a Secretaria da Família, liderada pela Dra. Angela Gandra, e toda uma equipe que já deu o pontapé inicial em relação a isso. Inclusive houve experiências exitosas no Paraná. Então, seria interessante que os expositores e a nossa Comissão de Cultura tivessem acesso a esse material produzido na gestão passada. Espero que a atual gestão do Ministério dê prosseguimento ao assunto, muito importante, razão pela qual eu me solidarizo e compartilho com V.Exa., Presidente, do sentimento de dele tratar.
 
 Obrigado.
 
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Agradeço a exposição ao Sr. Sergio Mena Barreto, que teve a oportunidade de se manifestar sem nenhum tipo de interrupção. Isso nos dá a condição básica de direito e defesa do consumidor, que está sendo praticada pela CDC através desta Presidência e dos amigos presentes.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Passo a palavra à Sra. Aline Paz.
 
-Eu gostaria, antes de continuar, de registrar a presença do Senador Adelmir Santana. Obrigado, Senador, pela sua presença, que muito nos honra.
+A SRA. ALINE PAZ- Foi perguntado de que maneira a dependência de tecnologia afeta a capacidade das pessoas. A resposta a essa pergunta é bem simples. Basta nós compararmos o padrão de interações sociais nos dias atuais com o de 15 anos ou 20 anos atrás. Nós percebemos que as ruas eram muito mais cheias de crianças brincando, interagindo. Nesse contato social há uma troca, nessa troca há uma socialização, nessa socialização a criança aprende a lidar com negociações, com limites, com estratégias de negociação. Então, perdemos muito quando essa tecnologia, que veio para nutrir as relações humanas e como forma de otimizar o tempo e até mesmo aproximar distâncias, em alguns aspectos tem mais afastado pessoas próximas, como percebemos, do que aproximado. Basta olharmos para a realidade de uma mesa de um restaurante. Estão todos ali privados dessa interação social, todos voltados para os seus celulares, para os seus mundos. Então, é óbvio, são muitos os prejuízos que nós identificamos quando deixamos de ter esse contato contínuo social e nos restringimos a esse contato virtual.
 
-Antes de iniciar os debates — já são quase 11h30min —, eu consulto o Plenário sobre se há alguma objeção quanto à participação do Instituto Brasileiro de Defesa do Consumidor — IDEC, representado pelo Sr. Luã Fergus Oliveira da Cruz, especialista da equipe de telecomunicações e direitos digitais, nesta reunião.(Pausa.)
+Hoje, as crianças têm mais prazer, infelizmente, e até os adultos, na interação com o celular e o computador do que com o colega, o amiguinho, ou com quem possa interagir. Então, os prejuízos são muitos no engajamento nas atividades cotidianas, nas práticas de lazer. É importante que nós tenhamos a consciência de que o ser humano tem essa necessidade intrínseca de se relacionar, de se sentir pertencente. Isso só é possível por meio de interações presenciais, interações reais, não com interações virtuais.
 
-Não havendo objeção, concedo a palavra ao Sr. Luã Fergus, por 5 minutos, e o convido para que participe da Mesa conosco, por favor.
+Quanto à segunda pergunta, sobre quais as formas de identificar a dependência, nós percebemos, no início da explanação, que existem dois tipos de dependência: a dependência natural e a dependência patológica.
 
-Sr. Luã, o senhor dispões de 5 minutos, por gentileza.
+A dependência patológica é justamente quando há esse medo, essa ansiedade, essa angústia, esse sofrimento exacerbado quanto à impossibilidade de acesso a essas tecnologias, a esses dispositivos tecnológicos. É importante também observar três critérios, que são justamente a intensidade, o impacto e a recorrência com que esses sintomas acontecem. Vez ou outra, podemos ficar, sim, angustiados porque o celular descarregou, quando temos uma atividade, um trabalho importante. Mas, a partir do momento que essa angústia é constante, recorrente, trazendo um impacto significativo, com intensidade muito forte, nós já podemos pensar em uma dependência patológica dessas tecnologias.
 
-O SR. LUÃ FERGUS OLIVEIRA DA CRUZ- Bom dia a todos.
+Quanto ao tratamento voltado para a criança, em psicoterapia, a terapia infantil se dá através do brincar, do lúdico. Existem estratégias dentro da própria terapia cognitivo-comportamental para tratar e lidar com essas questões, com o objeto fóbico, a exemplo do tratamento que eu expus anteriormente, mas é sabido que, quanto mais se puder adiar esse contato da criança com o celular, com o computador, melhor é, porque ali existem muitos estímulos audiovisuais que superestimulam o cérebro da criança, geram inquietações, e, como bem disse aqui o Dr. Nabuco, há incidência, inclusive, de TDAH em casos como esse. A recomendação é que a criança não tenha contato algum até os 2 anos de idade e que, mesmo após essa idade, esse contato seja gradativo, não seja constante, permanente, para que possamos, então, preservar a saúde das nossas crianças.
 
-Eu queria agradecer o convite. Como o tempo é curto, eu vou ser breve e tentar dialogar com algumas das falas que foram feitas aqui.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Agradeço a contribuição da Sra. Aline Paz e passo a palavra ao Sr. Cristiano Nabuco.
 
-Meu nome é Luã Cruz. Eu sou especialista do Programa de Direitos Digitais do IDEC, um órgão que existe desde 1987 e luta pela defesa dos direitos dos consumidores em vários âmbitos. Eu faço parte da equipe de direitos digitais, mas o IDEC também possui uma equipe de saúde. Nós temos uma interface entre dados e saúde com uma série de ações, que inclusive já foram citadas pela Mesa, sobre o uso de dados no setor de saúde.
+O SR. CRISTIANO NABUCO- Muito obrigado, Deputado.
 
-Várias preocupações e riscos comentados aqui são discutidos bastante no IDEC: a falta de transparência, a assimetria informacional, o compartilhamento de dados sensíveis e a probabilidade de perfilização e seleção de risco. Um ponto trazido pelo Dr. Ricardo Blattes que me parece interessante são os preços da CMED, a câmara que regula os preços dos medicamentos. Esse é o ponto principal, pois dialoga não só com o direito à saúde, mas também com a proteção de dados pessoais.
+Ouvindo aqui a colega Aline falar, muitas vezes nós imaginamos que o uso das tecnologias será ruim a partir do momento em que atravessar uma determinada faixa, um determinado ponto, quando, na verdade, principalmente no caso das crianças...
 
-O que acontece? O IDEC realizou a pesquisaRemédio a Preço Justo, por meio da qual nós identificamos o teto dos preços, os preços praticados nas farmácias e os preços vendidos ao poder público. O que acontece? Nós temos preços artificiais. Como o teto é muito alto, as farmácias têm grande liberdade para poder colocar um preço muito alto e depois diminuir esse preço, ou seja, elas têm uma margem de negociação com o consumidor ou com o próprio poder público para a venda do produto. A farmácia coloca um preço muito elevado no produto e diminui o preço se o consumidor, obrigado, fornecer seus dados pessoais, como o CPF, e a biometria.
+Um pesquisador francês chamado Michel Desmurget fez uma avaliação exatamente para se debruçar sobre a questão da exposição precoce às tecnologias, Deputado. E o que ele descobriu? Que crianças francesas que gastavam uma média de 50 minutinhos — ele coloca no diminutivo — por dia no telefone celular dos pais, ao final de 2 anos, deixavam de escutar 850 mil palavras. O que isso quer dizer, então? Que simplesmente uma exibição passiva já compromete o que nós vamos chamar aí de desenvolvimento da linguagem.
 
-No caso da biometria, isso é bem problemático. Nós tivemos notícias, em 2021, de que a Droga Raia e a Drogasil estavam fazendo essa prática de coleta quase obrigatória da biometria de consumidores. Diante desse cenário, nós notificamos tanto a ABRAFARMA quanto a Droga Raia. Imediatamente, após pressão pública, divulgação na mídia e notificações extrajudiciais, a empresa decidiu suspender esse tipo de prática.
+Então, à medida que o tempo vai passando, nós vamos ver, como eu expliquei, que, na verdade, os efeitos são devastadores, não apenas do ponto de vista da saúde mental, mas, por exemplo, do ponto de vista das questões ligadas ao raciocínio. Nós sabemos que, quando estamos navegando numa tela, nós realizamos atividades mentais que são equivalentes a um jogo de forca e a um jogo dos sete erros, algo completamente distinto daquele tipo de atividade que eu faço quando eu leio um livro, quando eu de fato me debruço sobre um tema que envolve uma maior reflexão.
 
-Isso dialoga com vários fatores. Um deles é muito importante: a falta de capacidade dos atendentes. Nós recebemos diariamente no IDEC essa reclamação. Não existe nenhum respeito ao direito à informação do consumidor. Aqui nós temos falado da LGPD, que é recente, mas o direito à informação é um princípio garantido no Código de Defesa do Consumidor, que já existe há mais de 30 anos e continua sendo desrespeitado diariamente. Se alguém for a uma farmácia em Brasília, vai ver essa mesma prática, não houve mudança. Eu acho que é bem importante frisarmos isso.
+O resumo da história, Deputado, é que não é de hoje que se registra um decréscimo do QI mundial. Nós sabemos que o QI mundial aumenta 3 pontos percentuais a cada nova geração, e esse QI está retroagindo desde 1996, exatamente quando o primeirosmartphonefoi lançado, mostrando que, na verdade, a tecnologia está ocupando um espaço que deveria ser compatível e necessário para as relações humanas. E, na medida em que essas relações humanas não tomam assento, uma série de problemas começa a aparecer.
 
-Por fim, eu queria dialogar com a fala da ANPD. A ANPD começou esse estudo em setembro de 2021. Desde então, ela nunca conversou com a sociedade civil, nunca debateu esse tema com ela. Ela apenas dialogou com o setor privado. Isso é muito preocupante. Nós, por exemplo, temos um diálogo muito profícuo com a SENACON. Inclusive, no processo administrativo que foi aberto pela SENACON para investigar esse tipo de prática, o IDEC é o terceiro interessado. Ele tem contribuído com o caso.Enfim, o IDEC é uma instituição super-relevante. Ele tem produzido pesquisas e denúncias durante décadas.
+Nesse sentido, respondendo à pergunta do senhor sobre quais são os desafios para fazer com que haja uma compreensão maior sobre isso, eu creio que nós precisamos levar a população a saber que este é um grande problema, é um grave problema, na verdade, que, talvez, muito possivelmente, os profissionais de saúde também desconheçam.
 
-Parece-me também preocupante o fato de que o estudo da ANPD, que até hoje não foi publicado, identifica uma série de irregularidades, mas o processo sancionador não foi aberto até agora. Na última lista de processos sancionadores da ANPD não consta nenhuma farmácia; no máximo, consta uma empresa detelemarketingdo setor privado. Isso me parece preocupante. Aqui eu vou só frisar as irregularidades: compartilhamento de dados, dúvidas, falta de consentimento — tudo isso são irregularidades previstas na LGPD, identificadas pela própria ANPD e comentadas aqui pelo Dr. Jeferson — e tratamento de dados geométricos. Parece-me interessante saber quando o estudo vai ser publicado, a data correta.
+Então, há uma coisa que eu gostaria de propor, como uma ação futura. Quando o indivíduo vai a um posto de saúde básica e, por alguma razão, chega trazendo alguma queixa de automutilação, referindo-se à ideia de suicídio ou indicando a existência de algum envolvimento de violência física dos mais velhos com relação às crianças, existe algo chamado notificação compulsória. Os agentes de saúde são obrigados a relatar o fato, engrossando, então, as estatísticas de saúde, as estatísticas epidemiológicas, para que isso se note como uma nova tendência que existe.
 
-Vocês comentaram sobre um guia orientativo também. Parece-me interessante saber quando esse guia orientativo vai ser publicado e se algum processo administrativo vai ser aberto. Vocês vão participar do processo administrativo que está aberto na SENACON?
+A dependência tecnológica, na verdade, passa ao largo. Ninguém sabe o que é dependência tecnológica, não se notifica a Vigilância Epidemiológica, então não se tem uma dimensão clara do quanto isso está afetando as pessoas.
 
-Parece-me que está na hora de a ANPD começar a fazer alguma coisa, porque vocês já identificaram esses casos, e estar um pouco mais aberta à presença da sociedade civil nos processos tanto de estudos quanto de investigação. Nós temos muito a contribuir com esse tema.
+Nós precisamos, na verdade, criar uma nova cultura, novamente colocar esse assunto sobre a mesa para a sociedade como um todo, não apenas para nós das universidades, porque nós falamos, muitas vezes, para os muros universitários. Muito pouca gente consegue ter acesso. Então, esse é um dos grandes desafios.
 
-Muito obrigado.
+Respondendo à segunda pergunta do senhor, na verdade, a novela aTravessia, na qual eu tive a honra de poder auxiliar, cumpriu um papel extremamente importante, porque ela fez com que a população começasse a ter uma noção vaga de qual é o tamanho do problema que está acontecendo. As minhas redes sociais, Deputado, depois da novela explodiram. Muita gente disse:"Ah, Cristiano, agora você deve estar atendendo muito mais". Eu falei:"Não, eu sempre atendi; só que agora, felizmente, eu consigo orientar essas pessoas para que procurem os serviços públicos".
 
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Eu agradeço a participação do Sr. Luã.
+Está havendo uma epidemia. Ninguém tem noção. Eu peço desculpas aqui por trazer um relato e um compartilhamento tão grave. Vocês não têm noção do que é receber um menino de 15 anos que fica conectado 55 horas."Como assim, doutor?"Cinquenta e cinco horas! Ele não sai para se alimentar, ele urina na calça e ele evacua na calça exatamente para não parar de jogar.
 
-Antes dos debates com os Deputados participantes, eu gostaria, como Presidente e autor do requerimento desta audiência pública, de fazer algumas considerações a respeito do que gerou isso. Algumas considerações feitas aqui certamente gerarão um desenvolvimento dessa história, desses atos, dessas efetividades no dia a dia do povo. Essa é uma obrigação nossa dentro desse contexto.
+As pesquisas vão mostrar — vou encerrar aqui a minha resposta — que os caminhos, os circuitos neuronais, a circuitaria do nosso cérebro que é ativada quando o indivíduo usa a tecnologia é muito parecida com aquela que ele usa quando consome álcool ou drogas. Estamos falando, então, daquilo que os grupos chineses — e existem mais de 150 hospitais — chamam de heroína digital.
 
-Eu dei entrada em um projeto de lei, o Projeto de Lei nº 2.894, de 2022, em razão exatamente dessa situação. Quando vamos a farmácias e drogarias, todos os atendentes a primeira coisa que querem saber são os nossos dados pessoais. A exemplo do Dr. Arthur Rollo, eu me sinto muito incomodado com isso.E prefiro, na maioria das vezes, pagar mais caro a dar os meus dados, Deputado Celso Russomanno.
-
-Pelo que nós ouvimos aqui na exposição, muito boa e muito bem feita exposição do Sr. Sergio, da ABRAFARMA, parece que — sem fazer crítica, só uma análise — o sistema da ABRAFARMA, certamente a exemplo de outros também, é um sistema muito perfeito na visão deles. Mas a realidade que nós vemos no dia a dia é totalmente diferente. Na visão deles, o povo é muito bem atendido, os remédios são baratos, as grandes empresas e as grandes drogarias não têm lucro de nada. É como se eles trabalhassem de graça e estivessem fazendo um grande favor ao povo, que é atendido dessa forma e está correndo riscos.
-
-Quem tem noção disso — e normalmente eu falo isso aqui — é o Dr. Arthur Rollo, que é uma grande testemunha disso, além do nosso Prof. Celso Russomanno. Eu fui Presidente do PROCON, no Rio de Janeiro. Na época, o Dr. Arthur Rollo era o Secretário da SENACON, com quem eu me relacionei, e nós discutíamos esse tema no dia a dia. Esse é o tipo de coisa que me incomoda muito, até porque a grande base, como já foi colocado aqui, se não me engano, pelo Dr. Ricardo Blattes — eu não me recordo se foi ele, mas creio que sim —, de todo esse sistema de direito e defesa do consumidor são as informações claras, nítidas, para que as pessoas possam tomar decisões. Na verdade, não mandamos nos dados de ninguém. Os dados são pessoais. A pessoa manda nos dados dela. Se quiser, ela que dê seus dados à vontade. Independentemente de ter ou não desconto, ela é livre.
-
-Acho que nós temos condições de mudar isso. E, possivelmente, eu vou lutar para aprovar o PL que acabei de citar aqui: o PL 2.894/22, que condiciona possibilidades de descontos ao fornecimento prévio dos dados. Se a pessoa vai pagar uma prestação, mas não vai pagá-la à vista e precisa, naturalmente, fornecer os seus dados, isso é compreensível, é a coisa mais natural do mundo. No entanto, a pessoa, se pagar à vista, não vai ficar devendo nada. Então, fica um condicionamento como se estivessem comprando os dados da pessoa, ainda que isso gere facilidades, ainda que isso gere possibilidades de desconto. Mas é um negócio, como foi colocado aqui pelo Dr. Rollo e por mim, que de fato incomoda. E essa falta de clareza das informações, que também foi colocada aqui, se não me falha a memória — se estiver errado, corrijam-me —, pelo Dr. Blattes ou pelo Dr. Jeferson, esses controles de preços, essa falta de clareza nos preços também incomoda, senhores, principalmente em se tratando de remédios, porque os que mais os usam são os idosos, que, na sua grande maioria, são pessoas endividadas. Inclusive, esse é um dos pontos, Dr. Ricardo Blattes, que nós estamos aqui para debater também.
-
-Hoje, há pessoas com grandes endividamentos, principalmente os idosos. E foram feitas leis aqui para isso. Mas, depois de 1 ano e meio, mais ou menos, da aprovação dessas leis, nós queremos na Comissão fazer um levantamento sobre os resultados, fazer uma análise real. Tivemos resultados, adiantou alguma coisa ou os nossos idosos continuam sofrendo da mesma forma ou mais do que estavam antes? Realmente funcionou?
-
-Eu não vou ficar aqui falando por 2 horas, até porque a ideia não é essa. Já estou muito satisfeito com as informações que recebemos aqui dos nossos técnicos, a quem, desde já, agradeço. É muito importante nós trazermos isso a lume.
-
-O sistema certamente não está perfeito. O que nós vemos na ponta é muito diferente. Estamos usando, como exemplo aqui, as farmácias, as drogarias, mas, como já foi colocado, acontece também nos supermercados, nas redes de loja, nosshoppings, etc. Somos atendidos, normalmente, por pessoas que não conhecem nada ou pouco conhecem da situação. E a efetividade é muito aquém do que nós, de fato, precisamos.
-
-Possivelmente, a ABRAFARMA, como exemplo do que nos foi apresentado, tem um sistema de funcionamento bastante desenvolvido, mas, quando chega à ponta, não é exatamente isso que acontece. Eu acho que, por isso, nós estamos aqui.
-
-Eu gostaria de deixar este registro e de pedir aos meus pares, em função do nosso tempo, que se atenham, por favor, aos 3 minutos a que nós temos direito para podermos debater, e depois os nossos participantes poderão responder, se assim o desejarem.
-
-O primeiro inscrito é o Deputado Celso Russomanno.
-
-Nobre Deputado Celso Russomanno, V.Exa. tem a palavra. Eu sei que V.Exa. toma conta disso aqui, mas, por favor, nos ajude nesse contexto com aquelas perguntas mais importantes, que, de fato, vão ajudar a nossa população e a cada um de nós.
+Eu peço licença. Eu gostaria muito de poder novamente saudar o Deputado por todo o seu esforço e convocar a todos, porque é hora de nós fazermos alguma coisa, antes que seja tarde demais.
 
 Muito obrigado.
 
-V.Exa. tem a palavra.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Quero agradecer às respostas dadas pelo Sr. Cristiano Nabuco.
 
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Obrigado, Presidente.
+O Projeto de Lei nº 2.498, de 2015, de minha autoria, já passou pela Comissão de Ciência e Tecnologia e hoje está na Comissão de Saúde, mas, pela força dasbig techs, ainda não há Relator designado para tratar do tema. Esse é um projeto importante, de 2015, já está há quase 8 anos tramitando na Câmara dos Deputados, mas infelizmente ainda não teve andamento, por tratar de um tema que tem forte presença aqui na Câmara dos Deputados.
 
-Bom dia a todos, aos nossos expositores!
+Quero falar para o Sr. Cristiano Nabuco que vou fazer uma reunião com a minha Assessoria hoje, porque é importante criarmos um grupo de trabalho para ampliar esta discussão. Pela sua fala, o Deputado Paulo fará parte também desse grupo de trabalho, que pode ser votado aqui na Comissão de Cultura, para debater e aprofundar o tema da dependência tecnológica, até criando aqui — vou convidar o Deputado Paulo — uma frente parlamentar para debater o assunto no Congresso Nacional.
 
-É um prazer muito grande estar nesta audiência pública de extrema importância.
+Passo a palavra, para suas considerações finais, à Sra. Aline Paz.
 
-A primeira coisa que eu gostaria de colocar, Presidente, é o seguinte. Nós temos que chamar aqui a Câmara de Regulação do Mercado de Medicamentos, que é um órgão interministerial. Eles têm que explicar para nós o que, na prática, não acontece. Por quê? Eles fazem uma lista que distribuem nas farmácias do preço máximo de medicamentos que pode ser operado. Só que eu queria lembrar que, na época da COVID, no meio da pandemia, andei fiscalizando farmácias, inclusive fazendo reportagens para o meu programa de televisão, e descobri, Presidente, uma diferença entre a nota de entrega do produto pelo laboratório ou pela distribuidora na farmácia e a venda de 1.000% — 1.000%. Está no Youtube para quem quiser ver. Há discussão sobre isso.
+A SRA. ALINE PAZ- Sr. Presidente, quero ressaltar, enaltecer esta iniciativa mais uma vez, parabenizando-o por ela.
 
-Dr. Ricardo Blattes, nós temos que desenvolver um trabalho, através do DPDC, de ir às farmácias e requisitar, porque é função do Sistema Nacional de Defesa do Consumidor, através dos órgãos fiscalizadores, as notas de entrada e notas de saída.
+Este é um debate urgente, que precisa ser realizado para alcançar todas as camadas da sociedade, desde a infância e a juventude. A nossa infância e a nossa juventude estão adoecendo a passos largos. Por isso, é muito salutar que debates em espaços como este sejam abertos para a conscientização. Espero que este debate se concretize por meio de ações públicas e iniciativas concretas para tentar minimizar os efeitos que têm recaído sobre toda a população de forma geral.
 
-Eu ouvi, com bastante atenção, a fala do Sr. Sergio Mena Barreto, que está nos acompanhando agora. Mas há uma discussão que nós temos que colocar na mesa também. As pequenas farmácias, de fato, compram dos distribuidores, mas as grandes, não, compram diretamente dos laboratórios. Eu não vou ficar aqui discutindo nomes de redes. Depois a Comissão vai apurar isso. Mas nós temos redes que vendem só pela Internet ou uma rede que vende só pela Internet que divulga em publicidade que tem o preço mais barato, porque negocia bem com os laboratórios. As outras também negociam. A diferença entre uma e outra é que essa tem poucas farmácias e está vendendo mais pela Internet e as outras têm mais farmácias e vendem mais no balcão.
+Quero agradecer mais uma vez o convite e a confiança ao Deputado Aureo Ribeiro e toda a sua equipe. Agradeço também a presença de todos e me coloco à disposição desta Casa.
 
-Mas o preço do medicamento, a nota de entrada do laboratório nas distribuidoras das próprias redes e saída para as farmácias é uma discussão nossa, porque a lei é muito clara em relação ao enriquecimento ilícito. E o que nós temos aí — e para isso existe imunidade parlamentar, para se falar o que, de fato, é — é enriquecimento ilícito, sim, porque não dá para entendermos 1.000% de lucro em cima de um medicamento. Eu não estou generalizando, dizendo que isso existe em todos os medicamentos, mas existe em uma grande quantidade.
+Muito obrigada.
 
-E dizer que esses dados não são usados é uma grande afirmação falsa e enganosa, porque não são usados talvez pelos planos de saúde, mas são usados pelos laboratórios. Quando nós fiscalizamos algumas distribuidoras — e aprendemos na época da pandemia, porque máscaras, equipamentos, luvas e uma série de coisas subiram de preço absurdamente —, nós vimos, nos sistemas dessas distribuidoras, compartilhamento de informação das farmácias com os laboratórios.E vou mais além. De acordo com o funcionário de uma distribuidora que eu interroguei, esses dados são usados inclusive para pesquisa de campo, pesquisa científica de campo dos laboratórios. Nós estamos lidando, Dr. Jeferson, com os dados das pessoas sem mesmo elas saberem do que se trata. E essa continuidade e descontinuidade de medicamentos também interessa aos laboratórios. Então, é uma falácia dizer que não existe compartilhamento de dados. Há duas afirmações falsas e enganosas: com relação ao preço e com relação ao compartilhamento de dados.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Passo a palavra, para suas considerações finais, ao Sr. Cristiano Nabuco.
 
-Infelizmente, a grande verdade é que, se você pegar o registro de um médico e vir ele se apresentar a uma farmácia como médico, ele tem descontos de até 80%. Quem pode praticar isso? Quem consegue, Deputado Márcio Marinho, praticar 80% de desconto? Vende abaixo do preço de custo? Faz concorrência desleal? Incide num crime contra a concorrência? Nós não estamos falando aqui nesta audiência pública de dados que não estão sendo claros e transparentes. Essa é a grande discussão.
+O SR. CRISTIANO NABUCO- Deputado, eu gostaria de agradecer a iniciativa — agradecer, agradecer e agradecer.
 
-As farmácias fecham porque as grandes quebram as pequenas. É claro isso. É só procurarmos os farmacêuticos que hoje são funcionários das farmácias. Isso, por sinal, tem uma mão nossa, uma mão desta Comissão. Trabalhamos bastante aqui para que todas as farmácias tivessem farmacêuticos, acabando com a "empurroterapia", que era o que os laboratórios praticavam em cima dos atendentes de balcão, pagando prêmios, inclusive em dinheiro, para que eles empurrassem os remédios. Com os farmacêuticos, isso ficou um pouco mais difícil. Mas as redes aqui fizeram tudo que podiam para não conseguirmos obrigar que os farmacêuticos estivessem nas farmácias. Se não fosse o Dirceu, que na época era Presidente da ANVISA, e o trabalho desta Comissão, isso não teria acontecido, Presidente.
+Nós da saúde pública e da saúde mental temos urgência veemente em que ações efetivas sejam tomadas e os efeitos deste caso sejam minimamente mitigados.
 
-Como procede esse desconto tão grande para os médicos, que é muito maior do que o que recebem os consumidores através dos planos de saúde e da própria Ordem dos Advogados do Brasil? Não é verdade que é a Ordem que procura. As redes procuram os planos de saúde. Eles têm interesse no cadastro, eles têm interesse na quantidade de consumidores que essas associações têm, que os conselhos de classe têm. É a quantidade de pessoas que interessa a eles.
+Saúdo o senhor e os demais integrantes da Casa e me coloco à disposição também.
 
-Com relação ao Ozempic, que foi aqui colocado, não há Ozempic na praça porque estão usando-o para emagrecer — não é porque o laboratório não entrega, o que é outra afirmação falsa e enganosa. Os médicos estão receitando Ozempic para quem quer emagrecer, porque se descobriu que no medicamento há essa possibilidade. Então, as pessoas injetam o medicamento na barriga e emagrecem mesmo. Não é mentira que emagrece. Mas é por isso que está faltando Ozempic — não é por outro motivo.
+O SR. PRESIDENTE(Aureo Ribeiro. Bloco/SOLIDARIEDADE - RJ) - Agradeço a presença do Sr. Cristiano Nabuco, já deixando aqui o convite, conforme sugestão, para o grupo de trabalho, ao Sr. Cristiano Nabuco e à Sra. Aline Paz, para que possamos, através da Comissão de Cultura da Câmara dos Deputados, nos aprofundar no debate.
 
-Eu queria lembrar que o PBM é um programa de gerenciamento de medicamentos que beneficia os laboratórios. Isso não foi feito para o bem do consumidor, não. Isso é uma desculpa. A intenção é que o laboratório tenha a informação. Isso existe não é só no Brasil, mas também no mundo todo. Isso é uma verdade.
+Agradeço a todos os que participaram pelaTV Câmarae pelos nossos meios de transmissão, a todos os que estão conectados nesta audiência pública. Quero agradecer a todos pela valiosa contribuição e discussão do tema. Agradeço ainda a presença dos colegas Parlamentares e dos demais participantes.
 
-Eu não quero me estender muito. Eu podia falar muito mais. No debate eu vou colocar algumas coisas a mais.
+Nada mais havendo a tratar, convoco os senhores membros desta Comissão para reunião deliberativa a realizar-se no dia 28 de junho, terça-feira, às 13h30min.
 
-É importante dizer, Presidente, que esta audiência pública é o fio da meada para que consigamos ir atrás do que está acontecendo. Esta Comissão pode trabalhar muito junto agora com o Departamento de Proteção e Defesa do Consumidor — DPDC no sentido de começarmos a requisitar as notas fiscais. Vamos ver se de fato o que está sendo colocado é verdadeiro ou é falso, a que preço os medicamentos são entregues pelos laboratórios e se a nota fiscal vai e volta, Presidente. Existe mais este problema: a nota fiscal vai e volta para o laboratório, a mesma nota. Então, vamos fiscalizar os laboratórios, porque a nota está saindo e voltando. Eu tenho denúncias de ex-funcionários de redes em relação a isto: a nota vai e volta para o laboratório. É entregue com a mesma nota duplicidade de medicamento.
-
-Não estou generalizando, de forma nenhuma. Não são todos que fazem isso, mas fazem. O preço do medicamento chega na ponta muito caro. Um dos medicamentos mais caros do mundo é o medicamento brasileiro. Não temos ainda explicação para isso, mas esta Comissão vai apurar.
-
-Obrigado, Presidente.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Muito obrigado, nobre Deputado Celso Russomanno. Estamos falando de saúde e, não, de uma coisa simples e corriqueira.
-
-Eu vou pedir que faça as suas considerações o Deputado Márcio Marinho. Depois, falará a Deputada Antônia Lúcia. A seguir, os nossos expositores que desejarem, podem falar, para economizarmos tempo.
-
-Deputado Márcio Marinho, V.Exa. tem a palavra.
-
-O SR. MÁRCIO MARINHO(Bloco/REPUBLICANOS - BA) - Sr. Presidente Jorge Braz, quero aqui saudar o Ricardo Blattes, o Dr. Jeferson Dias, o Arthur Rollo, o Luã, meus colegas Parlamentares aqui presentes, os Deputados Celso Russomanno, Eduardo da Fonte, o Dudu, e Marx Beltrão.
-
-Eu estava ouvindo atentamente a exposição do Sr. Sergio e só queria fazer uma pergunta a ele. Na fala dele, ele mencionou que as farmácias recepcionam as informações das empresas de plano de saúde, e essas pessoas que são encaminhadas têm desconto no remédio. A preocupação é justamente esta: será que o consumidor ou o cliente deu a autorização para que os seus dados fossem usados? Qual é o tipo de garantia que as farmácias têm de que o consumidor ou o cliente ou o empregado deu autorização à sua empresa para que o seu dado fosse encaminhado para as redes de farmácia? Essa é uma preocupação. Se encaminhou sem a autorização do cliente, está aí justamente um crime cometido.
-
-Sendo empregado de uma empresa, na hora em que fui contratado, os meus dados foram para a empresa.Se, depois, os meus dados forem encaminhados para qualquer tipo de plataforma ou de empresa sem a minha autorização, tanto a empresa comete um erro, uma falha, um crime, quanto aqueles que lá na ponta recepcionam os meus dados.
-
-Então, eu queria fazer esta pergunta ao Sergio: qual é o tipo de garantia que as farmácias têm de que o cliente tenha autorizado o uso de seus dados por vocês? Seria essa a pergunta, já que o Deputado Celso Russomanno fez aqui uma série de questionamentos. E eu já me sinto contemplado. Mas gostaria de ter a resposta sobre qual é a garantia, em se tratando das farmácias, de que o consumidor tenha autorizado o uso de seus dados.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Muito obrigado, Deputado Márcio Marinho.
-
-Tem a palavra a Deputada Antônia Lúcia.
-
-A SRA. ANTÔNIA LÚCIA(Bloco/REPUBLICANOS - AC) - Bom dia a todos. Quero parabenizar o Presidente desta Comissão de Defesa do Consumidor por apresentar o requerimento nesta Casa solicitando a discussão de pauta tão relevante para a nossa Nação.
-
-Eu achei extraordinárias até o momento as exposições, até mesmo a que foi feita por videoconferência. Ouvi atentamente o posicionamento de cada um dos colegas e também a preocupação do Deputado Celso, que é muito devida. Essa questão ocorre no Brasil inteiro. Há plataformas de farmácias solicitando o nosso CPF, Deputado Márcio, alegando descontos nas próximas compras, etc. Até onde, Presidente Jorge Braz, essa situação nos traz segurança em relação ao fornecimento dos nossos dados? O objetivo é esse?
-
-A investigação, como foi colocada aqui, a respeito da palavra do ex-funcionário, que fez esse relato a V.Exa., é muito grave, é de muita importância e requer de fato um acompanhamento pelos órgãos competentes. E, até mesmo, nós poderíamos promover aqui mais uma audiência pública para discutir tudo isso e trazer essa pauta ao País para que não reste nenhuma dúvida.
-
-Mas, Presidente, Deputado Celso, doutores, Dr. Arthur Rollo, que aqui foi citado várias vezes pelo Presidente Jorge Braz, nós moramos na Região Norte. V.Exas. foram agraciados também porque moram nas Regiões Sul e Centro-Oeste do País. Ocorre que lá na nossa querida Amazônia existem muitas dificuldades.
-
-Existem aqueles povos originários, os povos indígenas, aquelas pessoas extremamente carentes, pessoas — Dr. Celso, Deputado Jorge — que ficam horas nas filas, chegam às 4, 5 horas da manhã, para conseguir gratuitamente os medicamentos que são oferecidos. Isso parte nossos corações.
-
-Eu gostaria de salientar, Deputado Jorge, V.Exa. que é Presidente e autor desta nossa reunião extraordinária de audiência pública sobre tema tão importante, que a questão deste ano de 2023 está relacionada à COVID. Vejam o número de pessoas que precisa ter acesso a esses medicamentos. E eu vou falar sobre isso porque eu conheço bem essa causa. Existem placas — eu não sei os meios que são usados, mas elas existem, inclusive eu tenho fotografias delas porque muito me chamam a atenção — nas farmácias, placas grandes, tipooutdoors, com os seguintes dizeres:Distribuímos medicamentos para pressão.
-
-Eu gostaria que esta audiência trouxesse à tona como se dá o fornecimento desses medicamentos. Não existe foco nisso, mas, para a minha pessoa, que mora naquela regional da Amazônia, Senador, é extremamente importante essa informação. Existem filas de pessoas carentes, pessoas extremamente doentes, pobres que dão graças a Deus de aqueles medicamentos de fato existirem. Então, eu gostaria de saber quais são os critérios estabelecidos e como se dá essa organização, Deputado, para haja essa distribuição nos Estados ou nas regiões, quais são as normas de distribuição, os critérios usados para que isso ocorra.
-
-No mais, eu quero parabenizar o Presidente da Comissão Jorge Braz, parabenizar todos que fazem parte desta douta Mesa, os meus colegas Deputados Federais e todas as autoridades, convidados e imprensa que se fazem presentes nesta manhã, porque a pauta extraordinária desta audiência pública, proposta pelo nosso Presidente Jorge Braz, é de extrema importância para a nossa Nação. Parabéns!
-
-Muito obrigada pela oportunidade concedida.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Eu é que agradeço, Deputada Antônia Lúcia.
-
-Algum Deputado gostaria de fazer mais algum registro?
-
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Presidente, só vou responder à Deputada. Esses medicamentos são comprados pelo Ministério da Saúde e agora esta semana veio uma denúncia de que em São Paulo está sobrando medicamento, está vencendo medicamento e não tem critério nenhum de distribuição. Esse é um assunto que tem que ser discutido aqui, mas está fora de pauta.
-
-A SRA. ANTÔNIA LÚCIA(Bloco/REPUBLICANOS - AC) - Permita-me, Deputado, um aparte. Isso é importante porque lá na nossa região falta medicamento. Então, quais são os critérios? Essa é a pergunta que deixo aqui para ser respondida.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Muito bem. Dos nossos expositores, alguém gostaria de se manifestar?(Pausa.)
-
-Antes de o Dr. Rollo falar, só para darmos uma direção aos trabalhos e não ficarmos voltando novamente, eu gostaria de pedir aos senhores que, ao participarem do debate, se possível, já fizessem suas considerações finais para encerrarmos, até porque, logo em seguida, vamos entrar na sessão da CDC. Portanto, peço que cumpram os horários. Depois vêm outras sessões após as nossas, já que o nosso plenário aqui é disputado.
-
-Tem a palavra o Sr. Arthur Rollo.
-
-O SR. ARTHUR ROLLO- Deputado Jorge, juntando a fala da Deputada Antônia com a sua fala e com a da ABRAFARMA, a ABRAFARMA disse aqui que, efetivamente — eu sou advogado e tenho OAB —, esses descontos são concedidos para quem é advogado, para quem tem cartão de crédito, para quem tem plano de saúde. Eu diria que isso acentua a hipervulnerabilidade dos consumidores.
-
-V.Exa. acabou de falar dos consumidores superendividados. A Deputada Antônia acabou de falar dos consumidores mais carentes. Então, o que se percebe é que esse tratamento de dados que é concedido, a pretexto de dar desconto, acaba acentuando a hipervulnerabilidade dos consumidores. Aquele consumidor que não tem OAB, aquele consumidor que não tem plano de saúde, a ele só resta o CPF.
-
-Eu passei por uma situação curiosa, Deputado Jorge. Eu fui a uma farmácia e o atendente falou:"Vou ver se tem desconto no seu CPF para comprar esse medicamento". Ele digitou o meu CPF e disse:"O senhor é advogado? Vamos ver se tem desconto pela OAB. Não, não tem. O senhor tem desconto pelo plano de saúde?"Ele foi vendo e disse que eu não tinha desconto algum depois de passar por todos esses critérios. Isso, a meu ver, configura subsídio cruzado porque, se alguém paga mais barato, alguém paga mais caro. Isso acentua a hipervulnerabilidade dos consumidores. Para mim, isso é uma reiteração, uma ratificação das práticas abusivas.
-
-E já concluindo, Presidente, quero agradecer a oportunidade de estar aqui em nome do INADEC — Instituto Nacional de Defesa do Consumidor. Coloco o INADEC à disposição para outras audiências porque esse tipo de discussão — a Comissão aqui está cheia, tem um monte de gente nos assistindo em casa — mostra a importância do tema. Este debate vale para uma série de outras áreas, inclusive para supermercados, comércios, etc.
-
-Obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Certamente, Dr. Rollo. Eu é que agradeço a sua participação e a sua predisposição com respeito à CDC. Pode ter certeza de que iremos usá-lo.
-
-Tem a palavra o Dr. Jeferson Dias Barbosa, da ANPD.
-
-O SR. JEFERSON DIAS BARBOSA- Muito obrigado, Deputado.
-
-Foi muito interessante ver que todas as exposições colocadas e as avaliações realizadas aqui vão ao encontro do trabalho que a ANPD tem desenvolvido.
-
-Fomos provocados a responder sobre a questão de prazos e sobre como o trabalho está sendo desenvolvido. A ANPD desenvolveu esse trabalho por muitos meses. Foram realizadas audiências, entrevistas e um trabalho com diversas associações — a ABRAFARMA, que está aqui representada, e também a FEBRAFAR, a ABRAFAD, a ABCFARMA e muitas outras instituições — para chegarmos às conclusões a que chegamos. Questões primordiais foram levantadas, como a questão do consentimento, que tem que ser necessária e inequivocadamente informado. Esse foi um problema levantado. Não se trata de um processo de fiscalização, mas de um estudo exploratório em pesquisa de mercado e uma análise para verificar quais são os problemas que esse setor tem envolvendo denúncias e provocações que a ANPD recebeu. Com certeza, esse estudo será publicado através de uma nota técnica. Isso é deliberado pelo Conselho Diretor da ANPD, que é composto por cinco diretores, incluindo o seu Diretor-Presidente, e mais as questões que foram colocadas aqui também dos novos encaminhamentos.
-
-Quanto à questão da regulação responsiva, a ANPD ganhou Selo Ouro no ano passado por ouvir a sociedade, por ouvir o setor. A ANPD não veio para atrapalhar a economia brasileira, mas para trazer parâmetros e as necessárias proteções aos direitos individuais — hoje um direito constitucional — à proteção de dados pessoais. Ela traz parâmetros que devem ser observados por toda a sociedade, por todos os modelos econômicos, não só o setor farmacêutico. Trata-se de um trabalho de avaliação realmente complexo. Chegamos à conclusão desse estudo, e agora serão desenvolvidas novas ações.
-
-O processo sancionador decorre de uma ação de fiscalização em caso concreto. Verificados os indícios de irregularidade, o processo sancionador é instaurado, respeitado todo direito administrativo de ampla defesa. E é isso o que a ANPD tem feito. Nós temos feito audiências públicas, consultas públicas, entrevistas com especialistas, no sentido de buscar ouvir toda a sociedade. E esse trabalho a ANPD tem feito em todas as regulações até o momento. Inclusive, várias instituições têm colaborado muito com o trabalho da ANPD nessas regulamentações que são feitas.
-
-Já finalizando, eu gostaria muito de agradecer por esse trabalho e por poder representar aqui a Autoridade Nacional de Proteção de Dados, uma instituição nova, de apenas 2 anos e pouco, que tem se estruturado. Hoje há um PL que visa a fazer uma mudança e um aumento na sua estrutura, há também a questão de se fazerem concursos para nossa autoridade a serem aprovados pelo Ministério da Justiça.
-
-Então, a ANPD é uma autoridade nova que tem feito o que pode e tem um bom trabalho, reconhecido nacional e internacionalmente, na área de proteção de dados. Sabemos o muito que tem que ser feito e o muito que queremos fazer.
-
-Muito obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Eu é que agradeço ao Dr. Jeferson, da ANPD, pelo carinho dessa instituição.
-
-Eu estive há pouco tempo com o Dr. Waldemar, o Presidente da ANPD.Ele nos procurou, nem fomos nós que o procuramos, em função dos nossos projetos. Tivemos uma audiência também com a Dra. Miriam, se não me falha a memória, e outra advogada, de quem não me lembro o nome. Era uma moreninha de lá também. Então, nós estamos nessa parceria, que é de suma importância. E o consumidor certamente agradece.
-
-Tem a palavra o Dr. Ricardo Blattes.
-
-O SR. RICARDO LOVATTO BLATTES- Obrigado, Presidente.
-
-Inicialmente, saúdo as Sras. e os Srs. Parlamentares por levarem essa discussão um pouco além e fazerem com que saiamos daqui com alguns encaminhamentos.
-
-Eu anotei algumas coisas ditas por V.Exa., mas acho que, em primeiro lugar, devo destacar que ninguém aqui duvida da importância dos dados, seja para o desenho da economia, seja para o desenho da política pública. E, nesse caso, eu acho que é importante dizer de que forma os dados são tratados pelo Ministério da Justiça e pela SENACON.
-
-Hoje há dois sistemas informatizados para monitorar dados de direito do consumidor. Um é o chamado ProConsumidor, um sistema que os PROCONs do Brasil utilizam para alimentar aquelas reclamações. Então, há uma forma parametrizada. Outro é a plataformaconsumidor.gov.br, que, na verdade, é uma plataforma de autocomposição. Mas não são todos os dados que lá são inseridos. Nós também temos uma base de dados do Judiciário, em que muitas vezes o cidadão nem se considera consumidor. E aí vejam a importância disto: será que um consumidor que eventualmente tenha um problema com plano de saúde vai ao PROCON, vai aoconsumidor.gov.brou vai direto para o Judiciário? E nós não podemos abrir mão desse dado para fazer o desenho da política pública. Então, a importância dos dados é inequívoca. Não há o que se dizer da importância dos dados e, como disse aqui o Arthur Rollo, seja ouro, seja petróleo, nós temos absoluta noção disso.
-
-Mas qual é o papel da SENACON? Orientar o sistema, que é fragmentado. A realidade de PROCONs grandes — como de São Paulo e Minas Gerais — e de PROCONs estaduais é completamente distinta da realidade dos diversos Municípios que existem no Brasil. E qual é a realidade desses PROCONs? Neles há uma mesa de atendimento, com pessoas recebendo o atendimento, e muitas vezes esse atendimento é de pessoas tão vulneráveis quanto os consumidores. Como disse aqui o Deputado Celso Russomanno, às vezes até sem computador. Então, qual é o papel da SENACON? Orientar o sistema. Não basta simplesmente ficarmos com um sistema nacional de defesa do consumidor que recebe apenas denúncias, recebe reclamações e não tem a capacidade de fazer a fiscalização. A orientação do sistema é para fazer a fiscalização. Qual é o papel da SENACON? Orientar esse sistema. E o que faz o PROCON? Está sem condições.
-
-Então, temos que fazer um amplo debate sobre a estruturação dos PROCONs, especialmente para fiscalizar. Eu coloco aqui alguns temas prioritários que dialogam com a questão dos medicamentos. O plano de saúde é um exemplo. A indexação do preço de plano de saúde está diretamente relacionada ao preço de medicamentos, ao preço de órteses e próteses. E isso tudo tem a sua especificidade que não podemos deixar de lado.
-
-Falaram aqui do superendividamento. Quando estamos falando de consignado, há o consignado do INSS — para aposentados e pensionistas —, mas também há o consignado para servidores públicos.E há diferentes regras do Brasil para civis e militares, para Poder Executivo, Legislativo e Judiciário, nas três esferas.  Há Municípios do Brasil que estão liberando uma margem de até 55%. E aí o que acontece? Mais uma vez, falta de informação, a possibilidade de o cidadão não saber o que está sendo contratado ou recontratado. Nós estamos falando de informação.
-
-Eu estou com encaminhamentos aqui para nós levarmos para a SENACON, a partir da abordagem da Mesa e dos Srs. e Sras. Deputadas. Primeiro, a necessidade de que na SENACON seja aberto um processo de averiguação preliminar por meio do qual seja analisada a questão das notas de entradas, das notas de saída, do compartilhamento de dados e do desabastecimento, que muitas vezes é verdadeiro e muitas vezes é fabricado. Eu não estou fazendo nenhuma acusação aqui, mas há indícios fortes de que a crise de desabastecimento de determinados medicamentos muitas vezes não é uma crise de fato.
-
-A partir daí devemos tratar o que é uma nota técnica. Nós temos que elaborar uma nova nota técnica a respeito dos medicamentos, mas uma nota técnica não para que sirva só para a posição do Ministério da Justiça e da SENACON, mas que seja realmente orientativa para o sistema, para fazer as fiscalizações necessárias.
-
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Só faço um aparte rapidinho para dizer que eu acho que o que o DPDC precisaria fazer através da SENACON. Em vez de só uma nota técnica para orientação, ele deveria baixar uma portaria. Isso seria muito mais eficaz — o Arthur sabe muito bem disso — para que o sistema conduzisse o processo, porque a nota técnica fica muito aberta. A partir de uma portaria nós vamos ter efetividade, e o sistema vai agir.
-
-Obrigado, Dr. Ricardo.
-
-O SR. RICARDO LOVATTO BLATTES- Perfeito. Obrigado, Deputado.
-
-Por fim, reafirmo a importância de também esta Comissão ter atenção especial com o papel da Câmara de Regulação do Mercado de Medicamentos — CMED. A CMED é um órgão regulador. Ela tem a participação da Casa Civil, do Ministério da Fazenda, do Ministério da Saúde, do Ministério do Desenvolvimento, Indústria e Comércio e do Ministério da Justiça. É uma câmara bastante restrita, mas que trata de um assunto que impacta todo o sistema de saúde.
-
-Quero aqui agradecer, Presidente, e me colocar sempre à disposição, colocar a SENACON à disposição desta Comissão para tratar deste tema e de todos os outros. Estou levando esses encaminhamentos, mas nada obsta recebermos outros encaminhamentos.
-
-Muito obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Com a palavra o Deputado Celso Russomanno.
-
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Só quero dizer o seguinte. Quando eu disse que nós temos que ouvir aqui a CMED — por isso eu chamei a atenção do DPDC — é porque nós temos que apurar se as informações que a CMED está recebendo são realidade, são verdadeiras ou são falsas. Não é possível a quantidade de descontos que nós temos. Na época em que estávamos fiscalizando as farmácias, quando encontramos 1.000% de desconto, vimos o preço máximo do medicamento, que estava dentro do preço máximo da CMED. Como é que pode terem 1.000% de lucro em cima de um medicamento?
-
-Eu peguei a listagem da CMED, mostrei publicamente a listagem da CMED e o preço que estava lá. Ou os laboratórios falseiam a verdade, ou a CMED não tem informação. Precisamos discutir esse assunto.
-
-É essa a questão. Obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Seja como for, é problema nosso fazer alguma coisa.
-
-Eu que agradeço ao Dr. Ricardo Blattes, da SENACON. Certamente, continuaremos com essas parcerias.
-
-Concedo a palavra ao Sr. Sergio Mena Barreto, Presidente da ABRAFARMA.
-
-Sr. Sergio, eu não se o V.Sa. guardou, já gostaríamos que, além dessa sua participação, a mais breve que puder – até porque, eu volto a dizer, nós vamos abrir uma sessão ainda agora, a tal da CDC – V.Sa. também fizesse as suas considerações finais.
-
-V.Sa. tem a palavra, por favor.
-
-O SR. SERGIO MENA BARRETO- Sr. Presidente Jorge Braz e Srs. Deputados, vou agradecer mais uma vez a oportunidade
-
-Hoje em dia os preços são muito melhores do que nos anos 2000, 2010, proporcionalmente. Isso mostra a eficiência do mercado ao longo do tempo. Se você consegue praticar preços abaixo do teto que está estabelecido na lei, isso mostra que o mercado é mais eficiente. E que, se você repassa essa eficiência para o consumidor em forma de descontos, pelas diversas formas que eu coloquei aqui.
-
-Concordo com a o representante da ANPD, esse o setor está amadurecendo, está crescendo, está em processo de maturação. Hoje em dia, muitas redes já têm nos próprios balcões as informações relativas ao consentimento, como os dados são utilizados. Isso se pode pegar no caixa, no balcão da farmácia e, obviamente, todo guia orientativo. E isso é muito bem-vindo.
-
-Quero comentar sobre a OAB, que citamos aqui. Foi só um exemplo que eu dei. A OAB, muitos anos atrás, chegou a ter farmácia própria e dava desconto aos próprios usuários. Só quem podia comprar era o Deputado, e eles viram que era muito complicado operar aquilo. Daí surgiram os convênios. O mesmo ocorreu com médicos. As UNIMEDs tinham farmácias próprias, isso nos anos 90, anos 2000. Acontecia muito no interior do Brasil, nas grandes cidades também, de venderem os planos e o medicamento para os usuários e também para os próprios médicos. Também isso se mostrou uma operação deficitária. A partir daí, passou-se a fazer os convênios.
-
-O Deputado Márcio Marinho perguntou como as farmácias podem garantir que os dados dos clientes foram autorizados nos sistemas dos convênios. As farmácias fazem os contratos com essas operadoras dos dados. Na verdade, nós não somos os controladores do dado nesse caso; o controlador é a empresa que contratou aquele sistema, aquela plataforma. Nós fazemos o contrato de transação, acreditando que as plataformas fizeram seus contratos e possuem as devidas autorizações das companhias, as quais pediram autorização aos seus funcionários. Nós acreditamos que todos os contratos estão já adequados à LGPD. Realmente, não fazemos auditoria, mas acreditamos que as plataformas têm também esses contratos e estão emcompliancecom a LGPD, quando os funcionários se integram nas plataformas.
-
-E eu só quero agradecer a oportunidade e deixar uma última mensagem. Nós estamos em plena época da discussão da reforma tributária e sabemos que o Brasil é o país que mais tem taxa medicamentos no mundo — 33% é a carga tributária de medicamento. Nos Estados Unidos é zero, na maioria dos países é zero, na média global é 6%, e no Brasil é 33%. Eu acho que o Parlamento está se debruçando sobre essa questão.Os Srs. Deputados estão presentes e creio que nós temos uma grande oportunidade de revisar isso, pois o medicamento é um bem essencial e também precisa ser visto como essencial na questão tributária.
-
-Só quero deixar essa mensagem e agradecer mais uma vez a oportunidade.
-
-Coloco a ABRAFARMA sempre à disposição desta Casa, como sempre estivemos, para debates e o que for necessário.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Agradecemos a participação do Sr. Sergio Mena, Presidente da ABRAFARMA.
-
-Foi muito importante a sua participação. V.Exa. pode ter certeza, Sr. Sergio, que a reforma tributária hoje está nesta Casa e no Congresso, em si, como prioridade. Certamente, vamos dar continuidade a essa pauta. Isso é fundamental para o nosso País e, lógico, principalmente, para o quesito remédios. É muito importante que os impostos sejam o mínimo necessário.
-
-Eu quero passar a palavra ao Sr. Luã Fergus, especialista em Programa de Direitos Digitais e Telecomunicações, do IDEC, para as suas considerações finais.
-
-Por favor, Luã.
-
-O SR. LUÃ FERGUS OLIVEIRA DA CRUZ- Eu queria primeiramente agradecer o convite e também parabenizar as falas dos Deputados que me antecederam e, enfim, das autoridades.
-
-Só um fato talvez relevante. Eu sou amazonense e conheço bastante a realidade do povo do Norte. Isso dialoga bastante com o que o Deputado Anderson falou dos 1.000%. Na pesquisa do IDEC, não encontramos 1.000 %, encontramos 400%, foi o máximo de vários medicamentos. Aqui têm liraglutida, amoxicilina, omeprazol, candesartan, todos esses são praticados com faixa de diferenciação de preço enorme. Nós conseguimos identificar doze medicamentos que têm essa mesma linha de irregularidade.
-
-E tem um ponto da CMED, que foi muito importante V.Exa. ter citado isso. No Senado, tem o PL 5.591, que quer alterar alguns pontos da CMED, com maior participação social, maior controle sobre como é definida essa precificação. E eu creio que é importante a Comissão estar preparada para quando esse PL vir para cá. É bem importante isso.
-
-Outro ponto que V.Exa. comentou é sobre que não há compartilhamento de dados, mas há, sim. Numa das nossas pesquisas, nós convidamos uma pesquisadora da UFBC cuja pesquisa de doutorado foi sobre dados em farmácias. E ela identificou que existe, sim, compartilhamento de dados em dados de saúde. É uma pesquisa feita por uma autoridade de uma universidade pública, supervalorosa. E não está mentindo, certo?
-
-E aqui eu queria falar um pouco a LGPD.
-
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Só para ajudá-lo, Sr. Luã.
-
-Existe compartilhamento, porque existem, inclusive, Presidente Jorge Braz, descontos dados às redes de farmácia à medida que os dados para as pesquisas dos laboratórios sejam compartilhados em relação ao uso de medicamentos e efeitos colaterais possíveis. Consumidores batem à porta da farmácia e dizem para o farmacêutico — e isso é tudo registrado — que tiveram tais efeitos colaterais. Esses efeitos colaterais também são registrados pelos médicos e são compartilhados com os laboratórios. Então, existe compartilhamento de tudo.
-
-Infelizmente, de graça isso não é. Ninguém faria isso gratuitamente. Agora a que nível é o compartilhamento e se os dados sensíveis e os clientes são identificados é que nós precisamos apurar. Nós vamos ter bastante trabalho em relação a esse tema aqui na Comissão, com certeza.
-
-Obrigado, Sr. Luã.
-
-O SR. LUÃ FERGUS OLIVEIRA DA CRUZ- Só voltando ao ponto da LGPD, que é bem relevante para nós. O Dr. Jeferson comentou que a publicação da nota técnica é uma decisão do conselho.O conselho não se reúne desde 2021. Desde 2021 o conselho não se reúne e a alegação é de que não há pauta. O Conselho Diretor da ANPD não se reúne porque não há pauta. Está na hora de, então, o primeiro ponto de pauta ser dados em farmácia, liberação da nota técnica. E me parece que do jeito que o Dr. Jeferson comentou sobre o processo dos estudos, ele só mencionou empresas do setor. Não sei se vocês ouviram, ABRAFARMA, etc. não conversaram com o IDEC e muito menos com a Coalizão Direitos na Rede, que é a coalizão de que fazemos parte. Parece-me que a ANPD está virando consultoria decompliancepara dizer para a empresa o que ela tem que fazer e o que ela não tem que fazer. A autoridade é para fiscalizar, cooperar e multar quando for necessário. Parece-me que este é o caso em tela.
-
-Ele falou que o IDEC participa das audiências públicas e das consultas públicas. De fato, nós participamos, mas porque é obrigação legal da ANPD, em audiência pública, consulta pública, abrir a consulta. Então, nós participamos quando é obrigação legal. No caso do estudo, que não tem essa obrigação, eles não chamam.
-
-Há outro ponto muito relevante. Ano passado a ANPD publicou sua agenda regulatória. Na agenda regulatória que foi para consulta pública, estava lá"regulação do setor de saúde". Passou a consulta pública, a regulação do setor de saúde sumiu. Então, para os próximos 2 anos não está na agenda da ANPD tratar de dados em saúde. Essa é outra questão.
-
-Um ponto que eu acho importante mencionar aqui é sobre o mercado em transformação. Aqui temos falado muito de farmácia, mas temos que falar da indústria farmacêutica, dos planos de saúde, temos que ouvir todos esses setores porque está tudo interligado. É muito importante ouvirmos a ABRAFARMA, mas é importante ver como essas farmácias também estão se transformando e começando a ofertar serviços de saúde, e serviços de saúde direcionados, utilizando os dados que elas coletam dos seus usuários, dos seus consumidores.
-
-Por fim, eu queria falar para o Dr. Ricardo que estamos à disposição para contribuir com a nota técnica e com o processo administrativo que foi aberto.
-
-Então, o IDEC está à disposição para contribuir tanto com a ANPD, se ela quiser, quanto com a SENACON, e com esta Comissão.
-
-Muito obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Nós é que agradecemos.
-
-O SR. SERGIO MENA BARRETO- Presidente Jorge, eu cometi uma falha indesculpável. A pergunta da Deputada Antônia Lúcia estava na outra folha aqui e eu esqueci de responder.
-
-Provavelmente, essas placas que ela viu lá no Amazonas devem ser da farmácia popular, uma vez que ela já atende 20 milhões de pessoas no Brasil. E as redes têm convênio com a farmácia popular onde o Governo autoriza que elas estejam. Então, imagino que essas filas que ela via é justamente pelo fato de muitos Municípios terem desativado a entrega de medicamentos porque há a entrega gratuita na farmácia popular. Desculpe-me, Deputada, por ter esquecido de responder à sua pergunta.
-
-Obrigado.
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) -  O.k., Dr. Sergio.
-
-Obrigado, Sr. Luã Fergus, do IDEC.
-
-Foi pedida aqui uma resposta pelo Dr. Jeferson Dias Barbosa, da ANPD.
-
-Por favor, Dr. Jeferson, só preciso que o senhor acelere o máximo possível, por gentileza.
-
-O SR. JEFERSON DIAS BARBOSA- Com certeza. Muito obrigado.
-
-Eu agradeço também a provocação. Esta é uma oportunidade de esclarecimento. No circuito deliberativo que acontece na ANPD para as decisões pelo Conselho Diretor, no regimento interno da ANPD, há duas possibilidades: através de reuniões deliberativas e circuitos deliberativos.
-
-O Conselho Diretor da ANPD tem optado por fazer todas as decisões deliberativas através de circuitos deliberativos.Foram realizados dezenas, temos os números nositeda ANPD. Então, todas as decisões não foram realizadas por reuniões deliberativas, por isso não houve pautas, todas foram feitas por circuito deliberativo.
-
-O Conselho Diretor da ANPD se reúne semanalmente. É claro que há trabalhos diários, o expediente e o trabalho do nosso conselho é diário. As reuniões técnicas e decisórias são feitas toda semana pelo Conselho Diretor. Inclusive, ontem mesmo houve uma.
-
-Como disse, é uma oportunidade de esclarecimento. Inclusive, as informações que saíram na imprensa são inverídicas. E a ANPD esclareceu todas elas no nossosite.
-
-O SR. CELSO RUSSOMANNO(Bloco/REPUBLICANOS - SP) - Presidente, eu gostaria de solicitar ao Dr. Jeferson que envie para a Comissão os estudos que foram aqui colocados para que possamos ter acesso a eles. Está bom?
-
-O SR. PRESIDENTE(Jorge Braz. Bloco/REPUBLICANOS - RJ) - Por favor, Sr. Jeferson, mande os estudos para a Comissão, por gentileza.
-
-Bom, antes de encerrarmos e fazermos os agradecimentos finais, eu gostaria de ler só um item rápido sobre o meu projeto de lei que foi o motivo de toda esta audiência pública, em que estamos sugerindo alterar o art. 39 da Lei nº 8.078 do CDC, que diz assim:
-
-Art. 39. É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas:
-
-Estamos acrescentando ao art. 39 o inciso XV, que diz:
-
-Art. 39 .............................................................
-
-XV - condicionar a concessão de qualquer vantagem financeira ao consumidor mediante o fornecimento de seus dados pessoais, bem como o seu acesso a serviços ou ao fornecimento de produtos após prévio cadastramento quando o pagamento for realizado de forma integral e imediata.
-
-É isso.
-
-Esse foi o motivo da nossa discussão.
-
-E, pelo que vemos aqui nós, de fato, precisamos continuar trabalhando. Eu acho que com a parceria entre nós, a CDC, a ANPD, o IDEC, a SENACON e outros órgãos que possam, de repente, nos ajudar, podemos encaminhar, dentro dessa parceria, uma fiscalização, montar pelo menos durante um tempo uma fiscalização, uma investigação desse sistema de saúde interligado, para termos efetivamente um resultado disso, como colocou o Deputado Celso Russomanno, termos acesso a notas que saíram de alguns laboratórios e na farmácia, sabermos o preço que foi pago, se foi comprada de fato uma grande quantidade, se é justo, se o preço foi mais barato, se outra pessoa não teve tanto essa condição. Certamente, chegaremos a um bom resultado, pelos posicionamentos que já houve aqui inclusive a respeito desses preços, creio eu, sugeridos ou definidos pela Câmara de Regulação de Medicamentos.
-
-Nada mais havendo a tratar, eu agradeço a todos os participantes, ao Dr. Arthur Rollo, ao Dr. Jeferson Dias, ao Dr. Ricardo Blattes, ao Luã Fergus e ao Sergio Mena Barreto.Agradeço muito a todos os meus companheiros aqui presentes e também aos amigos Deputados a participação.
-
-Antes de encerrar esta reunião, convoco-os para reunião extraordinária deliberativa para daqui a 5 minutos, aproximadamente, como diz o nosso Regimento Interno.
-
-Declaro encerrada a reunião às 12h35min.
-
-Muito obrigado a todos.
+Declaro encerrada a reunião.

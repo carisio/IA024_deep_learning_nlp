@@ -1,24 +1,35 @@
 {
-    "assunto": "Abusos em cadastros de consumidores feitos por farmácias",
+    "assunto": "Dependência tecnológica e propostas de combate",
     "envolvidos": [
         {
-            "nome": "Representante da Autoridade Nacional de Proteção de Dados (ANPD)",
-            "cargo": "Representante da ANPD",
+            "nome": "Aureo Ribeiro",
+            "cargo": "Deputado (Solidariedade-RJ)",
             "opinioes": [
-                "Apontou que em muitos casos, o tratamento dos dados não é feito de forma adequada."
+                "Apresentou um projeto de lei (PL 2498/15) propondo a criação de centros de atenção aos usuários compulsivos de serviços de internet e redes sociais",
+                "Lamentou a tramitação lenta da proposta na Casa, atribuindo-a à pressão das big techs",
+                "Manifestou apoio ao Projeto de Lei 2498/15",
+                "Quer propor uma frente parlamentar para tratar do tema"
             ]
         },
         {
-            "nome": "Associação Brasileira das Redes de Farmácias e Drogarias (Abrafarma)",
-            "cargo": "Representante da Abrafarma",
+            "nome": "Aline Paz",
+            "cargo": "Psicóloga clínica e terapeuta cognitivo-comportamental",
             "opinioes": [
-                "Defende que o processo utilizado pelas farmácias e drogarias é apoiado fortemente na tecnologia da informação."
+                "Defende a adoção de políticas públicas para alertar a população sobre os efeitos nocivos da dependência tecnológica",
+                "Manifestou apoio ao Projeto de Lei 2498/15"
             ]
         },
         {
-            "nome": "Deputado Jorge Braz",
-            "cargo": "Deputado pelo Republicanos-RJ",
-            "opinioes": []
+            "nome": "Cristiano Nabuco",
+            "cargo": "Coordenador do grupo de dependências tecnológicas do Hospital das Clínicas da Universidade de São Paulo",
+            "opinioes": [
+                "Alertou para os efeitos nocivos das tecnologias sobre a saúde mental e o raciocínio, especialmente em crianças pequenas",
+                "Defendeu a criação de uma legislação específica para tratar do tema",
+                "Defendeu a criação de um grupo de trabalho para estudar a questão",
+                "Defendeu o desenvolvimento de um programa de orientação com divulgação em larga escala na mídia",
+                "Defendeu a instituição do 'Dia Detox Brasil'",
+                "Defendeu o treinamento de profissionais da saúde, da educação e do direito para lidar com o problema"
+            ]
         }
     ]
 }
