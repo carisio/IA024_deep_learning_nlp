@@ -1,25 +1,44 @@
 {
-  "assunto": "Críticas às cobranças diferenciadas de planos de saúde para idosos e proposta de aumento escalonado conforme a idade",
+  "assunto": "Garantia de oportunidades e respeito às singularidades das pessoas autistas",
   "envolvidos": [
     {
-      "nome": "Lígia Bahia",
-      "cargo": "Pesquisadora da Universidade Federal do Rio de Janeiro (UFRJ)",
+      "nome": "Erika Kokay",
+      "cargo": "Deputada (PT-DF)",
       "opinioes": [
-        "Embora pareça vantajosa, a ideia do aumento gradual pode prejudicar muito os segurados no longo prazo, beneficiando apenas as operadoras de planos de saúde."
+        "Defendeu o fim do capacitismo estrutural como forma de garantir os direitos plenos dos autistas.",
+        "\"Quem disse que tem que se determinar como nós somos, como nós falamos? A sociedade é deficiente quando não permite que as pessoas possam se expressar com sua singularidade.\""
       ]
     },
     {
-      "nome": "Marina Paulelli",
-      "cargo": "Advogada especialista em Planos de Saúde do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+      "nome": "Fernanda Santana",
+      "cargo": "Representante da Associação Brasileira para Ação por Direitos das Pessoas com Autismo (Abraça)",
       "opinioes": [
-        "Atualmente os convênios já operam com um superávit alto em suas operações e tratam os idosos como clientes indesejados."
+        "\"Pessoas autistas são parte da diversidade humana e da humanidade. Nós também queremos ser celebrados e valorizados.\"",
+        "\"Precisamos de compreensão, de respeito e da garantia de oportunidades em igualdade de condições com as outras pessoas.\"",
+        "Ressaltou que essa igualdade implica em acessibilidade, adaptações razoáveis, apoios e serviços."
       ]
     },
     {
-      "nome": "Alexandre Padilha",
-      "cargo": "Deputado (PT-SP)",
+      "nome": "Paula de Luca",
+      "cargo": "Representante do Grupo Ilha Azul (associação de pais, familiares e amigos de pessoas com transtorno do espectro autista)",
       "opinioes": [
-        "Solicitou a reunião."
+        "Afirmou que é preciso capacitar os pais para a realização das terapias que fazem toda a diferença na vida do autista.",
+        "\"Quando os pais ou responsáveis são treinados para lidar com essas pessoas autistas eles conseguem evoluir muito mais porque não adianta só a terapia na clínica.\""
+      ]
+    },
+    {
+      "nome": "Roselene Alves",
+      "cargo": "Servidora do Ministério dos Direitos Humanos e doutoranda na Universidade de Brasília",
+      "opinioes": [
+        "Corroborou a importância das terapias.",
+        "\"A minha família me estimulou muito, ela não me tratou como um fardo. Quando a pessoa com deficiência, principalmente a pessoa autista, tem um suporte mínimo, ela vai longe.\""
+      ]
+    },
+    {
+      "nome": "Larissa Argenta",
+      "cargo": "Presidente da Comissão dos Direitos do Autista da Ordem dos Advogados do Brasil (OAB)",
+      "opinioes": [
+        "Lembrou que já existe legislação que garante os direitos dos autistas (Lei 12.764/12), mas é preciso que as políticas públicas sejam implementadas."
       ]
     }
   ]

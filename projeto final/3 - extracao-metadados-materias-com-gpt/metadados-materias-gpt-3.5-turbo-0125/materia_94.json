@@ -1,33 +1,45 @@
 {
-    "assunto": "Críticas às cobranças de valores diferenciados de planos de saúde para idosos",
+    "assunto": "Oportunidades e respeito às singularidades das pessoas autistas",
     "envolvidos": [
         {
-            "nome": "Lígia Bahia",
-            "cargo": "pesquisadora da Universidade Federal do Rio de Janeiro (UFRJ)",
+            "nome": "Erika Kokay",
+            "cargo": "Deputada (PT-DF)",
             "opinioes": [
-                "Critica a lógica dos reajustes de planos de saúde conforme o envelhecimento",
-                "A ideia do aumento gradual pode prejudicar muito os segurados no longo prazo, beneficiando apenas as operadoras de planos de saúde"
+                "Defende o fim do capacitismo estrutural como forma de garantir os direitos plenos dos autistas.",
+                "Afirmou: 'Quem disse que tem que se determinar como nós somos, como nós falamos? A sociedade é deficiente quando não permite que as pessoas possam se expressar com sua singularidade'."
             ]
         },
         {
-            "nome": "Marina Paulelli",
-            "cargo": "advogada especialista em Planos de Saúde do Instituto Brasileiro de Defesa do Consumidor (Idec)",
+            "nome": "Fernanda Santana",
+            "cargo": "Representante da Associação Brasileira para Ação por Direitos das Pessoas com Autismo (Abraça)",
             "opinioes": [
-                "Entende que os convênios já operam com um superávit alto em suas operações e tratam os idosos como clientes indesejados"
+                "Defende que pessoas autistas são parte da diversidade humana e da humanidade.",
+                "Afirmou: 'Nós também queremos ser celebrados e valorizados'.",
+                "Destacou a necessidade de compreensão, respeito e garantia de oportunidades em igualdade de condições."
             ]
         },
         {
-            "nome": "Deputados",
-            "cargo": "participantes do debate",
+            "nome": "Paula de Luca",
+            "cargo": "Representante do Grupo Ilha Azul",
             "opinioes": [
-                "Concordam que a lógica do reajuste é discriminatória",
-                "Prometeram atuar para reduzir a injustiça"
+                "Destacou a importância de capacitar os pais para a realização das terapias que fazem diferença na vida do autista.",
+                "Afirmou: 'Quando os pais ou responsáveis são treinados para lidar com essas pessoas autistas eles conseguem evoluir muito mais porque não adianta só a terapia na clínica'."
             ]
         },
         {
-            "nome": "Alexandre Padilha",
-            "cargo": "deputado (PT-SP)",
-            "opinioes": []
+            "nome": "Roselene Alves",
+            "cargo": "Servidora do Ministério dos Direitos Humanos e doutoranda na Universidade de Brasília",
+            "opinioes": [
+                "Destacou a importância do estímulo familiar e do suporte mínimo para que a pessoa autista possa ir longe.",
+                "Afirmou: 'Quando a pessoa com deficiência, principalmente a pessoa autista, tem um suporte mínimo, ela vai longe'."
+            ]
+        },
+        {
+            "nome": "Larissa Argenta",
+            "cargo": "Presidente da Comissão dos Direitos do Autista da Ordem dos Advogados do Brasil (OAB)",
+            "opinioes": [
+                "Destacou a existência de legislação que garante os direitos dos autistas (Lei 12.764/12) e a necessidade de implementação das políticas públicas."
+            ]
         }
     ]
 }

@@ -23,8 +23,7 @@
       "cargo": "Deputado (PSD-CE)",
       "opinioes": [
         "A ideia é barrar reajustes em vários estados e \"zerar o jogo\", abrindo espaço para soluções.",
-        "\"Houve reajustes abusivos, 20% em Alagoas; 21% na Bahia; 17% em Mato Grosso do Sul; e 20% no Rio Grande do Norte.\"",
-        "\"E já aviso os mineiros: haverá aumento no dia 22 de maio.\""
+        "\"Houve reajustes abusivos, 20% em Alagoas; 21% na Bahia; 17% em Mato Grosso do Sul; e 20% no Rio Grande do Norte. E já aviso os mineiros: haverá aumento no dia 22 de maio.\""
       ]
     },
     {
@@ -38,7 +37,7 @@
       "nome": "Victor Iocca",
       "cargo": "Representante da Associação dos Grandes Consumidores Industriais de Energia e de Consumidores Livres (Abrace)",
       "opinioes": [
-        "\"Adiar os reajustes é como pagar o mínimo na fatura do cartão de crédito, e deixar para o futuro é pior.\""
+        "Avaliou que outro represamento seria prejudicial, já que os juros nos País estão subindo: \"Adiar os reajustes é como pagar o mínimo na fatura do cartão de crédito, e deixar para o futuro é pior.\""
       ]
     },
     {
@@ -53,8 +52,7 @@
       "cargo": "Presidente do Fórum de Associações do Setor Elétrico (Fase)",
       "opinioes": [
         "Rechaçou medidas intempestivas.",
-        "Em médio e longo prazos será preciso reduzir tributos e subsídios nas contas de luz, que hoje somam 49% do total das faturas.",
-        "\"O Congresso aprova os subsídios, e a Aneel não tem culpa.\""
+        "Em médio e longo prazos será preciso reduzir tributos e subsídios nas contas de luz, que hoje somam 49% do total das faturas: \"O Congresso aprova os subsídios, e a Aneel não tem culpa.\""
       ]
     },
     {
@@ -62,16 +60,14 @@
       "cargo": "Presidente da Enel Distribuidora Ceará",
       "opinioes": [
         "Até março, 200 mil famílias passaram a ter direito à tarifa social de energia elétrica, menor.",
-        "A carteira de clientes de baixa renda cresceu 28%, para 910 mil.",
-        "A Lei 14.203/21, em vigor desde janeiro, prevê o ingresso automático nesse subsídio de qualquer beneficiário de programas sociais federais."
+        "A carteira de clientes de baixa renda cresceu 28%, para 910 mil. Isso porque a Lei 14.203/21, em vigor desde janeiro, prevê o ingresso automático nesse subsídio de qualquer beneficiário de programas sociais federais."
       ]
     },
     {
       "nome": "Danilo Forte",
       "cargo": "Deputado (União-CE) e presidente da Frente Parlamentar em Defesa das Energias Renováveis",
       "opinioes": [
-        "O debate sobre as contas de luz precisa ser ampliado.",
-        "\"O problema é grave, mas vejo disposição de todos em buscar soluções, que passarão pelas energias renováveis.\"",
+        "O debate sobre as contas de luz precisa ser ampliado: \"O problema é grave, mas vejo disposição de todos em buscar soluções, que passarão pelas energias renováveis.\"",
         "É preciso contemplar as necessidades das concessionárias sem que o consumidor seja penalizado com reajustes acima da inflação."
       ]
     },
@@ -79,35 +75,15 @@
       "nome": "Benes Leocádio",
       "cargo": "Deputado (União-RN)",
       "opinioes": [
-        "\"Ninguém defende quebra de contratos, mas eles foram firmados em outra realidade.\""
+        "Criticou o setor elétrico: \"Ninguém defende quebra de contratos, mas eles foram firmados em outra realidade.\""
       ]
     },
     {
       "nome": "Eduardo da Fonte",
       "cargo": "Deputado (PP-PE)",
       "opinioes": [
-        "\"Existem absurdos, não vou enumerar porque levaria o dia todo.\""
+        "Criticou o setor elétrico: \"Existem absurdos, não vou enumerar porque levaria o dia todo.\""
       ]
-    },
-    {
-      "nome": "Mário Caires",
-      "cargo": "Presidente da Neoenergia Cosern",
-      "opinioes": []
-    },
-    {
-      "nome": "Amílcar Silveira",
-      "cargo": "Presidente da Federação da Agricultura e Pecuária do Ceará",
-      "opinioes": []
-    },
-    {
-      "nome": "Thiago Fujita",
-      "cargo": "Presidente da Associação Cearense de Defesa do Consumidor",
-      "opinioes": []
-    },
-    {
-      "nome": "Joaquim Rolim",
-      "cargo": "Representante da Federação das Indústrias do Ceará",
-      "opinioes": []
     }
   ]
 }
