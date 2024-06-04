@@ -1,25 +1,41 @@
 {
-    "assunto": "Necessidade de investimentos para melhor atendimento de urgências",
+    "assunto": "Racismo na primeira infância",
     "envolvidos": [
         {
-            "nome": "Gisele Odwye",
-            "cargo": "pesquisadora da Fiocruz",
+            "nome": "Suelaine Carneiro",
+            "cargo": "Coordenadora do programa de educação do Geledés Instituto da Mulher Negra",
             "opinioes": [
-                "Apontou a falta de estrutura dos hospitais como principal obstáculo para a melhoria do serviço."
+                "Defende a desconstrução de indiferenças e enfrentamento da desigualdade em relação ao acesso a serviços essenciais para famílias negras e indígenas."
             ]
         },
         {
-            "nome": "Zé Neto",
-            "cargo": "deputado (PT-BA)",
+            "nome": "Damiana Neto",
+            "cargo": "Integrante da Ação de Mulheres pela Equidade (AME)",
             "opinioes": [
-                "Sugeriu que o atendimento domiciliar dos pacientes seja colocado em pauta."
+                "Defende que o ambiente escolar tem sido prejudicial para as crianças negras e indígenas, sendo um 'espaço adoecedor'.",
+                "Propõe a ocupação do Parlamento para combinar demandas e exigir políticas públicas que reconheçam as violações enfrentadas pelas infâncias negras e indígenas."
             ]
         },
         {
-            "nome": "Felipe Reque",
-            "cargo": "coordenador geral de Urgência do Ministério da Saúde",
+            "nome": "Rosijane Tukano",
+            "cargo": "Dirigente do Makira-E’TA, a Rede de Mulheres Indígenas do Estado do Amazonas",
             "opinioes": [
-                "O governo tem como prioridade a boa formação dos profissionais da rede de urgência, considerada fundamental."
+                "Defende a criação de um ambiente escolar seguro, acolhedor e que garanta os direitos das crianças negras e indígenas."
+            ]
+        },
+        {
+            "nome": "Letícia Silva",
+            "cargo": "Pesquisadora do Instituto Alana",
+            "opinioes": [
+                "Destaca que o racismo impacta não apenas as crianças negras e indígenas, mas também as crianças brancas, moldando suas subjetividades e impedindo a convivência com a diversidade nas relações humanas."
+            ]
+        },
+        {
+            "nome": "Erika Kokay",
+            "cargo": "Deputada (PT-DF)",
+            "opinioes": [
+                "Anunciou a elaboração de um projeto de lei de enfrentamento ao racismo na primeira infância, a partir das denúncias e sugestões apresentadas na audiência.",
+                "Propõe discutir um conjunto de políticas públicas para enfrentar o racismo de forma estruturante, com ênfase no ambiente escolar como espaço de acolhimento."
             ]
         }
     ]
