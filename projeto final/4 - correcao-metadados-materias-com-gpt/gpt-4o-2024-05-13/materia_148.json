@@ -5,17 +5,16 @@
       "nome": "Marcos Pollon",
       "cargo": "Deputado (PL-MS)",
       "opinioes": [
-        "Cobrou dos envolvidos o enfrentamento da situação sem restrições ideológicas.",
-        "\"Precisamos do Ibama para solucionar esse problema com urgência\".",
-        "\"Essa é uma questão de Estado e não de governo\"."
+		"Pediu ao Ibama a retomada urgente do Sistema Integrado de Manejo de Fauna (Simaf)",
+        "Cobrou dos envolvidos o enfrentamento da situação sem restrições ideológicas: \"Essa é uma questão de Estado e não de governo\". \"Precisamos do Ibama para solucionar esse problema com urgência\"."
       ]
     },
     {
       "nome": "Ismael Alexandrino",
       "cargo": "Deputado (PSD-GO)",
       "opinioes": [
-        "Alertou sobre os riscos de doenças transmitidas por espécies exóticas invasoras.",
-        "\"Olhando para a Covid-19 e os impactos dela – sanitários, econômicos e sociais –, não podemos menosprezar os riscos de que uma espécie exótica invasora transmita doenças que poderão ficar fora de controle\"."
+		"Pediu ao Ibama a retomada urgente do Sistema Integrado de Manejo de Fauna (Simaf)",
+        "Alertou sobre os riscos de doenças transmitidas por espécies exóticas invasoras: \"Olhando para a Covid-19 e os impactos dela – sanitários, econômicos e sociais –, não podemos menosprezar os riscos de que uma espécie exótica invasora transmita doenças que poderão ficar fora de controle\"."
       ]
     },
     {
@@ -25,7 +24,7 @@
         "Afirmou que a suspensão temporária do Simaf poderá prejudicar o controle da população de javalis.",
         "Estimou que há 3 milhões de javalis espalhados pelo País.",
         "\"O fato de o órgão ambiental não ter uma política focada no controle do javali, ou então criar problemas em vez de soluções, contribui para o avanço da espécie\".",
-        "Para ele, caçadores prestam serviço de utilidade pública."
+        "Caçadores prestam serviço de utilidade pública."
       ]
     },
     {
@@ -49,16 +48,6 @@
       "opinioes": [
         "Defendeu o manejo do javali."
       ]
-    },
-    {
-      "nome": "Humberto Brandão",
-      "cargo": "Chefe da divisão de controle de armas da Polícia Federal",
-      "opinioes": []
-    },
-    {
-      "nome": "Rodrigo Bordeaux",
-      "cargo": "Chefe da Divisão de Regulação da Diretoria de Fiscalização de Produtos Controlados do Exército",
-      "opinioes": []
     }
   ]
 }
