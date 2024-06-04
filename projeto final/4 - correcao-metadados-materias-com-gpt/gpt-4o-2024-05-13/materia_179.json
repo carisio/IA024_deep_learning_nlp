@@ -5,8 +5,8 @@
       "nome": "Any Ortiz",
       "cargo": "Deputada (Cidadania-RS) e relatora do Projeto de Lei 2768/22",
       "opinioes": [
-        "A legislação precisa ser aprimorada, enxergando não só o ponto de vista de quem empreende, mas também daqueles que consomem no mercado digital.",
-        "Esta sequência de audiências públicas foi extremamente importante."
+        "\"Esta sequência de audiências públicas foi extremamente importante.\"",
+		"\"Acredito que a legislação precisa ser aprimorada, enxergando não só o ponto de vista de quem empreende, mas também daqueles que consomem no mercado digital.\""
       ]
     },
     {
@@ -14,8 +14,7 @@
       "cargo": "Diretora de Política de Concorrência para América Latina da Meta",
       "opinioes": [
         "Questionou o PL 2768/22, que atribui à Anatel a regulamentação das plataformas digitais e cria uma taxa para custear a fiscalização de empresas como a Meta.",
-        "O Cade já atua na defesa da concorrência e é o órgão regulador mais adequado.",
-        "\"No Brasil há um sistema de defesa da concorrência que soluciona os problemas, mas talvez existam alguns específicos dos mercados digitais que precisariam ser avaliados.\"",
+        "O Cade já atua na defesa da concorrência e é o órgão regulador mais adequado: \"No Brasil há um sistema de defesa da concorrência que soluciona os problemas, mas talvez existam alguns específicos dos mercados digitais que precisariam ser avaliados.\"",
         "O modelo adotado pela Alemanha \"reúne o melhor dos mundos\", porque aplica a legislação consolidada e prevê atualização das normas.",
         "No Brasil, os ajustes poderiam ser feitos \"por meio de estudos de mercado, como faz a Austrália, ou por meio códigos de conduta, como faz a Inglaterra\"."
       ]
@@ -24,29 +23,8 @@
       "nome": "Janaína Camilo Vendramini",
       "cargo": "Analista técnica de Mercados e Transformação Digital do Sebrae",
       "opinioes": [
-        "A regulamentação dos mercados digitais no Brasil poderá beneficiar as micro e pequenas empresas e especialmente os microempreendedores individuais.",
-        "\"A regulamentação é muito favorável na medida em que coíbe práticas abusivas, trazendo maior segurança jurídica a quem atua nas plataformas.\""
+        "A regulamentação dos mercados digitais no Brasil poderá beneficiar as micro e pequenas empresas e especialmente os microempreendedores individuais: \"A regulamentação é muito favorável na medida em que coíbe práticas abusivas, trazendo maior segurança jurídica a quem atua nas plataformas.\""
       ]
-    },
-    {
-      "nome": "Gabriella Dorlhiac",
-      "cargo": "Diretora executiva da Câmara de Comércio Internacional (ICC Brasil)",
-      "opinioes": []
-    },
-    {
-      "nome": "Clarissa Furtado",
-      "cargo": "Gerente de Competitividade da ApexBrasil",
-      "opinioes": []
-    },
-    {
-      "nome": "Beatriz Falcão",
-      "cargo": "Gerente de Políticas Públicas da IAB Brasil",
-      "opinioes": []
-    },
-    {
-      "nome": "Mark Buse",
-      "cargo": "Diretor sênior global do Match Group",
-      "opinioes": []
     }
   ]
 }
