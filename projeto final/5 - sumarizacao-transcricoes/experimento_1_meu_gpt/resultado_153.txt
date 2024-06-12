@@ -1,0 +1,60 @@
+{
+  "assunto": "Debate sobre os prejuízos das enchentes nas cidades mais afetadas do Rio Grande do Sul",
+  "envolvidos": [
+    {
+      "nome": "Tião Medeiros",
+      "cargo": "Deputado, Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "opinioes": [
+        "Declarou aberta a reunião extraordinária de audiência pública para debater os prejuízos das enchentes nas cidades mais afetadas do Rio Grande do Sul.",
+        "Agradeceu a presença dos convidados, incluindo os ministros Paulo Pimenta e Waldez Góes, além de prefeitos e outras lideranças.",
+        "Enfatizou a importância de manter o foco nos temas específicos da audiência para garantir um debate produtivo."
+      ]
+    },
+    {
+      "nome": "Paulo Pimenta",
+      "cargo": "Ministro da Secretaria de Comunicação Social da Presidência da República",
+      "opinioes": [
+        "Estendeu solidariedade aos familiares das vítimas das enchentes e agradeceu aos voluntários pela ajuda.",
+        "Enfatizou a mudança de orientação do trabalho da Defesa Civil e do Ministério da Integração sob o Governo Lula, focando em olhar especial para as pessoas que mais precisam.",
+        "Ressaltou a necessidade de continuar trabalhando na reconstrução das áreas afetadas e prometeu prestar contas sobre as ações futuras."
+      ]
+    },
+    {
+      "nome": "Waldez Góes",
+      "cargo": "Ministro da Integração e Desenvolvimento Regional",
+      "opinioes": [
+        "Expressou solidariedade e reconhecimento pelo trabalho dos agentes públicos e voluntários no Rio Grande do Sul.",
+        "Destacou a importância da sinergia entre os ministérios e as esferas governamentais para atender às necessidades da população afetada.",
+        "Prometeu continuar apoiando a reconstrução da região e trabalhar em conjunto com outras autoridades e a sociedade civil."
+      ]
+    },
+    {
+      "nome": "Marcel van Hattem",
+      "cargo": "Deputado, autor do principal requerimento para a audiência pública",
+      "opinioes": [
+        "Agradeceu ao Deputado Tião Medeiros pela sensibilidade em organizar a audiência pública.",
+        "Relatou a visita técnica à região afetada e a importância de trazer soluções reais e imediatas para as comunidades atingidas.",
+        "Destacou a importância de não deixar a tragédia cair no esquecimento e de continuar trabalhando para implementar as soluções prometidas."
+      ]
+    },
+    {
+      "nome": "Amilton Fontana",
+      "cargo": "Prefeito de Roca Sales",
+      "opinioes": [
+        "Agradeceu o apoio do Governo Federal e Estadual, além dos voluntários.",
+        "Relatou a situação delicada de Roca Sales, com a necessidade de começar do zero na reconstrução do comércio e indústria.",
+        "Defendeu a necessidade de agilidade na reconstrução da infraestrutura municipal e mencionou a importância da dragagem do rio para prevenir futuras enchentes."
+      ]
+    },
+    {
+      "nome": "Jonas Calvi",
+      "cargo": "Prefeito de Encantado",
+      "opinioes": [
+        "Agradeceu a ajuda recebida até agora, mas destacou a necessidade de ações preventivas futuras.",
+        "Falou sobre a importância de buscar recursos internacionais através de consórcios regionais para enfrentar a situação de forma eficaz.",
+        "Enfatizou a necessidade de continuar focado na reconstrução e na recuperação das atividades econômicas na região."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Câmara dos Deputados discutiu os prejuízos causados pelas enchentes no Rio Grande do Sul, com foco na reconstrução das cidades afetadas. Os principais envolvidos foram os Deputados Tião Medeiros e Marcel van Hattem, os Ministros Paulo Pimenta e Waldez Góes, e os prefeitos de Roca Sales e Encantado, Amilton Fontana e Jonas Calvi. Eles destacaram a importância da solidariedade, da ação coordenada entre diferentes níveis de governo, e da necessidade urgente de reconstrução e de medidas preventivas para evitar futuras tragédias."
+}

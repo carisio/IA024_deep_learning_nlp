@@ -1,0 +1,69 @@
+{
+  "assunto": "Debate sobre a Portaria nº 3.665, de 2023, do Ministério do Trabalho e Emprego, que restringe a abertura do comércio aos domingos e feriados apenas mediante autorização da Convenção Coletiva de Trabalho.",
+  "envolvidos": [
+    {
+      "nome": "Daniela Reinehr",
+      "cargo": "Deputada Federal (PL - SC), Presidente da Comissão de Desenvolvimento Econômico",
+      "opinioes": [
+        "A portaria nos traz uma preocupação muito séria porque invade de forma muito agressiva a nossa economia.",
+        "Entendemos que o tema cabe ao empregado e ao empregador entrarem em acordo, respeitando a lei trabalhista.",
+        "Não podemos deixar passar em branco uma situação que interfere drasticamente nessa relação de trabalho e em nossa economia, especialmente no comércio."
+      ]
+    },
+    {
+      "nome": "Marcio Milan",
+      "cargo": "Vice-Presidente de Relações Institucionais e Administrativo da Associação Brasileira de Supermercados e Representante da União Nacional de Entidades do Comércio e Serviços (UNECS)",
+      "opinioes": [
+        "A portaria foi editada na véspera de um feriado e trouxe uma insegurança bastante grande no comércio como um todo.",
+        "A abertura do comércio nos feriados favorece o consumo e ajuda a parcela da população que trabalha e precisa desse dia para fazer suas compras.",
+        "A portaria é desprovida de razoabilidade porque revogou a autorização permanente de atividades essenciais, como supermercados e farmácias, mas manteve para atividades não essenciais."
+      ]
+    },
+    {
+      "nome": "Saulo Pedroso",
+      "cargo": "Deputado Federal (PSD - SP)",
+      "opinioes": [
+        "A portaria sinaliza a falta de previsibilidade em relação às ações do Governo e a maneira como tratam as relações entre trabalhador e empregador.",
+        "O Governo precisa mostrar tranquilidade, clareza e objetividade nas suas propostas, e se tiver que fazer alguma mudança, que não seja de maneira abrupta.",
+        "É necessário promover um debate profundo e garantir que todos os players estejam envolvidos na discussão antes de qualquer imposição do Ministério do Trabalho."
+      ]
+    },
+    {
+      "nome": "Aldo Macri",
+      "cargo": "Presidente em exercício do SINDILOJAS-SP e Diretor Suplente da Federação do Comércio de Bens, Serviços e Turismo (FECOMERCIO-SP)",
+      "opinioes": [
+        "A Portaria nº 3.665 trouxe um transtorno e uma preocupação jurídica para todos, atingindo diretamente o dia a dia dos comerciantes.",
+        "O trabalho aos domingos e feriados já é autorizado por leis municipais e convenções coletivas, que têm força de lei.",
+        "É importante que a autorização para o trabalho no domingo e feriado seja dada de forma permanente, pois todo o comércio e serviço é essencial para o consumidor."
+      ]
+    },
+    {
+      "nome": "Zilmara David de Alencar",
+      "cargo": "Assessora Jurídica Parlamentar da Federação dos Comerciários do Estado de São Paulo (FECOMERCIARIOS-SP) e Representante da Confederação Nacional dos Trabalhadores no Comércio (CNTC)",
+      "opinioes": [
+        "A portaria traz uma inversão da visão acerca da necessidade de negociação coletiva entre trabalhadores e empregadores para a abertura do comércio em feriados.",
+        "A CNTC entende que deve haver ações e normas que incentivem a negociação coletiva para a definição de regras para o trabalho aos feriados.",
+        "A negociação coletiva é essencial para garantir que as condições de trabalho respeitem os regramentos constitucionais e legais."
+      ]
+    },
+    {
+      "nome": "Pablo Rolim Carneiro",
+      "cargo": "Gerente de Assuntos Trabalhistas da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "A Constituição e a CLT reconhecem a possibilidade de trabalho aos domingos e feriados, especialmente por necessidades técnicas e econômicas.",
+        "É importante que todas as atividades sejam autorizadas a funcionar nos domingos e feriados para aumentar a produtividade e competitividade.",
+        "Uma autorização permanente para o trabalho aos domingos e feriados é essencial para evitar insegurança jurídica e perda de investimentos."
+      ]
+    },
+    {
+      "nome": "Antônio Lisboa",
+      "cargo": "Advogado da Divisão Jurídica e Sindical da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+      "opinioes": [
+        "A portaria provoca uma falta de previsibilidade e insegurança jurídica nas relações de trabalho e na economia.",
+        "A Lei nº 10.101, de 2000, já autoriza o funcionamento do comércio de forma permanente nos feriados mediante convenção coletiva.",
+        "É necessário que o Ministério do Trabalho fiscalize o cumprimento das condições de proteção ao trabalhador sem interferir com novas portarias que causam insegurança."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a Portaria nº 3.665, de 2023, do Ministério do Trabalho e Emprego, que restringe a abertura do comércio aos domingos e feriados apenas mediante autorização da Convenção Coletiva de Trabalho. A Deputada Daniela Reinehr e outros participantes destacaram a preocupação com a invasão na economia e a falta de previsibilidade gerada pela portaria. Representantes de várias entidades, como Marcio Milan da UNECS e Aldo Macri da FECOMERCIO-SP, argumentaram que a portaria cria insegurança jurídica e prejudica o comércio e os consumidores. Eles defendem a autorização permanente para o trabalho aos domingos e feriados, conforme previsto em leis e convenções coletivas, enquanto Zilmara David de Alencar da CNTC destacou a importância da negociação coletiva para proteger os direitos dos trabalhadores."
+}

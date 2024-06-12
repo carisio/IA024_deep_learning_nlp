@@ -1,0 +1,74 @@
+{
+  "assunto": "Prioridades do Ministério das Cidades para 2023",
+  "envolvidos": [
+    {
+      "nome": "Cezinha de Madureira",
+      "cargo": "Presidente da Comissão de Viação e Transportes",
+      "opinioes": [
+        "Destacou a importância da presença do Ministro Jader Barbalho Filho para prestar esclarecimentos sobre as prioridades do Ministério das Cidades.",
+        "Agradeceu ao Ministro pela parceria e boa interlocução com os parlamentares."
+      ]
+    },
+    {
+      "nome": "Jader Barbalho Filho",
+      "cargo": "Ministro de Estado das Cidades",
+      "opinioes": [
+        "Apresentou os programas e políticas do Ministério das Cidades, como o Minha Casa, Minha Vida e o FNHIS.",
+        "Enfatizou a importância de parcerias entre Governo Federal, Estados e Municípios para reduzir o déficit habitacional.",
+        "Falou sobre a ampliação do subsídio e a redução da taxa de juros do FGTS para habitação.",
+        "Destacou a meta de 2 milhões de unidades habitacionais para os próximos 4 anos.",
+        "Abordou as iniciativas de mobilidade urbana e saneamento ambiental."
+      ]
+    },
+    {
+      "nome": "Zé Trovão",
+      "cargo": "Deputado (PL - SC)",
+      "opinioes": [
+        "Agradeceu ao Ministro pelo compromisso com as construções de moradias em Santa Catarina.",
+        "Destacou a destinação de 8 milhões de reais para moradias em Joinville."
+      ]
+    },
+    {
+      "nome": "Acácio Favacho",
+      "cargo": "Deputado (MDB - AP), Presidente da Comissão de Desenvolvimento Urbano",
+      "opinioes": [
+        "Enfatizou a importância do Ministério das Cidades e os desafios de liderar uma pasta recriada.",
+        "Destacou a necessidade de leis menos burocráticas e projetos que cheguem à prática."
+      ]
+    },
+    {
+      "nome": "Joseildo Ramos",
+      "cargo": "Deputado (PT - BA)",
+      "opinioes": [
+        "Manifestou preocupação com a privatização dos serviços públicos de saneamento.",
+        "Enfatizou a necessidade de financiamento para empresas públicas e autarquias."
+      ]
+    },
+    {
+      "nome": "Kiko Celeguim",
+      "cargo": "Deputado (PT - SP)",
+      "opinioes": [
+        "Destacou os desafios do transporte coletivo e da mobilidade urbana nas regiões metropolitanas.",
+        "Sugeriu a criação de uma autoridade metropolitana para coordenar o transporte coletivo."
+      ]
+    },
+    {
+      "nome": "Guilherme Boulos",
+      "cargo": "Deputado (PSOL - SP)",
+      "opinioes": [
+        "Defendeu o fortalecimento do programa Minha Casa, Minha Vida Entidades.",
+        "Elogiou o Programa Periferia Viva por levar serviços e infraestrutura para as periferias."
+      ]
+    },
+    {
+      "nome": "Alfredinho",
+      "cargo": "Deputado (PT - SP)",
+      "opinioes": [
+        "Reforçou a importância do programa Minha Casa, Minha Vida Entidades.",
+        "Criticou a burocracia que atrapalha o andamento dos programas habitacionais.",
+        "Sugeriu investimentos em infraestrutura nas periferias."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Viação e Transportes discutiu as prioridades do Ministério das Cidades para 2023, com a presença do Ministro Jader Barbalho Filho. Entre os tópicos abordados, destacaram-se os programas habitacionais como o Minha Casa, Minha Vida, a ampliação de subsídios e a redução de juros para financiamentos habitacionais, bem como iniciativas de mobilidade urbana e saneamento ambiental. Os deputados presentes expressaram suas opiniões e sugestões, enfatizando a importância de parcerias entre diferentes níveis de governo e a necessidade de reduzir a burocracia para a implementação eficaz dos programas."
+}

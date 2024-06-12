@@ -1,0 +1,52 @@
+{
+  "assunto": "Regularização fundiária de áreas rurais situadas na Amazônia Legal e os impactos do Decreto nº 11.688, de 5 de setembro de 2023",
+  "envolvidos": [
+    {
+      "nome": "Coronel Fernanda",
+      "cargo": "Deputada (PL - MT)",
+      "opinioes": [
+        "Agradeceu ao Presidente do INCRA por sua presença e destacou a importância do tema.",
+        "Manifestou preocupação sobre a função da FUNAI nas questões das glebas.",
+        "Afirmou que o INCRA começou a trabalhar novamente com o governo Lula.",
+        "Fez vários questionamentos sobre o impacto do Decreto nº 11.688 e as ações do INCRA.",
+        "Denunciou que o Superintendente do INCRA estaria exigindo filiação ao PT para atendimento das pessoas."
+      ]
+    },
+    {
+      "nome": "Daniel Agrobom",
+      "cargo": "Deputado (PL - GO) e Presidente da audiência",
+      "opinioes": [
+        "Abriu a audiência pública para esclarecimentos sobre o Decreto nº 11.688.",
+        "Agradeceu a presença dos participantes e explicou as regras da audiência."
+      ]
+    },
+    {
+      "nome": "César Fernando Schiavon Aldrighi",
+      "cargo": "Presidente do INCRA",
+      "opinioes": [
+        "Agradeceu o convite para participar da audiência e prestar esclarecimentos.",
+        "Destacou a importância da regularização fundiária para a política do Governo Lula.",
+        "Informou que o INCRA participou da elaboração do Decreto nº 11.688.",
+        "Explicou que o decreto não trava a regularização fundiária, mas estabelece novos critérios.",
+        "Defendeu que o INCRA deve atender todos de forma igualitária, independentemente de afiliações partidárias."
+      ]
+    },
+    {
+      "nome": "Bohn Gass",
+      "cargo": "Deputado (Bloco/PT - RS)",
+      "opinioes": [
+        "Criticou o sucateamento do INCRA no governo passado e elogiou os esforços atuais de regularização.",
+        "Apoiou o Decreto nº 11.688, afirmando que ele está dentro da lei e é necessário para a sustentabilidade."
+      ]
+    },
+    {
+      "nome": "Shirley Anny Abreu do Nascimento",
+      "cargo": "Diretora da Secretaria de Governança Fundiária, Desenvolvimento Territorial e Socioambiental do Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+      "opinioes": [
+        "Apoiou as explicações do Presidente do INCRA e destacou que não houve mudança na legislação com o novo decreto.",
+        "Afirmou que todas as famílias que cumprirem a legislação serão regularizadas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a regularização fundiária na Amazônia Legal à luz do Decreto nº 11.688, de 5 de setembro de 2023. A Deputada Coronel Fernanda, autora do requerimento, expressou preocupações sobre o papel da FUNAI e denunciou práticas partidárias no INCRA. O Presidente do INCRA, César Fernando Schiavon Aldrighi, defendeu o decreto e a atuação do INCRA, destacando a importância da regularização fundiária para o governo. Deputados como Bohn Gass apoiaram o decreto e enfatizaram a necessidade de sustentabilidade. A audiência contou também com a participação de Shirley Anny Abreu do Nascimento, que reforçou a continuidade das regularizações conforme a lei."
+}

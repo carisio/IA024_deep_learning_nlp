@@ -1,0 +1,50 @@
+{
+  "assunto": "Discurso do Ministro da Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, Carlos Fávaro, sobre os assuntos de relevância do Ministério em 2023 e as perspectivas para 2024.",
+  "envolvidos": [
+    {
+      "nome": "Tião Medeiros",
+      "cargo": "Presidente da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "opinioes": [
+        "A CAPADR foi muito atuante, aprovou matérias importantes e promoveu 92 eventos.",
+        "O setor agropecuário é a principal alavanca do crescimento econômico brasileiro.",
+        "A Comissão realizou encontros, seminários e mesas-redondas em vários Estados e recebeu delegações parlamentares internacionais."
+      ]
+    },
+    {
+      "nome": "Carlos Fávaro",
+      "cargo": "Ministro da Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "opinioes": [
+        "A importância do diálogo para encontrar soluções para os problemas da agropecuária brasileira.",
+        "O Plano Safra recorde e suas inovações, como a linha de crédito dolarizada.",
+        "A abertura de 72 novos mercados internacionais para produtos agropecuários brasileiros.",
+        "A necessidade de políticas públicas para a agricultura familiar e a sustentabilidade."
+      ]
+    },
+    {
+      "nome": "Domingos Sávio",
+      "cargo": "Deputado",
+      "opinioes": [
+        "A necessidade de atenção ao setor do leite devido à concorrência predatória das importações.",
+        "A importância da regulamentação do autocontrole na pecuária."
+      ]
+    },
+    {
+      "nome": "Bohn Gass",
+      "cargo": "Deputado",
+      "opinioes": [
+        "O reconhecimento do Plano Safra como o melhor da história recente.",
+        "A crítica à alta taxa de juros e à autonomia do Banco Central.",
+        "A defesa da sustentabilidade e da pecuária familiar."
+      ]
+    },
+    {
+      "nome": "Vermelho",
+      "cargo": "Deputado",
+      "opinioes": [
+        "A importância da simplificação dos processos burocráticos para a liberação de recursos.",
+        "A necessidade de infraestrutura nas estradas vicinais para o escoamento da produção."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública contou com a presença do Ministro Carlos Fávaro, que discutiu os avanços e desafios da agricultura brasileira em 2023 e as perspectivas para 2024. O Ministro destacou a importância do diálogo para solucionar problemas no setor, o sucesso do Plano Safra, a abertura de novos mercados e a necessidade de políticas públicas focadas na agricultura familiar e sustentabilidade. O Presidente da Comissão, Tião Medeiros, e os Deputados Domingos Sávio, Bohn Gass e Vermelho também participaram, levantando questões sobre o setor do leite, a alta taxa de juros e a infraestrutura necessária para o escoamento da produção agrícola."
+}

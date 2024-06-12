@@ -1,0 +1,73 @@
+{
+  "assunto": "Situação da falta de vagas no sistema público de creches ou conveniadas da educação infantil no Brasil e modelos que possam atender às diversas necessidades da família brasileira.",
+  "envolvidos": [
+    {
+      "nome": "Daiana Santos",
+      "cargo": "Deputada",
+      "opinioes": [
+        "É necessário debater a situação da falta de vagas no sistema público de creches.",
+        "Devemos considerar a diversidade das famílias brasileiras ao criar modelos de creches.",
+        "As disparidades regionais impactam muito todos esses dados que vemos na sociedade.",
+        "Prover vaga para todas as crianças não é algo trivial; é um desafio coletivo."
+      ]
+    },
+    {
+      "nome": "Vanja Andréa Santos",
+      "cargo": "Presidenta Nacional da União Brasileira de Mulheres (UBM)",
+      "opinioes": [
+        "É um prazer estar nesta Casa, que é do povo e das mulheres.",
+        "Temos que aumentar o número de mulheres de luta nesta Casa para vislumbrar e planejar um futuro de igualdade.",
+        "A questão das creches impacta principalmente as trabalhadoras domésticas, que muitas vezes não têm onde deixar os filhos."
+      ]
+    },
+    {
+      "nome": "Helen Perrella",
+      "cargo": "Conselheira do Conselho Nacional de Direitos Humanos",
+      "opinioes": [
+        "O CNDH recebe muitas denúncias sobre a questão das creches.",
+        "É importante debater amplamente a falta de vagas em creches com a sociedade brasileira."
+      ]
+    },
+    {
+      "nome": "Paola Domingues Botelho Reis de Nazareth",
+      "cargo": "Promotora de Justiça do Ministério Público de Minas Gerais",
+      "opinioes": [
+        "Há a necessidade de articular os diferentes setores do poder público e da sociedade civil para garantir os direitos das crianças.",
+        "A adoção de medidas sugestivas a Estados e Municípios é crucial para a implementação do plano da primeira infância."
+      ]
+    },
+    {
+      "nome": "Charlene Borges",
+      "cargo": "Representante da Defensoria Pública da União",
+      "opinioes": [
+        "A luta pela criação de vagas em creches deve envolver parceiros das instituições e da sociedade civil organizada."
+      ]
+    },
+    {
+      "nome": "Thamirys Nunes",
+      "cargo": "Representante da entidade Minha Criança Trans",
+      "opinioes": [
+        "É preciso avaliar concretamente a experiência das mães crecheiras.",
+        "Creche é espaço de educação e ludicidade."
+      ]
+    },
+    {
+      "nome": "Lucas Sachsida Junqueira Carneiro",
+      "cargo": "Coordenador da Comissão Permanente de Educação do Conselho Nacional de Procuradores-Gerais do Ministério Público",
+      "opinioes": [
+        "O problema de acesso à educação pública é complexo e vai além da falta de vagas.",
+        "Durante a pandemia, muitas escolas públicas permaneceram fechadas por falta de condições básicas de saneamento.",
+        "Quase todas as metas do Plano Nacional de Educação estão em descumprimento ou retrocesso."
+      ]
+    },
+    {
+      "nome": "Rodrigo Azambuja",
+      "cargo": "Representante da Associação Nacional dos Defensores e Defensoras Públicas",
+      "opinioes": [
+        "A garantia de acesso às creches é um direito fundamental.",
+        "Relatórios mostram que o público que procura as Defensorias Públicas é majoritariamente feminino."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a falta de vagas no sistema público de creches no Brasil, abordando as necessidades diversificadas das famílias brasileiras. Entre os envolvidos, destacaram-se a Deputada Daiana Santos, que enfatizou a complexidade do problema e a necessidade de um esforço coletivo; Vanja Andréa Santos, que defendeu a ampliação da representação feminina no debate; e Helen Perrella, que ressaltou as denúncias frequentes ao CNDH sobre o tema. Outros participantes, como Lucas Sachsida Junqueira Carneiro, expuseram problemas estruturais e legais que dificultam o acesso à educação infantil de qualidade."
+}

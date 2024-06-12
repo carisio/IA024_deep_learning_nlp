@@ -1,0 +1,51 @@
+{
+  "assunto": "Debate sobre normas de regulação para o setor farmacêutico relacionadas às terapias gênicas",
+  "envolvidos": [
+    {
+      "nome": "Paulão",
+      "cargo": "Deputado (Bloco/PT - AL)",
+      "opinioes": [
+        "A importância de debater as terapias gênicas no tratamento de doenças raras para o setor farmacêutico.",
+        "A necessidade de tornar o conteúdo acessível à sociedade e evitar a criação de lobby no setor."
+      ]
+    },
+    {
+      "nome": "Daniela Marreco Cerqueira",
+      "cargo": "Representante da Secretaria da Atenção Especializada à Saúde — SAES, do Ministério da Saúde, e Secretária Executiva da CMED",
+      "opinioes": [
+        "A importância de discutir o acesso dos pacientes às terapias gênicas.",
+        "A necessidade de precificação precisa das terapias gênicas para garantir a acessibilidade.",
+        "A CMED monitora o mercado de medicamentos e define os preços-teto.",
+        "Exemplo da diferença de precificação do medicamento Trikafta entre o valor inicial de 112 mil reais e o final de 36 mil reais."
+      ]
+    },
+    {
+      "nome": "Salmo Raskin",
+      "cargo": "Representante da Associação Médica Brasileira — AMB",
+      "opinioes": [
+        "A transparência no processo de precificação é necessária.",
+        "As terapias gênicas têm um impacto significativo a longo prazo na vida dos pacientes.",
+        "A necessidade de garantir um equilíbrio entre o lucro da indústria e a acessibilidade dos medicamentos para os pacientes."
+      ]
+    },
+    {
+      "nome": "Renato Porto",
+      "cargo": "Presidente da Associação da Indústria Farmacêutica de Pesquisa — INTERFARMA",
+      "opinioes": [
+        "O Brasil precisa ter tratamentos acessíveis.",
+        "A importância de autorregulamentação no setor de precificação de medicamentos.",
+        "A necessidade de discutir preços de medicamentos com a indústria farmacêutica para garantir um equilíbrio justo."
+      ]
+    },
+    {
+      "nome": "Valtenir Pereira",
+      "cargo": "Autor do Projeto de Lei nº 3.499, de 2021",
+      "opinioes": [
+        "A ANVISA deve ter uma análise diferenciada para doenças raras e ultrarraras.",
+        "Os tratamentos para doenças raras são caros devido ao mercado pequeno e exigem investimentos robustos.",
+        "Exemplo do medicamento Zolgensma e a necessidade de terapias gênicas para doenças como a atrofia muscular espinhal."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a regulação das terapias gênicas no setor farmacêutico, abordando a importância da acessibilidade dos tratamentos para doenças raras e a necessidade de uma precificação justa e transparente. Deputados, representantes da indústria farmacêutica e de associações médicas discutiram as implicações econômicas e sociais das terapias gênicas, buscando um equilíbrio entre o lucro da indústria e o acesso dos pacientes aos medicamentos."
+}

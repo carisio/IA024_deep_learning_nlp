@@ -1,0 +1,71 @@
+{
+  "assunto": "Discussão sobre a Proposta de Emenda à Constituição nº 169/19, que altera o art. 37 da Constituição Federal para permitir a acumulação remunerada de um cargo de professor com outro de qualquer natureza.",
+  "envolvidos": [
+    {
+      "nome": "Daniel Agrobom",
+      "cargo": "Deputado (PL - GO) e Presidente da Comissão",
+      "opinioes": [
+        "Presidiu a audiência pública e organizou a discussão sobre a PEC 169/19."
+      ]
+    },
+    {
+      "nome": "Alessio Costa Lima",
+      "cargo": "Presidente da União Nacional dos Dirigentes Municipais de Educação (UNDIME)",
+      "opinioes": [
+        "Defendeu a valorização dos profissionais da educação, destacando a importância de piso, carreira e formação.",
+        "Expressou preocupação com a qualidade da formação dos professores, especialmente com o aumento de profissionais formados por EAD.",
+        "Acredita que a PEC 169/19 pode precarizar a função docente ao permitir a acumulação de cargos de qualquer natureza, desviando o foco da profissionalização docente."
+      ]
+    },
+    {
+      "nome": "Heder Silva e Noronha",
+      "cargo": "Assessor da Subsecretaria de Gestão Administrativa do Ministério da Educação",
+      "opinioes": [
+        "Apoiou a valorização de professores com dedicação exclusiva, especialmente em instituições federais de ensino.",
+        "Compartilhou a preocupação de que a PEC 169/19 pode levar à precarização do trabalho docente."
+      ]
+    },
+    {
+      "nome": "José Pinheiro de Queiroz Neto",
+      "cargo": "Representante do Conselho Superior do Instituto Federal do Amazonas (IFAM)",
+      "opinioes": [
+        "Destacou a importância de valorizar o professor, mas reconheceu a realidade de que muitos precisam buscar outros empregos devido à baixa remuneração.",
+        "Acredita que a PEC pode facilitar a vida dos professores em regiões carentes, permitindo que eles assumam outros cargos públicos.",
+        "Alertou para a necessidade de clareza nas regras sobre a acumulação de cargos para evitar judicialização."
+      ]
+    },
+    {
+      "nome": "Prof. Paulo Fernando",
+      "cargo": "Deputado (REPUBLICANOS - DF) e Relator",
+      "opinioes": [
+        "Apoiou a PEC 169/19, argumentando que ela assegura a liberdade de escolha dos professores.",
+        "Destacou que a PEC não define cargos técnicos ou científicos, abrangendo todos os níveis de ensino.",
+        "Sugeriu ouvir mais especialistas e representantes da área educacional para aprimorar o texto da PEC."
+      ]
+    },
+    {
+      "nome": "Darci de Matos",
+      "cargo": "Deputado (PSD - SC)",
+      "opinioes": [
+        "Apoiou a PEC, destacando que ela adequa a Constituição às mudanças modernas e resolve a falta de professores no interior do Brasil."
+      ]
+    },
+    {
+      "nome": "Prof. Reginaldo Veras",
+      "cargo": "Deputado (PV - DF)",
+      "opinioes": [
+        "Propôs uma emenda à PEC para permitir que professores atuem como microempreendedores individuais (MEI), regularizando atividades como palestras e consultorias.",
+        "Argumentou que isso tiraria muitos professores da ilegalidade e resolveria questões de declaração de renda extra."
+      ]
+    },
+    {
+      "nome": "Fernando Mineiro",
+      "cargo": "Deputado (PT - RN)",
+      "opinioes": [
+        "Destacou a complexidade do tema e a necessidade de ouvir entidades representativas dos professores e conselhos de secretários de educação.",
+        "Sugeriu a realização de audiências públicas para ampliar o debate e considerar os impactos da PEC em todos os níveis de ensino."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a PEC 169/19, que permite a acumulação remunerada de um cargo de professor com outro de qualquer natureza. A proposta gerou debate sobre a valorização dos professores e a possível precarização do trabalho docente. Participantes destacaram a importância de formação adequada e carreiras valorizadas, enquanto alguns apoiaram a PEC como uma forma de flexibilizar regras e resolver carências regionais de professores. Sugestões foram feitas para ouvir mais especialistas e representantes da educação antes de finalizar a PEC."
+}

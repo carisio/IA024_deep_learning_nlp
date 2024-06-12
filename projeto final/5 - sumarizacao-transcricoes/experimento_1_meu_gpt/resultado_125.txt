@@ -1,0 +1,64 @@
+{
+  "assunto": "Debate sobre a seleção e formação de diretores das escolas públicas do ensino fundamental e médio no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Idilvan Alencar",
+      "cargo": "Deputado Federal e Presidente da Comissão de Educação",
+      "opinioes": [
+        "A seleção de diretores é obrigatória segundo a lei do FUNDEB, e não mais uma opção.",
+        "É necessário que a seleção de diretores seja baseada em critérios técnicos para garantir a competência dos gestores escolares.",
+        "Há uma preocupação com processos de seleção que não são eficazes e que podem prejudicar a qualidade da educação.",
+        "A indicação política de diretores é vista como negativa e deve ser evitada.",
+        "A necessidade de observatórios e canais de denúncia para garantir que a seleção de diretores seja feita corretamente."
+      ]
+    },
+    {
+      "nome": "Adriana Almeida",
+      "cargo": "Vereadora de Fortaleza pelo PT e ex-Diretora Escolar",
+      "opinioes": [
+        "Defende processos claros e democráticos para a seleção de gestores escolares.",
+        "A seleção pública e a eleição dentro das escolas são fundamentais para a gestão democrática.",
+        "Acredita que o processo de redemocratização passa pela eleição de gestores nas escolas.",
+        "Destaca a importância da meritocracia e da competência técnica na seleção de diretores."
+      ]
+    },
+    {
+      "nome": "Ana Cristina Prado de Oliveira",
+      "cargo": "Professora adjunta na UNIRIO",
+      "opinioes": [
+        "O trabalho do diretor é crucial para o sucesso escolar.",
+        "A seleção e formação de diretores devem abordar dimensões político-institucionais, pedagógicas, administrativas e financeiras.",
+        "Formações continuadas para diretores muitas vezes não atendem às necessidades práticas dos gestores.",
+        "Indicações políticas para cargos de diretor estão correlacionadas com piores resultados escolares."
+      ]
+    },
+    {
+      "nome": "Antonio Bresolin",
+      "cargo": "Diretor-Executivo da Associação Dados para um Debate Democrático na Educação (D3e)",
+      "opinioes": [
+        "As políticas educacionais brasileiras precisam usar mais as evidências científicas.",
+        "A formação e seleção dos diretores são essenciais para a qualidade da educação.",
+        "Há uma diversidade de práticas na seleção de diretores pelo Brasil, mas é necessário adotar melhores práticas baseadas em evidências."
+      ]
+    },
+    {
+      "nome": "Lara Simielli",
+      "cargo": "Professora na Fundação Getulio Vargas",
+      "opinioes": [
+        "É necessário adotar critérios técnicos e múltiplas etapas no processo seletivo de diretores.",
+        "A formação de diretores deve ser contínua e combinar teoria e prática.",
+        "Políticas públicas devem priorizar a alocação de diretores bem formados nas escolas mais vulneráveis."
+      ]
+    },
+    {
+      "nome": "Cássia Silva Santos Góes",
+      "cargo": "Mestre em Educação e professora na Rede Municipal de Ensino de Salvador",
+      "opinioes": [
+        "A eleição de diretores deve envolver a comunidade escolar para garantir a democracia na gestão.",
+        "O processo de seleção de diretores deve ser contínuo e incluir formação inicial e continuada.",
+        "Há a necessidade de fortalecer as equipes escolares para que diretores possam focar nas dimensões pedagógicas e administrativas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Educação da Câmara dos Deputados, presidida pelo Deputado Idilvan Alencar, discutiu a seleção e formação de diretores das escolas públicas do ensino fundamental e médio no Brasil. Participaram do debate a Vereadora Adriana Almeida, a Professora Ana Cristina Prado de Oliveira, o Diretor-Executivo Antonio Bresolin, a Professora Lara Simielli e a Mestre em Educação Cássia Silva Santos Góes. Todos destacaram a importância de processos de seleção baseados em critérios técnicos e democráticos, com formação contínua e alinhada às necessidades dos diretores. Foi unânime a crítica às indicações políticas para o cargo, ressaltando a necessidade de observatórios e canais de denúncia para garantir a correta aplicação da lei e a qualidade da educação."
+}

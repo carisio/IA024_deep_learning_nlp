@@ -1,0 +1,69 @@
+{
+  "assunto": "Tratamento de povos indígenas no contexto de encarceramento",
+  "envolvidos": [
+    {
+      "nome": "Célia Xakriabá",
+      "cargo": "Deputada (Bloco/PSOL - MG) e Presidente da Comissão",
+      "opinioes": [
+        "Destacou a relevância do tema do encarceramento indígena, mencionando dados preocupantes sobre a população indígena aprisionada, especialmente em Mato Grosso do Sul.",
+        "Agradeceu a participação de diversas autoridades e membros da Comissão, ressaltando a importância do debate.",
+        "Defendeu a criação de uma legislação específica para o sistema prisional carcerário que trate das questões indígenas."
+      ]
+    },
+    {
+      "nome": "Aléssia Bertuleza Tuxá",
+      "cargo": "Defensora Pública do Estado da Bahia, Coordenadora do Grupo de Trabalho sobre Igualdade Étnica dos Povos Indígenas e Presidente da Comissão de Direito dos Povos Indígenas",
+      "opinioes": [
+        "Destacou a importância de discutir o encarceramento de povos indígenas, enfatizando as dificuldades e preconceitos enfrentados desde a abordagem policial até a prisão.",
+        "Ressaltou a Resolução nº 287, de 2019, do Conselho Nacional de Justiça, como um passo importante, mas insuficiente, para garantir os direitos dos indígenas encarcerados.",
+        "Criticou o sistema prisional brasileiro, descrevendo-o como uma máquina de violar direitos, especialmente para indígenas, e destacou a necessidade de reconhecimento das diferenças culturais no tratamento dessas pessoas."
+      ]
+    },
+    {
+      "nome": "Daniele de Souza Osório",
+      "cargo": "Defensora Pública da União em Mato Grosso do Sul, Coordenadora do Grupo de Trabalho de Povos Indígenas",
+      "opinioes": [
+        "Alertou sobre as condições degradantes do sistema penitenciário, especialmente para os povos indígenas.",
+        "Mencionou a ausência de tradutores e perícia antropológica como graves violações aos direitos dos indígenas encarcerados.",
+        "Defendeu a necessidade de uma legislação específica para garantir os direitos dos indígenas no sistema prisional."
+      ]
+    },
+    {
+      "nome": "Viviane Balbuglio",
+      "cargo": "Representante do Instituto das Irmãs da Santa Cruz e do Conselho Indigenista Missionário (CIMI)",
+      "opinioes": [
+        "Enfatizou que o encarceramento indígena está ligado às pautas anti-indígenas e à criminalização das lutas pelo território.",
+        "Destacou a necessidade de políticas públicas que incluam a identificação correta dos indígenas e a formação de profissionais do sistema jurídico para lidar com questões indígenas.",
+        "Relatou casos de subnotificação e invisibilidade de indígenas no sistema penitenciário, alertando para a falta de intérpretes e laudos antropológicos adequados."
+      ]
+    },
+    {
+      "nome": "Andrey Cordeiro Ferreira",
+      "cargo": "Vice-Coordenador do Comitê de Laudos Antropológicos da Associação Brasileira de Antropologia (ABA)",
+      "opinioes": [
+        "Discutiu o racismo estrutural e a colonialidade presentes no sistema de justiça penal.",
+        "Relatou a atuação do Comitê de Laudos Antropológicos e a importância de combater formas conscientes e inconscientes de discriminação contra indígenas.",
+        "Defendeu a necessidade de ações jurídicas e socioeducativas para combater o racismo no sistema prisional."
+      ]
+    },
+    {
+      "nome": "Caíque Ribeiro Galícia",
+      "cargo": "Assessor da Secretaria-Executiva do Ministério dos Povos Indígenas",
+      "opinioes": [
+        "Propôs um novo conceito de justiça que leve em conta as peculiaridades dos povos indígenas e a responsabilidade coletiva.",
+        "Criticou a formação dogmática dos juristas no Brasil e defendeu a necessidade de uma educação jurídica que inclua a realidade dos povos indígenas.",
+        "Defendeu a necessidade de reflexões e ações para reestruturar o sistema de justiça e suas abordagens em relação aos indígenas."
+      ]
+    },
+    {
+      "nome": "Ana Lívia Fontes da Silva",
+      "cargo": "Coordenadora Nacional de Assistência Social da Secretaria Nacional de Políticas Penais, do Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "Ressaltou a invisibilidade dos indígenas no sistema prisional e a subnotificação dos dados.",
+        "Defendeu a criação de políticas públicas e o fortalecimento da rede de atendimento para garantir a dignidade dos indígenas encarcerados.",
+        "Chamou atenção para a necessidade de cooperação entre diferentes Ministérios e políticas públicas para enfrentar as vulnerabilidades no sistema prisional."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública, presidida pela Deputada Célia Xakriabá, debateu o tratamento dos povos indígenas no contexto do encarceramento, destacando a criminalização, os desafios enfrentados pelos indígenas no sistema prisional e a necessidade de políticas públicas e legislações específicas para garantir seus direitos. Participaram defensores públicos, representantes de organizações indigenistas e especialistas, que abordaram o racismo estrutural, a falta de tradutores e perícia antropológica, e a subnotificação dos dados sobre indígenas encarcerados."
+}

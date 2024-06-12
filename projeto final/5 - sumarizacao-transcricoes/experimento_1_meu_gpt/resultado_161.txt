@@ -1,0 +1,105 @@
+{
+  "assunto": "Debate sobre os preços e a prestação de serviços de transporte aéreo regular no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Neto Carletto",
+      "cargo": "Presidente da Comissão, Deputado. Bloco/PP - BA",
+      "opinioes": [
+        "Solicitou a exposição de dados sobre os custos e dificuldades das empresas aéreas.",
+        "Mencionou a redução de alíquotas de ICMS sobre o querosene de aviação na Bahia e a compensação das empresas pelos prejuízos da pandemia através da Lei do PERSE.",
+        "Destacou a importância de conhecer todos os benefícios concedidos pelo governo às empresas aéreas.",
+        "Questionou os altos preços das passagens aéreas e a cobrança de bagagem."
+      ]
+    },
+    {
+      "nome": "Juninho do Pneu",
+      "cargo": "Deputado. Bloco/UNIÃO - RJ",
+      "opinioes": [
+        "Questionou sobre a quantidade de voos atrasados e cancelados entre 2021 e 2023, os motivos desses cancelamentos e atrasos, e a quantidade de passageiros prejudicados.",
+        "Perguntou sobre as ações da ANAC diante desses atrasos e cancelamentos e as variações de reajuste nas passagens aéreas.",
+        "Defendeu a necessidade de dados para ampliar o debate e melhorar o serviço de transporte aéreo no Brasil.",
+        "Destacou a importância de proteger as empresas aéreas em casos de cancelamentos e atrasos por motivos de força maior."
+      ]
+    },
+    {
+      "nome": "Ricardo Catanant",
+      "cargo": "Diretor da Agência Nacional de Aviação Civil (ANAC)",
+      "opinioes": [
+        "Destacou a importância de ouvir as percepções dos deputados sobre o serviço de transporte aéreo.",
+        "Apresentou uma perspectiva histórica e atual sobre a aviação no Brasil, mencionando o aumento de passageiros e a regulação tarifária.",
+        "Comentou sobre as oscilações de preços e as alternativas para melhorar o setor."
+      ]
+    },
+    {
+      "nome": "Vitor Hugo do Amaral Ferreira",
+      "cargo": "Coordenador-Geral de Estudos e Monitoramento de Mercado da Secretaria Nacional do Consumidor (SENACON)",
+      "opinioes": [
+        "Reforçou a necessidade de atenção às reclamações de consumidores nas plataformas oficiais.",
+        "Mencionou processos administrativos contra companhias aéreas e a avaliação do combate ao racismo nos serviços prestados pelas operadoras.",
+        "Propôs a criação de uma força-tarefa para reduzir o número de reclamações."
+      ]
+    },
+    {
+      "nome": "Jurema Monteiro",
+      "cargo": "Presidente da Associação Brasileira das Empresas Aéreas (ABEAR)",
+      "opinioes": [
+        "Afirmou que as empresas aéreas acumulam prejuízos de 46 bilhões de reais nos últimos 4 anos.",
+        "Defendeu a criação de um ambiente de negócios justo e competitivo para aumentar a oferta de voos e reduzir tarifas.",
+        "Comentou sobre a adesão das empresas aéreas à plataforma consumidor.gov.br e a melhora nos índices de satisfação dos passageiros."
+      ]
+    },
+    {
+      "nome": "Nicoletti",
+      "cargo": "Deputado. Bloco/UNIÃO - RR",
+      "opinioes": [
+        "Destacou as dificuldades enfrentadas pelo Estado de Roraima em relação aos voos e preços das passagens aéreas.",
+        "Criticou a falta de aumento no número de voos e os altos preços das passagens apesar dos incentivos concedidos.",
+        "Apelou por maior regularidade e redução de preços dos voos."
+      ]
+    },
+    {
+      "nome": "Silvia Cristina",
+      "cargo": "Deputada. PL - RO",
+      "opinioes": [
+        "Criticou a alta nos preços das passagens aéreas em Rondônia e a falta de respostas das companhias aéreas.",
+        "Mencionou a judicialização frequente devido à falta de resposta adequada das companhias aéreas.",
+        "Defendeu a necessidade de respostas claras e respeito aos passageiros do Norte do Brasil."
+      ]
+    },
+    {
+      "nome": "Lula da Fonte",
+      "cargo": "Deputado. Bloco/PP - PE",
+      "opinioes": [
+        "Criticou a alta das passagens aéreas e afirmou que as empresas aéreas praticam oligopólio.",
+        "Destacou a redução de alíquotas de PIS e COFINS sobre o transporte aéreo como incentivo para as companhias aéreas."
+      ]
+    },
+    {
+      "nome": "Alberto Fajerman",
+      "cargo": "Assessor da Presidência da Gol Linhas Aéreas",
+      "opinioes": [
+        "Defendeu a aplicação da teoria econômica para justificar a variação de preços das tarifas aéreas.",
+        "Mencionou os custos operacionais das empresas aéreas e a importância da liberdade tarifária.",
+        "Destacou a importância de manter um modelo que permite atender 17 milhões de passageiros com tarifas mais baixas."
+      ]
+    },
+    {
+      "nome": "Elton Fernandes",
+      "cargo": "Professor titular do Programa de Engenharia de Produção da COPPE, UFRJ",
+      "opinioes": [
+        "Defendeu a importância de uma indústria nacional de aviação comercial robusta.",
+        "Criticou a possibilidade de entregar o setor estratégico de aviação para empresas internacionais.",
+        "Comparou a situação da aviação com a da capacidade naval do Brasil após a autorização da cabotagem."
+      ]
+    },
+    {
+      "nome": "Rafael Pereira Scherre",
+      "cargo": "Diretor de Outorgas, Patrimônio e Políticas Regulatórias Aeroportuárias da Secretaria Nacional de Aviação Civil",
+      "opinioes": [
+        "Mencionou um projeto piloto para viabilizar passagens aéreas mais baratas para aposentados com renda de até dois salários mínimos.",
+        "Comentou sobre a necessidade de testar o projeto antes de expandi-lo para outros públicos-alvo."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Viação e Transportes da Câmara dos Deputados discutiu os altos preços das passagens aéreas e a má prestação de serviços pelas companhias aéreas no Brasil. O debate foi conduzido pelo Deputado Neto Carletto, com participação de vários deputados, representantes da ANAC, ABEAR, SENACON e outros. Os deputados destacaram a necessidade de mais transparência nos custos das empresas aéreas, criticaram a alta nos preços das passagens e defenderam a criação de um ambiente mais competitivo. Representantes das empresas aéreas mencionaram os desafios enfrentados pelo setor, como os prejuízos acumulados, e a importância da liberdade tarifária. Foi proposto um projeto piloto para oferecer passagens aéreas mais baratas a públicos específicos, como aposentados de baixa renda."
+}

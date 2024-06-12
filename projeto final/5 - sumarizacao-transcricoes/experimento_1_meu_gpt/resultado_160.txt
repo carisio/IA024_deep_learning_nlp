@@ -1,0 +1,78 @@
+{
+  "assunto": "Inclusão escolar das pessoas com deficiência e os desafios para a sua implementação",
+  "envolvidos": [
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado (Bloco/PSOL - RJ)",
+      "opinioes": [
+        "Defende a importância da inclusão escolar para pessoas com deficiência.",
+        "Reconhece a falta de intérpretes de LIBRAS como uma falha estrutural na Câmara dos Deputados.",
+        "Assume responsabilidade pela falta de acessibilidade e compromete-se a garantir direitos de todas as pessoas, especialmente as com deficiência."
+      ]
+    },
+    {
+      "nome": "Pedro Lucas Costa",
+      "cargo": "Professor e Mestre em Educação Especial",
+      "opinioes": [
+        "Destaca a importância da inclusão para o aprendizado e desenvolvimento.",
+        "Afirma que a inclusão é necessária para criar um contexto social favorável ao desenvolvimento.",
+        "Defende que a educação deve ser inclusiva para garantir que todos os alunos aprendam juntos."
+      ]
+    },
+    {
+      "nome": "Vinícius Ergang Streda",
+      "cargo": "Autodefensor da Federação Brasileira das Associações de Síndrome de Down",
+      "opinioes": [
+        "Critica a infraestrutura irregular da legislação vigente para a educação inclusiva.",
+        "Defende a aplicação da Lei Brasileira de Inclusão e a necessidade de equidade e respeito na educação.",
+        "Ressalta a importância de uma formação pedagógica com acessibilidade para a verdadeira inclusão social."
+      ]
+    },
+    {
+      "nome": "Anna Paula Feminella",
+      "cargo": "Secretária da Secretaria Nacional dos Direitos da Pessoa com Deficiência",
+      "opinioes": [
+        "Enfatiza que a inclusão social é um pilar da democratização do país.",
+        "Destaca a necessidade de investimentos em recursos e qualificação profissional para a educação inclusiva.",
+        "Ressalta a importância de superar o capacitismo e garantir direitos e acessibilidade para todos."
+      ]
+    },
+    {
+      "nome": "Luciana Viegas",
+      "cargo": "Representante da Coalizão Brasileira pela Educação Inclusiva e da ABRAÇA",
+      "opinioes": [
+        "Critica a falta de mudanças na educação ao longo dos séculos.",
+        "Defende que a educação inclusiva é essencial para o sistema educacional brasileiro.",
+        "Enfatiza a necessidade de financiamento público e políticas que garantam a inclusão real e emancipatória."
+      ]
+    },
+    {
+      "nome": "Marinalva Silva Oliveira",
+      "cargo": "Coordenadora do Laboratório de Inclusão, Mediação Simbólica, Desenvolvimento e Aprendizagem (LIMDA)",
+      "opinioes": [
+        "Defende que políticas públicas educacionais devem garantir inclusão escolar nas instituições regulares.",
+        "Critica a Parceria Público-Privada e defende que recursos públicos devem ser destinados apenas a escolas públicas.",
+        "Destaca a importância de regulamentar o cargo de professor de apoio e garantir a formação adequada dos profissionais."
+      ]
+    },
+    {
+      "nome": "Joaquim Emanuel Barbosa",
+      "cargo": "Presidente da Associação Brasileira dos Surdos Oralizados (ABRASSO)",
+      "opinioes": [
+        "Afirma que a educação inclusiva precisa ser plenamente implementada para funcionar corretamente.",
+        "Destaca a importância da convivência entre pessoas com e sem deficiência para combater o capacitismo.",
+        "Ressalta a necessidade de acessibilidade e atitude inclusiva em todos os níveis educacionais."
+      ]
+    },
+    {
+      "nome": "Tatiana Sampaio Paixão",
+      "cargo": "Coordenadora Pedagógica do Instituto Jô Clemente",
+      "opinioes": [
+        "Defende a importância do Atendimento Educacional Especializado (AEE) no contraturno escolar.",
+        "Ressalta a necessidade de articulação entre AEE e escola comum para garantir a inclusão.",
+        "Destaca os desafios de formação de professores e a falta de recursos humanos especializados."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Educação debateu a inclusão escolar de pessoas com deficiência e os desafios para sua implementação. O deputado Glauber Braga presidiu a reunião, destacando a falta de acessibilidade e comprometendo-se a melhorar as condições. Os palestrantes incluíram especialistas e representantes de organizações de defesa dos direitos das pessoas com deficiência, que enfatizaram a necessidade de políticas inclusivas, recursos adequados e formação de professores. A educação inclusiva foi defendida como essencial para o desenvolvimento social e educativo de todos os alunos."
+}

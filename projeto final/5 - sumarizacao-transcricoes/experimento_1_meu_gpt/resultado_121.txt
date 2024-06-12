@@ -1,0 +1,75 @@
+{
+  "assunto": "Violência doméstica e familiar e seus impactos no Poder Judiciário brasileiro.",
+  "envolvidos": [
+    {
+      "nome": "Delegada Ione",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Mulher, Bloco/AVANTE - MG",
+      "opinioes": [
+        "A importância de debater a violência doméstica e familiar e seus impactos no Poder Judiciário.",
+        "A necessidade de consenso e encaminhamentos produtivos em audiências públicas.",
+        "O impacto positivo das campanhas e eventos para a aprovação de projetos de lei de interesse das mulheres."
+      ]
+    },
+    {
+      "nome": "Marcio Luiz Coelho de Freitas",
+      "cargo": "Conselheiro do Conselho Nacional de Justiça — CNJ",
+      "opinioes": [
+        "A Lei Maria da Penha inovou ao trazer o eixo da proteção para a legislação penal.",
+        "É essencial compartilhar dados entre as forças de segurança pública e o Judiciário.",
+        "A ampliação da estrutura de atendimento e especialização das varas de violência doméstica é crucial.",
+        "Há uma necessidade urgente de ampliar a competência híbrida das varas de violência doméstica."
+      ]
+    },
+    {
+      "nome": "Evangelina Castilho Duarte",
+      "cargo": "Desembargadora do Tribunal de Justiça de Minas Gerais e Coordenadora do COCEVID de Minas Gerais",
+      "opinioes": [
+        "É fundamental o compartilhamento de dados e projetos entre os Poderes Judiciário, Legislativo e Executivo.",
+        "Os números de feminicídios e medidas protetivas em Minas Gerais mostram que ainda há muito a ser feito.",
+        "Há uma sub-representação de mulheres no Tribunal de Justiça de Minas Gerais.",
+        "É importante a intervenção em canteiros de obras para sensibilizar sobre a violência doméstica."
+      ]
+    },
+    {
+      "nome": "Aline Yamamoto",
+      "cargo": "Diretora de Proteção de Direitos da Secretaria Nacional de Enfrentamento à Violência contra Mulheres, do Ministério das Mulheres",
+      "opinioes": [
+        "A união de esforços é crucial para a aplicação da Lei Maria da Penha.",
+        "A importância de uma abordagem integral e intersetorial para enfrentar a violência contra as mulheres.",
+        "A necessidade de expandir e melhorar as estruturas especializadas no Judiciário.",
+        "A heterogeneidade na resposta do Judiciário aos casos de violência doméstica ainda é um problema."
+      ]
+    },
+    {
+      "nome": "Fernanda da Silva Rodrigues Fernandes",
+      "cargo": "Presidente da Associação das Defensoras e Defensores Públicos do Estado de Goiás e representante da ANADEP",
+      "opinioes": [
+        "Todos os crimes contra as mulheres cresceram em 2022, mostrando a falha do Estado em garantir segurança.",
+        "A violência doméstica afeta diretamente crianças e adolescentes que presenciam esses atos.",
+        "Há uma necessidade de revisão dos recursos existentes no combate à violência doméstica.",
+        "É importante pensar em defesa pessoal das mulheres desde os bancos escolares e em equipes multidisciplinares mais equipadas."
+      ]
+    },
+    {
+      "nome": "Ana Lúcia Lourenço",
+      "cargo": "Desembargadora do Tribunal de Justiça do Paraná e Presidente Coordenadora do COCEVID",
+      "opinioes": [
+        "A necessidade de maior integração e compartilhamento de dados entre os órgãos governamentais.",
+        "O COCEVID promove a integração das coordenadorias de violência doméstica em todo o país.",
+        "A falta de estrutura adequada nas varas de violência doméstica prejudica o combate à violência.",
+        "A criação de um business intelligence nacional sobre a situação de gênero no país poderia melhorar o enfrentamento à violência."
+      ]
+    },
+    {
+      "nome": "Eldom Stevem Barbosa dos Santos",
+      "cargo": "1º Vice-Presidente do FONAVID e Juiz de Direito do Paraná",
+      "opinioes": [
+        "Há uma falta de estrutura significativa nas comarcas menores para atender casos de violência doméstica.",
+        "A falta de equipes técnicas multidisciplinares dificulta o atendimento adequado às vítimas.",
+        "É necessário um orçamento público específico para políticas de proteção às mulheres.",
+        "A interiorização dos juizados especializados em violência doméstica é essencial."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos da Mulher debateu os impactos da violência doméstica e familiar no Poder Judiciário brasileiro. Os participantes destacaram a necessidade de maior integração e compartilhamento de dados entre os Poderes, a ampliação e estruturação das varas especializadas em violência doméstica, e a importância de políticas públicas com orçamento dedicado. Houve um consenso sobre a urgência de melhorar a resposta do Judiciário e fortalecer a rede de proteção às vítimas. Foram discutidas também a importância da educação para prevenir a violência desde cedo e a criação de programas de sensibilização em diversas áreas da sociedade."
+}

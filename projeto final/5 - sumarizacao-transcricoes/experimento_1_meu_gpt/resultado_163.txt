@@ -1,0 +1,60 @@
+{
+  "assunto": "Desafios para a garantia do direito à educação de meninas e mulheres negras",
+  "envolvidos": [
+    {
+      "nome": "Reginete Bispo",
+      "cargo": "Deputada, Bloco/PT - RS",
+      "opinioes": [
+        "Declara aberta a reunião para debater os desafios na educação de meninas e mulheres negras.",
+        "Destaca a necessidade de superação do racismo e machismo nas escolas.",
+        "Salienta a importância de legislações que garantam a igualdade racial na educação."
+      ]
+    },
+    {
+      "nome": "Natália Neris",
+      "cargo": "Coordenadora-Geral de Ações Afirmativas na Educação da Diretoria de Políticas de Ações Afirmativas do Ministério da Igualdade Racial",
+      "opinioes": [
+        "O Ministério da Igualdade Racial considera fundamentais as audiências públicas para a construção de políticas públicas.",
+        "Descreve a estrutura do Ministério e as ações voltadas para mulheres negras na educação e na ciência.",
+        "Fala sobre o programa Atlânticas, que oferece bolsas de estudo para mulheres negras, indígenas, quilombolas e ciganas."
+      ]
+    },
+    {
+      "nome": "Lucimar Rosa Dias",
+      "cargo": "Diretora de Políticas de Educação Étnico-Racial e Educação Escolar Quilombola da SECADI, MEC",
+      "opinioes": [
+        "Enfatiza a importância de considerar a inclusão e a diversidade na educação.",
+        "Ressalta a relevância da representação de mulheres negras em espaços de poder, especialmente no Ministério da Educação.",
+        "Apresenta dados e provocações sobre a situação das crianças negras na educação."
+      ]
+    },
+    {
+      "nome": "Magali Dantas",
+      "cargo": "Coordenadora-Geral de Capacitação de Altos Executivos da Escola Nacional de Administração Pública — ENAP",
+      "opinioes": [
+        "Descreve iniciativas da ENAP para capacitação de mulheres negras e lideranças negras.",
+        "Menciona o concurso público unificado como uma estratégia para inclusão de pessoas negras.",
+        "Fala sobre a importância de garantir igualdade de acesso e representatividade no serviço público."
+      ]
+    },
+    {
+      "nome": "Suelaine Carneiro",
+      "cargo": "Diretora de Educação e Pesquisa do Geledés — Instituto da Mulher Negra",
+      "opinioes": [
+        "Agradece à Comissão pela realização do debate sobre as desigualdades de raça e gênero.",
+        "Diz que a pandemia destacou a falta de acesso das meninas negras às plataformas digitais para atividades escolares.",
+        "Defende a efetivação da Lei nº 10.639, de 2003, que trata da educação das relações étnico-raciais."
+      ]
+    },
+    {
+      "nome": "Amarílis Costa",
+      "cargo": "Professora de Direito, doutora em Direitos Humanos e pesquisadora do GEPPIS, USP",
+      "opinioes": [
+        "Defende a necessidade urgente de tratar o acesso ao bem viver das mulheres e meninas negras.",
+        "Propõe a nacionalização do projeto Escola sem Racismo.",
+        "Reforça a importância dos escritos e conhecimentos produzidos por mulheres negras."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Educação abordou os desafios para a garantia do direito à educação de meninas e mulheres negras. Participaram várias especialistas que destacaram a importância de políticas afirmativas, a representação de mulheres negras em espaços de poder e a necessidade de combater o racismo e machismo nas escolas. As participantes também enfatizaram a urgência de efetivar leis e iniciativas que promovam a igualdade racial na educação, como a Lei nº 10.639/2003, e a importância da inclusão social e educativa de meninas negras desde a infância."
+}

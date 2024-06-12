@@ -1,0 +1,76 @@
+{
+  "assunto": "Cadeia de produção da Cannabis sativa para uso medicinal e desenvolvimento regional das comunidades de agricultores familiares",
+  "envolvidos": [
+    {
+      "nome": "Padre João",
+      "cargo": "Deputado Federal (Bloco/PT - MG)",
+      "opinioes": [
+        "A cadeia de produção de Cannabis sativa para uso medicinal é essencial para o desenvolvimento regional das comunidades de agricultores familiares.",
+        "Há uma necessidade urgente de enfrentar a hipocrisia religiosa e a criminalização da planta.",
+        "O uso de Cannabis medicinal é justificado por sua eficiência comprovada em diversas condições de saúde, beneficiando especialmente os mais pobres que não podem arcar com os altos custos dos medicamentos importados.",
+        "A política pública deve priorizar a produção local, promovendo a inclusão social e a geração de renda para agricultores familiares."
+      ]
+    },
+    {
+      "nome": "Diego Ferreira",
+      "cargo": "Assessor Técnico de Atenção Especializada do Ministério da Saúde",
+      "opinioes": [
+        "A Cannabis medicinal tem ganhado protagonismo no debate por seus efeitos comprovados em diversas condições de saúde, como dor crônica e esclerose múltipla.",
+        "O alto custo dos medicamentos importados é uma barreira significativa para sua inclusão no SUS.",
+        "A judicialização de medicamentos à base de Cannabis tem aumentado exponencialmente devido à falta de regulamentação e produção nacional.",
+        "A produção nacional em uma cadeia associativa e cooperativa pode baratear os custos e melhorar o acesso da população mais vulnerável."
+      ]
+    },
+    {
+      "nome": "Marta Machado",
+      "cargo": "Secretária Nacional de Políticas sobre Drogas e Gestão de Ativos do Ministério da Justiça",
+      "opinioes": [
+        "A regulação da Cannabis deve ser abrangente e incluir o cultivo nacional para fins medicinais e científicos.",
+        "É necessário enfrentar a incoerência normativa atual, que permite a importação de produtos de Cannabis, mas proíbe o cultivo nacional.",
+        "A produção local pode reduzir os custos dos medicamentos e promover o desenvolvimento econômico regional.",
+        "A regulação deve evitar o monopólio por grandes corporações, garantindo a inclusão de pequenos agricultores e comunidades tradicionais na cadeia produtiva."
+      ]
+    },
+    {
+      "nome": "Edjane Rodrigues Silva",
+      "cargo": "Secretária de Políticas Públicas da CONTAG",
+      "opinioes": [
+        "A pandemia destacou a importância das plantas medicinais e seu potencial para a geração de renda na agricultura familiar.",
+        "A CONTAG está desenvolvendo um curso de bioeconomia de plantas medicinais e fitoterápicos em parceria com a FIOCRUZ.",
+        "A inclusão da Cannabis na produção de plantas medicinais pode fortalecer a agricultura familiar e proporcionar maior autonomia econômica para as mulheres e jovens no campo.",
+        "É essencial um marco regulatório que garanta a segurança jurídica para os agricultores familiares cultivarem Cannabis para fins medicinais."
+      ]
+    },
+    {
+      "nome": "Andrea Donatti Gallassi",
+      "cargo": "Coordenadora-Geral do Centro de Referência sobre Drogas e Vulnerabilidades Associadas da Universidade de Brasília",
+      "opinioes": [
+        "O Brasil está atrasado na regulação da produção de Cannabis para fins terapêuticos em comparação com outros países da América do Sul.",
+        "Existem evidências científicas robustas sobre os benefícios da Cannabis medicinal em condições como epilepsia, dor neuropática e esclerose múltipla.",
+        "A produção nacional de Cannabis pode melhorar o acesso aos medicamentos, reduzir custos e promover o desenvolvimento econômico e social.",
+        "Há necessidade de avanços legais para amparar a produção e pesquisa científica sobre Cannabis no Brasil."
+      ]
+    },
+    {
+      "nome": "Saulo Lucio Dantas",
+      "cargo": "Membro do Setor de Direitos Humanos do MST",
+      "opinioes": [
+        "A produção de Cannabis medicinal é uma questão de justiça social e direito à saúde.",
+        "Há uma incoerência em permitir o cultivo de plantas para a produção de álcool e tabaco, mas proibir a Cannabis medicinal.",
+        "A luta do MST inclui a construção de centros de saúde nas áreas de reforma agrária e o cultivo de plantas medicinais.",
+        "O Poder Legislativo e Judiciário têm mostrado avanços na regulamentação do cultivo de Cannabis para fins medicinais, mas a ANVISA ainda se mostra omissa."
+      ]
+    },
+    {
+      "nome": "Angela Aboin Gomes",
+      "cargo": "Representante da Federação das Associações de Cannabis Terapêutica (FACT)",
+      "opinioes": [
+        "O cultivo de Cannabis em casa pode transformar a vida de famílias com crianças autistas, oferecendo um tratamento eficaz e seguro.",
+        "A agroecologia e a agricultura familiar são essenciais para o cultivo de Cannabis, oferecendo medicamentos de qualidade e baixo custo.",
+        "É preciso combater o preconceito contra a planta e as comunidades que a cultivam, garantindo respeito e desenvolvimento para as associações de Cannabis terapêutica.",
+        "A segurança no cultivo de Cannabis não difere da segurança em outras culturas agrícolas, e deve ser garantida sem preconceitos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão da Câmara dos Deputados debateu a cadeia de produção de Cannabis sativa para fins medicinais e o desenvolvimento regional das comunidades de agricultores familiares. O debate destacou a necessidade de enfrentar a incoerência normativa que permite a importação de medicamentos, mas proíbe o cultivo nacional, ressaltando os benefícios comprovados da Cannabis medicinal para diversas condições de saúde. Os participantes defenderam a regulamentação da produção local para reduzir custos, melhorar o acesso aos medicamentos, e promover o desenvolvimento econômico e social, especialmente para pequenos agricultores e comunidades tradicionais. Entre os envolvidos, destacam-se Padre João, Diego Ferreira, Marta Machado, Edjane Rodrigues Silva, Andrea Donatti Gallassi, Saulo Lucio Dantas e Angela Aboin Gomes, todos unânimes na importância da regulamentação e inclusão da Cannabis medicinal na agricultura familiar para beneficiar a população mais vulnerável."
+}

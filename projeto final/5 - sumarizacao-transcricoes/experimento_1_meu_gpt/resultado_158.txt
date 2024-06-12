@@ -1,0 +1,82 @@
+{
+  "assunto": "Regulamentação do mercado de carbono",
+  "envolvidos": [
+    {
+      "nome": "Airton Faleiro",
+      "cargo": "Deputado, Presidente da Comissão da Amazônia e dos Povos Originários e Tradicionais",
+      "opinioes": [
+        "Defende a regulamentação do mercado de carbono, acreditando que a ausência de regulamentação prejudica os mais fracos, como os povos indígenas, populações tradicionais e agricultores familiares.",
+        "Apoia o PL 412, que tem como relatora a Senadora Leila Barros, e vê sinais de apoio do Governo.",
+        "Prefere uma regulamentação federal em vez de estadual para evitar fragilidade na regulamentação.",
+        "Destaca a importância de incluir a preservação de estoques de carbono, não apenas o desmatamento evitado."
+      ]
+    },
+    {
+      "nome": "Mary Allegretti",
+      "cargo": "Presidente do Instituto de Estudos Amazônicos (IEA)",
+      "opinioes": [
+        "Enfatiza a importância das reservas extrativistas na Amazônia para a regulamentação do mercado de carbono.",
+        "Acredita que as comunidades das reservas extrativistas devem ser protagonistas na sugestão de legislações e no desenvolvimento de projetos de geração de créditos de carbono.",
+        "Aponta riscos como contratos confusos e mal explicados que podem prejudicar as comunidades.",
+        "Defende um modelo claro de repartição de benefícios e o consentimento consciente das comunidades envolvidas."
+      ]
+    },
+    {
+      "nome": "Júlio Barbosa de Aquino",
+      "cargo": "Presidente do Conselho Nacional das Populações Extrativistas (CNS)",
+      "opinioes": [
+        "Considera que o PL 412 traz segurança jurídica importante para as populações tradicionais.",
+        "Expressa preocupações com a comercialização de créditos de carbono e a proteção das comunidades contra contratos prejudiciais.",
+        "Defende a participação ativa das comunidades no acompanhamento e assinatura de contratos de créditos de carbono.",
+        "Critica a exigência de planos de manejo como pré-requisito para projetos de créditos de carbono, já que muitas unidades de conservação ainda não possuem esses planos."
+      ]
+    },
+    {
+      "nome": "Kleber Karipuna",
+      "cargo": "Coordenador Executivo da Articulação dos Povos Indígenas do Brasil (APIB)",
+      "opinioes": [
+        "Preocupado com o assédio das comunidades por empresas oferecendo contratos de carbono sem garantias claras.",
+        "Reforça a necessidade de respeito à autodeterminação dos povos indígenas e à Convenção 169 da OIT.",
+        "Sugere a criação de mecanismos de governança e ouvidoria para fiscalizar e proteger os direitos dos povos indígenas em projetos de créditos de carbono.",
+        "Defende o reconhecimento dos povos indígenas como preservadores históricos das florestas e seu direito a serem beneficiados economicamente por suas práticas de conservação."
+      ]
+    },
+    {
+      "nome": "Beatriz Soares da Silva",
+      "cargo": "Coordenadora-Geral da Secretaria de Economia Verde, Descarbonização e Bioindústria do Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+      "opinioes": [
+        "Explica a estrutura e os objetivos do PL 412, que inclui a criação de um mercado regulado de carbono no Brasil.",
+        "Salienta a importância de estabelecer um sistema transparente e justo de cotas de emissão para operadores.",
+        "Destaca que a lei é programática e que muitas decisões detalhadas serão tomadas na fase de regulamentação."
+      ]
+    },
+    {
+      "nome": "Leandro Gomes Cardoso",
+      "cargo": "Representante do Departamento de Políticas de Mitigação, Adaptação e Instrumentos de Implementação da Secretaria Nacional de Mudança do Clima",
+      "opinioes": [
+        "Aponta que o PL 412 visa contribuir para a Política Nacional sobre Mudança do Clima e para as metas do Acordo de Paris.",
+        "Defende o estabelecimento de padrões de qualidade para créditos de carbono e a necessidade de um órgão gestor para avaliar e credenciar metodologias.",
+        "Sublinha a importância de garantir os direitos e salvaguardas dos povos indígenas e das comunidades tradicionais."
+      ]
+    },
+    {
+      "nome": "Natalie Unterstell",
+      "cargo": "Presidente do Instituto Talanoa",
+      "opinioes": [
+        "Ressalta a urgência de aprovar o PL 412 para regular as emissões de gases de efeito estufa.",
+        "Defende que quem polui deve pagar e que o sistema de comércio de emissões pode reduzir significativamente as emissões do Brasil até 2030.",
+        "Enfatiza a importância de incluir terras indígenas e territórios de populações tradicionais na governança do mercado de carbono."
+      ]
+    },
+    {
+      "nome": "Pedro Guilherme Kraus",
+      "cargo": "CEO da Lux Carbon Standard",
+      "opinioes": [
+        "Destaca que a Lux Carbon Standard é a primeira certificadora de carbono do mercado voluntário no Brasil.",
+        "Explica que estão adaptando metodologias para o Brasil e reduzindo custos para facilitar a participação de pequenas áreas e diferentes biomas.",
+        "Defende o uso de tecnologia blockchain para garantir transparência e segurança nos contratos de carbono."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão da Amazônia e dos Povos Originários e Tradicionais discutiu a regulamentação do mercado de carbono, destacando a necessidade de uma legislação que proteja as comunidades indígenas e tradicionais e garanta sua participação ativa. Os participantes enfatizaram a urgência de aprovar o PL 412, que estabelece um sistema regulado de comércio de emissões, e sugeriram melhorias no projeto para assegurar direitos e benefícios justos. Também foram abordados os riscos de contratos confusos e a importância de um modelo claro de repartição de benefícios."
+}

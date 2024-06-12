@@ -1,0 +1,65 @@
+{
+  "assunto": "150 anos de Santos Dumont e suas contribuições para a ciência, tecnologia e inovação.",
+  "envolvidos": [
+    {
+      "nome": "Luisa Canziani",
+      "cargo": "Deputada Federal e Presidente da Comissão de Ciência, Tecnologia e Inovação (Bloco/PSD - PR)",
+      "opinioes": [
+        "A audiência pública é realizada em virtude da aprovação do Requerimento nº 26, de 2023, de sua autoria.",
+        "A Comissão de Ciência, Tecnologia e Inovação aprovou a Lei Geral das Atividades Espaciais para trazer mais segurança jurídica à exploração do espaço no Brasil.",
+        "Reconheceu o trabalho da Força Aérea Brasileira na repatriação de brasileiros em Israel."
+      ]
+    },
+    {
+      "nome": "Jean Robert Batana Ferreira",
+      "cargo": "Coordenador-Geral de Tecnologias Estratégicas da Secretaria de Desenvolvimento Tecnológico e Inovação do Ministério da Ciência, Tecnologia e Inovação",
+      "opinioes": [
+        "Santos Dumont desempenhou um papel fundamental no desenvolvimento científico e tecnológico em várias frentes.",
+        "Destacou a realização do primeiro voo controlado em Paris, em 1906, com o 14 Bis, e a contribuição no desenvolvimento de balões dirigíveis.",
+        "Comentou sobre a contribuição de Santos Dumont ao desenvolvimento de motores aeroespaciais e ao relógio de pulso.",
+        "Enfatizou a visão pacifista de Santos Dumont e sua inspiração para tecnologias civis."
+      ]
+    },
+    {
+      "nome": "Luciano Valentim Rechiuti",
+      "cargo": "Brigadeiro Engenheiro, Chefe do Subdepartamento Técnico do Departamento de Ciência e Tecnologia Aeroespacial da Aeronáutica",
+      "opinioes": [
+        "Santos Dumont foi um visionário e sua genialidade inspirou o desenvolvimento da aeronáutica no Brasil.",
+        "Destacou o papel do Marechal Casimiro Montenegro na criação do Instituto Tecnológico de Aeronáutica (ITA) e do Centro Técnico Aeroespacial (CTA), hoje Departamento de Ciência, Tecnologia e Inovação.",
+        "Citou a criação da EMBRAER como um marco importante para a indústria aeronáutica brasileira.",
+        "Enfatizou a importância dos centros de lançamento de foguetes, CLBI em Natal e CEA em Alcântara, para o desenvolvimento espacial brasileiro."
+      ]
+    },
+    {
+      "nome": "Henrique Lins de Barros",
+      "cargo": "Especialista na vida e obra de Santos Dumont, pesquisador titular aposentado do Centro Brasileiro de Pesquisas Físicas",
+      "opinioes": [
+        "Santos Dumont foi um pioneiro da aviação e fundamental para a dirigibilidade dos voos.",
+        "Ele patenteou e disponibilizou suas invenções ao público, promovendo o desenvolvimento da aviação.",
+        "Desenvolveu o 14 Bis e o Demoiselle, contribuindo significativamente para a aviação mundial.",
+        "Santos Dumont propôs a compra de Foz do Iguaçu pelo governo do Paraná, transformando-o em patrimônio ecológico."
+      ]
+    },
+    {
+      "nome": "Cláudio Gomide",
+      "cargo": "Coordenador do Museu Casa de Santos Dumont",
+      "opinioes": [
+        "A visitação ao Museu Casa de Santos Dumont é muito grande, demonstrando o interesse pelo legado de Santos Dumont.",
+        "Enfatizou a importância de Petrópolis na vida de Santos Dumont e sua influência pela família imperial.",
+        "Relatou a necessidade de maior reconhecimento e valorização de Santos Dumont nas escolas e na sociedade brasileira.",
+        "Comentou sobre a influência de Santos Dumont no primeiro voo coreano e a parceria com a Força Aérea Brasileira."
+      ]
+    },
+    {
+      "nome": "Ricardo Magalhães",
+      "cargo": "Vice-Presidente do Instituto Cultural Santos Dumont",
+      "opinioes": [
+        "Santos Dumont foi um grande cientista com contribuições nas áreas de tecnologia, meio ambiente e esporte.",
+        "Ele foi o primeiro brasileiro a ganhar o Mérito Olímpico por Pierre de Coubertin.",
+        "Destacou a exposição no Museu Catavento Cultural em São Paulo como uma importante iniciativa para inspirar crianças e professores.",
+        "Reforçou a importância de valorizar Santos Dumont como um exemplo de brasileiro e inovador."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados discutiu as contribuições de Santos Dumont para a ciência, tecnologia e inovação, em comemoração aos 150 anos de seu nascimento. Participaram da audiência a Deputada Luisa Canziani, o Coordenador-Geral de Tecnologias Estratégicas Jean Robert Batana Ferreira, o Brigadeiro Engenheiro Luciano Valentim Rechiuti, o especialista Henrique Lins de Barros, o Coordenador do Museu Casa de Santos Dumont Cláudio Gomide e o Vice-Presidente do Instituto Cultural Santos Dumont Ricardo Magalhães. Foram destacadas as invenções de Santos Dumont, seu impacto na aviação mundial e sua influência em diversas áreas tecnológicas. Também foram mencionadas iniciativas para preservar e promover o legado de Santos Dumont no Brasil."
+}

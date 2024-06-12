@@ -1,0 +1,54 @@
+{
+  "assunto": "Debate sobre a implementação da metodologia de análise do ciclo de vida dos combustíveis",
+  "envolvidos": [
+    {
+      "nome": "Alexandre Alonso",
+      "cargo": "Chefe-Geral da EMBRAPA Agroenergia",
+      "opinioes": [
+        "A análise do ciclo de vida (ACV) é uma técnica destinada a avaliar os impactos ambientais associados a todas as fases da vida de um produto, de um processo ou de um serviço.",
+        "A ACV é embasada em ciência e padronizada por normas técnicas internacionais, como a ISO 14040, 14044 e 14067.",
+        "A ACV objetiva comparar diferentes gamas de efeitos ambientais para melhorar processos de políticas públicas e fornecer uma base sólida para decisões baseadas em informação científica.",
+        "A implementação da ACV para biocombustíveis é crucial para a política de biocombustíveis, como o RenovaBio, que é calcada em ciência, tecnologia e inovação."
+      ]
+    },
+    {
+      "nome": "Valéria Lima",
+      "cargo": "Representante do Instituto Brasileiro de Petróleo e Gás (IBP)",
+      "opinioes": [
+        "Existe metodologia para tratar do 'berço ao túmulo' na análise do ciclo de vida dos combustíveis.",
+        "Medições intermediárias, como do 'tanque à roda' ou do 'poço à roda', têm objetivos específicos e são importantes para a comparação de combustíveis em termos de emissão.",
+        "A tecnologia para a implementação dessas medições existe e é possível desenvolvê-la.",
+        "O PL 4.516 apresentado pelo Executivo à Câmara caminha na direção de amarrar o que já temos de biocombustível e avançar em novos biocombustíveis."
+      ]
+    },
+    {
+      "nome": "Plínio Nastari",
+      "cargo": "Presidente da DATAGRO Consultoria Agrícola",
+      "opinioes": [
+        "A transição energética sustentável no setor automotivo depende de sustentabilidade, acesso à tecnologia, preço acessível e infraestrutura viável.",
+        "A implementação da ACV deve levar em conta a neutralidade tecnológica.",
+        "É essencial promover consistência, coerência e convergência nas políticas públicas.",
+        "A métrica do ciclo de vida completa, do 'berço ao túmulo', é a mais recomendada para políticas de eficiência energética e controle de emissões."
+      ]
+    },
+    {
+      "nome": "Pietro Adamo Sampaio Mendes",
+      "cargo": "Secretário Nacional de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia",
+      "opinioes": [
+        "A Análise do Ciclo de Vida (ACV) é um instrumento importante do RenovaBio.",
+        "Cada usina que produz biocombustível tem seu processo produtivo estimado para fins de avaliação da intensidade de carbono.",
+        "O combustível do futuro deve incluir a ACV para avaliar a mobilidade sustentável de baixo carbono no setor automotivo."
+      ]
+    },
+    {
+      "nome": "Gonçalo Pereira",
+      "cargo": "Professor Titular do Instituto de Biologia da UNICAMP",
+      "opinioes": [
+        "A ACV deve ser considerada em sua totalidade, do 'berço ao túmulo'.",
+        "A implementação do RenovaBio foi uma revolução educacional nas usinas, onde todos os funcionários compreendem a descarbonização.",
+        "A abordagem 'do berço ao túmulo' deve ser aplicada a todos os biocombustíveis e outros setores."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Minas e Energia debateu a implementação da metodologia de análise do ciclo de vida dos combustíveis, com foco na abordagem 'do berço ao túmulo'. Alexandre Alonso destacou a importância da ACV embasada em ciência para políticas públicas. Valéria Lima reforçou a viabilidade tecnológica e a necessidade de medições intermediárias. Plínio Nastari defendeu a neutralidade tecnológica e a métrica completa para a eficiência energética. Pietro Mendes enfatizou o uso da ACV no RenovaBio e seu papel futuro no setor automotivo. Gonçalo Pereira salientou a necessidade de uma análise completa da ACV e a revolução educacional nas usinas promovida pelo RenovaBio."
+}

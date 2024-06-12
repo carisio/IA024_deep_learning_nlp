@@ -1,0 +1,125 @@
+{
+  "assunto": "Debate sobre a interrupção do serviço de distribuição de energia elétrica no Estado de São Paulo em 3 de novembro de 2023 e as ações da ENEL.",
+  "envolvidos": [
+    {
+      "nome": "Rodrigo de Castro",
+      "cargo": "Presidente da Comissão de Minas e Energia",
+      "opinioes": [
+        "Critica o descaso da ENEL com a Câmara dos Deputados.",
+        "Aponta a ineficiência e histórico de desinvestimento da ENEL no Brasil.",
+        "Proposta de adiar a audiência até que o Diretor Presidente da ENEL Brasil compareça.",
+        "Sugere a criação de uma PFC ou CPI para fiscalizar a ENEL."
+      ]
+    },
+    {
+      "nome": "João Carlos Bacelar",
+      "cargo": "Deputado (PL - BA)",
+      "opinioes": [
+        "Critica o desrespeito da ENEL com os consumidores e o governo.",
+        "Relata problemas de apagões e falta de investimento.",
+        "Defende a convocação do Diretor Presidente da ENEL Brasil.",
+        "Propõe a caducidade do contrato da ENEL em São Paulo."
+      ]
+    },
+    {
+      "nome": "Ivan Valente",
+      "cargo": "Deputado (Bloco/PSOL - SP)",
+      "opinioes": [
+        "Reforça a gravidade do evento de interrupção em São Paulo.",
+        "Critica a falta de contingência e investimento da ENEL.",
+        "Defende a presença do Diretor Presidente da ENEL Brasil na audiência.",
+        "Sugere que a questão não é apenas climática, mas de má gestão."
+      ]
+    },
+    {
+      "nome": "Alex Manente",
+      "cargo": "Deputado (Bloco/CIDADANIA - SP)",
+      "opinioes": [
+        "Critica a ausência do CEO nacional da ENEL na audiência.",
+        "Relata problemas específicos no Grande ABC Paulista devido aos apagões.",
+        "Apoia a criação de uma CPI para investigar a ENEL."
+      ]
+    },
+    {
+      "nome": "Max Lemos",
+      "cargo": "Deputado (Bloco/PDT - RJ)",
+      "opinioes": [
+        "Relata problemas contínuos da ENEL no Rio de Janeiro.",
+        "Defende a convocação do Presidente da ENEL para a Comissão.",
+        "Aponta falhas na prestação de serviços e falta de investimentos."
+      ]
+    },
+    {
+      "nome": "Altineu Côrtes",
+      "cargo": "Deputado (PL - RJ)",
+      "opinioes": [
+        "Critica duramente a ENEL pela má prestação de serviços.",
+        "Defende a criação de uma CPI sem embates políticos.",
+        "Aponta problemas graves em São Gonçalo e outras cidades."
+      ]
+    },
+    {
+      "nome": "Celso Russomanno",
+      "cargo": "Deputado (Bloco/REPUBLICANOS - SP)",
+      "opinioes": [
+        "Relata diversas reclamações de consumidores sobre a falta de energia.",
+        "Critica a falta de investimento e atendimento da ENEL.",
+        "Defende a convocação do Tribunal de Contas para explicar a renovação da concessão da ENEL."
+      ]
+    },
+    {
+      "nome": "Arnaldo Jardim",
+      "cargo": "Deputado (Bloco/CIDADANIA - SP)",
+      "opinioes": [
+        "Apoia a decisão de adiar a audiência até a presença do Presidente da ENEL.",
+        "Critica a gestão temerária da ENEL.",
+        "Destaca a importância de discutir a renovação das concessões de distribuição de energia."
+      ]
+    },
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Deputado (Bloco/SOLIDARIEDADE - RJ)",
+      "opinioes": [
+        "Critica a qualidade do serviço ofertado pela ENEL.",
+        "Defende a necessidade de abrir a discussão sobre os dados apresentados pela ANEEL.",
+        "Expressa preocupação com a falta de respostas às reclamações dos consumidores."
+      ]
+    },
+    {
+      "nome": "Roberto Monteiro Pai",
+      "cargo": "Deputado (PL - RJ)",
+      "opinioes": [
+        "Relata a insatisfação da população de Niterói e São Gonçalo com a falta de luz.",
+        "Critica os altos preços das tarifas de energia.",
+        "Defende ações urgentes contra a ENEL."
+      ]
+    },
+    {
+      "nome": "Julio Lopes",
+      "cargo": "Deputado (Bloco/PP - RJ)",
+      "opinioes": [
+        "Relata problemas climáticos como causadores de interrupções de energia.",
+        "Defende a necessidade de investimentos em redes de abastecimento subterrâneas.",
+        "Critica a falta de solução prática e realista para os problemas enfrentados."
+      ]
+    },
+    {
+      "nome": "Mário Heringer",
+      "cargo": "Deputado (Bloco/PDT - MG)",
+      "opinioes": [
+        "Critica a privatização e aponta problemas na gestão ambiental e energética.",
+        "Defende a necessidade de mudar a matriz energética para evitar futuros problemas."
+      ]
+    },
+    {
+      "nome": "Hugo Leal",
+      "cargo": "Deputado (Bloco/PSD - RJ)",
+      "opinioes": [
+        "Destaca a necessidade de uma maior participação dos Estados e Municípios na regulação e fiscalização das concessões.",
+        "Critica a falta de avaliação contínua das concessões de longa duração.",
+        "Defende mudanças legislativas para melhorar a gestão e fiscalização das concessões de energia."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a interrupção do serviço de distribuição de energia elétrica em São Paulo em 3 de novembro de 2023, com foco nas falhas e na gestão da ENEL. Vários deputados criticaram a empresa pela falta de investimento e respeito com os consumidores, bem como a ausência do Diretor Presidente da ENEL Brasil na audiência. Propostas de adiamento da audiência, criação de CPI e PFC foram sugeridas para assegurar a fiscalização e melhorias no serviço prestado. As críticas e sugestões visam garantir uma melhor prestação de serviços de energia elétrica e responsabilização da ENEL por seus atos."
+}

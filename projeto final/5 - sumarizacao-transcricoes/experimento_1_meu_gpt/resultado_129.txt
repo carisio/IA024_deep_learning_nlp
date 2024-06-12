@@ -1,0 +1,51 @@
+{
+  "assunto": "Debate sobre a obrigatoriedade da vacinação contra a COVID-19 para crianças de 6 meses a 5 anos.",
+  "envolvidos": [
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Deputada Federal, Presidente da Comissão",
+      "opinioes": [
+        "Critica a obrigatoriedade da vacinação contra a COVID-19 para crianças.",
+        "Defende que o debate deve ocorrer em alto nível, sem autoritarismo.",
+        "Repudia o comportamento do Dr. Eder Gatti, que acusou o movimento de ser antivacina.",
+        "Alega que a vacinação obrigatória não é praticada em outros países."
+      ]
+    },
+    {
+      "nome": "Nísia Trindade",
+      "cargo": "Ministra da Saúde",
+      "opinioes": [
+        "A vacinação é um direito e também um dever previsto no Estatuto da Criança e Adolescente.",
+        "Critica a disseminação de mentiras sobre vacinas e defende a ciência e as evidências científicas.",
+        "Afirma que não há mortes de crianças associadas à vacinação contra a COVID-19.",
+        "Defende a inclusão da vacina contra a COVID-19 no calendário de vacinação anual."
+      ]
+    },
+    {
+      "nome": "Alencar Santana",
+      "cargo": "Deputado Federal (Bloco/PT - SP)",
+      "opinioes": [
+        "Critica o debate sobre a vacinação obrigatória, considerando-o um reflexo da sabotagem do governo anterior.",
+        "Parabeniza a Ministra Nísia Trindade pelo trabalho realizado no Ministério da Saúde.",
+        "Defende a obrigatoriedade da vacinação para proteger a vida das crianças."
+      ]
+    },
+    {
+      "nome": "Osmar Terra",
+      "cargo": "Deputado Federal (Bloco/MDB - RS)",
+      "opinioes": [
+        "Critica a obrigatoriedade da vacinação contra a COVID-19 para crianças, argumentando que outras vacinas, como as contra pólio e difteria, imunizam efetivamente, o que não seria o caso da vacina contra a COVID-19.",
+        "Sugere a realização de uma Comissão Geral para debater o assunto no Plenário."
+      ]
+    },
+    {
+      "nome": "Jorge Solla",
+      "cargo": "Deputado Federal (Bloco/PT - BA)",
+      "opinioes": [
+        "Acusa os opositores da vacinação obrigatória de serem antivacina e de propagarem mentiras.",
+        "Defende a vacinação como uma política pública essencial para proteger a saúde pública."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a obrigatoriedade da vacinação contra a COVID-19 para crianças de 6 meses a 5 anos. Participaram do debate a Deputada Bia Kicis, que criticou a obrigatoriedade e defendeu o direito ao debate livre; a Ministra da Saúde, Nísia Trindade, que defendeu a obrigatoriedade com base em evidências científicas e criticou a disseminação de mentiras sobre vacinas; e os Deputados Alencar Santana e Jorge Solla, que apoiaram a vacinação obrigatória, e Osmar Terra, que se posicionou contra. O debate refletiu divergências significativas sobre a política de vacinação e a proteção da saúde pública."
+}

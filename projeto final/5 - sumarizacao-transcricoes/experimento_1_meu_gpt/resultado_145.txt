@@ -1,0 +1,53 @@
+{
+  "assunto": "Atuação da Polícia Federal e temas relacionados à segurança pública e justiça",
+  "envolvidos": [
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Presidente da Comissão de Fiscalização Financeira e Controle, Deputada pelo PL-DF",
+      "opinioes": [
+        "Defendeu que a Comissão de Fiscalização Financeira e Controle pode tratar de qualquer tema de qualquer pasta.",
+        "Afirmou que a Comissão é a única que pode falar sobre segurança pública e economia, entre outros temas."
+      ]
+    },
+    {
+      "nome": "Delegado Éder Mauro",
+      "cargo": "Deputado pelo PL-PA",
+      "opinioes": [
+        "Criticou o uso da Polícia Federal pelo Ministro da Justiça e pelo Governo Lula.",
+        "Defendeu a autonomia da Polícia Federal e expressou respeito pela instituição."
+      ]
+    },
+    {
+      "nome": "Nikolas Ferreira",
+      "cargo": "Deputado pelo PL-MG",
+      "opinioes": [
+        "Criticou a atuação do Ministro da Justiça em relação aos manifestantes do dia 8 de janeiro.",
+        "Afirmou que o Ministro é contundente contra manifestantes, mas omisso em relação ao crime organizado."
+      ]
+    },
+    {
+      "nome": "Orlando Silva",
+      "cargo": "Deputado pelo PCdoB-SP",
+      "opinioes": [
+        "Defendeu que o Ministro da Justiça está apenas cumprindo o regimento ao não responder questões fora do tema da Comissão.",
+        "Elogiou a atuação profissional da Polícia Federal e da Polícia Rodoviária Federal sob a gestão atual."
+      ]
+    },
+    {
+      "nome": "Flávio Dino",
+      "cargo": "Ministro da Justiça e Segurança Pública",
+      "opinioes": [
+        "Afirmou que a Comissão de Fiscalização Financeira e Controle deve observar os limites de suas competências regimentalmente definidas.",
+        "Destacou que não há redução no orçamento de segurança pública para 2024 e que as emendas parlamentares ainda não foram apresentadas."
+      ]
+    },
+    {
+      "nome": "Kim Kataguiri",
+      "cargo": "Deputado pelo União-SP",
+      "opinioes": [
+        "Criticou a alegação de que não houve cortes no orçamento, destacando que a manutenção nominal do orçamento resulta em cortes reais devido à inflação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados discutiu principalmente a atuação da Polícia Federal e temas relacionados à segurança pública e justiça. A Presidente da Comissão, Bia Kicis, afirmou que a Comissão pode tratar de qualquer tema, enquanto o Deputado Delegado Éder Mauro criticou o uso da Polícia Federal pelo governo atual. O Deputado Nikolas Ferreira questionou a contundência do Ministro da Justiça contra manifestantes e sua suposta omissão frente ao crime organizado. O Deputado Orlando Silva defendeu a conformidade do Ministro com o regimento, elogiando a atuação das polícias sob sua gestão. O Ministro Flávio Dino destacou que não há cortes no orçamento de segurança pública para 2024. Por outro lado, o Deputado Kim Kataguiri criticou a manutenção nominal do orçamento, apontando para uma redução real devido à inflação."
+}

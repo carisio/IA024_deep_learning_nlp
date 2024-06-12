@@ -1,0 +1,95 @@
+{
+  "assunto": "Regulamentação do cultivo de Cannabis para fins terapêuticos e do cânhamo industrial no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Chico Alencar",
+      "cargo": "Presidente da Comissão (Bloco/PSOL - RJ)",
+      "opinioes": [
+        "A audiência pública é importante para enfrentar a pandemia da ignorância e do preconceito.",
+        "Regulamentação do cultivo da Cannabis para fins terapêuticos e do cânhamo industrial é crucial."
+      ]
+    },
+    {
+      "nome": "Manuela Borges",
+      "cargo": "Não especificado",
+      "opinioes": [
+        "Critica o Parlamento por facilitar a entrada de agrotóxicos enquanto criminaliza uma planta medicinal.",
+        "Defende a regulamentação imediata da Cannabis e a liberdade dessa planta.",
+        "Enfatiza a necessidade de reparação social."
+      ]
+    },
+    {
+      "nome": "Rodrigo Cariri",
+      "cargo": "Coordenador-Geral de Atenção Especializada do Ministério da Saúde",
+      "opinioes": [
+        "Revela que o Ministério da Saúde reconhece o potencial terapêutico dos produtos de maconha.",
+        "Destaca a importância de elaborar novas políticas e restaurar a autoridade científica do Ministério.",
+        "Avisa que o Ministério da Saúde está trabalhando para a incorporação de produtos de Cannabis no SUS.",
+        "Reforça a necessidade de políticas nacionais que contemplem a cadeia produtiva de Cannabis."
+      ]
+    },
+    {
+      "nome": "Margarete Brito",
+      "cargo": "Fundadora e Presidente da APEPI",
+      "opinioes": [
+        "Revela ser uma ativista criminalizada pelo Estado por cultivar Cannabis para tratamentos medicinais.",
+        "Defende o cultivo associativo de Cannabis e a desobediência civil a leis injustas.",
+        "Critica a falta de regulamentação para as associações e exalta o trabalho das associações em desonerar o SUS."
+      ]
+    },
+    {
+      "nome": "Luís Mauricio Alves Ribeiro",
+      "cargo": "Presidente da Associação Brasileira de Cannabis e do Cânhamo Industrial",
+      "opinioes": [
+        "Defende o uso medicinal e industrial da Cannabis.",
+        "Critica a falta de regulamentação que impede o Brasil de aproveitar os benefícios econômicos e sociais do cânhamo industrial.",
+        "Chama atenção para a necessidade de enfrentar preconceitos e desinformação sobre o tema."
+      ]
+    },
+    {
+      "nome": "Eliane Lima Guerra Nunes",
+      "cargo": "Diretora-Geral da Sociedade Brasileira de Estudos da Cannabis Sativa (SBEC)",
+      "opinioes": [
+        "Critica a criminalização dos usuários de drogas e a falta de regulamentação para produtos associativos.",
+        "Defende a inclusão de produtos de Cannabis na Farmacopeia Brasileira e no SUS.",
+        "Alerta sobre a questão moral e econômica que dificulta a regulamentação da Cannabis."
+      ]
+    },
+    {
+      "nome": "Enor Machado de Morais",
+      "cargo": "Fundador e Presidente da Associação Flor da Vida",
+      "opinioes": [
+        "Defende o reconhecimento do trabalho das associações de Cannabis.",
+        "Critica a falta de regulamentação e o impacto econômico das judicializações.",
+        "Enfatiza a necessidade de um tratamento adequado e sustentável para o cultivo de Cannabis no Brasil."
+      ]
+    },
+    {
+      "nome": "Ubiracir Lima",
+      "cargo": "Conselheiro Federal no Conselho Federal de Química",
+      "opinioes": [
+        "Defende a importância de estudos químicos e fitoterápicos para a regulamentação do uso medicinal da Cannabis.",
+        "Enfatiza a necessidade de investimento em pesquisa para a certificação e rastreabilidade das plantas."
+      ]
+    },
+    {
+      "nome": "Leandro Stelitano",
+      "cargo": "Presidente da Associação para Pesquisa e Desenvolvimento da Cannabis Medicinal no Brasil",
+      "opinioes": [
+        "Critica a guerra às drogas e a criminalização das comunidades vulneráveis.",
+        "Defende a regulamentação do uso medicinal e industrial da Cannabis.",
+        "Alerta sobre os impactos negativos das comunidades terapêuticas financiadas pelo governo."
+      ]
+    },
+    {
+      "nome": "Angela Aboin",
+      "cargo": "Federation of Therapeutic Cannabis Associations (FACT)",
+      "opinioes": [
+        "Defende o cultivo doméstico e associativo de Cannabis.",
+        "Critica a criminalização das mães que cultivam Cannabis para tratamento de seus filhos.",
+        "Alerta sobre a necessidade de políticas públicas que garantam justiça social e reparação histórica."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão da Câmara dos Deputados abordou a regulamentação do cultivo de Cannabis para fins terapêuticos e do cânhamo industrial no Brasil. O debate destacou a importância de enfrentar a ignorância e o preconceito, além de enfatizar a necessidade de uma política nacional que inclua a cadeia produtiva de Cannabis. Os participantes, incluindo legisladores, representantes do Ministério da Saúde, ativistas e associações, defenderam a regulamentação imediata e criticaram a criminalização dos cultivadores e usuários de Cannabis medicinal. A audiência também ressaltou a importância de reparação histórica e justiça social na implementação dessas políticas."
+}

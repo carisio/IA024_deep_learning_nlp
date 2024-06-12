@@ -1,0 +1,89 @@
+{
+  "assunto": "Saúde e segurança no ambiente de trabalho dos policiais penais",
+  "envolvidos": [
+    {
+      "nome": "Professora Luciene Cavalcante",
+      "cargo": "Deputada Federal, Bloco/PSOL - SP",
+      "opinioes": [
+        "Os policiais penais exercem uma função essencial na segurança pública.",
+        "A ausência de regulamentação da profissão dos policiais penais contribui para o adoecimento em massa desses servidores.",
+        "O SINDICOP conseguiu aprovar uma PEC que traz reconhecimento aos policiais penais no estado de São Paulo, mas os aumentos salariais foram desiguais em comparação com outras forças de segurança.",
+        "A privatização de serviços essenciais, como os aparelhos de Raios X, piora a qualidade do serviço e causa adoecimento dos policiais penais."
+      ]
+    },
+    {
+      "nome": "Marcelo Stona",
+      "cargo": "Diretor do Sistema Penitenciário Federal da Secretaria Nacional de Políticas Penais do Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "O sistema penitenciário deve ter recursos materiais suficientes, como equipamentos de Raios X e viaturas adequadas.",
+        "É necessário ter normas de procedimento operacional padrão para segurança no sistema prisional.",
+        "A remuneração e o plano de carreira dos servidores penitenciários devem ser compatíveis com a complexidade de suas atribuições.",
+        "A Secretaria Nacional de Políticas Penais oferece apoio psicológico, psiquiátrico e assistência social aos servidores penitenciários."
+      ]
+    },
+    {
+      "nome": "Joélia Silveira Lins",
+      "cargo": "Presidente do Sindicato dos Policiais Penais e Servidores do Sistema Penitenciário do Estado do Ceará (SINDPPEN-CE)",
+      "opinioes": [
+        "Há um aumento no adoecimento e evasão de policiais penais no Ceará devido ao baixo efetivo e más condições de trabalho.",
+        "Existem denúncias de perseguição e assédio moral institucional contra os policiais penais no Ceará.",
+        "A gestão atual da Secretaria de Administração Penitenciária do Ceará implementou ordens abusivas e desrespeito aos direitos dos servidores."
+      ]
+    },
+    {
+      "nome": "Lineu Neves Mazano",
+      "cargo": "Vice-Presidente da Confederação dos Servidores Públicos do Brasil e Presidente da Federação dos Sindicatos dos Servidores Públicos do Estado de São Paulo",
+      "opinioes": [
+        "A segurança do trabalho dos policiais penais visa prevenir doenças ocupacionais e acidentes.",
+        "Há descaso com os servidores penitenciários por parte dos governos, que não garantem condições de trabalho adequadas.",
+        "É necessário um Marco Regulatório das Relações de Trabalho no Setor Público para tratar das condições de trabalho dos servidores públicos."
+      ]
+    },
+    {
+      "nome": "Marcelo Kimati Dias",
+      "cargo": "Pesquisador da Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho (FUNDACENTRO)",
+      "opinioes": [
+        "Os policiais penais têm escores altos de ansiedade e depressão e problemas de sono.",
+        "É necessário desenvolver mais estudos para entender as variáveis associadas ao adoecimento mental dos policiais penais.",
+        "Devem ser criadas políticas públicas específicas para diminuir a vulnerabilidade dos policiais penais."
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal, Bloco/PT - DF",
+      "opinioes": [
+        "O sistema carcerário brasileiro é medieval e desumano, com superlotação e falta de acesso a direitos básicos.",
+        "Os policiais penais trabalham em condições de tensão permanente e precisam de mais apoio do Estado.",
+        "É necessário regulamentar a profissão de policial penal e garantir melhores condições de trabalho e valorização salarial."
+      ]
+    },
+    {
+      "nome": "Roberto Barbosa de Moura",
+      "cargo": "Coordenador do Departamento de Sistema Prisional do Instituto Brasileiro de Ciências Criminais (IBCCRIM)",
+      "opinioes": [
+        "É preciso romper com a lógica do sistema penal como um inimigo da sociedade.",
+        "A arquitetura prisional deve ser voltada para a harmônica integração social, não para a hipersecuritização.",
+        "Modelos privatizantes e de cogestão no sistema prisional aumentam os problemas de saúde mental dos policiais penais."
+      ]
+    },
+    {
+      "nome": "Carlos Eduardo Piotto",
+      "cargo": "Diretor Jurídico do Sindicato dos Agentes de Segurança Penitenciária e demais Servidores Públicos do Sistema Penitenciário (SINDCOP)",
+      "opinioes": [
+        "A tecnologia de scanners corporais é importante, mas é necessário regulamentar sua operação para garantir a segurança dos operadores.",
+        "Há uma falta de regulamentação e estudos sobre a radiação emitida pelos scanners utilizados nas prisões.",
+        "O programa de saúde mental dos agentes de segurança penitenciária em São Paulo nunca foi regulamentado, apesar de existir desde 2007."
+      ]
+    },
+    {
+      "nome": "Carlos Giannazi",
+      "cargo": "Deputado Estadual de São Paulo",
+      "opinioes": [
+        "É urgente regulamentar a Polícia Penal em São Paulo para garantir direitos e melhorias salariais aos servidores do sistema prisional.",
+        "Os servidores do sistema prisional são mal remunerados e sofrem com superlotação, ameaças e assédio moral.",
+        "O Governo de São Paulo deve apresentar um projeto de lei para regulamentar a Polícia Penal e incorporar todos os servidores do sistema prisional."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a saúde e segurança no ambiente de trabalho dos policiais penais. Os participantes destacaram a falta de regulamentação da profissão, a necessidade de melhores condições de trabalho e remuneração, e os problemas de saúde mental enfrentados pelos policiais penais. Houve críticas à privatização de serviços prisionais e à gestão atual do sistema prisional em diferentes estados. O encontro enfatizou a urgência de políticas públicas para proteger e valorizar esses profissionais essenciais para a segurança pública."
+}

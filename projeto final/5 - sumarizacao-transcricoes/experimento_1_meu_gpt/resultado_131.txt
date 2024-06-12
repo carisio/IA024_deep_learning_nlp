@@ -1,0 +1,57 @@
+{
+  "assunto": "Renegociação do contrato de concessão de rodovias com a concessionária ViaBahia.",
+  "envolvidos": [
+    {
+      "nome": "Jorge Solla",
+      "cargo": "Deputado, Presidente da audiência pública",
+      "opinioes": [
+        "A urgência de abrir o diálogo entre o Governo e a concessionária devido ao atraso no processo das concessões da BR-324 e da BR-116.",
+        "A importância de atualizar a Comissão sobre o estágio das negociações e a proposta encaminhada ao TCU.",
+        "A necessidade de destravar investimentos e melhorar a infraestrutura no Estado da Bahia."
+      ]
+    },
+    {
+      "nome": "José Bartolomeu",
+      "cargo": "Presidente da ViaBahia",
+      "opinioes": [
+        "A proposta encaminhada ao TCU inclui a retomada imediata das obras de duplicação e a conclusão das obras pendentes no Programa de Exploração da Rodovia (PER).",
+        "A previsão de investimentos de aproximadamente 11,8 bilhões de reais e a geração de cerca de 30 mil postos de trabalho.",
+        "A necessidade de adaptação do sistema viário devido à evolução das comunidades ao longo dos anos.",
+        "Inclui um conjunto de obras para melhorar a fluidez e a segurança do tráfego nas BR-324 e BR-116."
+      ]
+    },
+    {
+      "nome": "Carlos Rafael Menin Simões",
+      "cargo": "Secretário de Controle Externo de Infraestrutura do Tribunal de Contas da União (TCU)",
+      "opinioes": [
+        "A explicação do fluxo do processo de solução consensual no TCU e a inovação trazida pela norma de 22 de dezembro de 2022.",
+        "A necessidade de uma decisão do Presidente do TCU sobre a admissibilidade da proposta de solução consensual."
+      ]
+    },
+    {
+      "nome": "Anderson Santos Bellas",
+      "cargo": "Coordenador-Geral da Secretaria Nacional de Transporte Rodoviário, do Ministério dos Transportes",
+      "opinioes": [
+        "A importância de resolver os problemas dos ativos de concessões rodoviárias, especificamente da ViaBahia.",
+        "A proposta inclui a execução de obras de duplicação e melhorias, com investimentos próximos de 12 bilhões de reais.",
+        "Destacou a necessidade de garantias para a execução das obras, como a permanência obrigatória do grupo controlador na concessão e a proibição de distribuição de dividendos durante o período de transição."
+      ]
+    },
+    {
+      "nome": "Maurício Uzeda",
+      "cargo": "Chefe da Assessoria de Relações Parlamentares da ANTT",
+      "opinioes": [
+        "O papel da ANTT em prestar subsídios para a tomada de decisão política e a importância das obras elencadas na proposta.",
+        "O acordo consensual intermediado pelo TCU representa as solicitações recebidas pela ANTT e visa destravar as conversas administrativas e avançar na solução dos problemas da ViaBahia."
+      ]
+    },
+    {
+      "nome": "Rafael Bastos Marques",
+      "cargo": "Diretor de Construção e Manutenção da Superintendência de Infraestrutura de Transportes da Secretaria de Infraestrutura do Estado da Bahia",
+      "opinioes": [
+        "A urgência das intervenções e manutenção imediata nos trechos de Salvador para Feira de Santana e de Feira de Santana para Paraguaçu, destacando a segurança viária."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a renegociação do contrato de concessão de rodovias com a ViaBahia, abordando a urgência de abrir o diálogo devido ao atraso nas concessões das BR-324 e BR-116. Participaram o Deputado Jorge Solla, o Presidente da ViaBahia José Bartolomeu, que apresentou a proposta de retomada das obras, o Secretário do TCU Carlos Simões, que explicou o processo de solução consensual, o Coordenador Anderson Bellas do Ministério dos Transportes, que destacou a importância das obras e garantias para a execução, Maurício Uzeda da ANTT, que reforçou a necessidade do acordo consensual, e Rafael Bastos da Secretaria de Infraestrutura da Bahia, que enfatizou a urgência das intervenções imediatas."
+}

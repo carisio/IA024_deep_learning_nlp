@@ -1,0 +1,95 @@
+{
+  "assunto": "Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI)",
+  "envolvidos": [
+    {
+      "nome": "Célia Xakriabá",
+      "cargo": "Deputada Federal (PSOL - MG)",
+      "opinioes": [
+        "A PNGATI é a primeira política pública para os povos indígenas construída com ampla participação dos povos indígenas do Brasil.",
+        "É importante que a PNGATI seja transformada em lei, em vez de um decreto, para garantir sua sustentação.",
+        "A Comissão aprovou três emendas orçamentárias para o Plano de Gestão Territorial e Ambiental.",
+        "A PNGATI dialoga com bioeconomia e com a gestão territorial e ambiental das terras indígenas."
+      ]
+    },
+    {
+      "nome": "Kleber Karipuna",
+      "cargo": "Articulação dos Povos Indígenas do Brasil (APIB)",
+      "opinioes": [
+        "A PNGATI é uma construção coletiva importante para a gestão dos territórios indígenas.",
+        "Há uma necessidade de transversalidade na implementação da PNGATI dentro do governo.",
+        "A retomada do Comitê Gestor da PNGATI é crucial para a governança da política.",
+        "A importância de transformar a PNGATI em lei para garantir sua continuidade e eficácia."
+      ]
+    },
+    {
+      "nome": "Bruno Potiguara",
+      "cargo": "Diretor de Gestão Ambiental, Territorial e Promoção ao Bem Viver Indígena, Ministério dos Povos Indígenas",
+      "opinioes": [
+        "A PNGATI nasce do anseio das comunidades indígenas e deve ser pensada a partir dos territórios.",
+        "A retomada do Comitê Gestor da PNGATI e a implementação de governança são essenciais.",
+        "É necessário garantir recursos públicos para a implementação da PNGATI.",
+        "A PNGATI deve envolver Estados e Municípios na sua governança."
+      ]
+    },
+    {
+      "nome": "Luiz Francisco Ditzel Faraco",
+      "cargo": "Coordenador-Geral de Gestão Socioambiental, Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio)",
+      "opinioes": [
+        "A PNGATI é fundamental para a gestão das unidades de conservação sobrepostas às terras indígenas.",
+        "A gestão colaborativa entre ICMBio, FUNAI e povos indígenas é crucial para a conservação do meio ambiente.",
+        "A tramitação da PNGATI como lei é positiva para fortalecer a proteção dos territórios indígenas."
+      ]
+    },
+    {
+      "nome": "Patrícia Melo Yamamoto",
+      "cargo": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+      "opinioes": [
+        "O MDA esteve junto da PNGATI desde sua criação e permeia todos os eixos da política.",
+        "A PNGATI é importante para o etno-desenvolvimento e valorização do conhecimento tradicional dos povos indígenas."
+      ]
+    },
+    {
+      "nome": "Marciely Ayap Tupari",
+      "cargo": "Coordenação das Organizações Indígenas da Amazônia Brasileira (COIAB)",
+      "opinioes": [
+        "A PNGATI é crucial para todos os territórios indígenas do Brasil.",
+        "A política deve ser implementada respeitando a diversidade dos povos indígenas."
+      ]
+    },
+    {
+      "nome": "Lucas Grisolia",
+      "cargo": "Coordenação-Geral de Gestão Ambiental, FUNAI",
+      "opinioes": [
+        "A PNGATI ficou engavetada nos últimos anos e precisa de revitalização.",
+        "A PNGATI como lei fortalece sua governança e continuidade como política pública.",
+        "É necessário um fundo específico para a implementação da PNGATI.",
+        "Os Estados e Municípios têm papéis importantes na implementação da PNGATI."
+      ]
+    },
+    {
+      "nome": "Braulina Baniwa",
+      "cargo": "Articulação Nacional das Mulheres Indígenas",
+      "opinioes": [
+        "A PNGATI deve incluir o protagonismo das mulheres indígenas na gestão dos territórios.",
+        "A política deve considerar a diversidade dos biomas e a necessidade de reparação e restauração dos territórios."
+      ]
+    },
+    {
+      "nome": "Alcebias Constantino",
+      "cargo": "Vice-Coordenador, Coordenação das Organizações Indígenas da Amazônia Brasileira (COIAB)",
+      "opinioes": [
+        "A PNGATI é uma ferramenta essencial para a autonomia e sustentabilidade econômica dos territórios indígenas.",
+        "É fundamental fazer incidências para proteger os direitos dos povos indígenas contra projetos de lei que os ameaçam."
+      ]
+    },
+    {
+      "nome": "Tereza Paresi-Haliti",
+      "cargo": "Representante do Povo Paresi-Haliti",
+      "opinioes": [
+        "O território é sagrado e essencial para a sobrevivência do povo Paresi.",
+        "Há necessidade de demarcação de terras e melhorias na saúde e educação para o povo Paresi."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a importância da Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI) e a necessidade de transformá-la em lei para garantir sua eficácia e continuidade. Participaram diversos representantes de entidades indígenas e órgãos governamentais, que destacaram a importância da política para a gestão e proteção dos territórios indígenas, a necessidade de recursos públicos para sua implementação e a inclusão do protagonismo das mulheres indígenas. A audiência também abordou a importância de uma governança ativa e a necessidade de uma abordagem transversal dentro do governo. A urgência da tramitação da PNGATI na Comissão de Constituição e Justiça foi enfatizada, com destaque para a mobilização constante dos povos indígenas em defesa de seus direitos."
+}

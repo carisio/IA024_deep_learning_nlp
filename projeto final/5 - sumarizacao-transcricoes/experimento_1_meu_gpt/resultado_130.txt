@@ -1,0 +1,58 @@
+{
+  "assunto": "Discussão sobre a regulação do Video on Demand (VOD) e a importância do fortalecimento da produção e distribuição do cinema nacional.",
+  "envolvidos": [
+    {
+      "nome": "Jandira Feghali",
+      "cargo": "Deputada (Bloco/PCdoB - RJ)",
+      "opinioes": [
+        "A regulação do VOD é importante para estabelecer limites e liberdade de difusão e circulação de conteúdos.",
+        "Há resistência nas leis de incentivo ao cinema nacional, tanto no setor quanto no Parlamento.",
+        "A questão das janelas de exibição deve ser debatida para evitar que um único player ocupe muitas salas, prejudicando o cinema brasileiro.",
+        "O debate sobre a proteção da cultura e da indústria criativa deve ser levado aos fóruns internacionais."
+      ]
+    },
+    {
+      "nome": "Márcio",
+      "cargo": "Desconhecido",
+      "opinioes": [
+        "O desafio é distribuir filmes nacionais e colocá-los nas principais telas do VOD.",
+        "A política precisa ser reconstruída para apoiar o cinema nacional e os produtores independentes.",
+        "A concentração de poder e de obras prejudica o setor."
+      ]
+    },
+    {
+      "nome": "Alex Braga Muniz",
+      "cargo": "Desconhecido",
+      "opinioes": [
+        "O Projeto de Lei nº 8.889, de 2017, que trata do VOD, está em regime de urgência e precisa do apoio dos deputados.",
+        "A regulação do VOD é urgente para democratizar a informação e fortalecer o cinema nacional."
+      ]
+    },
+    {
+      "nome": "Leonardo Edde",
+      "cargo": "Produtor, diretor e editor da Urca Filmes e Vice-Presidente da FIRJAN",
+      "opinioes": [
+        "A distribuição ainda é um setor que precisa de mais investimento e parceiros.",
+        "O percentual da CONDECINE para empresas de VOD deve ser revisado para ser proporcional ao praticado em outros países.",
+        "A propriedade intelectual das obras deve permanecer com os produtores brasileiros."
+      ]
+    },
+    {
+      "nome": "Simone",
+      "cargo": "Desconhecido",
+      "opinioes": [
+        "A produção de conteúdo original é fundamental para criar identidade e gerar divisas para o Brasil.",
+        "É necessário fortalecer e proteger a produção independente e discutir a cota de tela."
+      ]
+    },
+    {
+      "nome": "André Carreira",
+      "cargo": "Produtor",
+      "opinioes": [
+        "A exibição de filmes nacionais é desafiadora devido ao alto custo de operação das salas de cinema.",
+        "É importante discutir o fomento para grandes produções e filmes autorais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a importância da regulação do VOD e das janelas de exibição para proteger e fortalecer a indústria do cinema nacional. Entre os principais envolvidos, a Deputada Jandira Feghali destacou a necessidade de debater essas questões em fóruns internacionais. Márcio, Alex Braga Muniz, Leonardo Edde, Simone e André Carreira enfatizaram os desafios enfrentados pelo setor, incluindo a necessidade de apoio político, investimentos, preservação da propriedade intelectual e fomento para produções independentes e grandes filmes."
+}

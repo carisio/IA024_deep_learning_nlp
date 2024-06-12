@@ -1,0 +1,87 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei nº 3.588, de 2020, que trata dos riscos psicossociais no ambiente de trabalho.",
+  "envolvidos": [
+    {
+      "nome": "Airton Faleiro",
+      "cargo": "Deputado, Presidente da Comissão (Bloco/PT - PA)",
+      "opinioes": [
+        "Enfatizou a importância da audiência pública para o aperfeiçoamento de projetos de lei, destacando a participação da sociedade nesse processo.",
+        "Afirmou que a audiência pública é um espaço para escuta e participação da sociedade, além de ser um espaço de aprimoramento das proposições legislativas."
+      ]
+    },
+    {
+      "nome": "Carlos Veras",
+      "cargo": "Deputado, Bloco/PT - PE",
+      "opinioes": [
+        "Agradeceu a priorização e convocação da audiência pública.",
+        "Destacou a importância do debate sobre a saúde mental no ambiente de trabalho.",
+        "Enfatizou a necessidade de aprovação do Projeto de Lei nº 3.588, de 2020, para incluir a prevenção dos riscos psicossociais na legislação trabalhista."
+      ]
+    },
+    {
+      "nome": "Cirlene Luiza Zimmermann",
+      "cargo": "Procuradora do Ministério Público do Trabalho",
+      "opinioes": [
+        "Ressaltou a importância de prevenir, intervir e gerir os riscos psicossociais no ambiente de trabalho.",
+        "Alertou sobre a necessidade de regulamentações que não desvirtuem o propósito de prevenção dos riscos psicossociais.",
+        "Destacou a subnotificação dos adoecimentos mentais relacionados ao trabalho e a importância de dados para revisão das normas regulamentadoras.",
+        "Criticou a exclusão de pequenas empresas da proteção contra riscos psicossociais nas normas regulamentadoras."
+      ]
+    },
+    {
+      "nome": "Anne Caroline Luz Grudtner da Silva",
+      "cargo": "Coordenação Geral de Vigilância em Saúde do Trabalhador, Ministério da Saúde",
+      "opinioes": [
+        "Salientou a importância de transformar ambientes de trabalho em promotores de saúde.",
+        "Disse que o trabalho pode ser tanto um fator de proteção quanto um fator de risco para a saúde mental.",
+        "Enfatizou a necessidade de conhecer os fatores de risco de cada processo de trabalho para atuar na prevenção dos mesmos."
+      ]
+    },
+    {
+      "nome": "Viviane Forte",
+      "cargo": "Coordenadora Geral de Segurança e Saúde do Trabalho, Ministério do Trabalho e Emprego",
+      "opinioes": [
+        "Explicou que a NR 1 já inclui a necessidade de considerar todos os riscos ocupacionais, incluindo os psicossociais.",
+        "Destacou que a NR 17 trata da organização do trabalho para proporcionar conforto, segurança e saúde aos trabalhadores.",
+        "Mencionou que outras normas regulamentadoras específicas já consideram fatores de risco psicossociais em suas disposições."
+      ]
+    },
+    {
+      "nome": "Mauro Salles",
+      "cargo": "Representante da Confederação Nacional dos Trabalhadores do Ramo Financeiro - CONTRAF",
+      "opinioes": [
+        "Afirmou que os acidentes e doenças relacionadas ao trabalho não têm a visibilidade necessária na sociedade.",
+        "Ressaltou que a gestão das empresas, focada exclusivamente em lucros, contribui para o adoecimento dos trabalhadores.",
+        "Enfatizou a importância da participação dos trabalhadores na prevenção e gestão dos riscos psicossociais."
+      ]
+    },
+    {
+      "nome": "Pedro Tourinho",
+      "cargo": "Presidente da FUNDACENTRO",
+      "opinioes": [
+        "Destacou a importância de fortalecer a ação da FUNDACENTRO na temática de saúde mental e trabalho.",
+        "Mencionou que a saúde mental é uma das principais causas de afastamento do trabalho no Brasil.",
+        "Enfatizou a necessidade de desenvolver estratégias específicas para diferentes categorias profissionais para prevenir o adoecimento psíquico."
+      ]
+    },
+    {
+      "nome": "Fernanda Sousa Duarte",
+      "cargo": "Professora da UNB",
+      "opinioes": [
+        "Salientou a centralidade dos trabalhadores na compreensão das relações entre trabalho e sofrimento mental.",
+        "Afirmou que a prevenção e a intervenção nos riscos psicossociais dependem do engajamento dos empregadores, dos trabalhadores e dos sindicatos.",
+        "Ressaltou a importância da participação anônima dos trabalhadores no diagnóstico dos fatores de risco psicossociais para evitar retaliações."
+      ]
+    },
+    {
+      "nome": "Ana Luiza Horcades",
+      "cargo": "Auditora Fiscal, representante do SINAIT",
+      "opinioes": [
+        "Destacou a importância de considerar os fatores de risco psicossociais para a promoção de um ambiente de trabalho seguro e saudável.",
+        "Afirmou que a saúde e a segurança no trabalho abrangem não só a ausência de doenças, mas também o bem-estar físico e mental dos trabalhadores.",
+        "Enfatizou que a legislação deve permitir que o Estado efetive os direitos dos trabalhadores de forma inclusiva e heterogênea."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Trabalho da Câmara dos Deputados debateu o Projeto de Lei nº 3.588, de 2020, que trata dos riscos psicossociais no ambiente de trabalho. Os participantes, incluindo deputados, representantes do Ministério Público do Trabalho, Ministério da Saúde, Ministério do Trabalho e Emprego, e de sindicatos, discutiram a importância da prevenção, intervenção e gestão dos riscos psicossociais. A audiência destacou a necessidade de uma legislação que proteja todos os trabalhadores, sem excluir as pequenas empresas, e a importância da participação dos trabalhadores no diagnóstico e prevenção dos riscos. Houve consenso sobre a urgência de aprovar o projeto de lei para melhorar a saúde mental no trabalho e a necessidade de uma atuação integrada entre empregadores, trabalhadores e o Estado."
+}
