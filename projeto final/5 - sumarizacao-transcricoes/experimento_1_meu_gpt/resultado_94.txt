@@ -1,0 +1,50 @@
+{
+  "assunto": "Direitos e inclusão de pessoas autistas",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (PT-DF)",
+      "opinioes": [
+        "A importância de ouvir as mães de autistas e proporcionar suporte necessário.",
+        "Criação de uma subcomissão para discutir políticas intersetoriais para pessoas com transtorno do espectro autista.",
+        "Proposta para mudar a nomenclatura de 'transtorno' para 'condição' no contexto das pessoas autistas."
+      ]
+    },
+    {
+      "nome": "Fernando Cotta",
+      "cargo": "Presidente do Movimento Orgulho Autista Brasil",
+      "opinioes": [
+        "A necessidade de melhorar o diagnóstico e encaminhamento de pessoas autistas.",
+        "A questão do suicídio entre autistas e a necessidade de abordar esse tema.",
+        "A importância de políticas públicas efetivas para pessoas autistas, incluindo fiscalização de vagas de estacionamento reservadas."
+      ]
+    },
+    {
+      "nome": "Larissa Argenta Ferreira de Melo",
+      "cargo": "Presidente da Comissão dos Direitos do Autista da OAB, Subseção de Taguatinga",
+      "opinioes": [
+        "A necessidade de conscientização sobre a ocupação de vagas de estacionamento para pessoas com deficiência.",
+        "A importância de exemplo e protagonismo das próprias pessoas autistas.",
+        "O papel crucial das políticas públicas de atendimento à pessoa autista."
+      ]
+    },
+    {
+      "nome": "Samara Rocha",
+      "cargo": "Vice-Presidente da Associação Tudo Azul, do Gama",
+      "opinioes": [
+        "Apelo ao Governo do DF para melhorar a disponibilidade de neuropediatras e psiquiatras infantis.",
+        "A situação crítica das famílias que aguardam anos por consultas especializadas."
+      ]
+    },
+    {
+      "nome": "Telma Sá Nascimento",
+      "cargo": "Presidente da Comissão dos Direitos do Autista",
+      "opinioes": [
+        "Convocação para aceitação e conhecimento das próprias condições pelos autistas.",
+        "A efetivação dos direitos já legislados para pessoas autistas.",
+        "O papel das políticas públicas em garantir direitos em educação, assistência social e mercado de trabalho."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Câmara dos Deputados discutiu amplamente os direitos e a inclusão de pessoas autistas, com ênfase na necessidade de políticas públicas eficazes e intersetoriais. Participantes como a Deputada Erika Kokay, o Presidente do Movimento Orgulho Autista Brasil Fernando Cotta, e representantes de várias organizações destacaram a importância de suporte adequado, a conscientização e mudanças legislativas. A criação de uma subcomissão e a alteração da nomenclatura relacionada ao autismo foram alguns dos encaminhamentos propostos."
+}

@@ -1,0 +1,70 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei Complementar nº 12 de 2024, que regulamenta a relação de trabalho intermediado por empresas operadoras de aplicativos de transporte.",
+  "envolvidos": [
+    {
+      "nome": "Josenildo",
+      "cargo": "Presidente da Comissão de Indústria, Comércio e Serviços, Deputado do PDT-AP",
+      "opinioes": [
+        "A audiência pública tem como objetivo debater e ouvir todos os atores envolvidos no PLP 12, incluindo motoristas de aplicativos, entidades representativas, empresas e o governo, para chegar a uma decisão que beneficie a todos.",
+        "A importância de manter a ordem e a calma durante a audiência para garantir um resultado produtivo e positivo."
+      ]
+    },
+    {
+      "nome": "Priscila Dibi Schvarcz",
+      "cargo": "Procuradora do Ministério Público do Trabalho",
+      "opinioes": [
+        "Destaca a necessidade de melhorias e uma discussão mais intensa sobre o projeto de lei.",
+        "Ressalta a importância de proteger os direitos previdenciários dos motoristas de aplicativos."
+      ]
+    },
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Deputado do PSB-PE",
+      "opinioes": [
+        "Parabeniza a rápida aprovação do requerimento para a realização da audiência pública.",
+        "Enfatiza a necessidade de construção de um debate pautado no diálogo e na inclusão de todas as partes interessadas.",
+        "Reconhece a dedicação do Ministro do Trabalho, Luiz Marinho, na construção de uma redação interessante para todos."
+      ]
+    },
+    {
+      "nome": "Adroaldo da Cunha Portal",
+      "cargo": "Secretário do Regime Geral de Previdência Social do Ministério da Previdência Social",
+      "opinioes": [
+        "Apoia a proposta do Ministério da Previdência contida no PLP 12/2024.",
+        "Destaca o respeito internacional pelo modelo de previdência social do Brasil e a necessidade de valorização interna."
+      ]
+    },
+    {
+      "nome": "Luiz Marinho",
+      "cargo": "Ministro de Estado do Trabalho e Emprego",
+      "opinioes": [
+        "Defende que o PLP 12/2024 é uma oportunidade para proteger os direitos dos motoristas de aplicativos.",
+        "Critica o governo anterior por não dar atenção ao projeto e enfatiza a importância da construção de um conteúdo com respeito a todos os motoristas."
+      ]
+    },
+    {
+      "nome": "Daniel Agrobom",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Destaca a necessidade de uma regulamentação que realmente atenda à categoria dos motoristas de aplicativos.",
+        "A importância de ouvir motoristas de aplicativos para construir a melhor solução em conjunto."
+      ]
+    },
+    {
+      "nome": "André Porto",
+      "cargo": "Diretor-Executivo da AMOBITEC",
+      "opinioes": [
+        "Defende a necessidade de regulamentação para melhorar o ambiente de negócios para todos."
+      ]
+    },
+    {
+      "nome": "Denis Moura",
+      "cargo": "Diretor de Comunicação e Relações Públicas da AMPAB",
+      "opinioes": [
+        "Enfatiza a importância do INSS para a segurança dos motoristas de aplicativos.",
+        "Destaca a necessidade de responsabilidade das empresas de aplicativos em relação à segurança dos motoristas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu o Projeto de Lei Complementar nº 12 de 2024, que regulamenta o trabalho intermediado por aplicativos de transporte. Participaram deputados, representantes de motoristas de aplicativos, empresas e o governo. As opiniões divergem sobre pontos específicos, mas todos concordam na necessidade de regulamentação para proteger os motoristas. O debate foi marcado pela defesa de direitos previdenciários e pela importância de ouvir todas as partes interessadas para construir um texto legislativo equilibrado e justo."
+}

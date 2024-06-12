@@ -1,0 +1,50 @@
+{
+  "assunto": "Debate sobre medidas de socorro ao setor de transporte coletivo urbano em virtude da crise exacerbada pela pandemia",
+  "envolvidos": [
+    {
+      "nome": "Elias Vaz",
+      "cargo": "Deputado (PSB-GO), Presidente da Comissão de Viação e Transportes",
+      "opinioes": [
+        "Defende que o transporte público deve ser entendido como uma política pública, não apenas como uma relação entre empresa e usuário.",
+        "Afirma que o problema do transporte público se agravou com a pandemia, mas que já existia anteriormente.",
+        "Critica a falta de comprometimento histórico do poder público, especialmente do Governo Federal, com a questão do transporte público.",
+        "Propõe que a União e os Estados contribuam com um fundo para custear o transporte público, semelhante ao funcionamento do SUS.",
+        "Critica a renúncia fiscal para a indústria automobilística, sugerindo que esses recursos poderiam ser usados para subsidiar o transporte público."
+      ]
+    },
+    {
+      "nome": "Rafael Calabria",
+      "cargo": "Coordenador de Mobilidade Urbana do Instituto Brasileiro de Defesa do Consumidor (IDEC)",
+      "opinioes": [
+        "Defende que o transporte público deve ser tratado como uma política pública mais ampla, com participação efetiva do poder público.",
+        "Critica a atual responsabilidade do transporte público ser majoritariamente dos empresários, defendendo uma maior responsabilidade pública.",
+        "Propõe uma política de remuneração por custo e qualidade para garantir a frequência necessária e evitar lotações.",
+        "Sugeriu a criação de um fundo para baratear o sistema de transporte, inspirado no vale-transporte.",
+        "Defende a necessidade de apoio técnico e financeiro do Governo Federal para pequenas cidades gerirem sistemas de transporte público."
+      ]
+    },
+    {
+      "nome": "Marcos Bicalho dos Santos",
+      "cargo": "Diretor Administrativo e Institucional da Associação Nacional das Empresas de Transportes Urbanos (NTU)",
+      "opinioes": [
+        "Agradece a oportunidade de debater e elogia a visão do Deputado Elias Vaz sobre o setor de transporte.",
+        "Relata a crise histórica do setor de transporte público, agravada pela pandemia.",
+        "Defende que certos riscos, como os de demanda, devem ser assumidos pelo gestor público e não pelas empresas operadoras.",
+        "Propõe a separação das tarifas de remuneração dos custos de produção do serviço de transporte.",
+        "Critica a ausência do Governo Federal na condução da política de mobilidade urbana desde a Constituição de 1988."
+      ]
+    },
+    {
+      "nome": "Sebastião Melo",
+      "cargo": "Prefeito de Porto Alegre e Vice-Presidente de Mobilidade Urbana da Frente Nacional de Prefeitos (FNP)",
+      "opinioes": [
+        "Defende uma política integrada de modais de transporte e a interoperabilidade entre eles.",
+        "Critica a concentração de incentivos no transporte individual, especialmente automóveis, e a falta de políticas para o transporte coletivo.",
+        "Propõe a criação de um sistema de transporte urbano similar ao SUS, com financiamento tripartite (União, Estados e Municípios).",
+        "Apoia a ideia de que a tarifa de transporte deve ser subsidiada pelo poder público para garantir acesso equitativo.",
+        "Enfatiza a necessidade urgente de subsídios para manter a mobilidade urbana, especialmente para idosos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública presidida pelo Deputado Elias Vaz debateu medidas de socorro ao setor de transporte coletivo urbano, exacerbadas pela crise da pandemia. Participaram Rafael Calabria (IDEC), Marcos Bicalho (NTU), e Sebastião Melo (Prefeito de Porto Alegre e FNP), que discutiram a necessidade de tratar o transporte público como política pública, criticaram a falta de apoio do Governo Federal, e sugeriram a criação de um sistema de financiamento tripartite semelhante ao SUS. A discussão destacou a importância de políticas integradas e subsídios para garantir a qualidade e acessibilidade do transporte público."
+}

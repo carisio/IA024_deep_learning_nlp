@@ -1,0 +1,76 @@
+{
+  "assunto": "Debate sobre a política estatal de combate ao trabalho análogo ao escravo no Brasil, com foco nas lavouras de café em Minas Gerais.",
+  "envolvidos": [
+    {
+      "nome": "Rogério Correia",
+      "cargo": "Deputado Federal (PT-MG)",
+      "opinioes": [
+        "O combate ao trabalho análogo a escravo é imprescindível para extirpar esta prática desumana.",
+        "A crescente fragilização da atuação estatal e precarização das condições de trabalho aumentam a vulnerabilidade ao trabalho escravo.",
+        "Casos de trabalho análogo a escravo nas lavouras de café em Minas Gerais têm crescido, comprometendo a competitividade internacional dos produtos brasileiros."
+      ]
+    },
+    {
+      "nome": "Jorge Ferreira dos Santos Filho",
+      "cargo": "Coordenador da Articulação dos Empregados Rurais do Estado de Minas Gerais (ADERE-MG)",
+      "opinioes": []
+    },
+    {
+      "nome": "Italvar Filipe de Paiva Medina",
+      "cargo": "Vice-Coordenador Nacional de Erradicação do Trabalho Escravo e Enfrentamento ao Tráfico de Pessoas do Ministério Público do Trabalho",
+      "opinioes": [
+        "O trabalho escravo ainda é uma chaga social no Brasil, com 58 mil resgatados desde 1995.",
+        "Fatores como o aumento do desemprego e a precarização das condições de vida aumentam a vulnerabilidade ao trabalho escravo.",
+        "A redução de fiscalizações ambientais, especialmente na Amazônia, contribui para a exploração de trabalhadores.",
+        "Aprovação do PL 3.168/2021 é crucial para aumentar o número de parcelas do seguro-desemprego para trabalhadores resgatados."
+      ]
+    },
+    {
+      "nome": "Luiz Henrique Ramos Lopes",
+      "cargo": "Assessor da Subsecretaria de Inspeção do Trabalho do Ministério do Trabalho e Previdência",
+      "opinioes": [
+        "Desde a criação do Grupo Especial de Fiscalização Móvel, mais de 58 mil trabalhadores foram resgatados.",
+        "Minas Gerais é o estado com maior número de ações com resgate de trabalhadores em condições análogas à escravidão.",
+        "O Sistema Ipê tem melhorado a assertividade das ações de fiscalização."
+      ]
+    },
+    {
+      "nome": "Lucas Reis da Silva",
+      "cargo": "Diretor Adjunto do Sindicato Nacional dos Auditores Fiscais do Trabalho (SINAIT)",
+      "opinioes": [
+        "É essencial manter o conceito de trabalho escravo no art. 149 do Código Penal.",
+        "Os grupos especiais de fiscalização móvel são cruciais para o combate ao trabalho escravo.",
+        "A 'lista suja' de empregadores é um importante instrumento de controle social.",
+        "É necessário combater a miséria, a fome e o desemprego para enfrentar o trabalho escravo."
+      ]
+    },
+    {
+      "nome": "Gabriel Santos",
+      "cargo": "Presidente da Confederação Nacional dos Trabalhadores Assalariados e Assalariadas Rurais (CONTAR)",
+      "opinioes": [
+        "A categoria de trabalhadores assalariados rurais enfrenta graves retrocessos.",
+        "Cerca de 60% dos trabalhadores rurais estão na informalidade.",
+        "O orçamento para fiscalização do trabalho rural foi drasticamente reduzido nos últimos anos."
+      ]
+    },
+    {
+      "nome": "Paulo Veloso",
+      "cargo": "Procurador do Trabalho e Diretor da Associação Nacional dos Procuradores e Procuradoras do Trabalho (ANPT)",
+      "opinioes": [
+        "O trabalho análogo ao de escravo ocorre em diversas frentes, não apenas no meio rural.",
+        "A pobreza extrema nas regiões de origem dos trabalhadores contribui para a migração e exploração.",
+        "É necessário implementar políticas de pós-resgate para prevenir que trabalhadores retornem ao ciclo de miséria."
+      ]
+    },
+    {
+      "nome": "Lívia Mendes Moreira Miraglia",
+      "cargo": "Representante da Clínica de Enfrentamento ao Trabalho Escravo da UFMG",
+      "opinioes": [
+        "A escravidão moderna é 30 vezes mais rentável do que a escravidão dos séculos XVII e XIX.",
+        "60% dos trabalhadores resgatados em Minas Gerais são encontrados nas lavouras de café.",
+        "82% dos trabalhadores resgatados no Brasil são negros."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados debateu a política estatal de combate ao trabalho análogo ao escravo no Brasil, com foco nas lavouras de café em Minas Gerais. Participaram do debate representantes do Ministério Público do Trabalho, Ministério do Trabalho e Previdência, sindicatos, ONGs, e especialistas acadêmicos. Os principais pontos discutidos incluíram a necessidade de fortalecer a fiscalização e as políticas públicas para combater a vulnerabilidade social que leva ao trabalho escravo, a importância de manter e reforçar os instrumentos legais existentes como o artigo 149 do Código Penal e a 'lista suja' de empregadores, e a urgência de implementar políticas de pós-resgate para evitar que trabalhadores retornem ao ciclo de miséria. Também foram destacados os desafios enfrentados pela fiscalização devido à redução de recursos e de pessoal, e a necessidade de responsabilizar as grandes empresas pela vigilância de suas cadeias produtivas."
+}

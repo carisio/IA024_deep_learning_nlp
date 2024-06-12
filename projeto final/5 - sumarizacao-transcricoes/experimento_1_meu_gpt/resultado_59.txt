@@ -1,0 +1,69 @@
+{
+  "assunto": "Situação dos pescadores profissionais artesanais de Minas Gerais e Espírito Santo atingidos pelo rompimento da barragem da Samarco no Município de Mariana",
+  "envolvidos": [
+    {
+      "nome": "Padre João",
+      "cargo": "Presidente da Comissão Externa (Bloco/PT - MG)",
+      "opinioes": [
+        "Critica a Fundação Renova por não comparecer às reuniões e por seu comportamento de omissão.",
+        "Acredita que o Ministério Público Federal e o Judiciário têm sido omissos.",
+        "Defende a necessidade de tratamento diferenciado para pescadores afetados pelo desastre."
+      ]
+    },
+    {
+      "nome": "Jeanne Gomes da Silva",
+      "cargo": "Coordenadora-Geral de Gestão Participativa Continental da Secretaria Nacional de Pesca Artesanal",
+      "opinioes": [
+        "Enfatiza que no governo anterior a pauta de Mariana foi aquém do esperado e a participação social foi comprometida.",
+        "Destaca a importância de analisar melhor as questões da qualidade do pescado e da água antes de retomar a pesca.",
+        "Reconhece a necessidade de revisitar a data inicial do Registro de Pescador Profissional."
+      ]
+    },
+    {
+      "nome": "Diógenes Lemainski",
+      "cargo": "Chefe de Divisão da Assessoria Internacional do Ministério da Pesca e Aquicultura",
+      "opinioes": [
+        "Aponta a falta de resultados conclusivos sobre a qualidade do pescado como um problema.",
+        "Critica a falta de inserção do público atingido no processo de repactuação.",
+        "Defende a necessidade de encontrar soluções diferenciadas para o setor pesqueiro afetado."
+      ]
+    },
+    {
+      "nome": "Benilde Madeira",
+      "cargo": "Liderança dos pescadores e da Comissão de Atingidos",
+      "opinioes": [
+        "Sugere que se considere a documentação e as contribuições ao INSS para reconhecer pescadores afetados.",
+        "Critica a Fundação Renova e as instituições de Justiça por falta de bom senso e apoio.",
+        "Enfatiza as dificuldades enfrentadas pelos pescadores tradicionais na comprovação de sua atividade."
+      ]
+    },
+    {
+      "nome": "Vanessa Gaudereto",
+      "cargo": "Ex-Superintendente Federal da Pesca",
+      "opinioes": [
+        "Considera a exigência de documentos sem previsão legal como arbitrária e revitimizadora.",
+        "Destaca a necessidade de criar um procedimento para que pescadores possam obter declarações de tempo de pesca.",
+        "Sugere a criação de uma câmara técnica específica para tratar das questões dos atingidos por grandes empreendimentos."
+      ]
+    },
+    {
+      "nome": "Leleco Pimentel",
+      "cargo": "Deputado Estadual (PT - MG)",
+      "opinioes": [
+        "Critica as mineradoras pelo contínuo impacto ambiental e social nas bacias hidrográficas.",
+        "Destaca a importância da participação dos pescadores no processo de repactuação.",
+        "Chama atenção para a necessidade de reconhecimento e certificação do tempo de profissão dos pescadores pelo Estado."
+      ]
+    },
+    {
+      "nome": "Lelis Barreiros",
+      "cargo": "Presidente da Colônia Z43 de Conselheiro Pena",
+      "opinioes": [
+        "Denuncia a exigência de documentação antiga e a recusa de benefícios previdenciários pelos pescadores.",
+        "Critica a Fundação Renova por não reconhecer direitos de pescadores comprovadamente afetados.",
+        "Aponta a perseguição sofrida pelos pescadores devido às exigências burocráticas e falhas institucionais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a situação dos pescadores profissionais artesanais de Minas Gerais e Espírito Santo afetados pelo rompimento da barragem de Mariana. Os participantes criticaram a Fundação Renova pela falta de compromisso e apoio, e destacaram a necessidade de tratamento diferenciado para os pescadores, considerando sua documentação e histórico de contribuições ao INSS. Sugestões incluem a criação de procedimentos para emissão de declarações de tempo de pesca e a formação de uma câmara técnica para tratar das questões dos atingidos. A importância da participação dos pescadores no processo de repactuação foi enfatizada."
+}

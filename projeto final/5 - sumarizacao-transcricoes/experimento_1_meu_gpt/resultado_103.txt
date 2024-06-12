@@ -1,0 +1,67 @@
+{
+  "assunto": "Segurança pública e combate ao crime organizado",
+  "envolvidos": [
+    {
+      "nome": "Alberto Fraga",
+      "cargo": "Presidente da Comissão de Segurança Pública e Combate ao Crime Organizado, Deputado (PL - DF)",
+      "opinioes": [
+        "Destacou a necessidade de respeito mútuo durante a audiência.",
+        "Afirmou a importância da atuação da Comissão e garantiu que o Ministro Lewandowski não seria destratado durante a sessão."
+      ]
+    },
+    {
+      "nome": "Ricardo Lewandowski",
+      "cargo": "Ministro da Justiça e Segurança Pública",
+      "opinioes": [
+        "Enfatizou a harmonia necessária entre os Poderes Legislativo e Executivo.",
+        "Ressaltou que a segurança pública é responsabilidade compartilhada entre o Estado e a sociedade.",
+        "Mencionou cortes orçamentários significativos que afetam a Polícia Federal e a Polícia Rodoviária Federal.",
+        "Afirmou que ações estão sendo tomadas para reverter os cortes no orçamento da segurança pública.",
+        "Comentou sobre a fuga de presos de Mossoró e as medidas tomadas para reforçar a segurança nos presídios.",
+        "Defendeu o veto presidencial a partes do projeto de lei que restringem as saídas temporárias de presos."
+      ]
+    },
+    {
+      "nome": "Sanderson",
+      "cargo": "Deputado (PL - RS)",
+      "opinioes": [
+        "Apoiou o papel de fiscalização da Comissão de Segurança Pública.",
+        "Criticou cortes no orçamento da Polícia Federal e da Polícia Rodoviária Federal.",
+        "Destacou a necessidade de reposição orçamentária para essas forças."
+      ]
+    },
+    {
+      "nome": "Rodolfo Nogueira",
+      "cargo": "Deputado (PL - MS)",
+      "opinioes": [
+        "Criticou a fuga de presos de Mossoró como um reflexo do descaso do Governo com a segurança pública.",
+        "Questionou o Ministro sobre as medidas tomadas após a fuga e sobre a construção de muralhas em presídios."
+      ]
+    },
+    {
+      "nome": "Sargento Gonçalves",
+      "cargo": "Deputado (PL - RN)",
+      "opinioes": [
+        "Relacionou a fuga de presos em Mossoró a visitas suspeitas e mudanças na direção do presídio.",
+        "Criticou a suspensão do direito de policiais militares adquirirem armas para defesa pessoal."
+      ]
+    },
+    {
+      "nome": "Delegado Paulo Bilynskyj",
+      "cargo": "Deputado (PL - SP)",
+      "opinioes": [
+        "Destacou a importância do direito à legítima defesa e criticou restrições ao porte de armas.",
+        "Questionou o Ministro sobre as ações da Polícia Federal e a recomendação de veto ao projeto de lei das saídas temporárias de presos."
+      ]
+    },
+    {
+      "nome": "Gilvan da Federal",
+      "cargo": "Deputado (PL - ES)",
+      "opinioes": [
+        "Solicitou apoio do Ministro para a aprovação da Lei Orgânica da Polícia Federal.",
+        "Criticou a detenção de um jornalista português pela Polícia Federal e questionou se isso se tornaria uma prática comum."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Segurança Pública e Combate ao Crime Organizado, presidida por Alberto Fraga, teve como principal tema a segurança pública no Brasil, com foco nas ações e desafios enfrentados pelo Ministério da Justiça e Segurança Pública. O Ministro Ricardo Lewandowski destacou a importância da harmonia entre os Poderes e discutiu cortes orçamentários que afetam a Polícia Federal e a Polícia Rodoviária Federal. Deputados como Sanderson, Rodolfo Nogueira, Sargento Gonçalves, Delegado Paulo Bilynskyj e Gilvan da Federal expressaram suas preocupações e críticas sobre a segurança pública, a fuga de presos de Mossoró, e as políticas de porte de armas e de fiscalização policial. Lewandowski respondeu a questionamentos sobre as medidas tomadas para reforçar a segurança nos presídios e a manutenção do veto presidencial a certas partes da lei que restringe saídas temporárias de presos."
+}

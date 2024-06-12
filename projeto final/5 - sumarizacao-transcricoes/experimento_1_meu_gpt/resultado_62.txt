@@ -1,0 +1,71 @@
+{
+  "assunto": "Dificuldade de acesso dos pacientes em estágio 2 a tratamentos para amiloidose hereditária no Sistema Único de Saúde (SUS).",
+  "envolvidos": [
+    {
+      "nome": "Rejane Dias",
+      "cargo": "Deputada, Presidente da Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "opinioes": [
+        "Destaca a importância dos esclarecimentos sobre os procedimentos adotados pela CONITEC e pelo Ministério da Saúde.",
+        "Enfatiza a necessidade de construir pontes para que os pacientes possam ter acesso ao medicamento.",
+        "Ressalta que a doença é grave e leva à morte, tornando essencial o envolvimento do Ministério da Saúde."
+      ]
+    },
+    {
+      "nome": "Priscila Gebrim Louly",
+      "cargo": "Coordenadora-Geral de Avaliação de Tecnologias em Saúde do Ministério da Saúde",
+      "opinioes": [
+        "Explica o processo de incorporação de tecnologias no SUS pela CONITEC.",
+        "Relata as dificuldades e o processo de avaliação do medicamento inotersena para pacientes com amiloidose hereditária em estágio 2.",
+        "Menciona que a CONITEC recomendou a não incorporação do inotersena devido ao custo elevado.",
+        "Informa que haverá uma audiência pública sobre o tema no próximo dia 7 de dezembro."
+      ]
+    },
+    {
+      "nome": "Marcia Cruz",
+      "cargo": "Coordenadora do Centro de Estudos em Paramiloidose Antônio Rodrigues de Mello",
+      "opinioes": [
+        "Descreve a doença amiloidose hereditária e os impactos graves nos pacientes.",
+        "Apresenta as opções de tratamento disponíveis, destacando o transplante de fígado e os medicamentos tafamidis, inotersena e patisirana.",
+        "Ressalta a necessidade de incorporação de novos medicamentos para estágios avançados da doença.",
+        "Critica a falta de acesso aos medicamentos já aprovados em outros países."
+      ]
+    },
+    {
+      "nome": "Liana Ferronato",
+      "cargo": "Presidente da Associação Brasileira de Paramiloidose",
+      "opinioes": [
+        "Afirma que a distribuição do tafamidis está comprometida e que há atrasos na compra e distribuição do medicamento.",
+        "Defende a incorporação do inotersena devido à falta de resposta ao tafamidis em alguns pacientes.",
+        "Relata casos de pacientes cujo estado de saúde se agravou devido à demora na incorporação do inotersena."
+      ]
+    },
+    {
+      "nome": "Fábio Almeida",
+      "cargo": "Paciente de amiloidose hereditária",
+      "opinioes": [
+        "Compartilha sua experiência pessoal com a doença e a dificuldade de acesso ao tratamento.",
+        "Descreve a evolução dos sintomas e o impacto emocional e financeiro na vida dos pacientes.",
+        "Relata os benefícios do uso do inotersena em comparação com o tafamidis."
+      ]
+    },
+    {
+      "nome": "Maria Amélia de Oliveira Costa",
+      "cargo": "Coordenadora de Epidemiologia da Secretaria de Estado da Saúde do Piauí",
+      "opinioes": [
+        "Destaca a importância de monitorar os pacientes com amiloidose hereditária e fornecer apoio psicológico e exames complementares.",
+        "Sugere a criação de uma vigilância das doenças raras em âmbito nacional.",
+        "Ressalta a necessidade de uma política pública de saúde que inclua a aquisição de medicamentos e o acompanhamento dos pacientes."
+      ]
+    },
+    {
+      "nome": "Monica Aderaldo",
+      "cargo": "Presidente da Federação das Associações de Doenças Raras do Norte, Nordeste e Centro-Oeste",
+      "opinioes": [
+        "Critica a decisão da CONITEC de não recomendar a incorporação do tratamento devido ao custo.",
+        "Defende que o tratamento é seguro e eficaz, e que a falta de recomendação retira a esperança dos pacientes.",
+        "Apela para a necessidade de políticas públicas que garantam o acesso aos tratamentos para doenças raras."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública organizada pela Comissão de Defesa dos Direitos das Pessoas com Deficiência, presidida pela Deputada Rejane Dias, discutiu a dificuldade de acesso dos pacientes em estágio 2 a tratamentos para amiloidose hereditária no SUS. Participaram representantes do Ministério da Saúde, especialistas e pacientes, que relataram os desafios e impactos da doença, a importância da incorporação de novos medicamentos como inotersena e patisirana, e a necessidade de políticas públicas eficazes para garantir acesso aos tratamentos. A CONITEC recomendou a não incorporação do inotersena devido ao custo elevado, apesar de sua eficácia comprovada. A audiência destacou a urgência de melhorar a distribuição de medicamentos e fornecer suporte integral aos pacientes."
+}

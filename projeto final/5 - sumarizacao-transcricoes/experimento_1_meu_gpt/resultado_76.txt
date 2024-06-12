@@ -1,0 +1,87 @@
+{
+  "assunto": "Políticas públicas para a saúde mental, com foco na 5ª Conferência Nacional de Saúde Mental e a apresentação de pesquisas sobre a Política Nacional de Atenção à Saúde Mental e os serviços prestados pela Rede de Atenção Psicossocial no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (PT-DF)",
+      "opinioes": [
+        "Organizadora da audiência para debater políticas públicas de saúde mental.",
+        "Critica a falta de padronização e avaliação dos serviços de comunidades terapêuticas financiados pelo governo."
+      ]
+    },
+    {
+      "nome": "Dayana Rosa",
+      "cargo": "Pesquisadora de políticas públicas no Instituto de Estudos para Políticas de Saúde (IEPS)",
+      "opinioes": [
+        "Apresentou uma agenda propositiva para a Política de Saúde Mental.",
+        "Criticou a falta de monitoramento centralizado pelo Ministério da Saúde das internações psiquiátricas.",
+        "Destacou a importância de serviços substitutivos aos manicômios e a reinserção social dos pacientes."
+      ]
+    },
+    {
+      "nome": "Luciana Rossi Barrancos",
+      "cargo": "Instituto Cactus",
+      "opinioes": [
+        "Criticou a falta de dados e indicadores atualizados sobre saúde mental.",
+        "Enfatizou a necessidade de transparência e publicização de dados para melhorar as políticas de saúde mental."
+      ]
+    },
+    {
+      "nome": "Lucio Costa",
+      "cargo": "Diretor Executivo do Desinstituinte",
+      "opinioes": [
+        "Destacou o desmonte da política de saúde mental e a priorização de investimentos em hospitais psiquiátricos e comunidades terapêuticas.",
+        "Reforçou a necessidade de retomar a transparência e fiscalização dos hospitais psiquiátricos."
+      ]
+    },
+    {
+      "nome": "Maurício Fiore",
+      "cargo": "Pesquisador do Centro Brasileiro de Análise e Planejamento (CEBRAP)",
+      "opinioes": [
+        "Apresentou dados sobre o financiamento público de comunidades terapêuticas.",
+        "Criticou a falta de clareza sobre a natureza dos serviços prestados por essas comunidades."
+      ]
+    },
+    {
+      "nome": "Rafael Bernardon Ribeiro",
+      "cargo": "Coordenador-Geral de Saúde Mental, Álcool e Outras Drogas do Ministério da Saúde",
+      "opinioes": [
+        "Defendeu a atual estrutura e esforços do Ministério da Saúde em relação à saúde mental.",
+        "Enfatizou o desenvolvimento de um painel de indicadores e a melhoria do sistema de informação da Rede de Atenção Psicossocial."
+      ]
+    },
+    {
+      "nome": "Leonardo Pinho",
+      "cargo": "Presidente da Associação Brasileira de Saúde Mental",
+      "opinioes": [
+        "Criticou o apagão de dados e a falta de transparência na gestão da política de saúde mental.",
+        "Reforçou a necessidade de reposição inflacionária do custeio da RAPS e a priorização da Rede de Atenção Psicossocial."
+      ]
+    },
+    {
+      "nome": "Roque Júnior",
+      "cargo": "Representante da Rede Nacional Internúcleos da Luta Antimanicomial (RENILA)",
+      "opinioes": [
+        "Defendeu os CAPS e criticou as comunidades terapêuticas pelas suas práticas excludentes.",
+        "Compartilhou sua experiência pessoal de internações psiquiátricas e a importância do tratamento em liberdade."
+      ]
+    },
+    {
+      "nome": "André Ferreira",
+      "cargo": "Representante do Movimento Nacional de Luta Antimanicomial",
+      "opinioes": [
+        "Criticou a gestão unilateral do Ministério da Saúde e a falta de clareza sobre os números e o orçamento da política de saúde mental.",
+        "Defendeu uma abordagem baseada na humanização e na ampliação de serviços de natureza ambulatorial e comunitária."
+      ]
+    },
+    {
+      "nome": "Régia Prado",
+      "cargo": "Representante do Conselho Nacional de Saúde",
+      "opinioes": [
+        "Criticou o desmonte da política de saúde mental e a transferência de recursos para comunidades terapêuticas.",
+        "Reforçou a importância da realização da Conferência Nacional de Saúde Mental e a luta por uma política humanizada e antimanicomial."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Direitos Humanos e Minorias da Câmara dos Deputados debateu as políticas públicas para a saúde mental, com foco na 5ª Conferência Nacional de Saúde Mental e a avaliação dos serviços prestados pela Rede de Atenção Psicossocial no Brasil. Os participantes destacaram a falta de dados e transparência na gestão da política de saúde mental, criticaram o financiamento de comunidades terapêuticas em detrimento dos serviços substitutivos aos manicômios, e reforçaram a necessidade de uma política de saúde mental humanizada e antimanicomial. Entre os envolvidos, estavam a Deputada Erika Kokay, Dayana Rosa do IEPS, Luciana Rossi Barrancos do Instituto Cactus, Lucio Costa do Desinstituinte, Maurício Fiore do CEBRAP, Rafael Bernardon Ribeiro do Ministério da Saúde, Leonardo Pinho da Associação Brasileira de Saúde Mental, Roque Júnior da RENILA, André Ferreira do Movimento Nacional de Luta Antimanicomial e Régia Prado do Conselho Nacional de Saúde."
+}

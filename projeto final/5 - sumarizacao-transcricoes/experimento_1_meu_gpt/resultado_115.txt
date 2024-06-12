@@ -1,0 +1,64 @@
+{
+  "assunto": "Efeitos das mudanças climáticas sobre o planeta Terra e o território brasileiro",
+  "envolvidos": [
+    {
+      "nome": "Saulo Rodrigues Pereira Filho",
+      "cargo": "Professor Associado do Centro de Desenvolvimento Sustentável da Universidade de Brasília",
+      "opinioes": [
+        "A crise climática é grave e difícil de ser solucionada devido aos interesses políticos e econômicos dos países desenvolvidos.",
+        "Os avanços na Convenção Quadro das Nações Unidas sobre a Mudança do Clima têm sido incrementais e lentos.",
+        "O Brasil é uma potência climática e de energia renovável, mas também um dos países mais vulneráveis aos impactos climáticos.",
+        "O aquecimento global precisa ser limitado, mas as promessas atuais de mitigação são insuficientes."
+      ]
+    },
+    {
+      "nome": "Gustavo Luedemann",
+      "cargo": "Pesquisador do IPEA e Cientista do IPCC",
+      "opinioes": [
+        "O Brasil deve liderar pelo exemplo na mitigação das mudanças climáticas.",
+        "É necessário preparar o país para a adaptação, pois os impactos climáticos são inevitáveis e afetarão principalmente os mais vulneráveis."
+      ]
+    },
+    {
+      "nome": "Luciana Gatti",
+      "cargo": "Pesquisadora do INPE e Acadêmica do IPCC",
+      "opinioes": [
+        "Sugere o financiamento de uma rede de monitoramento climático no Brasil.",
+        "Enfatiza a importância de emendas parlamentares para a viabilização desse projeto."
+      ]
+    },
+    {
+      "nome": "Marcio Astrini",
+      "cargo": "Secretário-Executivo do Observatório do Clima",
+      "opinioes": [
+        "É crucial acabar com o desmatamento para mitigar os efeitos das mudanças climáticas.",
+        "O Brasil tem a oportunidade de ser uma liderança global na questão climática, apesar de não ser uma potência econômica e militar."
+      ]
+    },
+    {
+      "nome": "Silvia Waiãpi",
+      "cargo": "Deputada Federal (PL - AP)",
+      "opinioes": [
+        "Critica a hipocrisia de países desenvolvidos que cobram ações do Brasil enquanto continuam a emitir gases poluentes.",
+        "Destaca as dificuldades enfrentadas pela população do Norte do Brasil devido às políticas ambientais restritivas."
+      ]
+    },
+    {
+      "nome": "Tarcísio Motta",
+      "cargo": "Deputado Federal (Bloco/PSOL - RJ)",
+      "opinioes": [
+        "Reforça a necessidade de enfrentar a questão climática globalmente e preparar as cidades brasileiras para os impactos futuros.",
+        "Afirma que os desastres não são naturais, mas socioambientais, afetando principalmente os mais pobres e vulneráveis."
+      ]
+    },
+    {
+      "nome": "Chico Alencar",
+      "cargo": "Deputado Federal (Bloco/PSOL - RJ)",
+      "opinioes": [
+        "Destaca a imprevisibilidade dos tempos atuais e a necessidade de incorporar novas realidades nas políticas públicas.",
+        "Menciona o impacto das guerras na Ucrânia e Gaza no meio ambiente e a importância da centralidade das questões climáticas nas políticas públicas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os efeitos das mudanças climáticas no Brasil e no mundo, destacando a necessidade de mitigar os impactos e se preparar para a adaptação. Participaram cientistas e deputados que enfatizaram a gravidade da crise climática, a importância do Brasil em liderar pelo exemplo na mitigação, e as dificuldades enfrentadas pelos mais vulneráveis. Sugestões incluem o financiamento de uma rede de monitoramento climático e a alocação de recursos para prevenir desastres socioambientais."
+}

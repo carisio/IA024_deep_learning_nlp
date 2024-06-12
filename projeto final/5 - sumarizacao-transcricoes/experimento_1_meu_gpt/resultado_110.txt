@@ -1,0 +1,96 @@
+{
+  "assunto": "Promoção do envelhecimento ativo e saudável como estratégia de equidade na saúde, prioritária na agenda do G20.",
+  "envolvidos": [
+    {
+      "nome": "Luiz Couto",
+      "cargo": "Presidente da audiência pública, Bloco/PT - PB",
+      "opinioes": [
+        "A importância de promover o envelhecimento ativo e saudável para garantir a equidade na saúde.",
+        "Destaca a necessidade de ouvir mais os idosos em audiências futuras.",
+        "Menciona seis pontos cruciais sobre o envelhecimento ativo e saudável, incluindo a sustentabilidade dos sistemas de saúde e o desenvolvimento econômico e social."
+      ]
+    },
+    {
+      "nome": "Alexandre Kalache",
+      "cargo": "Presidente do Centro Internacional de Longevidade",
+      "opinioes": [
+        "Define envelhecimento ativo como um processo que otimiza oportunidades em saúde, educação, participação e segurança.",
+        "Enfatiza a importância de ter uma missão e um propósito de vida.",
+        "Critica o preconceito contra idosos (idadismo) e defende a solidariedade intergeracional."
+      ]
+    },
+    {
+      "nome": "Lígia Gualberto",
+      "cargo": "Coordenadora de Saúde da Pessoa Idosa na Atenção Primária do Ministério da Saúde",
+      "opinioes": [
+        "Destaca a importância de promover equidade no envelhecimento e de garantir acesso à saúde para todas as pessoas idosas.",
+        "Fala sobre a Política Nacional de Saúde da Pessoa Idosa e a necessidade de revisão para adaptá-la aos novos desafios.",
+        "Enfatiza a importância da atenção primária e da prevenção de quedas e acidentes."
+      ]
+    },
+    {
+      "nome": "Felipe Hees",
+      "cargo": "Diplomata representante do Ministério das Relações Exteriores para o G20",
+      "opinioes": [
+        "Explica a estrutura e prioridades do G20, destacando a inclusão social e o combate à fome e à pobreza.",
+        "Menciona a importância da cobertura universal de saúde e da proteção social para os idosos.",
+        "Fala sobre a participação da sociedade civil e a importância de suas recomendações nas discussões do G20."
+      ]
+    },
+    {
+      "nome": "Alexandre da Silva",
+      "cargo": "Secretário Nacional dos Direitos da Pessoa Idosa do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Enfatiza a necessidade de uma abordagem ampliada da saúde, incluindo aspectos físicos, emocionais e patrimoniais.",
+        "Fala sobre a importância da educação ao longo da vida e da segurança para as pessoas idosas.",
+        "Menciona projetos como Vida Digna em Casa e Viva Mais Cidadania Digital, focados em atender as necessidades dos idosos."
+      ]
+    },
+    {
+      "nome": "Sandra Regina Capana Michellim",
+      "cargo": "Coordenadora Nacional da Pastoral da Pessoa Idosa",
+      "opinioes": [
+        "Destaca a importância de políticas públicas que garantam os direitos dos idosos.",
+        "Fala sobre o trabalho da Pastoral em acompanhar e orientar idosos em situação de vulnerabilidade.",
+        "Enfatiza a necessidade de olhar para as pessoas mais vulneráveis e garantir a efetividade das políticas públicas."
+      ]
+    },
+    {
+      "nome": "Marcos Wagner de Sousa Porto",
+      "cargo": "Presidente da Sociedade Nordestina de Neurocirurgia",
+      "opinioes": [
+        "Fala sobre a importância da saúde preventiva e da discussão sobre envelhecimento nos eventos do G20.",
+        "Menciona a necessidade de políticas que previnam quedas e doenças como Alzheimer.",
+        "Enfatiza a necessidade de colaboração entre diferentes setores para melhorar a saúde dos idosos."
+      ]
+    },
+    {
+      "nome": "Babak Kateb",
+      "cargo": "Presidente do Brain Mapping Foundation",
+      "opinioes": [
+        "Destaca a importância de estudos e inovações na neurociência para melhorar a qualidade de vida dos idosos.",
+        "Menciona o custo elevado do cuidado com idosos e a importância da educação para prevenir doenças como Alzheimer.",
+        "Incentiva a colaboração internacional e a participação em eventos como o Dia do Cérebro."
+      ]
+    },
+    {
+      "nome": "Reimont",
+      "cargo": "Deputado, Bloco/PT - RJ",
+      "opinioes": [
+        "Destaca a importância do fortalecimento orçamentário do Ministério dos Direitos Humanos.",
+        "Fala sobre a necessidade de políticas públicas que garantam a dignidade e a inclusão dos idosos.",
+        "Enfatiza a importância de discutir o envelhecimento com dignidade e a mobilidade urbana adequada para idosos."
+      ]
+    },
+    {
+      "nome": "Alexandre Lindenmeyer",
+      "cargo": "Deputado, Bloco/PT - RS",
+      "opinioes": [
+        "Destaca a necessidade de um debate abrangente e diagnóstico eficaz sobre o envelhecimento.",
+        "Fala sobre a importância de práticas integrativas e de um olhar ampliado para a saúde.",
+        "Critica a distorção orçamentária que limita os recursos para políticas de direitos humanos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Defesa dos Direitos da Pessoa Idosa teve como tema principal a promoção do envelhecimento ativo e saudável como estratégia de equidade na saúde, destacando sua importância na agenda do G20. Participaram diversos especialistas e autoridades, incluindo Luiz Couto, Alexandre Kalache, Lígia Gualberto, Felipe Hees, Alexandre da Silva, Sandra Regina Capana Michellim, Marcos Wagner de Sousa Porto, Babak Kateb, Reimont e Alexandre Lindenmeyer. Eles abordaram temas como a necessidade de políticas públicas integradas, a importância da atenção primária, a participação social dos idosos, a educação ao longo da vida, a segurança e a proteção dos idosos, além de críticas à distorção orçamentária que limita recursos para políticas de direitos humanos. A discussão enfatizou a necessidade de colaboração entre diferentes setores e países para promover a saúde e a dignidade dos idosos."
+}

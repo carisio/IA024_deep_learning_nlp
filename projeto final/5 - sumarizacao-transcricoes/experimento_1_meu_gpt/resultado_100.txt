@@ -1,0 +1,77 @@
+{
+  "assunto": "Abuso sexual infantojuvenil e a necessidade de regulamentação e proteção no ambiente digital",
+  "envolvidos": [
+    {
+      "nome": "Silvye Alves",
+      "cargo": "Deputada Federal, Bloco/UNIÃO - GO",
+      "opinioes": [
+        "Destaca a importância da regulação da internet para proteger crianças e adolescentes de abusos e assédio.",
+        "Enfatiza a necessidade de espaços de apoio para vítimas, como a Casa da Mulher Brasileira.",
+        "Ressalta a importância de acessar informações para capturar criminosos, especialmente em casos de abuso intrafamiliar."
+      ]
+    },
+    {
+      "nome": "Susan Lucena",
+      "cargo": "Ex-Diretora da Casa da Mulher Brasileira",
+      "opinioes": [
+        "Parabeniza a iniciativa da audiência pública.",
+        "Destaca a gravidade do número de estupros no Brasil, com 70% das vítimas sendo crianças e adolescentes.",
+        "Enfatiza a importância da regulação da internet para proteger crianças de assédio e abuso.",
+        "Sugere a criação de espaços de apoio para crianças e adolescentes, semelhantes à Casa da Mulher Brasileira."
+      ]
+    },
+    {
+      "nome": "George Neves Lodder",
+      "cargo": "Procurador da República",
+      "opinioes": [
+        "Aponta a falta de tipificação específica para crimes como grooming no Brasil.",
+        "Destaque a importância de preservar dados de conexão para investigação criminal.",
+        "Argumenta que a exclusão de perfis em redes sociais é difícil de implementar, mas necessária para a segurança."
+      ]
+    },
+    {
+      "nome": "Erika Karoline de Castro Sabino de Oliveira",
+      "cargo": "Delegada da Polícia Federal",
+      "opinioes": [
+        "Apoia a aprovação urgente do projeto de lei para facilitar investigações de crimes contra crianças e adolescentes.",
+        "Ressalta que a proteção às crianças e adolescentes é uma prioridade para a Polícia Federal.",
+        "Destaca a necessidade de intervenção legislativa para garantir paridade de armas na investigação de crimes cibernéticos."
+      ]
+    },
+    {
+      "nome": "Rodrigo Santana dos Santos",
+      "cargo": "Representante da Autoridade Nacional de Proteção de Dados (ANPD)",
+      "opinioes": [
+        "Defende a criação de um arcabouço regulatório para proteger dados de crianças e adolescentes.",
+        "Participa de acordos internacionais para facilitar o acesso a sites internacionais.",
+        "Reforça a importância de medidas preventivas para evitar crimes cibernéticos."
+      ]
+    },
+    {
+      "nome": "Taís Niffinegger",
+      "cargo": "Gerente de Políticas Públicas da Meta",
+      "opinioes": [
+        "Reafirma o compromisso da Meta em proporcionar uma internet mais segura.",
+        "Destaca a cooperação com autoridades de investigação criminal disponível 24/7.",
+        "Salienta a necessidade de receber pedidos de maneira adequada para reunir informações necessárias e preservar provas."
+      ]
+    },
+    {
+      "nome": "Cristina",
+      "cargo": "Membro da Associação Mães na Luta",
+      "opinioes": [
+        "Defende a revogação da Lei da Alienação Parental por proteger pais abusadores.",
+        "Questiona se a nova lei especificará punições maiores para crimes cometidos dentro do âmbito familiar."
+      ]
+    },
+    {
+      "nome": "Ricardo Fernando Guimarães",
+      "cargo": "Vereador de Cosmópolis, SP",
+      "opinioes": [
+        "Criou um projeto de lei para a conscientização sobre os males do uso intenso de dispositivos eletrônicos por crianças.",
+        "Propõe uma semana municipal de conscientização sobre segurança digital e cidadania digital."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública, presidida pela Deputada Silvye Alves, discutiu a regulamentação e proteção de crianças e adolescentes contra abusos no ambiente digital. Participaram autoridades como a ex-Diretora da Casa da Mulher Brasileira, Susan Lucena, e o Procurador da República, George Neves Lodder, que enfatizaram a gravidade do problema e a necessidade de ações coordenadas e legislação específica. A Delegada da Polícia Federal, Erika Karoline de Castro Sabino de Oliveira, e representantes da ANPD e Meta também contribuíram com propostas para melhorar a segurança e a eficácia das investigações. O evento destacou a urgência de criar espaços de apoio e regulamentações para proteger os jovens."
+}

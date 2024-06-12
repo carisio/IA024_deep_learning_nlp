@@ -1,0 +1,52 @@
+{
+  "assunto": "Planos e projetos do Ministério da Integração e do Desenvolvimento Regional para o desenvolvimento regional",
+  "envolvidos": [
+    {
+      "nome": "José Rocha",
+      "cargo": "Presidente da Comissão de Integração Nacional e Desenvolvimento Regional",
+      "opinioes": [
+        "Agradeceu a presença dos parlamentares e dos convidados.",
+        "Destacou a importância das ações emergentes e de pronto atendimento relacionadas às questões climáticas."
+      ]
+    },
+    {
+      "nome": "Waldez Góes",
+      "cargo": "Ministro da Integração e do Desenvolvimento Regional",
+      "opinioes": [
+        "Enfatizou a transversalidade do Ministério em relação às políticas públicas.",
+        "Falou sobre os desafios enfrentados pela Amazônia, destacando a necessidade de integração das políticas públicas.",
+        "Defendeu o desenvolvimento sustentável e a importância de se evitar a concentração de riquezas em poucos grupos.",
+        "Ressaltou a necessidade de revisitar as normas relacionadas às mudanças climáticas."
+      ]
+    },
+    {
+      "nome": "Danilo Cabral",
+      "cargo": "Superintendente da SUDENE",
+      "opinioes": [
+        "Comentou sobre a necessidade de um esforço coletivo e integrado entre os governos estaduais e federais para o desenvolvimento regional."
+      ]
+    },
+    {
+      "nome": "Rosiane Modesto de Oliveira",
+      "cargo": "Superintendente da SUDECO",
+      "opinioes": []
+    },
+    {
+      "nome": "Paulo Roberto Galvão da Rocha",
+      "cargo": "Superintendente da SUDAM",
+      "opinioes": [
+        "Criticou a abordagem segmentada do governo em relação às políticas públicas.",
+        "Defendeu a necessidade de uma política de governo que concentre esforços de forma integrada."
+      ]
+    },
+    {
+      "nome": "Marcelo Moreira Pinto",
+      "cargo": "Diretor-Presidente da CODEVASF",
+      "opinioes": [
+        "Destacou a importância da fruticultura no Brasil e o papel da CODEVASF na irrigação e produção agrícola.",
+        "Mencionou os esforços na revitalização das bacias hidrográficas e na economia sustentável."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os planos e projetos do Ministério da Integração e do Desenvolvimento Regional, com ênfase em desafios climáticos, desenvolvimento sustentável e integração das políticas públicas. O Ministro Waldez Góes destacou a transversalidade do Ministério e a necessidade de uma abordagem integrada para enfrentar os desafios da Amazônia e do desenvolvimento regional. Outros participantes reforçaram a importância de esforços coletivos e sustentáveis, além de destacar iniciativas específicas em fruticultura e revitalização de bacias hidrográficas."
+}

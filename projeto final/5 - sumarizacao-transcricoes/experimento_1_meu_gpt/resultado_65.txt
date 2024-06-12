@@ -1,0 +1,74 @@
+{
+  "assunto": "Debate sobre a extinção de Varas da Justiça do Trabalho em todo o país",
+  "envolvidos": [
+    {
+      "nome": "Paulo Teixeira",
+      "cargo": "Deputado Federal (PT-SP) e Presidente da Comissão",
+      "opinioes": [
+        "A audiência pública foi organizada para debater a extinção de Varas da Justiça do Trabalho.",
+        "A audiência pública teve um papel importante na suspensão do art. 27 da Resolução nº 296 até 2023.",
+        "Destacou a necessidade de se discutir o acesso à Justiça do Trabalho em todo o Brasil."
+      ]
+    },
+    {
+      "nome": "Ivan Bagini",
+      "cargo": "Presidente do Sindicato dos Servidores Públicos Federais da Justiça do Trabalho da 15ª Região (SINDIQUINZE)",
+      "opinioes": [
+        "Explicou que a Resolução nº 296 do CSJT determina que unidades com distribuição processual inferior a 50% estão sujeitas à extinção ou remanejamento.",
+        "Destacou que a resolução não considera fatores além da movimentação processual, como aspectos sociais e econômicos.",
+        "Criticou a simplificação dos critérios que podem levar à extinção de varas."
+      ]
+    },
+    {
+      "nome": "Professora Bebel",
+      "cargo": "Deputada Estadual do PT de São Paulo",
+      "opinioes": [
+        "Ressaltou a importância de garantir o direito de acesso à Justiça do Trabalho em todo o país.",
+        "Criticou a lógica econômica da extinção de varas sem considerar o impacto sobre a classe trabalhadora.",
+        "Defendeu que a luta pela manutenção das varas é essencial para evitar a 'escravidão' dos trabalhadores."
+      ]
+    },
+    {
+      "nome": "Valeir Ertle",
+      "cargo": "Secretário Nacional de Assuntos Jurídicos da CUT",
+      "opinioes": [
+        "Criticou a política neoliberal que busca resultados financeiros em detrimento da função social da Justiça do Trabalho.",
+        "Destacou que a informatização da Justiça do Trabalho visa acelerar a tramitação processual."
+      ]
+    },
+    {
+      "nome": "Luciana Paula Conforti",
+      "cargo": "Juíza e Vice-Presidenta da ANAMATRA",
+      "opinioes": [
+        "A ANAMATRA se manifestou contra a discussão da Resolução nº 296 durante a pandemia, devido ao impacto nas ações trabalhistas.",
+        "Destacou que a queda no número de processos é conjuntural, resultante da reforma trabalhista e da pandemia.",
+        "Defendeu a necessidade de reavaliar a resolução com um debate mais amplo e inclusivo."
+      ]
+    },
+    {
+      "nome": "Sandra Dias",
+      "cargo": "Coordenadora Geral da FENAJUFE",
+      "opinioes": [
+        "Criticou a lógica neoliberal de exigir que os serviços públicos não sejam deficitários.",
+        "Defendeu que a Justiça do Trabalho não deve ser avaliada apenas por critérios econômicos."
+      ]
+    },
+    {
+      "nome": "Marcello Maciel Mancilha",
+      "cargo": "Desembargador e Presidente do COLEPRECOR",
+      "opinioes": [
+        "Ressaltou que a extinção de varas pode ser necessária em alguns casos, mas deve ser feita com cautela.",
+        "Afirmou que a Justiça do Trabalho é vocacionada para atender demandas trabalhistas e sua competência deve ser mantida."
+      ]
+    },
+    {
+      "nome": "Luciano Athayde Chaves",
+      "cargo": "Juiz Auxiliar e representante da Presidência do CSJT",
+      "opinioes": [
+        "Apoiou a criação de uma comissão para debater a extinção de varas e a valorização da Justiça do Trabalho.",
+        "Defendeu que mudanças são necessárias, mas não devem prejudicar o atendimento à população."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Constituição e Justiça da Câmara dos Deputados debateu a extinção de Varas da Justiça do Trabalho no Brasil. Participaram do debate parlamentares, juízes, representantes sindicais e de associações de magistrados. As opiniões divergiram sobre os critérios para a extinção das varas, com críticas à lógica econômica prevalecente e defesas da manutenção do acesso à Justiça do Trabalho para a proteção dos direitos dos trabalhadores. A audiência teve como resultado a suspensão do art. 27 da Resolução nº 296 até 2023 para permitir um debate mais inclusivo e detalhado sobre o tema."
+}

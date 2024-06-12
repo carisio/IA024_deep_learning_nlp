@@ -1,0 +1,67 @@
+{
+  "assunto": "A importância da manutenção do Programa Emergencial de Retomada do Setor de Eventos (PERSE) para a recuperação do setor de turismo e eventos no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Magda Mofatto",
+      "cargo": "Deputada Federal (Bloco/PRD - GO)",
+      "opinioes": [
+        "Destacou a importância de buscar o diálogo com o Governo sobre o PERSE.",
+        "Enfatizou a transversalidade do setor de eventos e sua relevância para a economia.",
+        "Criticou a ausência de diálogo com o Governo atual sobre o PERSE."
+      ]
+    },
+    {
+      "nome": "Robinson Faria",
+      "cargo": "Deputado Federal (PL - RN)",
+      "opinioes": [
+        "Agradeceu a participação de Doreni Caramori.",
+        "Cedeu a presidência a Jorge Goetten durante a audiência."
+      ]
+    },
+    {
+      "nome": "Ana Carolina Dias Medeiros de Souza",
+      "cargo": "Presidente Nacional da ABAV",
+      "opinioes": [
+        "Reforçou a importância do PERSE para a continuidade do turismo no Brasil.",
+        "Salientou a representatividade da ABAV e seu papel no setor de agenciamento de viagens.",
+        "Criticou a exclusão das agências de viagens do novo PL 1.026."
+      ]
+    },
+    {
+      "nome": "Thiago Xavier",
+      "cargo": "Consultor da Tendências Consultoria",
+      "opinioes": [
+        "Apresentou números sobre os benefícios do PERSE para o setor.",
+        "Enfatizou a importância do programa para impedir a quebra generalizada durante a pandemia.",
+        "Alertou sobre a judicialização caso o PL 1.026 seja aprovado como está."
+      ]
+    },
+    {
+      "nome": "Bibo Nunes",
+      "cargo": "Deputado Federal (PL - RS)",
+      "opinioes": [
+        "Defendeu a manutenção do PERSE.",
+        "Criticou a falta de reconhecimento do turismo como fonte de divisas no Brasil.",
+        "Classificou a tentativa de veto ao PERSE como um calote do Governo."
+      ]
+    },
+    {
+      "nome": "Enid Câmara de Vasconcelos",
+      "cargo": "Presidente da Associação Brasileira de Empresas de Eventos (ABEOC)",
+      "opinioes": [
+        "Defendeu a importância do PERSE para o setor de eventos corporativos.",
+        "Apoiou a necessidade de diálogo com o Governo para a manutenção do programa."
+      ]
+    },
+    {
+      "nome": "Jorge Goetten",
+      "cargo": "Deputado Federal (PL - SC)",
+      "opinioes": [
+        "Criticou a necessidade de discutir um direito adquirido do setor de eventos.",
+        "Defendeu a criação de políticas públicas para incentivar o turismo.",
+        "Lamentou a situação vergonhosa de ter que discutir a manutenção do PERSE."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a importância da manutenção do PERSE para a recuperação do setor de turismo e eventos no Brasil. Os participantes, incluindo deputados e representantes de entidades do setor, destacaram a necessidade de diálogo com o Governo para garantir a continuidade do programa, que tem sido crucial para a sobrevivência e recuperação econômica das empresas afetadas pela pandemia. Houve críticas à proposta de exclusão de algumas atividades do novo PL 1.026, e alertas sobre possíveis judicializações caso o projeto seja aprovado na forma atual."
+}

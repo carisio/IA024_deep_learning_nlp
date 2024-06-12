@@ -1,0 +1,64 @@
+{
+  "assunto": "Audiência pública sobre o enfrentamento da tuberculose no Brasil, com foco na erradicação até 2030.",
+  "envolvidos": [
+    {
+      "nome": "Ismael Alexandrino",
+      "cargo": "Deputado Federal, Vice-Presidente da Comissão de Seguridade Social e Família",
+      "opinioes": [
+        "A comunicação é essencial para enfrentar a desinformação e potencializar ações.",
+        "A sociedade civil deve ser ouvida e respeitada.",
+        "Financiamento perene é necessário, não apenas emendas pontuais.",
+        "Educação deve ser um eixo estruturante para políticas públicas."
+      ]
+    },
+    {
+      "nome": "Márcia Leão",
+      "cargo": "Representante da sociedade civil, Stop TB Brasil",
+      "opinioes": [
+        "Sociedade civil precisa estar mais inserida nas discussões.",
+        "A segurança alimentar é crucial, tanto na quantidade quanto na qualidade dos alimentos.",
+        "Necessidade de um financiamento mais robusto e permanente para o CIEDDS."
+      ]
+    },
+    {
+      "nome": "Daniel Canavese de Oliveira",
+      "cargo": "Coordenador de Acompanhamento da Política de Saúde Indígena do Ministério dos Povos Indígenas",
+      "opinioes": [
+        "Participação do Ministério dos Povos Indígenas no CIEDDS é relevante para pagar uma dívida histórica com os povos indígenas.",
+        "Necessidade de articulação e acompanhamento das políticas de saúde para os povos indígenas.",
+        "A promoção da saúde indígena deve extrapolar a Secretaria de Saúde Indígena e envolver outras secretarias e ministérios."
+      ]
+    },
+    {
+      "nome": "Draurio Barreira Cravo Neto",
+      "cargo": "Diretor do Departamento de HIV/AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis do Ministério da Saúde",
+      "opinioes": [
+        "Nenhuma ação pode ser realizada sem financiamento adequado.",
+        "Importância de estratégias permanentes e intersetoriais para a erradicação da tuberculose.",
+        "Proposta de um projeto piloto no Amazonas para erradicar a tuberculose."
+      ]
+    },
+    {
+      "nome": "Thiago de Mello Moraes",
+      "cargo": "Coordenador-Geral de Ciências da Saúde, Biotecnológicas e Agrárias do Ministério da Ciência, Tecnologia e Inovação",
+      "opinioes": [
+        "Necessidade de mais tecnologias para o enfrentamento da tuberculose.",
+        "Transformar conhecimento acadêmico em produtos que atendam às necessidades da população.",
+        "Lançamento de edital de financiamento em áreas prioritárias para o CIEDDS até o final do ano."
+      ]
+    },
+    {
+      "nome": "Ana Carolina Santana Moreira",
+      "cargo": "Promoção dos Direitos das Pessoas LGBTIQIA+ do Ministério dos Direitos Humanos e Cidadania",
+      "opinioes": []
+    },
+    {
+      "nome": "Daiane Andrade",
+      "cargo": "Coordenadora-Geral Substituta de Estratégia da Educação Básica do Ministério da Educação",
+      "opinioes": [
+        "Qualquer política estruturante deve passar pela educação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a erradicação da tuberculose no Brasil até 2030, destacando a importância da comunicação, educação e financiamento perene. Participaram diversos representantes governamentais e da sociedade civil, que enfatizaram a necessidade de estratégias permanentes e intersetoriais, com foco em projetos piloto como no Amazonas, para alcançar as metas estabelecidas."
+}

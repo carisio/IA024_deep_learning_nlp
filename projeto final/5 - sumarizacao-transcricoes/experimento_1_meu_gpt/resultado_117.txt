@@ -1,0 +1,66 @@
+{
+  "assunto": "Grave crime ambiental causado pela mineradora Braskem no solo da cidade de Maceió.",
+  "envolvidos": [
+    {
+      "nome": "Alfredo Gaspar",
+      "cargo": "Presidente da Comissão Externa para acompanhamento e fiscalização dos danos sociais, ambientais e econômicos",
+      "opinioes": [
+        "O crime ambiental é causado pela mineradora Braskem no solo da cidade de Maceió.",
+        "O colapso ocorreu nas margens da Lagoa Mundaú."
+      ]
+    },
+    {
+      "nome": "Helder Pasti",
+      "cargo": "Superintendente Substituto de Fiscalização da Agência Nacional de Mineração (ANM)",
+      "opinioes": [
+        "A atividade de mineração se inicia com uma fase de exploração mineral.",
+        "A lavra da Braskem iniciou-se em 1976 e foi interditada após as rachaduras em 2018.",
+        "A ANM criou um grupo de acompanhamento para o fechamento da mina em 2019.",
+        "A ANM segue com os monitoramentos e o acompanhamento do fechamento da mina."
+      ]
+    },
+    {
+      "nome": "Alice Castilho",
+      "cargo": "Diretora de Hidrologia e Gestão Territorial",
+      "opinioes": [
+        "O Serviço Geológico foi acionado pela Defesa Civil em 2018 para investigar as causas da movimentação do solo.",
+        "O Serviço Geológico tem atuado auxiliando o Ministério Público Federal na análise de documentos e na capacitação da Defesa Civil."
+      ]
+    },
+    {
+      "nome": "Leandro Galvanese Kuhlmann",
+      "cargo": "Geólogo do Serviço Geológico do Brasil",
+      "opinioes": [
+        "Participou da redação do relatório síntese apresentado pela comitiva.",
+        "O colapso de 2018 não é uma surpresa, estava nos mapas de risco desde 2019.",
+        "A comunicação do fenômeno sempre foi um desafio."
+      ]
+    },
+    {
+      "nome": "Moisés Pereira de Melo",
+      "cargo": "Coordenador da Defesa Civil do Estado de Alagoas",
+      "opinioes": [
+        "A participação do Estado foi extensa após o tremor de terra em março de 2018.",
+        "O problema era localizado às margens da Lagoa Mundaú, no bairro do Mutange."
+      ]
+    },
+    {
+      "nome": "Jean Paul Pereira Melo",
+      "cargo": "Coordenador de Gerenciamento Costeiro do Instituto do Meio Ambiente do Estado de Alagoas (IMA)",
+      "opinioes": [
+        "A atividade de mineração começou nos anos 60, com concessão de lavra emitida nos anos 70.",
+        "O licenciamento ambiental foi ajustado para atender à legislação vigente em 1986.",
+        "Desde maio de 2019, nenhuma atividade de exploração é executada na região afetada."
+      ]
+    },
+    {
+      "nome": "Paulo Roberto Farias Falcão",
+      "cargo": "Diretor do Departamento de Obras de Proteção e Defesa Civil da Secretaria Nacional de Proteção e Defesa Civil",
+      "opinioes": [
+        "O relatório final da CPRM em 2019 mapeou as patologias na região afetada.",
+        "O Ministério da Integração participou desde o início da coordenação dos órgãos federais para elaboração de um plano de ação integrada."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão Externa da Câmara dos Deputados tratou do crime ambiental causado pela mineradora Braskem em Maceió, que resultou no colapso do solo nas margens da Lagoa Mundaú. Entre os envolvidos estavam o presidente da comissão Alfredo Gaspar, representantes da Agência Nacional de Mineração, do Serviço Geológico do Brasil, da Defesa Civil de Alagoas e do Instituto do Meio Ambiente do Estado de Alagoas. As discussões abordaram o histórico da mineração, as ações de fiscalização, os impactos ambientais e sociais, e as medidas tomadas para o fechamento seguro das minas. O consenso entre os participantes destacou a necessidade contínua de monitoramento e a responsabilidade da Braskem pelo incidente."
+}

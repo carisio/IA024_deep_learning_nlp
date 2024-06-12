@@ -1,0 +1,79 @@
+{
+  "assunto": "Regras especiais de contratos de seguros de vida celebrados por idosos (PL 2.002/2019)",
+  "envolvidos": [
+    {
+      "nome": "Denis Bezerra",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "opinioes": ["Conduziu a audiência pública."]
+    },
+    {
+      "nome": "Vilson da Fetaemg",
+      "cargo": "Deputado",
+      "opinioes": ["Autor do Requerimento nº 25, de 2022, que convocou a reunião."]
+    },
+    {
+      "nome": "Marcelo de Souza do Nascimento",
+      "cargo": "Diretor-Geral do Instituto de Defesa do Consumidor — PROCON, Distrito Federal",
+      "opinioes": [
+        "Apoia o Projeto de Lei nº 2.002, de 2019, e destaca a importância de proteção para consumidores idosos.",
+        "Destaca a dificuldade dos idosos em lidar com aumentos abusivos e recusa de cobertura de serviços e tratamentos pelos planos de saúde.",
+        "Menciona que os idosos são hipervulneráveis e precisam de proteção especial."
+      ]
+    },
+    {
+      "nome": "Paulo Nei",
+      "cargo": "Coordenador de Monitoramento de Mercado da Secretaria Nacional do Consumidor — SENACON",
+      "opinioes": [
+        "Apoia o Projeto de Lei nº 2.002, de 2019.",
+        "Destaca a importância de respeitar o princípio da vulnerabilidade do consumidor e da harmonia das relações de consumo.",
+        "Apresenta dados sobre reclamações de consumidores idosos e a necessidade de maior fiscalização e possível revisão regulatória."
+      ]
+    },
+    {
+      "nome": "Luiz Legñani",
+      "cargo": "Representante da Confederação Brasileira de Aposentados, Pensionistas e Idosos — COBAP",
+      "opinioes": [
+        "Apoia o Projeto de Lei nº 2.002, de 2019.",
+        "Ressalta que os idosos sofrem discriminação e enfrentam dificuldades financeiras devido a aumentos abusivos nos seguros.",
+        "Defende a inclusão da prática discriminatória no Estatuto do Idoso."
+      ]
+    },
+    {
+      "nome": "Beatriz Herranz",
+      "cargo": "Diretora-Executiva da FENAPREVI",
+      "opinioes": [
+        "Defende que o seguro de vida deve garantir a proteção financeira dos beneficiários, não do segurado idoso.",
+        "Explica a importância de cálculos atuariais para garantir o equilíbrio do seguro e a viabilidade financeira.",
+        "Enfatiza que a aplicação de critérios atuariais não configura discriminação contra idosos."
+      ]
+    },
+    {
+      "nome": "Mauro Moreira de Oliveira Freitas",
+      "cargo": "Representante do Conselho Nacional dos Direitos da Pessoa Idosa — CNDPI",
+      "opinioes": [
+        "Destaca a importância da função social do seguro de vida.",
+        "Ressalta a necessidade de uma solução justa que permita que todos os idosos possam pagar pelo seguro de vida.",
+        "Defende a revisão dos cálculos atuariais para garantir a viabilidade do seguro para a população idosa."
+      ]
+    },
+    {
+      "nome": "Renê Patriota",
+      "cargo": "Coordenadora Executiva da Associação de Defesa dos Usuários de Seguros Planos e Sistemas de Saúde — ADUSEPS",
+      "opinioes": [
+        "Critica os aumentos abusivos dos planos de saúde e seguros de vida para idosos.",
+        "Defende a inclusão de cláusulas mais justas nos contratos de seguro de vida.",
+        "Sugere que o seguro de vida deve cobrir doenças graves e eliminar cláusulas abusivas."
+      ]
+    },
+    {
+      "nome": "Carlos Augusto Santos Silva",
+      "cargo": "Representante da Confederação Nacional dos Trabalhadores Rurais, Agricultores e Agricultoras Familiares — CONTAG",
+      "opinioes": [
+        "Defende a importância de proteger os segurados especiais e idosos, especialmente no contexto rural.",
+        "Reforça a necessidade de penalizar práticas abusivas e garantir a proteção dos idosos nos seguros de vida.",
+        "Apoia a proposta do Projeto de Lei nº 2.002, de 2019."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos da Pessoa Idosa debateu o Projeto de Lei nº 2.002/2019, que propõe regras especiais para contratos de seguros de vida celebrados por idosos. Participaram do debate representantes de órgãos de defesa do consumidor, associações de aposentados e idosos, e entidades de seguros. Os principais pontos discutidos foram a discriminação e os aumentos abusivos enfrentados pelos idosos, a necessidade de maior proteção e fiscalização, e a importância de manter o equilíbrio financeiro dos seguros sem prejudicar os consumidores idosos. As opiniões variaram entre apoio ao projeto e sugestões de melhorias nas cláusulas contratuais para garantir justiça e transparência."
+}

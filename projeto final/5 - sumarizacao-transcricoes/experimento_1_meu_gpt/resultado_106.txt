@@ -1,0 +1,52 @@
+{
+  "assunto": "Dificuldades para o acionamento do PROAGRO",
+  "envolvidos": [
+    {
+      "nome": "Rafael Pezenti",
+      "cargo": "Presidente da audiência, Deputado Bloco/MDB - SC",
+      "opinioes": [
+        "O PROAGRO tem sido suporte para milhões de pequenos agricultores e sofreu alterações substanciais desde o ano passado.",
+        "A audiência pública foi convocada devido a reclamações e sugestões de agricultores familiares sobre as novas regras do PROAGRO."
+      ]
+    },
+    {
+      "nome": "Jelson Gesser",
+      "cargo": "Presidente da Associação dos Produtores de Cebola de Santa Catarina (APROCESC) e Vice-Presidente da Associação Nacional dos Produtores de Cebola (ANACE)",
+      "opinioes": [
+        "As novas regras do PROAGRO, especialmente sobre o número de acionamentos, prejudicam os agricultores.",
+        "Limitações do PROAGRO dificultam a diversificação de culturas nas propriedades rurais.",
+        "Sugere que as novas regras sejam revisadas e que não penalizem os agricultores que acionaram o PROAGRO anteriormente.",
+        "Propõe que o último acionamento do PROAGRO não seja contabilizado para aliviar os produtores afetados pelas recentes condições climáticas adversas."
+      ]
+    },
+    {
+      "nome": "Dirceu Schmidt",
+      "cargo": "Diretor da Federação dos Trabalhadores na Agricultura do Estado de Santa Catarina (FETAESC)",
+      "opinioes": [
+        "As mudanças nas regras do PROAGRO impactam negativamente a diversificação e sucessão familiar nas propriedades agrícolas.",
+        "A redução da garantia mínima de renda do agricultor de 40 mil para 9 mil reais por grupo familiar é insuficiente para sustentar as famílias agrícolas.",
+        "Destaca que problemas no Cadastro Ambiental Rural (CAR) dificultam o acesso ao financiamento para os agricultores."
+      ]
+    },
+    {
+      "nome": "Claudio Filgueiras Pacheco Moreira",
+      "cargo": "Chefe de Unidade do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do PROAGRO do Banco Central do Brasil",
+      "opinioes": [
+        "Ajustes nas regras do PROAGRO foram necessários para evitar o mau uso de recursos públicos.",
+        "Reconhece que algumas regras podem ter sido duras e está aberto a discussões para ajustes futuros.",
+        "A redução do limite de acionamentos de sete para seis é uma medida para coibir fraudes e mau uso do PROAGRO.",
+        "O Banco Central está desenvolvendo novas regras para diferenciar culturas permanentes e olerícolas das culturas principais como soja, milho e trigo."
+      ]
+    },
+    {
+      "nome": "Célio Porto",
+      "cargo": "Coordenador Técnico da Comissão de Política Agrícola do Instituto Pensar Agropecuária (IPA)",
+      "opinioes": [
+        "O PROAGRO é essencial para a política agrícola brasileira, mas enfrenta desafios financeiros e operacionais.",
+        "Propõe uma maior colaboração entre o seguro rural privado e o PROAGRO para otimizar a gestão de riscos.",
+        "Defende a criação de programas estaduais e municipais de subvenção ao seguro rural para complementar os programas federais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou as dificuldades enfrentadas pelos agricultores devido às recentes alterações nas regras do PROAGRO. Rafael Pezenti abriu a sessão destacando a importância do PROAGRO para os pequenos agricultores. Jelson Gesser e Dirceu Schmidt criticaram as novas regras, que limitam a diversificação das culturas e reduzem a renda mínima garantida aos agricultores. Claudio Filgueiras do Banco Central explicou que as mudanças foram feitas para evitar fraudes, mas mostrou-se aberto a ajustes. Célio Porto sugeriu uma colaboração maior entre seguro rural privado e PROAGRO, além da criação de programas estaduais e municipais de seguro rural."
+}

@@ -1,0 +1,54 @@
+{
+  "assunto": "Medidas de prevenção a desastres e calamidades naturais no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Leo Prates",
+      "cargo": "Presidente da Comissão Especial",
+      "opinioes": [
+        "Agradeceu a presença dos convidados e destacou a importância do tema debatido.",
+        "Comentou sobre sua experiência como Secretário Municipal de Promoção Social e Combate à Pobreza em Salvador e a criação da Lei Municipal do Sistema Único de Assistência Social — SUAS."
+      ]
+    },
+    {
+      "nome": "Dyogo Oliveira",
+      "cargo": "Presidente da Confederação Nacional das Seguradoras — CNSEG",
+      "opinioes": [
+        "Apresentou um modelo inspirado na Europa e Estados Unidos para resposta rápida a desastres.",
+        "Destacou a importância de seguros para garantir resposta rápida em situações de catástrofes."
+      ]
+    },
+    {
+      "nome": "Frederico Knapp",
+      "cargo": "Presidente da Swiss Re Brasil Resseguros",
+      "opinioes": [
+        "Enfatizou o aumento de catástrofes naturais no Brasil e a necessidade de aumentar a cobertura de seguros.",
+        "Apresentou a visão internacional sobre o baixo percentual de seguros para catástrofes."
+      ]
+    },
+    {
+      "nome": "Tiago de Freitas Vieira",
+      "cargo": "Diretor de Operações e Tecnologia da Brasilseg",
+      "opinioes": [
+        "Discutiu o modelo de atuação da Brasilseg em situações de catástrofe e a criação de um produto de seguro para florestas de preservação.",
+        "Destacou a importância de ações prévias e contextos analíticos para a preparação e resposta a desastres."
+      ]
+    },
+    {
+      "nome": "Guilherme Soria Bastos Filho",
+      "cargo": "Coordenador do Centro de Estudos do Agronegócio da Fundação Getulio Vargas — FGV Agro",
+      "opinioes": [
+        "Apresentou a proposta de um Fundo do Seguro Rural para garantir operações de seguro rural com participação privada e da União.",
+        "Discutiu a importância de previsibilidade no Programa de Subvenção ao Prêmio do Seguro Rural."
+      ]
+    },
+    {
+      "nome": "Isadora Carvalho Ferreira Buchala",
+      "cargo": "Analista Regional de Resiliência no ICLEI — Governos Locais pela Sustentabilidade",
+      "opinioes": [
+        "Apresentou o Projeto UIIF, um mecanismo de seguro para infraestruturas resilientes.",
+        "Destacou a importância de parcerias locais e internacionais para desenvolver soluções de resiliência urbana."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu medidas de prevenção a desastres e calamidades naturais no Brasil, com foco na importância de seguros e parcerias público-privadas para uma resposta rápida e eficaz. Participaram da audiência o Presidente da Comissão, Leo Prates, Dyogo Oliveira (CNSEG), Frederico Knapp (Swiss Re Brasil Resseguros), Tiago de Freitas Vieira (Brasilseg), Guilherme Soria Bastos Filho (FGV Agro) e Isadora Carvalho Ferreira Buchala (ICLEI). Cada participante apresentou propostas e discutiu a necessidade de maior cobertura de seguros, criação de fundos específicos e desenvolvimento de projetos para infraestruturas resilientes."
+}

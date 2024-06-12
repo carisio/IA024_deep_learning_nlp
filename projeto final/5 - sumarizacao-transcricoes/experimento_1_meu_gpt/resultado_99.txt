@@ -1,0 +1,69 @@
+{
+  "assunto": "A crise humanitária na Faixa de Gaza e violações dos direitos humanos e do direito internacional pelo Estado de Israel.",
+  "envolvidos": [
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "Denuncia o genocídio praticado pelo Estado de Israel contra o povo palestino.",
+        "Ressalta a importância da defesa dos direitos humanos e da justiça."
+      ]
+    },
+    {
+      "nome": "João Daniel",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Enfatiza a necessidade de firmeza da diplomacia brasileira em defesa do povo palestino.",
+        "Critica o genocídio financiado pelo imperialismo e pela extrema direita de Israel."
+      ]
+    },
+    {
+      "nome": "Padre João",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Destaca a tragédia humanitária na Palestina e as violações aos direitos humanos.",
+        "Defende a adoção de medidas concretas pelo governo brasileiro em relação a Israel e em apoio ao povo palestino."
+      ]
+    },
+    {
+      "nome": "Gilvan da Federal",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Critica a defesa de terroristas e ataca os participantes da audiência que denunciaram Israel.",
+        "Defende o direito de Israel se proteger contra ataques do Hamas."
+      ]
+    },
+    {
+      "nome": "Ahmed Shehada",
+      "cargo": "Presidente do Instituto Brasil-Palestina",
+      "opinioes": [
+        "Denuncia a matança de civis palestinos como genocídio.",
+        "Critica a atuação militar de Israel e destaca as declarações de autoridades internacionais sobre a situação em Gaza."
+      ]
+    },
+    {
+      "nome": "Jamal Naim",
+      "cargo": "Decano da Faculdade de Odontologia da Universidade da Palestina",
+      "opinioes": [
+        "Relata pessoalmente as atrocidades vividas em Gaza.",
+        "Enfatiza a necessidade de atenção internacional para a crise humanitária em Gaza."
+      ]
+    },
+    {
+      "nome": "Vinícius de Lara Ribas",
+      "cargo": "Coordenador-Geral da Ouvidoria Nacional de Direitos Humanos",
+      "opinioes": [
+        "Apresenta as ações do Ministério dos Direitos Humanos e da Cidadania em atenção aos refugiados de Gaza no Brasil.",
+        "Destaca a articulação interinstitucional para garantir os direitos humanos da população refugiada."
+      ]
+    },
+    {
+      "nome": "Fernanda Melchionna",
+      "cargo": "Deputada Federal",
+      "opinioes": [
+        "Defende a luta do povo palestino e critica o genocídio praticado por Israel."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Legislação Participativa, presidida por Glauber Braga, debateu a crise humanitária na Faixa de Gaza e as violações dos direitos humanos pelo Estado de Israel. Glauber Braga e João Daniel enfatizaram a necessidade de firmeza diplomática do Brasil. Padre João destacou a tragédia humanitária e defendeu medidas concretas de apoio. Ahmed Shehada e Jamal Naim relataram atrocidades e pediram atenção internacional. Deputados como Gilvan da Federal criticaram a defesa do Hamas e defenderam Israel. Vinícius de Lara Ribas apresentou ações do governo brasileiro em apoio aos refugiados de Gaza."
+}

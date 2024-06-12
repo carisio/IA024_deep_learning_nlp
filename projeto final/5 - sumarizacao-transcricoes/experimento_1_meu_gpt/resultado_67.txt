@@ -1,0 +1,63 @@
+{
+  "assunto": "Situação dos trabalhadores lesionados no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Orlando Silva",
+      "cargo": "Deputado (PCdoB - SP)",
+      "opinioes": [
+        "A situação dos trabalhadores lesionados é um tema crucial, relacionado à segurança e saúde no trabalho.",
+        "É necessário romper com a precarização do trabalho e garantir a preservação da integridade física e da saúde mental dos trabalhadores.",
+        "O Governo impôs normas regulamentares sem consultar as centrais sindicais, piorando o ambiente de trabalho.",
+        "A Câmara dos Deputados precisa adotar medidas legislativas que protejam o ambiente de trabalho."
+      ]
+    },
+    {
+      "nome": "Luís Fabiano Costa",
+      "cargo": "Presidente da Associação dos Trabalhadores Lesionados nas Indústrias Metalúrgicas do Vale do Paraíba e Diretor da FITMETAL",
+      "opinioes": [
+        "A reforma trabalhista trouxe retrocessos significativos para os trabalhadores.",
+        "A revogação de Normas Regulamentadoras deixou os trabalhadores mais expostos a acidentes e doenças profissionais.",
+        "A Previdência Social tem dificultado o acesso aos benefícios por questões de acidente de trabalho e aposentadoria.",
+        "A Medida Provisória nº 1.113 de 2022 deixou os trabalhadores com doenças profissionais ainda mais vulneráveis.",
+        "É fundamental criar leis que garantam estabilidade no emprego para trabalhadores com lesão permanente até a aposentadoria."
+      ]
+    },
+    {
+      "nome": "Renata Rothje Ruiz",
+      "cargo": "Metalúrgica lesionada",
+      "opinioes": [
+        "A luta pelos direitos dos trabalhadores lesionados é longa e árdua.",
+        "Há uma enorme dificuldade em conseguir atendimento médico adequado pelo SUS.",
+        "Os trabalhadores lesionados enfrentam perseguição, maus-tratos e humilhação dentro das empresas.",
+        "A instabilidade no emprego e a falta de direitos são prejudiciais para a saúde mental dos trabalhadores."
+      ]
+    },
+    {
+      "nome": "Antônio Benedito Gonçalves",
+      "cargo": "Trabalhador lesionado da indústria automobilística",
+      "opinioes": [
+        "Os trabalhadores lesionados são tratados como descartáveis pelas empresas.",
+        "A Lei nº 1.113 de 2022 coloca em risco os benefícios dos trabalhadores lesionados.",
+        "A falta de emprego para trabalhadores lesionados impacta negativamente a dignidade e sustento das famílias."
+      ]
+    },
+    {
+      "nome": "Silvia Helena Santos",
+      "cargo": "Ex-funcionária de uma metalúrgica",
+      "opinioes": [
+        "Os trabalhadores negros enfrentam desafios adicionais no mercado de trabalho.",
+        "A educação é uma forma de luta e superação para os trabalhadores lesionados."
+      ]
+    },
+    {
+      "nome": "Gustavo de Paula Oliveira",
+      "cargo": "Advogado da ATL do Vale do Paraíba",
+      "opinioes": [
+        "A situação dos trabalhadores lesionados é uma tragédia humanitária e econômica.",
+        "Os acidentes de trabalho impactam não só os trabalhadores, mas também suas famílias e os cofres públicos.",
+        "É necessário debater e propor ideias para amenizar a situação dos trabalhadores lesionados."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Direitos Humanos e Minorias, presidida pelo Deputado Orlando Silva, discutiu a situação dos trabalhadores lesionados no Brasil. Participaram representantes de associações e trabalhadores lesionados que relataram a precarização das condições de trabalho, a dificuldade de acesso a benefícios previdenciários, e a necessidade urgente de medidas legislativas para garantir a segurança e estabilidade dos trabalhadores lesionados. Luís Fabiano Costa e outros participantes destacaram a importância de restaurar e proteger os direitos dos trabalhadores para assegurar uma vida digna e justa."
+}

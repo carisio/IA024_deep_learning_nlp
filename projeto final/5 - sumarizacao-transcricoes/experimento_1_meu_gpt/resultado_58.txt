@@ -1,0 +1,63 @@
+{
+  "assunto": "Aumento das denúncias de violência obstétrica e da alta taxa de morte materna no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Presidente da Comissão Especial",
+      "opinioes": [
+        "Declara aberta a audiência pública.",
+        "Esclarece sobre a ordem do dia e os procedimentos da reunião.",
+        "Ressalta a importância de ouvir especialistas e buscar soluções para os problemas discutidos."
+      ]
+    },
+    {
+      "nome": "Carmen Zanotto",
+      "cargo": "Secretária de Saúde do Estado de Santa Catarina",
+      "opinioes": [
+        "Destaca a importância de discutir a violência obstétrica e a mortalidade materna.",
+        "Menciona a Lei Estadual nº 18.322, de 2022, que define violência obstétrica.",
+        "Acredita que a violência obstétrica deve ser abordada nas escolas de enfermagem e medicina.",
+        "Ressalta a importância do acompanhamento humanizado e da presença de um acompanhante escolhido pela gestante.",
+        "Defende a inclusão do tema da violência obstétrica nos protocolos de saúde pública e privada.",
+        "Enfatiza a necessidade de protocolos específicos para mulheres negras e indígenas."
+      ]
+    },
+    {
+      "nome": "Geraldo Resende",
+      "cargo": "Deputado Federal e ex-Secretário de Saúde do Estado do Mato Grosso do Sul",
+      "opinioes": [
+        "Concorda com a necessidade de discutir a violência obstétrica.",
+        "Ressalta a importância de incluir a população indígena nas discussões sobre violência obstétrica.",
+        "Defende a decisão de realizar cesarianas quando necessário para salvar a vida da mãe e do bebê."
+      ]
+    },
+    {
+      "nome": "Luiz Antonio de Souza Teixeira Júnior",
+      "cargo": "Secretário de Saúde do Estado do Rio de Janeiro",
+      "opinioes": [
+        "Acredita que a violência obstétrica está ligada à falta de informação durante o pré-natal.",
+        "Defende a criação de uma cartilha básica sobre o parto para as gestantes.",
+        "Ressalta a importância do planejamento familiar e da liberdade de escolha da mulher sobre o parto.",
+        "Defende a implementação de protocolos para a realização de laqueaduras durante o parto."
+      ]
+    },
+    {
+      "nome": "Edson Castro",
+      "cargo": "Secretário Adjunto de Saúde do Estado de Roraima",
+      "opinioes": [
+        "Destaca os desafios específicos de Roraima, como a imigração venezuelana e a assistência à população indígena.",
+        "Ressalta a importância de um pré-natal adequado para reduzir a mortalidade materna."
+      ]
+    },
+    {
+      "nome": "João Rocha Vilela",
+      "cargo": "Ginecologista e Obstetra, colaborador da Secretaria de Saúde do Distrito Federal",
+      "opinioes": [
+        "Defende um discurso mais inclusivo e agregador sobre a violência obstétrica.",
+        "Ressalta a importância de respeitar a dignidade da mulher e a ciência.",
+        "Menciona a prática do acompanhamento compartilhado do trabalho de parto no Distrito Federal."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o aumento das denúncias de violência obstétrica e da alta taxa de morte materna no Brasil. Os principais participantes foram a Deputada Any Ortiz, a Secretária de Saúde de Santa Catarina Carmen Zanotto, o Deputado Geraldo Resende, o Secretário de Saúde do Rio de Janeiro Luiz Antonio de Souza Teixeira Júnior, o Secretário Adjunto de Saúde de Roraima Edson Castro e o Ginecologista e Obstetra João Rocha Vilela. As opiniões variaram desde a importância da humanização do parto e do pré-natal adequado até a necessidade de criação de protocolos específicos para grupos vulneráveis como mulheres negras e indígenas. A audiência ressaltou a importância da informação e do planejamento familiar para reduzir a violência obstétrica e a mortalidade materna."
+}

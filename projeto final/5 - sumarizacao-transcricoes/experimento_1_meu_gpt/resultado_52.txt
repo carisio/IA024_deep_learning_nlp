@@ -1,0 +1,61 @@
+{
+  "assunto": "Debate sobre etarismo no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Castro Neto",
+      "cargo": "Deputado, Bloco/PSD - PI",
+      "opinioes": [
+        "Destacou a importância do debate sobre etarismo, um preconceito que afeta tanto idosos quanto jovens.",
+        "Enfatizou a necessidade de políticas públicas para combater a violência e o preconceito contra idosos.",
+        "Mencionou a apresentação do Projeto de Lei nº 2.419, de 2023, para especificar as formas de violência contra idosos e acelerar a adoção de medidas protetivas."
+      ]
+    },
+    {
+      "nome": "Alexandre da Silva",
+      "cargo": "Secretário Nacional de Promoção e Defesa dos Direitos da Pessoa Idosa do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Enfatizou o rápido envelhecimento da população brasileira e a necessidade de políticas adequadas.",
+        "Discutiu a diferença entre discriminação e preconceito, destacando a importância de ações culturais e estruturais contra o etarismo.",
+        "Reforçou a urgência na ratificação da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos.",
+        "Destacou que 87% das agressões contra idosos ocorrem em suas próprias residências, sendo as mais comuns a violência física, psicológica e patrimonial."
+      ]
+    },
+    {
+      "nome": "Maria Cristina Hoffmann",
+      "cargo": "Consultora Nacional para o Envelhecimento Saudável da OPAS/OMS",
+      "opinioes": [
+        "Afirmou que o etarismo é um fenômeno internacional e que o Brasil precisa avançar em políticas para dar visibilidade ao envelhecimento e garantir direitos aos idosos.",
+        "Discutiu a importância de políticas e intervenções intergeracionais para combater o etarismo.",
+        "Enfatizou a necessidade de preparar os serviços de saúde para atender integralmente às necessidades das pessoas idosas."
+      ]
+    },
+    {
+      "nome": "Mirian Goldenberg",
+      "cargo": "Antropóloga e Pesquisadora",
+      "opinioes": [
+        "Destacou que 50% das violências contra idosos são praticadas por filhos e 10% por netos ou outros familiares.",
+        "Enfatizou a importância de escutar e respeitar a autonomia dos idosos.",
+        "Compartilhou experiências pessoais com idosos para ilustrar a importância de valorizar a velhice."
+      ]
+    },
+    {
+      "nome": "Maria Dulce Silva",
+      "cargo": "Assistente Social e Pesquisadora",
+      "opinioes": [
+        "Discutiu os estereótipos e preconceitos associados à velhice, enfatizando que o envelhecimento é um processo natural.",
+        "Enfatizou que as políticas públicas devem considerar as diferenças individuais e não apenas a idade cronológica.",
+        "Ressaltou a discriminação institucional e a invisibilidade dos idosos, especialmente das mulheres."
+      ]
+    },
+    {
+      "nome": "Patrícia Linhares",
+      "cargo": "Estudante de Biomedicina",
+      "opinioes": [
+        "Relatou uma experiência pessoal de etarismo em uma instituição de ensino.",
+        "Destacou a importância de respeitar e valorizar as pessoas independentemente da idade.",
+        "Enfatizou o impacto psicológico negativo do etarismo e a importância do apoio familiar."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Defesa dos Direitos da Pessoa Idosa debateu o etarismo no Brasil, destacando o rápido envelhecimento da população e a necessidade de políticas públicas eficazes. O Deputado Castro Neto apresentou um projeto de lei para acelerar medidas protetivas contra a violência aos idosos. O Secretário Alexandre da Silva enfatizou a urgência de ratificar a Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos e discutiu as formas de violência doméstica contra os idosos. Maria Cristina Hoffmann abordou a necessidade de políticas intergeracionais e serviços de saúde adequados. Mirian Goldenberg compartilhou experiências pessoais para ilustrar a importância de respeitar a autonomia dos idosos. Maria Dulce Silva discutiu os estereótipos e a invisibilidade dos idosos, especialmente das mulheres. Patrícia Linhares relatou um caso pessoal de etarismo e destacou a importância do respeito e apoio familiar."
+}

@@ -1,0 +1,60 @@
+{
+  "assunto": "Valorização dos mestres e mestras dos saberes e fazeres da cultura popular brasileira",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada (PT - DF)",
+      "opinioes": [
+        "A importância de reconhecer e valorizar os mestres e mestras da cultura popular.",
+        "A necessidade de políticas públicas que garantam os direitos culturais do povo brasileiro.",
+        "O papel da cultura popular na resistência e na construção da identidade nacional."
+      ]
+    },
+    {
+      "nome": "Maria Elizabeth Santiago de Oliveira (Beth de Oxum)",
+      "cargo": "Mestre responsável pelo Centro Cultural Coco de Umbigada, em Olinda, Pernambuco",
+      "opinioes": [
+        "A defesa da cultura dos terreiros e da matriz africana.",
+        "A importância de uma representação política que valorize a cultura popular.",
+        "A necessidade de mudanças políticas para garantir o respeito e a dignidade das culturas tradicionais."
+      ]
+    },
+    {
+      "nome": "Isaac William Loureiro",
+      "cargo": "Pesquisador de cultura popular tradicional, membro da Irmandade de Carimbó de São Benedito",
+      "opinioes": [
+        "A diversidade cultural do Brasil e a importância de políticas que garantam os direitos culturais.",
+        "A necessidade de uma legislação específica para o reconhecimento dos mestres e mestras da cultura popular.",
+        "O papel fundamental dos mestres na preservação da identidade cultural brasileira."
+      ]
+    },
+    {
+      "nome": "Francisco Paulo Jorge Pinto (Mestre Chico)",
+      "cargo": "Mestre de capoeira e antropólogo",
+      "opinioes": [
+        "A importância de salvaguardar as culturas populares para a segurança e a identidade da nação.",
+        "A necessidade de uma política de valorização das culturas diversas do Rio Grande do Sul.",
+        "A relevância do reconhecimento estatal para a preservação e divulgação das culturas tradicionais."
+      ]
+    },
+    {
+      "nome": "Daraína Pregnolatto",
+      "cargo": "Representante dos grupos Flor de Babaçu, Cupuaçu e Flor de Pequi",
+      "opinioes": [
+        "A importância da cultura popular como base da sociedade brasileira.",
+        "A necessidade de políticas públicas que reconheçam e valorizem os saberes tradicionais.",
+        "A urgência de aprovar leis que garantam a dignidade dos mestres e mestras da cultura popular."
+      ]
+    },
+    {
+      "nome": "Paulo Henrique da Silva (Mestre Paulão Kikongo)",
+      "cargo": "Mestre de capoeira, membro do Grupo de Trabalho da Salvaguarda da Capoeira no IPHAN",
+      "opinioes": [
+        "A importância de políticas que protejam e valorizem os mestres e mestras das culturas populares.",
+        "A necessidade de um Congresso mais progressista para garantir direitos culturais.",
+        "A relevância da cultura popular na formação da identidade e resistência do povo brasileiro."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a importância da valorização dos mestres e mestras da cultura popular brasileira, enfatizando a necessidade de políticas públicas que garantam seus direitos e reconhecimento. Deputados e especialistas destacaram o papel fundamental dessas figuras na preservação da identidade cultural do país, defendendo a criação de uma legislação específica para assegurar a dignidade e o respeito aos saberes tradicionais. A audiência reuniu diversos representantes da cultura popular que expressaram a urgência de mudanças políticas para fortalecer e promover as culturas de matriz africana, indígena e outras tradições populares."
+}

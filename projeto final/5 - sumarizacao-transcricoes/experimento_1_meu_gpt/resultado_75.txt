@@ -1,0 +1,112 @@
+{
+  "assunto": "Debate sobre os efeitos da Medida Provisória nº 1.116, de 4 de maio de 2022, no mercado de trabalho feminino e nos direitos das mulheres.",
+  "envolvidos": [
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Deputada Federal (PL - DF), Presidente da audiência",
+      "opinioes": ["Abriu a audiência pública destacando a importância do debate sobre os efeitos da Medida Provisória nº 1.116, de 4 de maio de 2022, no mercado de trabalho feminino e nos direitos das mulheres."]
+    },
+    {
+      "nome": "Glenda Cristine Cruz Corrêa",
+      "cargo": "Assessora da Secretaria de Trabalho do Ministério do Trabalho e Previdência",
+      "opinioes": [
+        "Destacou que a MP 1.116, de 2022, aborda a empregabilidade das mulheres e jovens, enfatizando a menor taxa de ocupação das mulheres em posições de liderança e a alta taxa de ocupação em posições com menores salários.",
+        "Apresentou dados sobre a diferença de dedicação ao trabalho doméstico entre homens e mulheres e o impacto da pandemia no mercado de trabalho feminino.",
+        "Explicou medidas previstas pela MP, como apoio à parentalidade, reembolso de creche, liberação de FGTS para despesas com creche, flexibilização do regime de trabalho, e incentivos à qualificação profissional de mulheres."
+      ]
+    },
+    {
+      "nome": "Adriane Reis de Araújo",
+      "cargo": "Procuradora Regional do Trabalho e Coordenadora Nacional de Promoção da Igualdade de Oportunidades e Eliminação da Discriminação no Trabalho — COORDIGUALDADE do Ministério Público do Trabalho",
+      "opinioes": [
+        "Criticou o uso de medidas provisórias para discutir relações de trabalho, defendendo que isso deve ser feito através do processo legislativo.",
+        "Destacou o impacto negativo da pandemia no mercado de trabalho feminino e a necessidade de políticas públicas com perspectiva de gênero.",
+        "Sugeriu que a MP não atende aos requisitos legais e que políticas públicas precisam de investimentos públicos, subsídios às empresas e proteção social às trabalhadoras."
+      ]
+    },
+    {
+      "nome": "Luciana Paula Conforti",
+      "cargo": "Juíza do Trabalho e Vice-Presidente da Associação Nacional dos Magistrados da Justiça do Trabalho — ANAMATRA",
+      "opinioes": [
+        "Apoiou o debate sobre empregabilidade das mulheres, ressaltando a importância de medidas pós-pandêmicas.",
+        "Enfatizou a necessidade de combater as raízes da desigualdade de gênero, como machismo, violência, assédio e discriminação.",
+        "Destacou a importância de garantir que as mulheres não sejam vítimas de violência e assédio no trabalho, sugerindo a ratificação da Convenção nº 190 da OIT."
+      ]
+    },
+    {
+      "nome": "Lydiane Machado e Silva",
+      "cargo": "Procuradora do Trabalho e Vice-Presidente da Associação Nacional dos Procuradores e das Procuradoras do Trabalho — ANPT",
+      "opinioes": [
+        "Expressou preocupação com a utilização de medida provisória para tratar da empregabilidade das mulheres devido ao prazo e ao processo legislativo exigido.",
+        "Criticou a falta de mecanismos na MP para atacar a informalidade e destacou a importância da divisão igualitária das responsabilidades domésticas para igualar o nível de emprego entre homens e mulheres.",
+        "Sugeriu que a MP não é suficiente para resolver as causas estruturais da desigualdade de gênero no mercado de trabalho."
+      ]
+    },
+    {
+      "nome": "Vanessa Gruia",
+      "cargo": "Gerente de Relações Institucionais da Federação Brasileira de Bancos — FEBRABAM",
+      "opinioes": [
+        "Propôs a ampliação da idade para o benefício auxílio-creche e inclusão de filhos com deficiência, além de sugerir a inclusão do auxílio-babá.",
+        "Defendeu que o valor do benefício deve ser debatido no Legislativo para refletir as diferentes realidades regionais."
+      ]
+    },
+    {
+      "nome": "Fernanda Marsaro dos Santos",
+      "cargo": "Diretora do Departamento de Políticas das Mulheres e Relações Sociais da Secretaria Nacional de Políticas para Mulheres do Ministério da Mulher, da Família e dos Direitos Humanos",
+      "opinioes": [
+        "Apoiou a MP e destacou os avanços para as mulheres, como a flexibilização do regime de trabalho e a qualificação profissional.",
+        "Ressaltou a importância do Selo Emprega + Mulher e da qualificação para áreas estratégicas."
+      ]
+    },
+    {
+      "nome": "Rosângela Silva Rassy",
+      "cargo": "Auditora-Fiscal do Trabalho e Diretora do Sindicato Nacional dos Auditores-Fiscais do Trabalho — SINAIT",
+      "opinioes": [
+        "Criticou a MP por tentar desobrigar as empresas de manterem locais para guarda de filhos de empregadas e por desconfigurar o objetivo do FGTS.",
+        "Propôs a formalização de arranjos informais de cuidado infantil e a revisão de aspectos da MP que podem prejudicar a proteção às trabalhadoras."
+      ]
+    },
+    {
+      "nome": "Juvândia Moreira Leite",
+      "cargo": "Dirigente Nacional e Representante da Central Única dos Trabalhadores — CUT",
+      "opinioes": [
+        "Criticou a MP por flexibilizar e retirar direitos das mulheres, responsabilizando-as pelo desemprego que sofrem.",
+        "Defendeu investimentos públicos e políticas estratégicas para combater a desigualdade de gênero no mercado de trabalho.",
+        "Destacou a importância de combater o assédio sexual e moral no ambiente de trabalho."
+      ]
+    },
+    {
+      "nome": "Adriana Barufaldi Bertoldi",
+      "cargo": "Gestora do Programa SENAI de Ações Inclusivas",
+      "opinioes": [
+        "Destacou a atuação do SENAI na qualificação profissional de mulheres e a importância de programas de inclusão no setor industrial.",
+        "Ressaltou a parceria com o Ministério da Economia para a implementação do empreendedorismo feminino."
+      ]
+    },
+    {
+      "nome": "Fernanda de Menezes Barbosa",
+      "cargo": "Advogada da Confederação Nacional da Indústria — CNI",
+      "opinioes": [
+        "Apoiou a MP, mas destacou a necessidade de respeitar a autonomia de gestão do SENAI e do SESI.",
+        "Pontuou que alguns artigos da MP podem contrariar a Constituição por impor condutas aos serviços sociais autônomos."
+      ]
+    },
+    {
+      "nome": "Nicole Goulart",
+      "cargo": "Diretora-Executiva Nacional do Serviço Nacional de Aprendizagem do Transporte — SEST/SENAT, da Confederação Nacional do Transporte — CNT",
+      "opinioes": [
+        "Apoiou a MP e destacou a importância da qualificação profissional de mulheres no setor de transporte.",
+        "Ressaltou programas de inclusão e qualificação de mulheres, como o Qualifica Mulher para o Transporte e o movimento A Voz Delas."
+      ]
+    },
+    {
+      "nome": "Cida Freire",
+      "cargo": "Coordenadora da Secretaria Executiva da Rede Nacional Primeira Infância — RNPI",
+      "opinioes": [
+        "Criticou a falta de diálogo na construção da MP e destacou a importância de políticas públicas para reduzir desigualdades sociais.",
+        "Expressou preocupação com o uso do FGTS para pagamento de creche e defendeu que creche é uma política pública que deve ser provida pelo Estado."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa dos Direitos da Mulher discutiu os impactos da Medida Provisória nº 1.116, de 2022, no mercado de trabalho feminino e nos direitos das mulheres. Participantes, incluindo representantes do Ministério do Trabalho, Ministério Público do Trabalho, ANAMATRA, ANPT, FEBRABAN, CNI, SEST/SENAT, e CUT, debateram medidas como apoio à parentalidade, reembolso de creche, flexibilização do regime de trabalho e qualificação profissional de mulheres. Críticas foram feitas à MP por potencialmente retirar direitos e desobrigar empresas de responsabilidades, com sugestões de aprimoramento para respeitar a autonomia de serviços sociais autônomos e garantir maior proteção às trabalhadoras."
+}

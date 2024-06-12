@@ -1,0 +1,59 @@
+{
+  "assunto": "Discussão sobre o fechamento de fábricas e o futuro da indústria automotiva no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Vicentinho",
+      "cargo": "Deputado Federal (PT - SP)",
+      "opinioes": [
+        "A situação do setor automotivo é crítica e deve ser amplamente discutida.",
+        "A audiência foi convocada para debater o encerramento ou suspensão das atividades em fábricas do setor automobilístico no Brasil.",
+        "A indústria automotiva é crucial para a economia do país e precisamos encontrar soluções para os desafios atuais.",
+        "É necessário um debate sobre a mobilidade no Brasil e a importância de políticas públicas industriais."
+      ]
+    },
+    {
+      "nome": "Claudio Batista da Silva Júnior",
+      "cargo": "Presidente do Sindicato dos Metalúrgicos de Taubaté e Região",
+      "opinioes": [
+        "O setor automotivo é estratégico para o Brasil e tem sofrido com o desemprego e a falta de componentes.",
+        "A política industrial que exigia conteúdo nacional nos veículos era importante para gerar empregos e desenvolver a cadeia produtiva.",
+        "A falta de uma política industrial eficaz está causando a desmobilização das empresas no país, como a saída da Ford."
+      ]
+    },
+    {
+      "nome": "Erick Pereira da Silva",
+      "cargo": "Presidente da Federação Estadual dos Metalúrgicos da CUT (FEM-CUT/SP)",
+      "opinioes": [
+        "É necessário um debate sobre o futuro da mobilidade, incluindo a eletromobilidade e a conectividade dos veículos.",
+        "A descarbonização é inevitável e precisamos trabalhar em tecnologias mais limpas, como o etanol.",
+        "A política industrial brasileira está morrendo devido à falta de participação e ação do Estado."
+      ]
+    },
+    {
+      "nome": "Fausto Augusto Júnior",
+      "cargo": "Diretor Técnico do DIEESE",
+      "opinioes": [
+        "O mundo está se reorganizando tecnologicamente e o Brasil precisa investir em carros menos poluentes e mais eficientes.",
+        "Se o Brasil não corrigir o caminho, se transformará apenas em um mercado consumidor e não em um produtor de automóveis."
+      ]
+    },
+    {
+      "nome": "Luiz Carlos Moraes",
+      "cargo": "Presidente da ANFAVEA",
+      "opinioes": [
+        "A ausência de uma política de desenvolvimento econômico e industrial no Brasil está incentivando empresas a deixarem o país.",
+        "Precisamos de um mercado interno consolidado e uma política cambial estável para fortalecer a indústria automotiva nacional.",
+        "A cadeia de fornecimento deve ser 100% nacional para que possamos exportar o que produzimos."
+      ]
+    },
+    {
+      "nome": "Ronaldo Lima dos Santos",
+      "cargo": "Procurador do Trabalho e Coordenador Nacional da Coordenadoria de Promoção da Liberdade Sindical e do Diálogo Social do MPT",
+      "opinioes": [
+        "Queremos que as indústrias permaneçam no Brasil, como Ford, Honda, Toyota, Volkswagen e Chevrolet.",
+        "É necessário um debate mais profundo sobre a requalificação dos trabalhadores para lidar com novas tecnologias."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Trabalho, Administração e Serviço Público discutiu o fechamento de fábricas do setor automotivo no Brasil e o futuro da indústria automotiva. O Deputado Vicentinho destacou a importância do debate e das políticas públicas. Claudio Batista da Silva Júnior enfatizou a necessidade de uma política industrial que exija conteúdo nacional nos veículos. Erick Pereira da Silva defendeu a descarbonização e tecnologias mais limpas. Fausto Augusto Júnior alertou sobre o risco do Brasil se tornar apenas um mercado consumidor. Luiz Carlos Moraes criticou a ausência de uma política de desenvolvimento econômico e industrial. Ronaldo Lima dos Santos chamou a atenção para a importância de manter as indústrias no país e requalificar os trabalhadores para novas tecnologias."
+}

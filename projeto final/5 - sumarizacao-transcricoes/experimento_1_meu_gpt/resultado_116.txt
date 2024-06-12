@@ -1,0 +1,95 @@
+{
+  "assunto": "Análise da política externa do Brasil sob a gestão do Ministro Mauro Vieira, com foco em relações diplomáticas e acordos internacionais.",
+  "envolvidos": [
+    {
+      "nome": "Paulo Alexandre Barbosa",
+      "cargo": "Deputado, Bloco/PSDB - SP",
+      "opinioes": [
+        "Iniciou a sessão cumprimentando os participantes e destacando a atuação do Embaixador Mauro Vieira nos fóruns internacionais.",
+        "Questionou sobre as relações comerciais entre Brasil e Argentina com o novo governo de Javier Milei.",
+        "Perguntou sobre as prioridades do Brasil na presidência do G-20 e o andamento do acordo com a União Europeia."
+      ]
+    },
+    {
+      "nome": "Mauro Luiz Iecker Vieira",
+      "cargo": "Ministro das Relações Exteriores",
+      "opinioes": [
+        "Explicou que o Itamaraty atua como executor e assessor principal da política externa sob a orientação do Presidente da República.",
+        "Descreveu suas interações e representações oficiais, incluindo a presença na posse do Presidente argentino Javier Milei.",
+        "Comentou sobre a importância de manter relações diplomáticas equilibradas e a defesa da paz em conflitos internacionais."
+      ]
+    },
+    {
+      "nome": "General Girão",
+      "cargo": "Deputado, PL - RN",
+      "opinioes": [
+        "Questionou a convivência do Ministro Mauro Vieira com assessores presidenciais.",
+        "Criticou a frequência das viagens presidenciais e questionou sua motivação.",
+        "Expressou preocupações sobre a postura do governo em relação ao Hamas e outros conflitos internacionais."
+      ]
+    },
+    {
+      "nome": "Augusto Coutinho",
+      "cargo": "Deputado, Bloco/REPUBLICANOS - PE",
+      "opinioes": [
+        "Parabenizou o Ministro Mauro Vieira pela postura do governo em relação à questão de Israel.",
+        "Destacou a eficiência do governo brasileiro em repatriar cidadãos durante crises internacionais.",
+        "Agradeceu a atenção especial dada aos brasileiros afetados por conflitos globais."
+      ]
+    },
+    {
+      "nome": "Jonas Donizette",
+      "cargo": "Deputado, Bloco/PSB - SP",
+      "opinioes": [
+        "Comentou sobre as dificuldades e divergências enfrentadas pela Comissão.",
+        "Criticou a ausência dos autores do requerimento durante a sessão.",
+        "Elogiou o trabalho dos diplomatas brasileiros e a importância da participação do Brasil em fóruns internacionais."
+      ]
+    },
+    {
+      "nome": "Carlos Zarattini",
+      "cargo": "Deputado, Bloco/PT - SP",
+      "opinioes": [
+        "Parabenizou o Embaixador Mauro Vieira e a atuação equilibrada do governo em conflitos internacionais.",
+        "Questionou detalhes sobre a negociação do acordo do MERCOSUL com a União Europeia.",
+        "Expressou preocupação com as limitações econômicas impostas pelo acordo e suas implicações para o Brasil."
+      ]
+    },
+    {
+      "nome": "Claudio Cajado",
+      "cargo": "Deputado, Bloco/PP - BA",
+      "opinioes": [
+        "Apoiou a diplomacia parlamentar e a defesa dos interesses brasileiros acima de ideologias.",
+        "Expressou preocupação com os conflitos globais e a agressão da Rússia contra a Ucrânia.",
+        "Questionou as negociações do MERCOSUL e a posição do Brasil diante das barreiras protecionistas da União Europeia."
+      ]
+    },
+    {
+      "nome": "Flávio Nogueira",
+      "cargo": "Deputado, Bloco/PT - PI",
+      "opinioes": [
+        "Elogiou a política diplomática brasileira e sua postura histórica de neutralidade e imparcialidade.",
+        "Comentou sobre a importância da doutrina diplomática na soberania das nações.",
+        "Parabenizou o corpo diplomático e a atuação do atual governo."
+      ]
+    },
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado, Bloco/PSOL - RJ",
+      "opinioes": [
+        "Criticou a designação dos atos do Hamas como 'terroristas' sem aplicar o mesmo termo às ações de Israel.",
+        "Questionou a justificativa para não romper relações com Israel apesar das ações militares.",
+        "Solicitou o fim dos acordos de cooperação militar com Israel iniciados pelo governo anterior."
+      ]
+    },
+    {
+      "nome": "Julio Lopes",
+      "cargo": "Deputado, Bloco/PP - RJ",
+      "opinioes": [
+        "Elogiou a eficiência da diplomacia brasileira na recuperação de cidadãos durante crises.",
+        "Parabenizou a atuação conjunta do Ministério das Relações Exteriores e do Ministério da Defesa.",
+        "Destacou a importância da posição do Brasil na sustentabilidade global."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública focou na análise da política externa do Brasil sob a gestão do Ministro Mauro Vieira, abordando temas como as relações diplomáticas com a Argentina, a presidência do G-20 e os acordos internacionais, especialmente com a União Europeia. Diversos deputados expressaram suas opiniões, elogiando a atuação do Itamaraty e questionando decisões específicas do governo. O Ministro Mauro Vieira destacou a importância de uma diplomacia equilibrada e a defesa

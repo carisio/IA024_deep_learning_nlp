@@ -1,0 +1,57 @@
+{
+  "assunto": "Prevenção e auxílio a desastres e calamidades naturais",
+  "envolvidos": [
+    {
+      "nome": "Leo Prates",
+      "cargo": "Presidente da Comissão Especial, Deputado Federal pelo PDT-BA",
+      "opinioes": [
+        "Destaca a importância da criação de um arcabouço legal para proteger especialmente os vulneráveis em situações de enchentes e secas.",
+        "Salienta a relevância do Ministério do Desenvolvimento Social nas ações de prevenção e auxílio a desastres."
+      ]
+    },
+    {
+      "nome": "Gilson Daniel",
+      "cargo": "Relator da Comissão, Deputado Federal pelo PODE-ES",
+      "opinioes": [
+        "Enfatiza a necessidade de recursos financeiros específicos para a prevenção de desastres.",
+        "Propõe a criação de um fundo nacional para calamidades públicas.",
+        "Menciona a aprovação de um projeto de lei que aloca 50% dos recursos das apostas não reclamadas para o Fundo de Calamidade Pública.",
+        "Sublinha a importância de alocar mais recursos para a prevenção de desastres e garantir a segurança das famílias que moram em áreas de risco."
+      ]
+    },
+    {
+      "nome": "Vera Campelo",
+      "cargo": "Coordenadora da Secretaria Nacional de Assistência Social do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "opinioes": [
+        "Explica o papel da assistência social na resposta a emergências, incluindo a flexibilização das normativas para facilitar o cofinanciamento federal.",
+        "Menciona a criação de cadernos de orientação para gestores de assistência social, em parceria com o UNICEF.",
+        "Detalha as ações de prevenção e resposta a situações de emergência, como o repasse de recursos para acolhimentos provisórios e a quebra do escalonamento do Bolsa Família em emergências."
+      ]
+    },
+    {
+      "nome": "Pedro Henrique Lopes Batista",
+      "cargo": "Diretor Substituto da Secretaria Nacional de Periferias do Ministério das Cidades",
+      "opinioes": [
+        "Destaca a importância das políticas públicas urbanas nas periferias e a necessidade de obras complementares que beneficiem a população local.",
+        "Fala sobre o programa de contenção de encostas e as novas ações de soluções baseadas na natureza para aumentar a resiliência climática das periferias.",
+        "Menciona a parceria com a FIOCRUZ para a criação de planos municipais de redução de riscos."
+      ]
+    },
+    {
+      "nome": "Tarcísio Motta",
+      "cargo": "Deputado Federal pelo PSOL-RJ",
+      "opinioes": [
+        "Sugere a criação de regramentos para o aluguel social, destacando a insuficiência dos valores atuais.",
+        "Parabeniza pela audiência e enfatiza a necessidade de avançar no diálogo sobre políticas de apoio às vítimas de desastres."
+      ]
+    },
+    {
+      "nome": "Jorge Goetten",
+      "cargo": "Deputado Federal pelo PL-SC",
+      "opinioes": [
+        "Parabeniza a oportunidade da audiência e destaca a importância de levar informações sobre apoios governamentais aos municípios."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão Especial da Câmara dos Deputados discutiu formas de prevenção e auxílio a desastres e calamidades naturais no Brasil. Presidida pelo Deputado Leo Prates, o evento contou com a participação de representantes do Ministério do Desenvolvimento Social e do Ministério das Cidades. Os principais pontos debatidos incluíram a criação de um fundo nacional para calamidades, a flexibilização de normativas para o cofinanciamento federal, a importância de obras de contenção de encostas e soluções baseadas na natureza, e a necessidade de regramento para o aluguel social. Deputados e representantes destacaram a importância de alocar mais recursos e criar políticas públicas eficientes para proteger as populações vulneráveis."
+}

@@ -1,0 +1,67 @@
+{
+  "assunto": "Prevenção e auxílio a vítimas de desastres e calamidades naturais no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Leo Prates",
+      "cargo": "Presidente da Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a vítimas de desastres e calamidades naturais",
+      "opinioes": [
+        "A definição dos polígonos onde estão as vítimas de desastre é fundamental para evitar o escoamento dos recursos públicos.",
+        "Destacou a importância da presença do Secretário Wolnei Wolff para fornecer esclarecimentos."
+      ]
+    },
+    {
+      "nome": "Wolnei Wolff",
+      "cargo": "Secretário Nacional de Proteção e Defesa Civil",
+      "opinioes": [
+        "A Defesa Civil atua na articulação dos sistemas federais, estaduais e municipais de proteção e defesa civil.",
+        "A gestão de riscos e desastres inclui a preparação, resposta, ajuda humanitária, restabelecimento e recuperação.",
+        "O Sistema Nacional de Proteção e Defesa Civil foi reforçado após o desastre da Região Serrana do Rio de Janeiro em 2011.",
+        "Destacou a importância da integração e articulação de todos os atores, incluindo a população e o setor privado.",
+        "Citou a necessidade de recursos contínuos para prevenção, afirmando que muitos desastres poderiam ser evitados com investimentos prévios."
+      ]
+    },
+    {
+      "nome": "Gilson Daniel",
+      "cargo": "Deputado e Relator da Comissão Especial",
+      "opinioes": [
+        "Defendeu o financiamento à prevenção de desastres, ressaltando que é mais barato investir na prevenção do que na resposta aos desastres.",
+        "Mencionou o Projeto de Lei 920/23, que destina 5% dos acordos judiciais e extrajudiciais a um fundo de calamidade pública.",
+        "Criticou a falta de recursos destinados à prevenção em acordos como os de Brumadinho e Mariana."
+      ]
+    },
+    {
+      "nome": "Jorge Goetten",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Agradeceu ao Secretário Wolnei e ao Armin Braun pelo apoio prestado em Santa Catarina durante desastres.",
+        "Destacou a importância de uma política pública aliada a um fundo para desastres e uma carreira para a defesa civil."
+      ]
+    },
+    {
+      "nome": "Ana Paula Lima",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Agradeceu a defesa civil nacional pelo trabalho em Santa Catarina.",
+        "Enfatizou a importância de recursos para a defesa civil, mencionando a aprovação da PEC da Transição que aumentou os fundos disponíveis."
+      ]
+    },
+    {
+      "nome": "Tarcísio Motta",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Destacou a necessidade de reservas de contingência específicas para desastres no orçamento público.",
+        "Solicitou um diagnóstico da situação das defesas civis estaduais e municipais para melhorar a estrutura e a resposta a desastres."
+      ]
+    },
+    {
+      "nome": "Pedro Aihara",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Enfatizou a importância de derrubar o veto ao PL 920/23 para garantir recursos contínuos para prevenção e resposta a desastres.",
+        "Sugeriu a possibilidade de condicionar até 5% das emendas parlamentares para desastres.",
+        "Defendeu a criação de centros de estudos e pesquisas sobre desastres para fortalecer o sistema de alarmes e monitoramento."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão Especial destinou-se a discutir formas de prevenção e auxílio a vítimas de desastres e calamidades naturais no Brasil. Participaram da discussão o Presidente Leo Prates, o Secretário Nacional de Proteção e Defesa Civil Wolnei Wolff, e os Deputados Gilson Daniel, Jorge Goetten, Ana Paula Lima, Tarcísio Motta, e Pedro Aihara. O foco principal foi a necessidade de um sistema integrado e contínuo de prevenção e resposta a desastres, a importância de alocar recursos adequados e garantir uma estrutura robusta para a defesa civil, além de enfatizar a criação de um fundo nacional e a capacitação dos municípios para lidar com desastres."
+}

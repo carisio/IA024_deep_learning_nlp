@@ -1,0 +1,63 @@
+{
+  "assunto": "Condições de trabalho na mineração brasileira",
+  "envolvidos": [
+    {
+      "nome": "Alexandre Lindenmeyer",
+      "cargo": "Presidente da Comissão",
+      "opinioes": []
+    },
+    {
+      "nome": "Mário Parreiras de Faria",
+      "cargo": "Auditor Fiscal do Ministério do Trabalho e Emprego",
+      "opinioes": [
+        "O setor mineral é um dos setores com mais altas taxas de acidentes e mortalidade.",
+        "Minas Gerais e Pará respondem por 88% da produção mineral no Brasil.",
+        "As empresas menores não têm grande capacidade de investimento em segurança e saúde.",
+        "A terceirização no setor mineral é uma realidade e muitas vezes significa precarização do trabalho.",
+        "Os trabalhadores estão expostos a diversos fatores de risco como ruídos, vibrações, radiações, poeiras e gases tóxicos."
+      ]
+    },
+    {
+      "nome": "Álvaro Luiz da Silva Alves",
+      "cargo": "Presidente do Sindiminas-SE e Diretor Administrativo da FITEMCUT",
+      "opinioes": [
+        "Trabalhar em uma mina subterrânea é extremamente perigoso e desgastante.",
+        "A aposentadoria especial é essencial para os mineiros devido às condições adversas de trabalho.",
+        "Os trabalhadores terceirizados enfrentam condições ainda piores e são tratados como subgrupo.",
+        "A legislação que aumentou a idade para aposentadoria dos mineiros é injusta."
+      ]
+    },
+    {
+      "nome": "Cíntia Nazaré Pantoja Leão",
+      "cargo": "Representante do Ministério Público do Trabalho",
+      "opinioes": [
+        "As condições de trabalho nas pequenas e médias empresas de mineração são muito precárias.",
+        "É necessário um maior investimento em fiscalização e segurança no trabalho.",
+        "As grandes empresas de mineração também apresentam problemas graves de segurança, como as barragens de rejeitos.",
+        "A terceirização massiva na mineração precariza as condições de trabalho.",
+        "Há uma subnotificação dos adoecimentos relacionados ao trabalho no setor mineral."
+      ]
+    },
+    {
+      "nome": "Eduardo Armond Cortês de Araújo",
+      "cargo": "Diretor Sindical do Sindicato dos Trabalhadores nas Indústrias da Construção Pesada de Minas Gerais",
+      "opinioes": [
+        "A terceirização na mineração é usada para reduzir custos e precarizar as condições de trabalho.",
+        "A rotatividade dos trabalhadores terceirizados é muito alta, o que impede a aquisição de experiência e estabilidade.",
+        "É fundamental que os sindicatos tenham acesso aos locais de trabalho para fiscalizar as condições dos trabalhadores.",
+        "A CFEM deveria ser utilizada para melhorar as condições de trabalho e mitigar os problemas no setor de mineração."
+      ]
+    },
+    {
+      "nome": "Genoir José dos Santos",
+      "cargo": "Presidente da Federação Interestadual dos Trabalhadores na Indústria da Extração do Carvão",
+      "opinioes": [
+        "A NR 22 é essencial para a prevenção de acidentes e preservação da saúde e segurança dos trabalhadores na mineração.",
+        "Os trabalhadores no subsolo estão expostos a riscos muito altos e precisam de treinamento e qualificação adequados.",
+        "A injustiça cometida com a mudança na aposentadoria dos mineiros precisa ser corrigida.",
+        "A contribuição previdenciária dos trabalhadores do subsolo é muito alta, mas os benefícios foram reduzidos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu as condições de trabalho na mineração brasileira, destacando os altos índices de acidentes e mortalidade, a precarização do trabalho através da terceirização, e a necessidade de uma legislação mais robusta para garantir a segurança e saúde dos trabalhadores. Participantes como Mário Parreiras de Faria, Cíntia Nazaré Pantoja Leão, Álvaro Luiz da Silva Alves, Eduardo Armond Cortês de Araújo e Genoir José dos Santos apresentaram suas preocupações e opiniões, enfatizando a importância da fiscalização, da aposentadoria especial e da utilização adequada dos recursos da CFEM."
+}

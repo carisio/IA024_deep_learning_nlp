@@ -1,0 +1,79 @@
+{
+  "assunto": "A importância da perícia criminal na investigação e prevenção dos crimes de feminicídio",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (Bloco/PT - DF)",
+      "opinioes": [
+        "Destacou a relevância da audiência para debater a perícia criminal no contexto dos crimes de feminicídio.",
+        "Mencionou a importância dos 21 dias de ativismo pelo fim da violência contra a mulher.",
+        "Agradeceu a participação de todas as convidadas e convidados."
+      ]
+    },
+    {
+      "nome": "Érica Brito Oliveira",
+      "cargo": "Vice-Presidente da Associação Brasileira de Criminalística",
+      "opinioes": [
+        "Enfatizou a importância da polícia científica na segurança e nos direitos humanos.",
+        "Criticou a falta de efetividade das políticas públicas na proteção das mulheres vítimas de violência doméstica.",
+        "Defendeu a necessidade de maior visibilidade e integração da polícia científica nas políticas públicas.",
+        "Apoiou a aprovação da PEC 76, de 2019, para a constitucionalização da polícia científica."
+      ]
+    },
+    {
+      "nome": "Aline Yamamoto",
+      "cargo": "Diretora de Proteção e Direitos da Secretaria Nacional de Enfrentamento à Violência contra Mulheres, Ministério das Mulheres",
+      "opinioes": [
+        "Felicita a Deputada Erika Kokay pela propositura da audiência.",
+        "Apresentou dados alarmantes sobre homicídios de mulheres no Brasil e no mundo.",
+        "Mencionou a criação do Pacto Nacional de Prevenção ao Feminicídio em 2023.",
+        "Criticou a falta de um protocolo nacional para investigação de feminicídios com perspectiva de gênero."
+      ]
+    },
+    {
+      "nome": "Raoni Parreira Maciel",
+      "cargo": "Promotor de Justiça, integrante do Núcleo do Tribunal do Júri e Defesa da Vida do Ministério Público do Distrito Federal e Territórios",
+      "opinioes": [
+        "Ressaltou a importância da perícia na comprovação de crimes de feminicídio.",
+        "Compartilhou dados sobre a alta taxa de condenação de feminicidas no Distrito Federal.",
+        "Defendeu a adoção de protocolos diferenciados para investigação de feminicídios desde o início."
+      ]
+    },
+    {
+      "nome": "Viviane Bonato",
+      "cargo": "Delegada da Polícia Civil do Distrito Federal",
+      "opinioes": [
+        "Destacou a importância do protocolo de feminicídio na investigação de mortes violentas de mulheres.",
+        "Mencionou a necessidade de tratamento diferenciado nas perícias de feminicídios.",
+        "Afirmou que a prevenção é o ponto principal a ser trabalhado na questão do feminicídio."
+      ]
+    },
+    {
+      "nome": "Christhiane Pinto Cutrim",
+      "cargo": "Perita criminal do Estado do Maranhão, servidora mobilizada junto à coordenação de modernização tecnológica do Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "Enfatizou a importância da cadeia de custódia na preservação de vestígios criminais.",
+        "Mencionou a Rede Integrada de Bancos de Perfis Genéticos como ferramenta crucial para a apuração criminal."
+      ]
+    },
+    {
+      "nome": "Liliane Pires",
+      "cargo": "Perita criminal do Estado de Pernambuco, mobilizada na SENASP e coordenação de modernização tecnológica do Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "Destacou o Sistema Nacional de Análise Balística como importante para a investigação de feminicídios.",
+        "Ressaltou a necessidade de revisão e atualização de Procedimentos Operacionais Padrão para a perícia criminal."
+      ]
+    },
+    {
+      "nome": "Beatriz Figueiredo",
+      "cargo": "Perita criminal da Polícia Civil do Distrito Federal, Diretora da Divisão de Perícias Externas do Instituto de Criminalística do Distrito Federal",
+      "opinioes": [
+        "Destacou que o Brasil está entre os países que mais matam mulheres de forma violenta.",
+        "Enfatizou a importância da perspectiva de gênero na perícia criminal.",
+        "Apresentou dados e métodos utilizados na perícia para identificar feminicídios.",
+        "Criticou a ausência de padronização e treinamento específico para questões de gênero na perícia."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa dos Direitos da Mulher discutiu a importância da perícia criminal na investigação e prevenção dos crimes de feminicídio. Erika Kokay presidiu a sessão, destacando a relevância do tema e o contexto dos 21 dias de ativismo pelo fim da violência contra a mulher. Diversos especialistas e representantes de órgãos de segurança pública, como Érica Brito Oliveira, Aline Yamamoto, Raoni Parreira Maciel, Viviane Bonato, Christhiane Pinto Cutrim, Liliane Pires e Beatriz Figueiredo, discutiram a necessidade de maior visibilidade e integração da perícia nas políticas públicas, a criação de protocolos específicos, a capacitação dos profissionais e a importância da perspectiva de gênero nas investigações. Dados alarmantes sobre feminicídios e propostas para melhorias na investigação e prevenção foram apresentados, evidenciando a urgência de ações coordenadas para enfrentar a violência contra as mulheres."
+}

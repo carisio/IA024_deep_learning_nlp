@@ -1,0 +1,99 @@
+{
+  "assunto": "Direitos da Criança e do Adolescente no Brasil: 32 anos do ECA",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (PT - DF)",
+      "opinioes": [
+        "A audiência é destinada ao debate sobre os Direitos da Criança e do Adolescente no Brasil, comemorando os 32 anos do ECA.",
+        "Destaca a importância do evento e agradece a presença dos membros e palestrantes."
+      ]
+    },
+    {
+      "nome": "Ana Paula Motta Costa",
+      "cargo": "Professora da Universidade Federal do Rio Grande do Sul",
+      "opinioes": [
+        "Trabalha com direitos da criança e do adolescente há 30 anos.",
+        "A primeira década do ECA foi de muito esforço para implementação dos conselhos tutelares e redes de suporte.",
+        "Observa retrocessos nos direitos dos adolescentes, especialmente aqueles envolvidos em violência.",
+        "Critica propostas de redução da idade penal.",
+        "Defende a necessidade de novos pactos pela infância e igualdade de acesso e oportunidades."
+      ]
+    },
+    {
+      "nome": "Maria do Rosário",
+      "cargo": "Deputada Federal (PT - RS)",
+      "opinioes": [
+        "Destaca a importância da Frente Parlamentar em Defesa dos Direitos da Criança e do Adolescente.",
+        "Ressalta as obstruções atuais para garantir os direitos básicos das crianças.",
+        "Critica a fome e a insegurança alimentar, afetando 33 milhões de brasileiros.",
+        "Enfatiza a importância de políticas estruturantes no tema da renda e a valorização dos conselhos de direitos."
+      ]
+    },
+    {
+      "nome": "Eric Jonathan",
+      "cargo": "Estudante e representante do Conselho dos Direitos da Criança e do Adolescente do Distrito Federal",
+      "opinioes": [
+        "A importância da participação de adolescentes em políticas públicas.",
+        "Critica a falta de acesso a políticas públicas por crianças em situação de vulnerabilidade.",
+        "Enfatiza a necessidade de políticas públicas que deem voz aos adolescentes."
+      ]
+    },
+    {
+      "nome": "Maria Rita Fernandes Couto",
+      "cargo": "Estudante e representante do Comitê de Participação de Adolescentes do Conselho Nacional dos Direitos da Criança e do Adolescente",
+      "opinioes": [
+        "Destaca o crescimento das mortes de jovens em favelas e a falta de acesso a direitos básicos.",
+        "Critica os cortes orçamentários em programas sociais e políticas públicas.",
+        "Defende mais investimento em pediatria e ginecologia no SUS."
+      ]
+    },
+    {
+      "nome": "Letícia Leobet",
+      "cargo": "Representante da sociedade civil na Coordenação Colegiada da Frente Parlamentar Mista de Promoção e Defesa dos Direitos da Criança e Adolescente",
+      "opinioes": [
+        "Destaca o ECA como uma conquista da sociedade civil e um instrumento jurídico e político.",
+        "Ressalta a necessidade de fortalecer os mecanismos de participação social.",
+        "Critica a vulnerabilidade de crianças e adolescentes negros, indígenas e de comunidades tradicionais.",
+        "Defende a criação de políticas que enfrentem o racismo desde a primeira infância."
+      ]
+    },
+    {
+      "nome": "Lucas Lopes",
+      "cargo": "Representante da Coalizão Brasileira pelo Fim da Violência Contra Crianças e Adolescentes",
+      "opinioes": [
+        "Apresenta estudo sobre práticas inovadoras de prevenção à violência contra crianças e adolescentes.",
+        "Critica o subfinanciamento do CPA do CONANDA e outros mecanismos de participação adolescente.",
+        "Defende a necessidade de consolidação do Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes."
+      ]
+    },
+    {
+      "nome": "Veet Vivarta",
+      "cargo": "Representante da Agenda 227",
+      "opinioes": [
+        "Defende a centralidade dos direitos da criança e do adolescente no debate eleitoral.",
+        "Critica a naturalização da violência e a necessidade de uma perspectiva humanizadora.",
+        "Destaca a importância do investimento na infância para romper ciclos de pobreza e desigualdade."
+      ]
+    },
+    {
+      "nome": "Alexandre Bublitz",
+      "cargo": "Médico pediatra do Hospital Presidente Vargas",
+      "opinioes": [
+        "Trabalha na linha de frente com crianças vítimas de violência.",
+        "Critica a precarização do SUS e a privatização da saúde.",
+        "Defende a necessidade de políticas de segurança para crianças e um atendimento multidisciplinar."
+      ]
+    },
+    {
+      "nome": "Benedito dos Santos",
+      "cargo": "Representante do Fundo das Nações Unidas para a Infância — UNICEF",
+      "opinioes": [
+        "Destaca a participação do UNICEF na elaboração do ECA.",
+        "Critica a falta de uma política de prevenção à violência contra crianças.",
+        "Defende a implementação da Lei nº 13.431, de 2017, para proteção de crianças vítimas de violência."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública sobre os 32 anos do Estatuto da Criança e do Adolescente (ECA) destacou a importância do ECA como uma conquista da sociedade civil e um instrumento crucial para a proteção dos direitos das crianças e adolescentes no Brasil. Participantes enfatizaram tanto os avanços quanto os retrocessos ao longo dessas três décadas. Entre os principais temas debatidos estavam a necessidade de novos pactos pela infância, a importância de políticas públicas estruturantes, o impacto negativo da fome e da insegurança alimentar, e a vulnerabilidade exacerbada de crianças e adolescentes negros, indígenas e de comunidades tradicionais. A precarização do SUS e a necessidade de um atendimento multidisciplinar e de políticas de prevenção à violência também foram fortemente criticadas. Os participantes chamaram atenção para a necessidade de fortalecer os mecanismos de participação social e responsabilização do Estado para garantir a plena implementação do ECA e a proteção integral das crianças e adolescentes no Brasil."
+}

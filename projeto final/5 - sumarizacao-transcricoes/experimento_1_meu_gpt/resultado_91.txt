@@ -1,0 +1,70 @@
+{
+  "assunto": "Reajuste das tarifas de energia elétrica no Estado do Ceará",
+  "envolvidos": [
+    {
+      "nome": "Danilo Forte",
+      "cargo": "Deputado Federal (UNIÃO - CE) e Presidente da Comissão de Minas e Energia",
+      "opinioes": [
+        "Manifestou preocupação com a crise energética e a decisão política de substituir o Ministério de Minas e Energia.",
+        "Destacou a importância do diálogo e competência do Ministro Bento na superação da crise hídrica sem apagões ou racionamento de energia.",
+        "Expressou perplexidade com o aumento de tarifas de energia no Ceará, que chegaram a 24,8% para consumidores médios e 32% para consumidores rurais.",
+        "Enfatizou a necessidade de um diálogo sobre a precificação e eficiência na prestação de serviços de energia.",
+        "Criticou a falta de uniformidade nos índices de reajuste entre os Estados e a falta de transparência nos contratos."
+      ]
+    },
+    {
+      "nome": "Domingos Romeu Andreatta",
+      "cargo": "Secretário-Adjunto de Energia Elétrica do Ministério de Minas e Energia",
+      "opinioes": [
+        "Afirmou que os reajustes das tarifas são regulados e necessários para manter o equilíbrio econômico e financeiro dos contratos de concessão.",
+        "Defendeu a segurança jurídica e o respeito aos contratos para garantir o fluxo de investimentos no setor elétrico.",
+        "Expressou preocupação com o Projeto de Decreto Legislativo nº 94, de 2022, que poderia criar insegurança jurídica e aumentar os custos futuros da energia elétrica."
+      ]
+    },
+    {
+      "nome": "Davi Antunes Lima",
+      "cargo": "Superintendente de Gestão Tarifária da ANEEL",
+      "opinioes": [
+        "Explicou que a tarifa de energia não é vinculada diretamente ao IPCA ou IGP-M, mas depende de diversos custos como a compra de energia, transmissão e encargos setoriais.",
+        "Ressaltou que a ANEEL tomou medidas para mitigar os efeitos tarifários, como a operação da Conta Escassez Hídrica e a reversão de créditos de PIS/COFINS.",
+        "Indicou que a CDE (Conta de Desenvolvimento Energético) tem um impacto significativo no custo da energia, devido a aumentos nos subsídios tarifários."
+      ]
+    },
+    {
+      "nome": "Márcia Sandra Roque Vieira Silva",
+      "cargo": "Diretora-Presidente da ENEL Distribuição Ceará",
+      "opinioes": [
+        "Explicou que os novos contratos de energia são regidos pelo IPCA, enquanto muitos contratos antigos ainda utilizam o IGP-M.",
+        "Afirmou que a ENEL investiu significativamente na infraestrutura e qualidade do serviço no Ceará.",
+        "Defendeu que o cálculo da tarifa é feito pela ANEEL, com base nos dados fornecidos pela distribuidora."
+      ]
+    },
+    {
+      "nome": "Amílcar Silveira",
+      "cargo": "Presidente da Federação da Agricultura e Pecuária do Estado do Ceará (FAEC)",
+      "opinioes": [
+        "Criticou o aumento de 32,7% na tarifa de energia para o setor rural, considerando-o imoral e inviável para os produtores.",
+        "Defendeu a necessidade de concorrência no setor de energia e a possibilidade de portabilidade da energia para os consumidores.",
+        "Sugeriu a revisão dos incentivos retirados do setor rural no passado."
+      ]
+    },
+    {
+      "nome": "Victor Iocca",
+      "cargo": "Diretor de Energia Elétrica da ABRACE",
+      "opinioes": [
+        "Alertou para o impacto negativo dos aumentos tarifários na competitividade da indústria e no custo da cesta básica dos brasileiros.",
+        "Sugeriu a aprovação de projetos de lei que retiram os subsídios da conta de energia e modernizam o mercado de energia.",
+        "Defendeu o respeito aos contratos e a fiscalização das termoelétricas contratadas em momentos emergenciais."
+      ]
+    },
+    {
+      "nome": "Thiago Fujita",
+      "cargo": "Presidente da Associação Cearense de Defesa do Consumidor",
+      "opinioes": [
+        "Criticou o contrato de concessão da ENEL Ceará por ser omisso e prejudicial aos consumidores.",
+        "Defendeu a revisão do contrato e maior transparência nos reajustes tarifários."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Minas e Energia da Câmara dos Deputados, presidida pelo Deputado Danilo Forte, debateu o reajuste das tarifas de energia elétrica no Ceará. Os principais pontos discutidos incluíram a perplexidade com os altos índices de reajuste, a necessidade de transparência nos contratos e a busca por alternativas para minimizar os impactos no consumidor. Envolvidos como Domingos Romeu Andreatta, Davi Antunes Lima e Márcia Sandra Roque Vieira Silva explicaram os aspectos técnicos e regulatórios do reajuste, enquanto representantes do setor produtivo e de consumidores, como Amílcar Silveira e Thiago Fujita, expressaram preocupações com os efeitos negativos dos aumentos tarifários. Sugeriu-se a revisão dos contratos e incentivos e a aprovação de projetos de lei para modernizar o mercado de energia e reduzir os custos para os consumidores."
+}

@@ -1,0 +1,51 @@
+{
+  "assunto": "Descarbonização do Setor de Navegação",
+  "envolvidos": [
+    {
+      "nome": "Arnaldo Jardim",
+      "cargo": "Presidente da Comissão e Deputado Federal (CIDADANIA-SP)",
+      "opinioes": [
+        "Apoia as iniciativas de transição energética e a redução da pegada de carbono no setor de navegação.",
+        "Enfatiza a necessidade de uma abordagem abrangente para a descarbonização, incluindo o uso de etanol, biodiesel e biometano.",
+        "Destaca a importância de considerar o ciclo de vida dos combustíveis e das tecnologias adotadas."
+      ]
+    },
+    {
+      "nome": "Danilo Veras",
+      "cargo": "Vice-Presidente de Políticas Públicas e Regulação do Grupo Maersk",
+      "opinioes": [
+        "A Maersk está comprometida em atingir a neutralidade de carbono até 2040, antecipando as metas estabelecidas pela Organização Marítima Internacional.",
+        "Defende a adoção de metanol verde como uma solução viável para a transição energética no setor de navegação.",
+        "A Maersk investe em tecnologias e infraestrutura para reduzir as emissões de carbono em toda a cadeia logística."
+      ]
+    },
+    {
+      "nome": "Francielle Carvalho",
+      "cargo": "Pesquisadora do International Council on Clean Transportation (ICCT)",
+      "opinioes": [
+        "O Brasil tem um grande potencial para produzir combustíveis marítimos de baixo carbono devido à abundância de biomassa e fontes de energias renováveis.",
+        "Destaca a importância da análise do ciclo de vida para avaliar o impacto total dos combustíveis em termos de emissões de gases de efeito estufa.",
+        "Aponta o hidrogênio verde e a amônia como potenciais combustíveis marítimos no longo prazo, apesar dos desafios tecnológicos e de segurança."
+      ]
+    },
+    {
+      "nome": "Eduardo Nery Machado Filho",
+      "cargo": "Diretor-Geral da ANTAQ",
+      "opinioes": [
+        "A ANTAQ prioriza a sustentabilidade e possui uma agenda ambiental que inclui o Índice de Desempenho Ambiental (IDA) e o Prêmio ANTAQ.",
+        "Destaca a importância de preparar os portos brasileiros para a transição energética, incluindo a adaptação para receber embarcações com combustíveis menos poluentes.",
+        "Defende o desenvolvimento das hidrovias como um modal mais sustentável e eficiente em termos de emissões de carbono."
+      ]
+    },
+    {
+      "nome": "Dino Antunes Dias Batista",
+      "cargo": "Secretário Nacional de Portos e Transportes Aquaviários",
+      "opinioes": [
+        "Enfatiza a necessidade de incentivos para embarcações verdes e a preparação da infraestrutura portuária para suportar a transição energética.",
+        "Reconhece a importância da descarbonização da navegação e a necessidade de alinhamento com as diretrizes internacionais.",
+        "Cita a criação de incentivos no Fundo da Marinha Mercante e no programa BR do Mar para promover embarcações sustentáveis."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou a descarbonização do setor de navegação, com foco na transição energética e no uso de combustíveis alternativos de baixo carbono. Participaram representantes do governo e da indústria, incluindo o Deputado Arnaldo Jardim, Danilo Veras da Maersk, Francielle Carvalho do ICCT, Eduardo Nery da ANTAQ e Dino Antunes do Ministério de Portos e Aeroportos. As discussões destacaram o compromisso com a neutralidade de carbono, a importância da análise do ciclo de vida dos combustíveis e a necessidade de preparar a infraestrutura portuária para a transição. Incentivos para embarcações verdes e o desenvolvimento das hidrovias também foram temas centrais."
+}

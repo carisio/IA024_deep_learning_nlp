@@ -1,0 +1,69 @@
+{
+  "assunto": "Debate sobre a contratação de navios geradores de energia elétrica a partir da queima de gás natural na Baía de Sepetiba, Rio de Janeiro.",
+  "envolvidos": [
+    {
+      "nome": "Talíria Petrone",
+      "cargo": "Deputada, PSOL - RJ",
+      "opinioes": [
+        "A audiência pública foi convocada devido à possibilidade da construção de quatro termelétricas a gás e 36 torres de transmissão na Baía de Sepetiba.",
+        "Projetos termelétricos fósseis resultam em emissões significativas de gases de efeito estufa, aumentando a crise climática e energética.",
+        "A construção das termelétricas está em desacordo com a legislação ambiental e não considerou o impacto ambiental nem a opinião das comunidades locais."
+      ]
+    },
+    {
+      "nome": "Rodrigo Agostinho",
+      "cargo": "Deputado, PSB - SP",
+      "opinioes": [
+        "A transição energética deve ser acelerada para abandonar o carvão e os combustíveis fósseis.",
+        "Não faz sentido para o Brasil, que possui uma matriz energética limpa, investir em larga escala no gás.",
+        "O projeto das termelétricas flutuantes na Baía de Sepetiba está desalinhado com as políticas de transição energética limpa."
+      ]
+    },
+    {
+      "nome": "John Fernando de Farias Würdig",
+      "cargo": "Coordenador técnico do Instituto Internacional Arayara",
+      "opinioes": [
+        "O empreendimento das termelétricas flutuantes viola a legislação ambiental e direitos humanos.",
+        "Há uma isenção inadequada do EIA/RIMA para o projeto, ignorando impactos ambientais significativos.",
+        "Denunciou a desfragmentação do licenciamento ambiental e o impacto negativo nas comunidades tradicionais e pescadores locais."
+      ]
+    },
+    {
+      "nome": "Helena de Godoy Bergallo",
+      "cargo": "Professora da UERJ e coordenadora da Rede de Pesquisa em Biodiversidade da Mata Atlântica",
+      "opinioes": [
+        "O projeto das termelétricas contraria ações para reduzir emissões de gases de efeito estufa.",
+        "A Baía de Sepetiba é uma área de alta relevância biológica e ecológica, com ecossistemas vulneráveis.",
+        "A poluição térmica das termelétricas terá impactos devastadores na biodiversidade marinha e nas comunidades pesqueiras."
+      ]
+    },
+    {
+      "nome": "Flavio Diniz Gaspar Lontro",
+      "cargo": "Representante da CONFREM",
+      "opinioes": [
+        "Risco de explosão das termelétricas pode ter impacto devastador na Baía de Sepetiba.",
+        "Desrespeito a decisões judiciais cria um precedente perigoso de desobediência civil.",
+        "A construção das termelétricas coloca em risco a subsistência das comunidades pesqueiras e tradicionais locais."
+      ]
+    },
+    {
+      "nome": "Juliano Bueno de Araújo",
+      "cargo": "Diretor Técnico do Observatório Nacional do Petróleo e Gás",
+      "opinioes": [
+        "As termelétricas a gás aumentam a tarifa de energia e a inflação, impactando negativamente a economia.",
+        "Existe um racismo energético e ambiental, com populações marginalizadas sendo as mais afetadas.",
+        "É necessário um modelo de transição energética justa e sustentável que crie empregos e reduza custos energéticos."
+      ]
+    },
+    {
+      "nome": "Jaime Mitropoulos",
+      "cargo": "Procurador da República do Ministério Público Federal do Rio de Janeiro",
+      "opinioes": [
+        "O fracionamento do licenciamento ambiental é irregular e facilita a instalação de empreendimentos sem estudos adequados.",
+        "Empreendimentos de alto impacto ambiental, como as termelétricas, requerem EIA/RIMA detalhados e a participação das comunidades afetadas.",
+        "O MPF busca inibir ações ilícitas e garantir que o desenvolvimento econômico seja sustentável."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública conjunta das Comissões de Direitos Humanos e Minorias e de Minas e Energia debateu a contratação de navios geradores de energia elétrica que operam a partir da queima de gás natural na Baía de Sepetiba, RJ. A Deputada Talíria Petrone e outros participantes expressaram preocupação com os impactos ambientais e sociais, destacando a emissão de gases de efeito estufa e a ausência de consulta às comunidades locais. John Würdig do Instituto Arayara denunciou a isenção inadequada do EIA/RIMA e a fragmentação do licenciamento ambiental. A Professora Helena Bergallo ressaltou os impactos negativos na biodiversidade, enquanto Flavio Lontro e Juliano Bueno de Araújo destacaram os riscos de explosão e o aumento das tarifas energéticas. O Procurador Jaime Mitropoulos criticou o fracionamento do licenciamento e a falta de estudos de impacto ambiental adequados."
+}

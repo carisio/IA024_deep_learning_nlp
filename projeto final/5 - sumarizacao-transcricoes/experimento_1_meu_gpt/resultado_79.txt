@@ -1,0 +1,66 @@
+{
+  "assunto": "Discussão sobre o Projeto de Lei Complementar nº 17, de 2022, que trata dos direitos, garantias e deveres do contribuinte na relação com os Fiscos nacional, estaduais e municipais.",
+  "envolvidos": [
+    {
+      "nome": "Felipe Rigoni",
+      "cargo": "Deputado, UNIÃO - ES",
+      "opinioes": [
+        "O projeto visa criar um Código de Defesa do Pagador de Impostos, que garanta aos bons contribuintes maior defesa e estabilidade econômica, sem prejudicar a capacidade de fiscalização da Receita.",
+        "Destaca a importância da audiência para ouvir as preocupações e sugestões de diferentes setores para aprimorar o relatório do projeto."
+      ]
+    },
+    {
+      "nome": "Pedro Paulo",
+      "cargo": "Deputado, PSD - RJ, Relator do projeto",
+      "opinioes": [
+        "Reforça a importância de ouvir todas as partes interessadas para produzir uma legislação equilibrada e técnica.",
+        "Destaca sua experiência como Secretário de Fazenda do Rio de Janeiro e a importância de uma legislação que harmonize normas contábeis e garanta a responsabilidade fiscal."
+      ]
+    },
+    {
+      "nome": "Mauro Silva",
+      "cargo": "Representante da Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil (UNAFISCO)",
+      "opinioes": [
+        "Reconhece um ruído na relação entre Fisco e contribuinte que precisa ser resolvido.",
+        "Critica partes do projeto que, segundo ele, tiram poderes do Fisco e beneficiam devedores, como a revogação do artigo 193 do CTN.",
+        "Alerta que o projeto pode afastar o Brasil das práticas recomendadas pela OCDE em relação ao combate ao crime tributário."
+      ]
+    },
+    {
+      "nome": "Fernando Mombelli",
+      "cargo": "Representante da Receita Federal do Brasil",
+      "opinioes": [
+        "Aponta que o projeto causa insegurança jurídica ao alterar regras de diferentes leis, como o Código Tributário Nacional e a Lei Geral de Proteção de Dados.",
+        "Ressalta que dificultar a fiscalização beneficia maus contribuintes e prejudica a concorrência leal.",
+        "Defende que a normatização pela administração tributária é essencial para uma interpretação homogênea das leis fiscais."
+      ]
+    },
+    {
+      "nome": "Isac Moreno Falcão Santos",
+      "cargo": "Representante do SINDIFISCO",
+      "opinioes": [
+        "Critica a vedação à edição de normas pela Fazenda Pública, afirmando que isso complicaria a adaptação de regramentos às necessidades dinâmicas da economia.",
+        "Defende a possibilidade de requisitar força policial em fiscalizações, especialmente em áreas dominadas por grupos criminosos."
+      ]
+    },
+    {
+      "nome": "Ariene D'arc Diniz e Amaral",
+      "cargo": "Representante da CNI",
+      "opinioes": [
+        "Apoia a iniciativa do projeto e a oportunidade de discutir a relação entre Fisco e contribuinte.",
+        "Defende a simplificação das normas tributárias e a adoção de uma fiscalização orientadora.",
+        "Critica o excesso de regulamentação infralegal, sugerindo uma análise de impacto regulatório."
+      ]
+    },
+    {
+      "nome": "Zabetta Macarini",
+      "cargo": "Diretora Executiva do Grupo de Estudos Tributários Aplicados (GETAP)",
+      "opinioes": [
+        "Apoia a ideia de um tratamento diferenciado para bons contribuintes e a promoção da autorregularização.",
+        "Sugere que o prazo para apresentação de defesa prévia seja estendido de 5 para 15 dias.",
+        "Propõe a inclusão de mecanismos decooperative compliance no Código de Defesa do Pagador de Impostos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o Projeto de Lei Complementar nº 17, de 2022, que visa estabelecer direitos, garantias e deveres dos contribuintes na relação com os Fiscos nacional, estaduais e municipais. Diversos representantes de entidades fiscais e empresariais participaram, apresentando opiniões sobre a necessidade de equilibrar a proteção aos bons contribuintes com a manutenção da capacidade de fiscalização do Fisco. Foram debatidos pontos como a simplificação tributária, a normatização pela administração tributária, a utilização de força policial em fiscalizações e a implementação de práticas de compliance e autorregularização. As contribuições visam aprimorar o projeto para garantir uma legislação justa e eficaz."
+}

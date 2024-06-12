@@ -1,0 +1,78 @@
+{
+  "assunto": "Protocolo de Retinopatia Diabética no SUS voltado para idosos",
+  "envolvidos": [
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Deputado Federal (UNIÃO - GO)",
+      "opinioes": [
+        "Ressalta a importância do diagnóstico precoce para melhores resultados no tratamento.",
+        "Menciona a necessidade de indicar a glicemia como exame de rotina nas Unidades de Pronto Atendimento (UPAs)."
+      ]
+    },
+    {
+      "nome": "Dra. Vanessa Pirolo",
+      "cargo": "Coordenadora da Coalizão Vozes do Advocacy e representante da Associação Botucatuense de Assistência ao Diabético",
+      "opinioes": [
+        "Agradece a oportunidade de debater a retinopatia diabética.",
+        "Destaca a importância da campanha para diagnóstico precoce do diabetes.",
+        "Aponta que 150 mil brasileiros são diagnosticados com retinopatia diabética anualmente.",
+        "Critica a inclusão do medicamento Avastin no protocolo sem consulta pública.",
+        "Defende a sensibilização de médicos e do Ministério da Saúde para encaminhamento anual ao oftalmologista."
+      ]
+    },
+    {
+      "nome": "Dr. Levimar Araújo",
+      "cargo": "Presidente da Sociedade Brasileira de Diabetes (SBD)",
+      "opinioes": [
+        "Enfatiza a importância da visão e do tratamento adequado para manter a produtividade e a autonomia dos pacientes.",
+        "Comenta sobre a dificuldade de conseguir vagas com oftalmologistas no SUS.",
+        "Ressalta a necessidade de tratar a retinopatia e o edema macular com medicamentos aprovados."
+      ]
+    },
+    {
+      "nome": "Dr. Fernando Malerbi",
+      "cargo": "Coordenador do Departamento de Doenças Oculares da SBD",
+      "opinioes": [
+        "Expressa preocupação com o tempo adequado para o tratamento da retinopatia diabética.",
+        "Sugere planejamento para hierarquizar a fila e priorizar pacientes com alterações oculares graves.",
+        "Destaca a importância da telemedicina e do rastreamento na atenção primária."
+      ]
+    },
+    {
+      "nome": "Dr. Arnaldo Furman Bordon",
+      "cargo": "Presidente da Sociedade Brasileira de Retina e Vítreo",
+      "opinioes": [
+        "Compartilha a história de uma paciente jovem que ficou cega devido ao diabetes.",
+        "Enfatiza a complexidade do tratamento do diabetes no SUS e a necessidade de sustentabilidade dos serviços.",
+        "Ressalta que a defasagem no custeio dos tratamentos compromete a capacidade de atendimento."
+      ]
+    },
+    {
+      "nome": "Dr. Marcos Ávila",
+      "cargo": "Representante do Conselho Brasileiro de Oftalmologia",
+      "opinioes": [
+        "Menciona a judicialização do uso de antiangiogênicos e a necessidade de um financiamento adequado.",
+        "Defende a revisão da precificação dos tratamentos para torná-los viáveis.",
+        "Ressalta a importância de encontrar um modelo de financiamento que funcione."
+      ]
+    },
+    {
+      "nome": "Dra. Patrícia Peres de Souza",
+      "cargo": "Representante do Ministério da Saúde",
+      "opinioes": [
+        "Reforça a necessidade de sensibilização da população, da equipe de saúde e dos gestores locais para a importância da avaliação oftalmológica.",
+        "Comenta sobre o financiamento tripartite do SUS e a necessidade de discutir o financiamento adequado dos tratamentos oftalmológicos.",
+        "Dispõe-se a organizar reuniões para discutir soluções para os problemas apresentados."
+      ]
+    },
+    {
+      "nome": "Lucas Leme Galastri",
+      "cargo": "Diretor-Presidente da ADJ Diabetes Brasil",
+      "opinioes": [
+        "Relata a demora de até 8 meses para pacientes conseguirem uma consulta.",
+        "Enfatiza a importância de educar a população sobre cuidados e prevenção."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o protocolo de retinopatia diabética no SUS para idosos. Os participantes incluíram deputados, médicos e representantes de associações de diabetes. Dr. Zacharias Calil enfatizou a importância do diagnóstico precoce e a inclusão do exame de glicemia nas UPAs. Dra. Vanessa Pirolo destacou a necessidade de sensibilizar médicos e o Ministério da Saúde sobre o encaminhamento anual ao oftalmologista. Dr. Levimar Araújo e Dr. Fernando Malerbi falaram sobre as dificuldades no atendimento oftalmológico pelo SUS e a importância da telemedicina. Dr. Arnaldo Bordon e Dr. Marcos Ávila enfatizaram a necessidade de financiamento adequado para os tratamentos. Dra. Patrícia de Souza, do Ministério da Saúde, comprometeu-se a organizar reuniões para buscar soluções. Lucas Galastri relatou a demora para consultas e a importância da educação em diabetes."
+}
