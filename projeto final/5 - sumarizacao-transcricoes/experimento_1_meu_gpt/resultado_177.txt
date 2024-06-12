@@ -1,0 +1,49 @@
+{
+  "assunto": "Debate sobre a regulamentação do trabalho intermediado por aplicativos de transporte remunerado privado e individual de passageiros, com foco nas consequências para o consumidor e na inclusão previdenciária dos motoristas.",
+  "envolvidos": [
+    {
+      "nome": "Gilson Marques",
+      "cargo": "Deputado Federal (NOVO - SC)",
+      "opinioes": [
+        "Abriu a reunião e apresentou os objetivos da audiência pública.",
+        "Destacou a importância de discutir as consequências para o consumidor e as condições de trabalho dos motoristas de aplicativos."
+      ]
+    },
+    {
+      "nome": "Celso Russomanno",
+      "cargo": "Deputado Federal (REPUBLICANOS - SP)",
+      "opinioes": [
+        "Afirmou que as plataformas de transporte precisam cumprir a legislação vigente e dar transparência na relação de consumo com os motoristas.",
+        "Propôs a criação de um grupo de trabalho para desenvolver um projeto que concilie os interesses de todas as partes envolvidas.",
+        "Destacou a importância da segurança pública como um problema nacional que afeta os motoristas de aplicativos."
+      ]
+    },
+    {
+      "nome": "Renan Bernardi Kalil",
+      "cargo": "Representante da Coordenadoria Nacional de Combate às Fraudes nas Relações de Trabalho da Procuradoria Geral do Trabalho (CONAFRET)",
+      "opinioes": [
+        "Expressou preocupações sobre a caracterização das empresas de plataformas digitais como meras intermediárias, ressaltando que essas empresas atuam de forma mais abrangente no setor econômico.",
+        "Argumentou que as empresas devem ser registradas como empresas de transporte e não como intermediárias, conforme os registros no INPI.",
+        "Destacou a necessidade de oferecer proteção social para os trabalhadores das plataformas."
+      ]
+    },
+    {
+      "nome": "Rodrigo Saraiva Marinho",
+      "cargo": "Diretor Executivo do Instituto Livre Mercado",
+      "opinioes": [
+        "Afirmou que a regulamentação deve equilibrar segurança jurídica e direitos para os motoristas, sem inviabilizar a atividade das plataformas.",
+        "Defendeu que a remuneração por hora é a métrica mais adequada para a regulamentação.",
+        "Enfatizou a importância da concorrência e da preservação de diferentes modelos de negócios no setor de transporte por aplicativos."
+      ]
+    },
+    {
+      "nome": "Tiago José Albrecht",
+      "cargo": "Vereador na cidade de Porto Alegre",
+      "opinioes": [
+        "Alertou sobre os impactos negativos das propostas de taxação, limitação de jornada de trabalho e inclusão previdenciária para os motoristas de aplicativos, especialmente em uma cidade devastada como Porto Alegre.",
+        "Agradeceu o apoio de iniciativas como a doação de recursos pelo iFood para enfrentar a crise na cidade."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa do Consumidor discutiu a regulamentação do trabalho intermediado por aplicativos de transporte. O Deputado Gilson Marques abriu a sessão destacando a importância do debate para os consumidores e motoristas. O Deputado Celso Russomanno defendeu a necessidade de transparência das plataformas e propôs a criação de um grupo de trabalho para desenvolver um projeto conciliatório. Renan Bernardi Kalil, do Ministério Público do Trabalho, alertou sobre a caracterização inadequada das plataformas como meras intermediárias. Rodrigo Saraiva Marinho, do Instituto Livre Mercado, argumentou que a regulamentação deve assegurar direitos sem inviabilizar as atividades das plataformas. O Vereador Tiago José Albrecht destacou os impactos negativos das propostas de regulamentação em Porto Alegre. A audiência reforçou a necessidade de um equilíbrio entre proteção social, viabilidade econômica e direitos dos consumidores e motoristas."
+}

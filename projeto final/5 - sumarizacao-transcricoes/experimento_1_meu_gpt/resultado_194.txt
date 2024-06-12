@@ -1,0 +1,71 @@
+{
+  "assunto": "Mobilidade urbana e segurança no trânsito para ciclistas e pedestres",
+  "envolvidos": [
+    {
+      "nome": "Jonas Donizette",
+      "cargo": "Deputado Federal (Bloco/PSB - SP)",
+      "opinioes": [
+        "Autor do requerimento que motivou a reunião para debater a mobilidade urbana e a segurança no trânsito.",
+        "Enfatizou a importância de debater o tema sob a perspectiva de ciclistas e pedestres."
+      ]
+    },
+    {
+      "nome": "Maria Alice Nascimento Souza",
+      "cargo": "Diretora do Departamento de Segurança do Trânsito da Secretaria Nacional de Trânsito, representando o Ministério dos Transportes",
+      "opinioes": [
+        "Expressou preocupação com a micromobilidade urbana e a vulnerabilidade de ciclistas e pedestres.",
+        "Destacou a Resolução nº 996, de 2023, do CONTRAN, que esclarece regras para ciclomotores e veículos autopropelidos.",
+        "Comentou sobre a criação de manuais de proteção ao ciclista e gestão de velocidade.",
+        "Enfatizou a necessidade de inclusão da educação de trânsito desde a educação primária até a universitária."
+      ]
+    },
+    {
+      "nome": "Renata Falzoni",
+      "cargo": "Representante do Bike é Legal",
+      "opinioes": [
+        "Defendeu a mobilidade urbana sustentável e a priorização dos modos não motorizados.",
+        "Criticou a nomenclatura 'não motorizado' e sugeriu a mudança para 'mobilidade ativa'.",
+        "Destacou a importância de projetos urbanos que considerem a acessibilidade e segurança de ciclistas e pedestres.",
+        "Enfatizou a necessidade de reduzir a velocidade dos veículos para aumentar a segurança no trânsito."
+      ]
+    },
+    {
+      "nome": "Marcelo Sgarbossa",
+      "cargo": "Vereador de Porto Alegre",
+      "opinioes": [
+        "Enfatizou a justiça na redistribuição do espaço público e do tempo para pedestres e ciclistas.",
+        "Defendeu a redução da velocidade dos veículos e a implementação de políticas públicas de mobilidade ativa.",
+        "Comentou sobre a importância do Fórum Mundial da Bicicleta, que será realizado em Brasília no próximo ano."
+      ]
+    },
+    {
+      "nome": "Ana Carboni",
+      "cargo": "Diretora Financeira da União de Ciclistas do Brasil — UCB",
+      "opinioes": [
+        "Destacou a necessidade de priorizar a bicicleta e o ato de caminhar como sistemas de transporte.",
+        "Criticou a alta velocidade como principal fator de risco de sinistros no trânsito.",
+        "Defendeu a readequação das velocidades nas vias e a regulamentação da fiscalização por velocidade média.",
+        "Mencionou a importância da implementação do Plano Nacional de Redução de Mortes e Lesões no Trânsito (PNATRANS)."
+      ]
+    },
+    {
+      "nome": "Renata Aragão",
+      "cargo": "Coordenadora Financeira da ONG Rodas da Paz",
+      "opinioes": [
+        "Compartilhou sua experiência pessoal como vítima secundária do trânsito, destacando a impunidade para crimes de trânsito.",
+        "Defendeu a necessidade de uma resposta mais firme da justiça e medidas preventivas para reduzir a violência no trânsito.",
+        "Sublinhou a importância de legislações mais rígidas e da readequação de velocidades nas vias."
+      ]
+    },
+    {
+      "nome": "Antonio Maria Espósito Neto",
+      "cargo": "Coordenador-Geral de Regulação da Mobilidade Urbana, do Ministério das Cidades",
+      "opinioes": [
+        "Apoiou a inclusão da ciclomobilidade e da mobilidade a pé como partes integrais do planejamento urbano.",
+        "Comentou sobre os esforços do Ministério das Cidades para promover a mobilidade urbana sustentável e segura.",
+        "Destacou a importância da Semana de Trânsito e da Semana da Mobilidade Urbana."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Viação e Transportes abordou a mobilidade urbana e a segurança no trânsito para ciclistas e pedestres. Jonas Donizette, Deputado Federal e autor do requerimento que motivou a reunião, ressaltou a importância do tema. Maria Alice Nascimento Souza, Diretora do Departamento de Segurança do Trânsito, destacou a necessidade de políticas que protejam os ciclistas e pedestres, além de defender a inclusão da educação de trânsito em todos os níveis escolares. Renata Falzoni, do Bike é Legal, enfatizou a importância da mobilidade ativa e da redução de velocidade para aumentar a segurança. Marcelo Sgarbossa, Vereador de Porto Alegre, discutiu a justiça na redistribuição do espaço público. Ana Carboni, da UCB, criticou a alta velocidade como fator de risco e defendeu a readequação das velocidades. Renata Aragão, da ONG Rodas da Paz, compartilhou sua experiência pessoal e a necessidade de respostas mais firmes da justiça para crimes de trânsito. Antonio Maria Espósito Neto, do Ministério das Cidades, apoiou a inclusão da ciclomobilidade no planejamento urbano e destacou a importância de eventos como a Semana de Trânsito e a Semana da Mobilidade Urbana."
+}

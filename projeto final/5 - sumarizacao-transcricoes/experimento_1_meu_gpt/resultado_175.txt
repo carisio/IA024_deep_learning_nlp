@@ -1,0 +1,51 @@
+{
+  "assunto": "Nova regulamentação das apostas esportivas no futebol",
+  "envolvidos": [
+    {
+      "nome": "Mauricio do Vôlei",
+      "cargo": "Presidente da Comissão do Esporte, Deputado Federal (PL - MG)",
+      "opinioes": [
+        "A regulamentação das apostas esportivas é necessária para evitar a perda de arrecadação e combater a manipulação de resultados e a lavagem de dinheiro.",
+        "O Ministério da Fazenda está agindo com seriedade e transparência para estabelecer uma regulamentação justa.",
+        "Acredita que a regulamentação vai gerar recursos significativos para o esporte de base e outras áreas prioritárias do governo."
+      ]
+    },
+    {
+      "nome": "José Francisco Manssur",
+      "cargo": "Assessor Especial do Ministério da Fazenda",
+      "opinioes": [
+        "Destaca a importância da Medida Provisória nº 1.182 e do projeto de lei em tramitação para regulamentar as apostas esportivas.",
+        "A falta de regulamentação levou a uma perda significativa de arrecadação e à falta de instrumentos legais para combater a manipulação de resultados e a lavagem de dinheiro.",
+        "A nova regulamentação prevê a tributação e a criação de mecanismos de fiscalização para garantir a legalidade das operações.",
+        "Enfatiza a importância da participação de vários ministérios e entidades da sociedade civil na formulação de medidas de combate à manipulação de resultados."
+      ]
+    },
+    {
+      "nome": "Ayla Santana Soares",
+      "cargo": "Representante da Comissão de Cultura, Esporte e Lazer da OAB",
+      "opinioes": [
+        "Parabeniza a iniciativa de regulamentação das apostas esportivas.",
+        "Questiona como serão definidos e aplicados os indicadores de regulamentação para diferentes modalidades esportivas, especialmente para aquelas menos estruturadas.",
+        "Destaca a necessidade de democratizar o acesso aos recursos provenientes das apostas para todas as modalidades esportivas, não apenas as mais populares como o futebol."
+      ]
+    },
+    {
+      "nome": "Udo Seckelmann",
+      "cargo": "Membro da Comissão Jovem da Academia Nacional de Direito Desportivo",
+      "opinioes": [
+        "Expressa preocupação com a possibilidade de a regulamentação federal criar um ambiente regulatório excludente para as apostas esportivas.",
+        "Destaca a importância de equilibrar a tributação para evitar que operadores optem por licenças estaduais em detrimento da licença federal.",
+        "Ressalta que a regulamentação deve atrair apostadores do mercado não licenciado para o mercado licenciado, garantindo arrecadação e fiscalização adequadas."
+      ]
+    },
+    {
+      "nome": "Bandeira de Mello",
+      "cargo": "Deputado Federal (Bloco/PSB - RJ)",
+      "opinioes": [
+        "Questiona a carga tributária sobre as apostas esportivas e sua viabilidade.",
+        "Busca entender como a outorga será paga e a adesão das empresas ao processo de legalização das apostas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão do Esporte da Câmara dos Deputados, presidida por Mauricio do Vôlei, debateu a nova regulamentação das apostas esportivas no futebol. José Francisco Manssur, Assessor Especial do Ministério da Fazenda, explicou a Medida Provisória nº 1.182 e o projeto de lei que visam regulamentar as apostas, destacando a importância de combater a manipulação de resultados e a lavagem de dinheiro. Ayla Santana Soares, da OAB, ressaltou a necessidade de indicadores para diferentes modalidades esportivas e a democratização dos recursos. Udo Seckelmann alertou para o risco de uma regulamentação excludente e a importância de atrair apostadores do mercado não licenciado. Bandeira de Mello levantou questões sobre a tributação e a adesão das empresas ao processo de legalização. A regulamentação é vista como essencial para gerar recursos significativos para o esporte de base e outras áreas prioritárias do governo."
+}

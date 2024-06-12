@@ -1,0 +1,48 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei nº 1.387 de 2022, que institui o Estatuto dos Povos Ciganos.",
+  "envolvidos": [
+    {
+      "nome": "Luizianne Lins",
+      "cargo": "Deputada Federal pelo Estado do Ceará, Presidente da Comissão de Direitos Humanos da Câmara dos Deputados",
+      "opinioes": [
+        "Destaca a importância do projeto para o reconhecimento institucional dos povos ciganos.",
+        "Afirma que a aprovação do requerimento de urgência pode levar o projeto diretamente ao Plenário.",
+        "Reconhece a luta do povo cigano pelo estatuto e pela visibilidade."
+      ]
+    },
+    {
+      "nome": "Ronaldo dos Santos",
+      "cargo": "Secretário Nacional da Secretaria de Políticas para Quilombolas, Povos e Comunidades Tradicionais de Matriz Africana, Povos de Terreiros e Ciganos, do Ministério da Igualdade Racial",
+      "opinioes": [
+        "Enfatiza a importância do Estatuto dos Povos Ciganos como instrumento de reconhecimento e proteção dos direitos dessa comunidade.",
+        "Ressalta a necessidade de encurtar o tempo de aprovação do projeto devido às urgências do povo cigano.",
+        "Critica a invisibilização dos ciganos e o sistema opressor e racista que perpetua essa condição."
+      ]
+    },
+    {
+      "nome": "Antônio de Maringá",
+      "cargo": "Representante da comunidade cigana",
+      "opinioes": [
+        "Defende o direito dos ciganos à cidade e à inviolabilidade de seus espaços de moradia, como barracas e ranchos.",
+        "Destaca a necessidade de acesso dos ciganos à Previdência Social."
+      ]
+    },
+    {
+      "nome": "Marlete Queiroz Reys",
+      "cargo": "Representante cigana calin",
+      "opinioes": [
+        "Idealizadora do estatuto cigano e proponente do projeto ao Senador Paulo Paim.",
+        "Menciona a doação de terras a ciganos em Sobradinho, DF, e destaca os problemas de violência policial que impedem a ocupação dessas terras."
+      ]
+    },
+    {
+      "nome": "Charlene da Silva Borges",
+      "cargo": "Secretária-Geral de Articulação Institucional da Defensoria Pública da União",
+      "opinioes": [
+        "Enfatiza a importância do censo demográfico para políticas públicas direcionadas aos povos ciganos.",
+        "Destaca a necessidade de uma educação que respeite as especificidades culturais dos ciganos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Direitos Humanos da Câmara dos Deputados debateu o Projeto de Lei nº 1.387 de 2022, que institui o Estatuto dos Povos Ciganos. A deputada Luizianne Lins e o secretário Ronaldo dos Santos enfatizaram a importância do projeto para o reconhecimento e proteção dos direitos dos ciganos, criticando a invisibilização histórica dessa comunidade. Representantes ciganos como Antônio de Maringá e Marlete Queiroz Reys destacaram questões como o direito à cidade, a inviolabilidade dos espaços de moradia e os problemas de violência policial. Charlene Borges, da Defensoria Pública da União, ressaltou a importância de um censo demográfico e de uma educação culturalmente inclusiva para os ciganos."
+}

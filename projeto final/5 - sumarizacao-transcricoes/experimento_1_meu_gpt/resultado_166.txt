@@ -1,0 +1,78 @@
+{
+  "assunto": "Debate sobre o uso da tecnologia blockchain na modernização da administração pública",
+  "envolvidos": [
+    {
+      "nome": "Caio Vianna",
+      "cargo": "Deputado Federal, Bloco/PSD - RJ",
+      "opinioes": [
+        "A blockchain é uma tecnologia promissora para promover transparência, segurança e rastreabilidade nos serviços públicos.",
+        "É fundamental garantir que os dados públicos sejam perenes e auditáveis, sem a necessidade de exclusão.",
+        "A utilização de blockchain pode simplificar processos, garantir segurança e reduzir custos, como na transferência de propriedade de veículos.",
+        "O desenvolvimento de uma identidade digital baseada em blockchain poderia facilitar transações e transferências de propriedade.",
+        "O uso de contratos inteligentes pode potencializar a redução de custos de transação e melhorar a eficiência na execução de contratos."
+      ]
+    },
+    {
+      "nome": "Diego Oliveira Farias",
+      "cargo": "Auditor Federal de Controle Externo do Tribunal de Contas da União",
+      "opinioes": [
+        "A tecnologia blockchain permite realizar auditorias de forma online e mais rápida, sem a necessidade de amostragem.",
+        "O uso de redes públicas como Ethereum e Bitcoin pode não estar sob jurisdição das leis brasileiras, sendo necessário ter uma rede própria para atender à conformidade regulatória.",
+        "A descentralização dos dados é uma vantagem da tecnologia blockchain, garantindo a permanência dos dados em diversos servidores."
+      ]
+    },
+    {
+      "nome": "Aristides Andrade Cavalcante Neto",
+      "cargo": "Chefe-Adjunto do Departamento de Tecnologia da Informação do Banco Central do Brasil (BACEN)",
+      "opinioes": [
+        "O Drex é uma plataforma que contém o Real em formato tokenizado, permitindo trocas de ativos de forma mais eficiente.",
+        "A tecnologia blockchain pode simplificar a transferência de propriedade de veículos, garantindo transparência e segurança.",
+        "A implementação de contratos inteligentes pode reduzir custos e aumentar a segurança nas transações."
+      ]
+    },
+    {
+      "nome": "Eliana Cardoso Emediato de Azambuja",
+      "cargo": "Coordenadora-Geral de Transformação Digital do Ministério da Ciência, Tecnologia e Inovação",
+      "opinioes": [
+        "A Estratégia Nacional de Governo Digital visa propiciar um ambiente de pesquisa e inovação seguro.",
+        "É essencial utilizar as ferramentas corretas para evitar danos e garantir a proteção dos dados do cidadão."
+      ]
+    },
+    {
+      "nome": "Jeferson Dias Barbosa",
+      "cargo": "Assessor da Presidência da Autoridade Nacional de Proteção de Dados (ANPD)",
+      "opinioes": [
+        "A tecnologia blockchain possui potencial para transformar a prestação dos serviços públicos, oferecendo benefícios como transparência, segurança e rastreabilidade.",
+        "É necessário implementar controles adicionais para garantir a conformidade com a LGPD no uso de blockchain.",
+        "A ANPD se coloca à disposição para colaborar no aprofundamento das discussões sobre o uso de blockchain na administração pública."
+      ]
+    },
+    {
+      "nome": "Caio Sanas",
+      "cargo": "Advogado e Professor Convidado de Blockchain da Fundação Getulio Vargas do Rio de Janeiro",
+      "opinioes": [
+        "A inovação é essencial para o desenvolvimento econômico e social de uma nação.",
+        "Blockchain vai além de criptoativos e tokenização, sendo uma tecnologia de registro que pode ser utilizada em diversos contextos.",
+        "Contratos inteligentes podem reduzir custos de transação e melhorar a eficiência na execução de contratos."
+      ]
+    },
+    {
+      "nome": "Julien Dutra",
+      "cargo": "Diretor de Relações Institucionais do Mercado Bitcoin",
+      "opinioes": [
+        "A blockchain é um dos pilares mais fortes da transformação digital e da nova economia digital.",
+        "É necessário combater vazamentos e roubos de dados com investimentos em sistemas de defesa.",
+        "A parceria entre setor público e privado é essencial para combater problemas de segurança."
+      ]
+    },
+    {
+      "nome": "Felipe Leão",
+      "cargo": "Gerente do Laboratório de Inovação da Empresa de Tecnologia e Informações da Previdência Social (DATAPREV)",
+      "opinioes": [
+        "A rede blockchain deve permitir a exclusão de dados em casos extremos, como a publicação de pornografia infantil.",
+        "A possibilidade de armazenar apenas o hash dos dados pode ser uma solução para permitir a exclusão de informações sensíveis."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o uso da tecnologia blockchain na modernização da administração pública, abordando temas como transparência, segurança, rastreabilidade e eficiência. Participaram do debate autoridades como o Deputado Caio Vianna, Diego Oliveira Farias (TCU), Aristides Andrade Cavalcante Neto (BACEN), Eliana Cardoso Emediato de Azambuja (MCTI), Jeferson Dias Barbosa (ANPD), Caio Sanas (FGV/Rio), Julien Dutra (Mercado Bitcoin) e Felipe Leão (DATAPREV). Os participantes destacaram a importância da blockchain para simplificar processos, garantir a integridade dos dados e reduzir custos, além de abordar a necessidade de conformidade regulatória e segurança dos dados."
+}

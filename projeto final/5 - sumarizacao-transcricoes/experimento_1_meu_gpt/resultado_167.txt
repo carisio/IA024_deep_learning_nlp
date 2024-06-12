@@ -1,0 +1,95 @@
+{
+  "assunto": "Política Nacional de Controle Populacional de Cães e Gatos",
+  "envolvidos": [
+    {
+      "nome": "Marcelo Queiroz",
+      "cargo": "Presidente da Comissão de Cultura",
+      "opinioes": [
+        "A castração é a base de qualquer outra política pública.",
+        "É preciso traduzir a posse do Presidente Lula em política pública.",
+        "É essencial que se discuta o orçamento para viabilizar as políticas de controle populacional."
+      ]
+    },
+    {
+      "nome": "Matheus Laiola",
+      "cargo": "Deputado e Delegado de Polícia na Delegacia do Meio Ambiente do Paraná",
+      "opinioes": [
+        "A principal solução para diminuir o abandono e maus-tratos de animais é a castração.",
+        "Desde o início do mandato, tem trabalhado para implementar uma política nacional de controle populacional.",
+        "É necessário obter orçamento para viabilizar a política pública de proteção animal."
+      ]
+    },
+    {
+      "nome": "Renato Simões",
+      "cargo": "Secretário Nacional de Participação Social da Presidência da República",
+      "opinioes": [
+        "A audiência pública trata de um tema que quebra paradigmas.",
+        "O Governo Federal decidiu reconstruir políticas públicas através de um PPA participativo.",
+        "A condução do Ministério do Meio Ambiente, através da Diretoria encabeçada por Vanessa Negrini, é participativa."
+      ]
+    },
+    {
+      "nome": "Vanessa Negrini",
+      "cargo": "Diretora do Departamento de Proteção, Defesa e Direitos Animais do Ministério do Meio Ambiente e Mudança do Clima",
+      "opinioes": [
+        "A pauta animal foi a proposta de política pública mais votada no PPA participativo.",
+        "É necessário garantir recursos para iniciar um plano nacional de manejo populacional ético de cães e gatos.",
+        "A castração é essencial para controlar a população de cães e gatos e reduzir emissões de CO2."
+      ]
+    },
+    {
+      "nome": "Camila Costa",
+      "cargo": "Subsecretária de Proteção e Bem-Estar Animal do Estado do Rio de Janeiro",
+      "opinioes": [
+        "A castração é importante para controlar a população de animais.",
+        "O programa de castração do Rio de Janeiro é oferecido através de clínicas particulares e castramóveis.",
+        "Já foram realizadas 333 mil castrações em 1 ano e 9 meses de programa."
+      ]
+    },
+    {
+      "nome": "Wanderley Porto",
+      "cargo": "Vereador de Belo Horizonte",
+      "opinioes": [
+        "É importante debater o controle populacional de cães e gatos em esfera nacional.",
+        "A política pública tem que ser executada pelo Poder Executivo.",
+        "O investimento em controle populacional de cães e gatos é fundamental para proteger tanto animais quanto humanos."
+      ]
+    },
+    {
+      "nome": "Andressa Bianchessi",
+      "cargo": "Presidente da ONG Paraná contra Maus-Tratos",
+      "opinioes": [
+        "É essencial falar sobre posse responsável e guarda responsável.",
+        "A superpopulação de animais causa maus-tratos e problemas de saúde pública.",
+        "Política pública desenvolvida e voltada para cães e gatos é necessária."
+      ]
+    },
+    {
+      "nome": "Luciana Imaculada de Paula",
+      "cargo": "Promotora de Justiça e Coordenadora Estadual de Defesa dos Animais em Minas Gerais",
+      "opinioes": [
+        "É importante criar um projeto de lei para um programa nacional de manejo populacional de cães e gatos.",
+        "A legislação deve reconhecer a necessidade de proteção dos animais e da saúde única.",
+        "A falta de políticas públicas e recursos impede a implementação eficaz do manejo populacional."
+      ]
+    },
+    {
+      "nome": "Ana Paula Vasconcelos",
+      "cargo": "Representante da Comissão de Defesa dos Direitos dos Animais da OAB do Distrito Federal",
+      "opinioes": [
+        "A política pública de castração deve começar pelo mapeamento do problema.",
+        "É essencial ter um programa efetivo de castração, não apenas campanhas esporádicas.",
+        "A sociedade deve cobrar medidas concretas e adequadas para o controle populacional."
+      ]
+    },
+    {
+      "nome": "Marçal Fortes Silveira Cavalcanti",
+      "cargo": "Presidente da Associação Nacional de Municípios e Meio Ambiente (ANAMMA)",
+      "opinioes": [
+        "Poucos municípios têm políticas públicas adequadas para cães e gatos errantes.",
+        "A ANAMMA apoia ações de proteção à causa animal e se coloca à disposição para colaborar."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a Política Nacional de Controle Populacional de Cães e Gatos. Participaram diversos representantes do governo, ONGs e outras instituições, discutindo a importância da castração como solução principal para reduzir o abandono e os maus-tratos de animais. A necessidade de orçamento adequado e a implementação de políticas públicas efetivas foram destacadas como fundamentais para o sucesso da iniciativa. O Rio de Janeiro foi citado como exemplo de sucesso na execução de programas de castração. O debate também abordou a importância da participação popular e da conscientização sobre posse responsável."
+}

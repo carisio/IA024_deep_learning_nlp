@@ -1,0 +1,69 @@
+{
+  "assunto": "Empreendedorismo nos mercados digitais",
+  "envolvidos": [
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Presidente da audiência, Bloco/CIDADANIA - RS",
+      "opinioes": [
+        "A audiência pública discute o empreendedorismo nos mercados digitais em relação ao Projeto de Lei nº 2.768, de 2022.",
+        "Ressalta a importância do empreendedorismo feminino e o impacto da reforma tributária para empreendedoras femininas.",
+        "Alega que o projeto de lei deve considerar as rápidas mudanças nos mercados digitais e suas diversas vertentes."
+      ]
+    },
+    {
+      "nome": "Mark Buse",
+      "cargo": "Vice-Presidente Sênior e Chefe de Relações Governamentais Globais e Políticas do Grupo Match",
+      "opinioes": [
+        "Destaca que Apple e Google têm posições dominantes nos mercados de sistemas operacionais móveis e distribuição de aplicativos no Brasil.",
+        "Argumenta que as taxas de Apple e Google prejudicam a inovação, especialmente para startups brasileiras.",
+        "Acredita que a legislação deve ser dinâmica e oferecer diversidade de formas para atrair inovação e startups."
+      ]
+    },
+    {
+      "nome": "Paula Farani",
+      "cargo": "Diretora de Política de Concorrência para América Latina da Meta",
+      "opinioes": [
+        "A Meta apoia o empreendedorismo digital no Brasil através de suas plataformas que democratizam o acesso à Internet e ao comércio.",
+        "Sugere uma abordagem regulatória flexível, baseada em princípios, não em regras prescritivas.",
+        "Defende que a regulação econômica deve focar em inovações e novos modelos de negócios."
+      ]
+    },
+    {
+      "nome": "Beatriz Falcão",
+      "cargo": "Gerente de Políticas Públicas da Interactive Advertising Bureau",
+      "opinioes": [
+        "Destaca a importância da publicidade digital para a economia e geração de empregos.",
+        "Afirma que a regulação proposta pode aumentar os custos operacionais, afetando pequenas e médias empresas.",
+        "Defende que a publicidade digital não deve ser confundida com serviços de telefonia e que a autorregulação tem sido eficiente no Brasil."
+      ]
+    },
+    {
+      "nome": "Janaina Camilo Vendramini",
+      "cargo": "Analista Técnica de Mercados e Transformação Digital do SEBRAE",
+      "opinioes": [
+        "O SEBRAE apoia pequenas empresas que atuam no mercado digital e vê o mercado digital como essencial para o empreendedorismo.",
+        "A regulação deve coibir práticas abusivas e proporcionar maior segurança jurídica para pequenos negócios.",
+        "Expressa preocupação com a alíquota de 2% prevista no PL e o impacto dessa taxa sobre os prestadores de serviço."
+      ]
+    },
+    {
+      "nome": "Gabriella Dorlhiac",
+      "cargo": "Diretora Executiva da Câmara de Comércio Internacional — ICC Brasil",
+      "opinioes": [
+        "A ICC promove o comércio internacional e vê o empreendedorismo digital como crucial para a economia.",
+        "Defende que a regulação deve ser clara sobre os problemas que visa resolver e evitar uma abordagem única para todos os setores.",
+        "Sugere que a regulação deve focar em evitar práticas abusivas sem impedir inovações."
+      ]
+    },
+    {
+      "nome": "Clarissa Furtado",
+      "cargo": "Gerente de Competitividade da Agência Brasileira de Promoção de Exportações e Investimentos — ApexBrasil",
+      "opinioes": [
+        "A ApexBrasil apoia empresas brasileiras no comércio internacional, especialmente via comércio eletrônico.",
+        "Destaca que o comércio eletrônico é uma ferramenta estratégica para micro e pequenas empresas.",
+        "Defende que a regulação não deve criar barreiras ou custos que comprometam a competitividade internacional das empresas brasileiras."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública, presidida por Any Ortiz, abordou o tema do empreendedorismo nos mercados digitais em relação ao Projeto de Lei nº 2.768, de 2022. Os participantes, incluindo representantes do Grupo Match, Meta, IAB Brasil, SEBRAE, ICC Brasil e ApexBrasil, discutiram os desafios e oportunidades da regulamentação dos mercados digitais. Mark Buse criticou o domínio de Apple e Google, enquanto Paula Farani e Beatriz Falcão destacaram a importância de uma regulação flexível e a autorregulação eficiente da publicidade digital. Janaina Camilo Vendramini do SEBRAE e Gabriella Dorlhiac da ICC Brasil enfatizaram a necessidade de clareza regulatória e a proteção contra práticas abusivas sem prejudicar a inovação. Clarissa Furtado da ApexBrasil alertou sobre a importância de não comprometer a competitividade internacional das empresas brasileiras."
+}

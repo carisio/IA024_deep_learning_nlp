@@ -1,0 +1,85 @@
+{
+  "assunto": "Manutenção da taxa de juros e impacto da inflação para micro e pequenas empresas",
+  "envolvidos": [
+    {
+      "nome": "Jorge Goetten",
+      "cargo": "Deputado, Presidente da Sessão",
+      "opinioes": [
+        "A audiência pública visa debater a manutenção da taxa de juros e o impacto da inflação para as micro e pequenas empresas.",
+        "Citou que é comum a limitação da taxa de juros na economia mundial, conforme estudo do Banco Mundial, mencionando exemplos de Portugal e Reino Unido."
+      ]
+    },
+    {
+      "nome": "Gilberto Rodrigues Borça Junior",
+      "cargo": "Chefe do Departamento de Pesquisa Econômica do Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+      "opinioes": [
+        "Destacou a importância de apoiar micro, pequenas e médias empresas (MPMEs) devido às restrições financeiras, papel especial na economia e sensibilidade ao ciclo econômico.",
+        "Mencionou que a taxa de juros no Brasil é elevada e onerosa para as MPMEs."
+      ]
+    },
+    {
+      "nome": "José Tarcísio da Silva",
+      "cargo": "Presidente da Confederação Nacional das Microempresas e Empresas de Pequeno Porte (COMICRO)",
+      "opinioes": [
+        "Agradeceu o apoio do Parlamento às leis que regulam a microempresa.",
+        "Ressaltou o impacto negativo dos juros elevados e da recessão para as micro e pequenas empresas.",
+        "Defendeu a necessidade de renegociação e melhores condições de crédito."
+      ]
+    },
+    {
+      "nome": "Carlito Merss",
+      "cargo": "Gerente de Políticas Públicas do SEBRAE Nacional",
+      "opinioes": [
+        "Falou sobre a importância histórica da organização da micro e pequena empresa no Brasil.",
+        "Apoia o debate sobre a redução das taxas de juros e melhores condições de crédito para os pequenos empresários."
+      ]
+    },
+    {
+      "nome": "Vinicius do Nascimento Carrasco",
+      "cargo": "Diretor Executivo da Associação Brasileira de Instituições de Pagamentos (ABIPAG)",
+      "opinioes": [
+        "Enfatizou que a inflação é altamente prejudicial para as micro e pequenas empresas.",
+        "Defendeu que a limitação da taxa de juros deve ser feita com cautela para evitar impactos negativos no mercado."
+      ]
+    },
+    {
+      "nome": "Hélio Dagnoni",
+      "cargo": "Presidente da FECOMÉRCIO de Santa Catarina, representando também a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+      "opinioes": [
+        "Alertou sobre os impactos negativos da inflação e taxas de juros altas para os empresários."
+      ]
+    },
+    {
+      "nome": "Maurício Costa de Moura",
+      "cargo": "Diretor de Relacionamento, Cidadania e Supervisão de Conduta do Banco Central do Brasil (BACEN)",
+      "opinioes": [
+        "Defendeu que a política de juros do Banco Central tem sido eficaz para controlar a inflação."
+      ]
+    },
+    {
+      "nome": "Ercílio Santinoni",
+      "cargo": "Presidente da Confederação Nacional das Micro e Pequenas Empresas e Empreendedores Individuais (CONAMPE)",
+      "opinioes": [
+        "Apoiou a renegociação de dívidas e melhores condições de crédito para as micro e pequenas empresas.",
+        "Mencionou a importância de manter a inflação baixa para facilitar o pagamento das dívidas."
+      ]
+    },
+    {
+      "nome": "Joaquim Donizete de Almeida",
+      "cargo": "Diretor de Micro e Pequenas Empresas e Empreendedorismo do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
+      "opinioes": [
+        "Ressaltou a importância de discutir não apenas as consequências, mas também as causas dos problemas econômicos enfrentados pelas micro e pequenas empresas.",
+        "Defendeu a necessidade de melhorar o acesso a crédito e reduzir os custos para os pequenos negócios."
+      ]
+    },
+    {
+      "nome": "Rubens Sardenberg",
+      "cargo": "Diretor-Executivo de Economia da Federação Brasileira de Bancos (FEBRABAN)",
+      "opinioes": [
+        "Enfatizou a importância de reduzir o custo do crédito para pequenas e médias empresas.",
+        "Defendeu propostas para reduzir o spread bancário."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a manutenção da taxa de juros e o impacto da inflação para as micro e pequenas empresas. O Deputado Jorge Goetten abriu a sessão destacando a relevância do tema. Gilberto Rodrigues Borça Junior (BNDES) defendeu o apoio às MPMEs devido às dificuldades de acesso a crédito. José Tarcísio da Silva (COMICRO) enfatizou o impacto negativo dos juros altos e a necessidade de renegociação. Carlito Merss (SEBRAE) e Vinicius Carrasco (ABIPAG) ressaltaram a importância de controlar a inflação. Hélio Dagnoni (FECOMÉRCIO) e Maurício Costa de Moura (BACEN) discutiram as políticas de juros. Ercílio Santinoni (CONAMPE) e Joaquim Donizete de Almeida (MDIC) defenderam melhores condições de crédito. Rubens Sardenberg (FEBRABAN) propôs medidas para reduzir o spread bancário."
+}

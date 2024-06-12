@@ -1,0 +1,42 @@
+{
+  "assunto": "Impactos da PEC 9/23 sobre os partidos políticos e a sociedade",
+  "envolvidos": [
+    {
+      "nome": "Raquel Branquinho Pimenta Mamede Nascimento",
+      "cargo": "Procuradora Regional da República",
+      "opinioes": [
+        "É necessário um enfrentamento assertivo dos problemas estruturais no Brasil.",
+        "A anistia proposta pela PEC 9/23 não soluciona os problemas de transparência e integridade na prestação de contas partidárias.",
+        "Desde 2016, temos um regime de financiamento público que exige regras de transparência, integridade e informações adequadas."
+      ]
+    },
+    {
+      "nome": "Ricardo Vita Porto",
+      "cargo": "Conselheiro Seccional e Presidente da Comissão de Direito Eleitoral da OAB/SP",
+      "opinioes": [
+        "A PEC 9/23 é necessária para aliviar as agremiações partidárias sufocadas por questões técnicas e formais.",
+        "A anistia proposta deve tratar das falhas técnicas sem ignorar a transparência e a integridade dos partidos políticos.",
+        "O financiamento público exige regras claras e consistentes para assegurar a inclusão de mulheres e negros na política."
+      ]
+    },
+    {
+      "nome": "Frei David",
+      "cargo": "Representante da Entidade Social EDUCAFRO",
+      "opinioes": [
+        "A PEC 9 já está morta, pois a EDUCAFRO, junto com outros parceiros, entrou com uma ação direta de inconstitucionalidade no STF.",
+        "A reforma eleitoral emergencial liderada pelo Deputado Lira e outros partidos vai piorar a situação, reduzindo as verbas eleitorais para mulheres e afro-brasileiros.",
+        "A PEC 9 e a reforma eleitoral representam uma opressão contínua contra os marginalizados."
+      ]
+    },
+    {
+      "nome": "Brisa Lima",
+      "cargo": "Assessora Jurídica do Instituto Marielle Franco",
+      "opinioes": [
+        "Mulheres, especialmente negras, enfrentam violência política de gênero e de raça em seus partidos, prejudicando suas campanhas.",
+        "A PEC 9/23 reforça a negligência na distribuição de recursos financeiros para candidaturas de mulheres e negros, contribuindo para a sub-representação.",
+        "Ações afirmativas são essenciais para combater desigualdades e garantir uma democracia forte e inclusiva."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os impactos da PEC 9/23, que propõe anistiar penalidades e multas eleitorais para partidos políticos. A Procuradora Regional Raquel Branquinho destacou a necessidade de transparência e enfrentamento de problemas estruturais. O advogado Ricardo Vita Porto defendeu a PEC como um alívio necessário para as agremiações partidárias, enquanto Frei David criticou a PEC e a reforma eleitoral emergencial como opressivas para mulheres e afro-brasileiros. Brisa Lima, do Instituto Marielle Franco, enfatizou que a PEC perpetua a sub-representação de grupos marginalizados ao negligenciar o financiamento adequado de suas campanhas."
+}

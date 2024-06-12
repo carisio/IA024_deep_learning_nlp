@@ -1,0 +1,83 @@
+{
+  "assunto": "Impactos socioambientais da construção de parques de energia eólica nas comunidades locais",
+  "envolvidos": [
+    {
+      "nome": "Talíria Petrone",
+      "cargo": "Deputada Federal (PSOL-RJ)",
+      "opinioes": [
+        "Não podemos aceitar uma colonialidade que insiste em permanecer no nosso modelo de desenvolvimento, mesmo na transição energética.",
+        "É necessário escutar os povos atingidos e respeitar a Convenção 169.",
+        "Os empreendimentos energéticos devem ser feitos com justiça socioambiental."
+      ]
+    },
+    {
+      "nome": "Carine Santos da Silva",
+      "cargo": "Representante da Articulação Povos de Luta",
+      "opinioes": [
+        "Os projetos de energia offshore pretendem se instalar nos territórios de comunidades tradicionais, impactando sua identidade, ancestralidade e cultura.",
+        "Os parques eólicos causam perda de terra, água, produção de pobreza e agravo das vulnerabilidades sociais.",
+        "A ofensiva de privatizar os espaços culturais e mercantilizar os oceanos não pode ser inerente a ações promotoras da vida."
+      ]
+    },
+    {
+      "nome": "Viviane Machado Alves",
+      "cargo": "Coordenadora do Movimento de Pescadores e Pescadoras do Brasil do Rio Grande do Sul",
+      "opinioes": [
+        "Os empreendimentos eólicos querem se instalar dentro da Lagoa dos Patos, invisibilizando os pescadores artesanais.",
+        "Esses projetos impactam negativamente os territórios para atender às demandas da Europa.",
+        "As consultas públicas não estão seguindo a lei e desrespeitam os territórios das comunidades tradicionais."
+      ]
+    },
+    {
+      "nome": "Edmilson Comparini Maturana",
+      "cargo": "Analista ambiental e Coordenador-Geral de Licenciamento de Empreendimentos de Energia Eólica do IBAMA",
+      "opinioes": [
+        "O IBAMA trabalha para construir uma matriz energética limpa e renovável.",
+        "Há falta de dados sobre os impactos sociais e geobiofísicos no mar.",
+        "A governança e regulamentação dos empreendimentos eólicos offshore ainda estão em desenvolvimento."
+      ]
+    },
+    {
+      "nome": "Adryane Gorayeb",
+      "cargo": "Representante do Observatório dos Renováveis e Pesquisadora da Universidade Federal do Ceará",
+      "opinioes": [
+        "As populações vulneráveis e as comunidades tradicionais devem permanecer em seus territórios.",
+        "A metodologia de cartografia social desenvolvida visa dar voz às comunidades impactadas."
+      ]
+    },
+    {
+      "nome": "Renato Roseno",
+      "cargo": "Deputado Estadual do Ceará (PSOL)",
+      "opinioes": [
+        "A energia certa não pode ser produzida do jeito errado.",
+        "A transição energética deve considerar a justiça ambiental e climática.",
+        "Há um risco de colonização na produção de hidrogênio verde que beneficia mais a Europa do que as comunidades locais."
+      ]
+    },
+    {
+      "nome": "Ana Paula Prates",
+      "cargo": "Representante do Departamento de Oceano e Gestão Costeira do Ministério do Meio Ambiente",
+      "opinioes": [
+        "É urgente descarbonizar devido à emergência climática.",
+        "A reconstrução do Ministério do Meio Ambiente está focada na mudança do clima e na preservação dos oceanos."
+      ]
+    },
+    {
+      "nome": "Raimundo Esmeraldino Silva Siri",
+      "cargo": "Coordenador do Movimento de Pescadoras e Pescadores do Brasil",
+      "opinioes": [
+        "As comunidades tradicionais pesqueiras não estão sendo consultadas de maneira adequada.",
+        "Há uma tentativa de invisibilizar os pescadores artesanais em favor de interesses econômicos e políticos."
+      ]
+    },
+    {
+      "nome": "Mariana Souza",
+      "cargo": "Deputada Estadual do PSOL de São Paulo",
+      "opinioes": [
+        "A transição energética deve ser justa e sustentável, considerando os impactos socioambientais.",
+        "As comunidades tradicionais não podem ser destruídas em nome do desenvolvimento."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Direitos Humanos, Minorias e Igualdade Racial discutiu os impactos socioambientais dos parques de energia eólica nas comunidades tradicionais. A Deputada Talíria Petrone destacou a necessidade de uma transição energética justa, enquanto representantes das comunidades locais, como Carine Santos da Silva e Viviane Machado Alves, relataram os danos causados pelos projetos eólicos. O IBAMA, representado por Edmilson Comparini Maturana, falou sobre a governança desses empreendimentos, e pesquisadores como Adryane Gorayeb enfatizaram a importância de incluir as populações vulneráveis na discussão. Os participantes concordaram que os projetos devem respeitar os direitos das comunidades e seguir regulamentações adequadas."
+}

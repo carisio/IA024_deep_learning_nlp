@@ -1,0 +1,54 @@
+{
+  "assunto": "Competitividade e concorrência nos mercados digitais, em relação ao Projeto de Lei nº 2.768, de 2022.",
+  "envolvidos": [
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Deputada, Presidente da Comissão de Desenvolvimento Econômico",
+      "opinioes": [
+        "Objetivo da audiência é debater competitividade e concorrência nos mercados digitais.",
+        "Busca fomentar o debate e produzir evidências sobre plataformas digitais que oferecem serviços à população brasileira.",
+        "Preocupação com a rápida dinâmica dos mercados digitais e o impacto da legislação sobre a competitividade."
+      ]
+    },
+    {
+      "nome": "Luizio Felipe Rocha",
+      "cargo": "Consultor de Relações Governamentais da empresa Spotify",
+      "opinioes": [
+        "Spotify apoia a legislação que complementa a lei concorrencial existente para restringir a conduta abusiva dos gatekeepers digitais.",
+        "Recomendações para a regulamentação: esclarecer critérios para empresas contempladas, incluir lojas de aplicativos móveis, especificar conduta proibida e cautela ao usar receita como critério.",
+        "Spotify sofre abusos da Apple como gatekeeper de dispositivos móveis.",
+        "Apresentou quatro recomendações principais para o projeto de lei."
+      ]
+    },
+    {
+      "nome": "Adriana Laporta Cardinali Straube",
+      "cargo": "Diretora de Enhanced Marketplace da empresa Mercado Livre",
+      "opinioes": [
+        "Mercado Livre considera importante a regulamentação para abordar desafios da economia digital.",
+        "Críticas a regulamentações que equiparam tamanho de plataforma ao poder de mercado.",
+        "Defende que a análise de mercado deve considerar várias características, não apenas o tamanho da plataforma.",
+        "Preocupação com regulamentações inflexíveis que podem prejudicar a concorrência e a inovação."
+      ]
+    },
+    {
+      "nome": "José Alexandre Novaes Bicalho",
+      "cargo": "Diretor de Regulação e Autorregulação da Conexis Brasil Digital",
+      "opinioes": [
+        "Defende o compartilhamento de custos de infraestrutura entre as telecom e as plataformas digitais.",
+        "Critica a assimetria tributária e regulatória entre as empresas de telecomunicações e as plataformas digitais.",
+        "Defende a redução das obrigações regulatórias excessivas no setor de telecomunicações."
+      ]
+    },
+    {
+      "nome": "Ricardo Medeiros de Castro",
+      "cargo": "Economista-Adjunto do Conselho Administrativo de Defesa Econômica (CADE)",
+      "opinioes": [
+        "Destaca a importância de proteger a concorrência e a necessidade de uso inteligente de dados.",
+        "Apresentou análise de atos de concentração e investigações de condutas no setor de mercados digitais.",
+        "Discutiu a importância de uma abordagem moderada na regulamentação para evitar custos sociais elevados.",
+        "Defende a cooperação entre o CADE e outras agências reguladoras, como a ANATEL."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública presidida pela Deputada Any Ortiz discutiu a competitividade e concorrência nos mercados digitais, abordando o Projeto de Lei nº 2.768, de 2022. Os participantes incluíram representantes do Spotify, Mercado Livre, Conexis Brasil Digital e CADE. Luizio Felipe Rocha, do Spotify, destacou os abusos sofridos pela empresa devido à Apple e fez recomendações para a regulamentação. Adriana Straube, do Mercado Livre, criticou regulamentações baseadas apenas no tamanho das plataformas. José Bicalho, da Conexis, defendeu o compartilhamento de custos de infraestrutura e criticou a assimetria regulatória. Ricardo Castro, do CADE, enfatizou a necessidade de uma abordagem moderada e inteligente na regulamentação, destacando a cooperação entre agências. A audiência visou fomentar o debate e entender melhor os impactos do projeto de lei no setor digital."
+}

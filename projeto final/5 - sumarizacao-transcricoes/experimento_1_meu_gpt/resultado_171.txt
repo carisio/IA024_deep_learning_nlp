@@ -1,0 +1,76 @@
+{
+  "assunto": "Combate às fake news e impactos na saúde pública, especialmente relacionados à pandemia de COVID-19 e vacinação.",
+  "envolvidos": [
+    {
+      "nome": "Nísia Trindade",
+      "cargo": "Ministra da Saúde",
+      "opinioes": [
+        "A propagação de notícias falsas, especialmente sobre COVID-19 e vacinas, tem consequências graves e criminosas.",
+        "Defende a eficácia das vacinas aprovadas pela ANVISA, incluindo Coronavac, AstraZeneca e Pfizer, na redução de mortes e hospitalizações.",
+        "Afirma que todas as vacinas utilizadas no Brasil passaram por rigorosos processos de aprovação.",
+        "Critica a desvalorização do trabalho de saúde pública durante a pandemia.",
+        "Enfatiza a importância de medir riscos e benefícios de vacinas em momentos de epidemia.",
+        "Destaca a necessidade de mais vacinas para enfrentar a gravidade da pandemia."
+      ]
+    },
+    {
+      "nome": "Osmar Terra",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Critica o lockdown, afirmando que ele aumentou o contágio em casa.",
+        "Questiona a eficácia das medidas de restrição e argumenta que não há comprovação de sua utilidade."
+      ]
+    },
+    {
+      "nome": "Franciane Bayer",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Critica o uso de portarias e resoluções pelo Governo para tratar de temas como aborto e drogas.",
+        "Questiona a prioridade do Governo em relação a temas de saúde pública.",
+        "Defende que temas polêmicos devem ser debatidos no Legislativo."
+      ]
+    },
+    {
+      "nome": "Helio Lopes",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Critica a Resolução nº 715 por abordar temas como legalização da maconha, mudança de sexo em crianças, e aborto.",
+        "Afirma que o Ministério da Saúde virou um Ministério ideológico."
+      ]
+    },
+    {
+      "nome": "Henrique Vieira",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Defende a importância da Conferência Nacional de Saúde como instrumento de democracia e participação popular.",
+        "Afirma que políticas de saúde específicas para mulheres, negros, LGBTQIA+, indígenas e quilombolas são necessárias e não ideológicas.",
+        "Defende a regulação do aborto como medida de saúde pública para reduzir procedimentos inseguros."
+      ]
+    },
+    {
+      "nome": "Ismael Alexandrino",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Propõe uma legislação mais estruturada para urgência e emergência em saúde pública.",
+        "Defende uma discussão ampliada sobre o Sistema Único de Saúde, incluindo o setor privado."
+      ]
+    },
+    {
+      "nome": "Domingos Sávio",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Solicita foco em questões de saúde pública em vez de matérias de costume.",
+        "Critica a falta de audiências com a Ministra para discutir saúde pública."
+      ]
+    },
+    {
+      "nome": "Laura Carneiro",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Critica a dificuldade de inscrição para participação na Comissão.",
+        "Questiona a coordenação das inscrições entre as Comissões de Previdência e Saúde."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Câmara dos Deputados discutiu o combate às fake news relacionadas à saúde pública, principalmente durante a pandemia de COVID-19. A Ministra da Saúde, Nísia Trindade, destacou a importância das vacinas e a necessidade de combater a desinformação. Deputados como Osmar Terra criticaram o lockdown, enquanto Franciane Bayer e Helio Lopes questionaram a abordagem do Governo sobre temas polêmicos como aborto e drogas através de portarias e resoluções. Henrique Vieira defendeu políticas específicas para grupos vulneráveis e a regulação do aborto como medida de saúde pública. Ismael Alexandrino propôs uma legislação mais estruturada para emergências em saúde pública, e Domingos Sávio e Laura Carneiro levantaram questões sobre a organização das audiências e a coordenação entre comissões."
+}

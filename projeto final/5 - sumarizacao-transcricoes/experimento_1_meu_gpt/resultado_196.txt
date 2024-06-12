@@ -1,0 +1,46 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei nº 2.961, de 2022, que cria o Programa de Apoio ao Estudante da Educação Superior e altera a Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior (FIES).",
+  "envolvidos": [
+    {
+      "nome": "Átila Lira",
+      "cargo": "Deputado, Bloco/PP - PI",
+      "opinioes": [
+        "O projeto de lei busca criar um novo programa de bolsas para ampliar o acesso dos jovens carentes ao ensino superior.",
+        "O FIES foi transformado em um programa bancário após 2017, o que dificultou a inscrição e conclusão dos cursos pelos alunos.",
+        "A proposta visa tornar o FIES mais acessível e social, além de aumentar o número de vagas oferecidas.",
+        "É necessário sensibilizar o governo para a importância do projeto de lei como forma de ampliar o acesso à educação superior."
+      ]
+    },
+    {
+      "nome": "Celso Niskier",
+      "cargo": "Diretor Presidente da Associação Brasileira de Mantenedores do Ensino Superior (ABMES)",
+      "opinioes": [
+        "O projeto é de alta relevância, pois oferece bolsas para jovens de baixa renda.",
+        "Destaca a importância da democratização do acesso ao ensino superior, especialmente para jovens das classes C, D e E.",
+        "Critica a redução drástica das matrículas no FIES após 2017.",
+        "Apoia o projeto de lei, afirmando que ele promove a equidade e a inclusão social no ensino superior."
+      ]
+    },
+    {
+      "nome": "Lúcia Maria Teixeira",
+      "cargo": "Presidente do Sindicato das Entidades Mantenedoras de Estabelecimento de Ensino do Estado de São Paulo (SEMESP)",
+      "opinioes": [
+        "Apoia o projeto de lei e enfatiza a necessidade de políticas públicas que garantam acesso ao ensino superior para jovens carentes.",
+        "Ressalta que 90% dos estudantes de ensino superior possuem renda de até 3 salários mínimos.",
+        "Defende que programas como o PROUNI e o FIES são mais econômicos para o Estado em comparação com as universidades públicas.",
+        "Afirma que é essencial criar um programa de apoio que combine bolsas de estudo e auxílios financeiros para os alunos mais pobres."
+      ]
+    },
+    {
+      "nome": "Rafael Rodrigues Tavares",
+      "cargo": "Coordenador-Geral de Financiamento Estudantil do Fundo Nacional do Desenvolvimento da Educação (FNDE)",
+      "opinioes": [
+        "Destaca a importância do FIES e seu impacto na sociedade.",
+        "Menciona a necessidade de melhorar a atratividade do FIES para estudantes e mantenedoras.",
+        "Fala sobre a preocupação com a sustentabilidade financeira do programa.",
+        "Aponta a importância de um modelo de pagamento vinculado à renda para suavizar as parcelas do financiamento."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Educação da Câmara dos Deputados debateu o Projeto de Lei nº 2.961, de 2022, que visa criar o Programa de Apoio ao Estudante da Educação Superior, alterando a Lei do FIES para ampliar o acesso ao ensino superior para jovens carentes. Entre os participantes estavam o Deputado Átila Lira, o Diretor Presidente da ABMES Celso Niskier, a Presidente do SEMESP Lúcia Maria Teixeira e o Coordenador-Geral de Financiamento Estudantil do FNDE Rafael Rodrigues Tavares. As discussões destacaram a importância da democratização do acesso ao ensino superior, a necessidade de políticas públicas eficazes, e a revisão do FIES para torná-lo mais acessível e socialmente justo."
+}

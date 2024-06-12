@@ -1,0 +1,62 @@
+{
+  "assunto": "Obsolescência programada na área de telefonia móvel",
+  "envolvidos": [
+    {
+      "nome": "Márcio Marinho",
+      "cargo": "Presidente da Comissão de Defesa do Consumidor",
+      "opinioes": [
+        "A obsolescência programada é uma prática que desperta preocupação em todo o mundo.",
+        "A prática resulta na redução deliberada da vida útil de um produto para incentivar o consumo constante.",
+        "No caso dos telefones celulares, a obsolescência programada resulta em impactos ambientais, econômicos e sociais significativos.",
+        "A rápida obsolescência dos celulares gera um ciclo vicioso de consumo, resultando em um aumento significativo de resíduos eletrônicos.",
+        "A prática também impacta o bolso do consumidor, contribuindo para as desigualdades sociais.",
+        "É importante buscar soluções para combater a obsolescência programada, como a produção de aparelhos mais duráveis e a conscientização dos consumidores."
+      ]
+    },
+    {
+      "nome": "Davison Gonzaga da Silva",
+      "cargo": "Gerente de Certificação e Numeração da ANATEL",
+      "opinioes": [
+        "A ANATEL trabalha na certificação de equipamentos de telecomunicações, incluindo telefones celulares, baterias e carregadores.",
+        "Os critérios de certificação da ANATEL são baseados em normas internacionais e demandas recebidas.",
+        "A ANATEL estabelece critérios para garantir a qualidade e segurança dos produtos no mercado.",
+        "A certificação de baterias foi implementada em 2008 para resolver problemas como explosões e durabilidade.",
+        "Carregadores também são submetidos a testes rigorosos para garantir a segurança e durabilidade do produto."
+      ]
+    },
+    {
+      "nome": "Marcelo de Souza do Nascimento",
+      "cargo": "Diretor-Geral do PROCON-DF",
+      "opinioes": [
+        "A obsolescência programada é uma prática comercial aplicada em diversos segmentos, não apenas na telefonia móvel.",
+        "O PROCON tem o papel de equilibrar as relações de consumo, orientando e fiscalizando práticas abusivas.",
+        "Identificando problemas de obsolescência programada, o PROCON notifica fabricantes para prestarem informações sobre a vida útil dos produtos.",
+        "É necessário garantir a disponibilidade de peças de reposição e serviços especializados de assistência técnica enquanto durar a vida útil dos produtos.",
+        "O vício oculto é um defeito que aparece após o período de garantia, e o PROCON trabalha para proteger os direitos dos consumidores nesse contexto."
+      ]
+    },
+    {
+      "nome": "Humberto Barbato",
+      "cargo": "Presidente Executivo da ABINEE",
+      "opinioes": [
+        "A ABINEE representa cerca de 400 empresas do setor eletroeletrônico no Brasil.",
+        "O setor é amplo e diversificado, abrangendo desde material elétrico de instalação até dispositivos móveis e automação industrial.",
+        "O setor gera 272 mil empregos diretos e possui uma estrutura significativa de investimentos.",
+        "A evolução tecnológica dos produtos é rápida, e as empresas precisam acompanhar essa evolução para atender às expectativas dos consumidores.",
+        "A obsolescência programada não é uma prática intencional das empresas, mas sim uma resposta à demanda dos consumidores por novas tecnologias."
+      ]
+    },
+    {
+      "nome": "Igor Rodrigues Britto",
+      "cargo": "Diretor de Relações Institucionais do IDEC",
+      "opinioes": [
+        "A obsolescência programada é um problema urgente que precisa ser enfrentado por meio de proposições legislativas.",
+        "Os consumidores brasileiros têm direito a produtos duráveis e de qualidade, mas o Código de Defesa do Consumidor precisa ser atualizado para garantir esse direito.",
+        "A alta descartabilidade de produtos eletroeletrônicos no Brasil causa impactos econômicos e ambientais significativos.",
+        "É necessário garantir a durabilidade e a funcionalidade dos produtos e software por um tempo adequado, não apenas durante o período de garantia contratual.",
+        "As empresas precisam ser mais transparentes e responsáveis quanto à durabilidade dos seus produtos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública convocada pela Comissão de Defesa do Consumidor da Câmara dos Deputados discutiu a prática de obsolescência programada na telefonia móvel. Presidida por Márcio Marinho, o debate contou com a participação de Davison Gonzaga da ANATEL, Marcelo de Souza do PROCON-DF, Humberto Barbato da ABINEE e Igor Rodrigues Britto do IDEC. Os expositores abordaram os impactos ambientais, econômicos e sociais da obsolescência programada, a necessidade de certificação e regulamentação de produtos e a importância de garantir a durabilidade e funcionalidade dos produtos eletroeletrônicos. Foi enfatizado que a prática não é intencional, mas uma resposta às demandas dos consumidores por novas tecnologias."
+}

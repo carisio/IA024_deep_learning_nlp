@@ -1,0 +1,78 @@
+{
+  "assunto": "Panorama atual da triagem neonatal obrigatória no SUS e desafios para a ampliação do teste do pezinho.",
+  "envolvidos": [
+    {
+      "nome": "Iza Arruda",
+      "cargo": "Deputada, Presidente da Comissão",
+      "opinioes": [
+        "A triagem neonatal é essencial para a saúde da criança e deve ser ampliada.",
+        "O teste do pezinho é fundamental para detectar doenças e garantir tratamento precoce.",
+        "Importância de unir esforços entre os Governos Federal, Estadual e Municipal."
+      ]
+    },
+    {
+      "nome": "Carlos Gouvêa",
+      "cargo": "Representante da Sociedade Brasileira de Triagem Neonatal e Erros Inatos do Metabolismo",
+      "opinioes": [
+        "O teste do pezinho é uma ferramenta essencial para a vida, proporcionando acesso a terapias adequadas.",
+        "A triagem neonatal começou em 1976 e evoluiu significativamente com o Programa Nacional de Triagem Neonatal.",
+        "Há uma necessidade urgente de uniformizar a triagem neonatal em todos os estados e melhorar a cobertura.",
+        "A expansão da triagem neonatal deve ser feita de forma escalonada devido aos desafios logísticos e financeiros."
+      ]
+    },
+    {
+      "nome": "Fernanda Pessoa",
+      "cargo": "Deputada",
+      "opinioes": [
+        "É crucial levar o teste do pezinho para todos os hospitais do SUS para garantir a eficácia do diagnóstico precoce.",
+        "O teste deve ser realizado o mais rápido possível, idealmente em até 48 horas após o nascimento."
+      ]
+    },
+    {
+      "nome": "Roseana Faneco Amorim",
+      "cargo": "Líder do Grupo Mulheres do Brasil",
+      "opinioes": [
+        "A sociedade civil deve se unir para apoiar a implementação da triagem neonatal.",
+        "Campanhas de conscientização são fundamentais para informar as mães sobre a importância do teste do pezinho.",
+        "Os Correios deveriam participar do processo logístico para garantir que os testes cheguem aos laboratórios no tempo adequado."
+      ]
+    },
+    {
+      "nome": "Bruna Dornelas",
+      "cargo": "Gestora de Regionalização da Secretaria de Saúde de Pernambuco",
+      "opinioes": [
+        "Pernambuco oferece triagem e tratamento para seis doenças no programa de triagem neonatal.",
+        "A triagem neonatal deve ser descentralizada para alcançar todos os recém-nascidos no período ideal.",
+        "A redução do tempo de liberação dos resultados é essencial para a eficácia do programa.",
+        "A educação continuada dos profissionais de saúde é vital para o sucesso da triagem neonatal."
+      ]
+    },
+    {
+      "nome": "Amira Awada",
+      "cargo": "Presidente do Instituto Vidas Raras",
+      "opinioes": [
+        "A triagem neonatal expandida é crucial para diagnosticar e tratar doenças raras precocemente.",
+        "A falta de informação sobre doenças raras é um problema significativo no Brasil.",
+        "A triagem neonatal pode prevenir doenças raras e reduzir custos de saúde no longo prazo."
+      ]
+    },
+    {
+      "nome": "Pollyana Dias",
+      "cargo": "Presidente da ONG Aliança de Mães e Famílias Raras (AMAR)",
+      "opinioes": [
+        "O teste do pezinho é um norte para o diagnóstico e tratamento adequado das crianças.",
+        "Campanhas de conscientização devem usar linguagem popular para alcançar as famílias mais simples.",
+        "A capacitação dos agentes de saúde é crucial para a efetividade do programa."
+      ]
+    },
+    {
+      "nome": "Suhellen da Silva",
+      "cargo": "Presidente da Associação de Amigos e Portadores de Doenças Neuromusculares (DONEM)",
+      "opinioes": [
+        "A triagem neonatal pode mudar a vida das crianças e suas famílias ao proporcionar diagnóstico precoce.",
+        "A implementação da lei de ampliação da triagem neonatal deve ser prioridade."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o panorama atual da triagem neonatal no SUS, com foco no teste do pezinho. Participantes enfatizaram a importância da triagem para a saúde das crianças, destacando a necessidade de ampliar e uniformizar o programa em todo o país. Deputados e representantes de várias organizações elogiaram os avanços e propuseram ações como campanhas de conscientização e melhorias logísticas. Pernambuco foi citado como exemplo de boas práticas na área. A expansão da triagem neonatal e a implementação da Lei nº 14.154 foram defendidas como essenciais para garantir o diagnóstico precoce e tratamento adequado de doenças raras, reduzindo custos e melhorando a qualidade de vida."
+}

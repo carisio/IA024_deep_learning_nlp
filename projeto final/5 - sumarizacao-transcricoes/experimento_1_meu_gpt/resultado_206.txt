@@ -1,0 +1,78 @@
+{
+  "assunto": "Debate sobre a revisão e o aperfeiçoamento das cotas raciais e sociais na educação brasileira, com foco na Lei nº 12.711, de 2012, que completou 10 anos.",
+  "envolvidos": [
+    {
+      "nome": "Dandara",
+      "cargo": "Deputada Federal (Bloco/PT - MG)",
+      "opinioes": [
+        "As cotas na graduação são a maior conquista do movimento negro desde a redemocratização.",
+        "A audiência tem como objetivo avaliar e aperfeiçoar os mecanismos de aplicação das cotas na educação.",
+        "Defende uma educação promotora de direitos, emancipadora, justa e socialmente referenciada."
+      ]
+    },
+    {
+      "nome": "Nilma Lino Gomes",
+      "cargo": "Professora da UFMG, ex-Ministra da Secretaria de Políticas de Promoção da Igualdade Racial da Presidência da República",
+      "opinioes": [
+        "A luta pelas cotas é uma ação afirmativa essencial para a democratização da educação e da sociedade.",
+        "As cotas têm reeducado as universidades internamente, trazendo diversidade e novas perspectivas.",
+        "É importante a continuidade e o aprimoramento das políticas de cotas, combatendo fraudes e garantindo a representatividade."
+      ]
+    },
+    {
+      "nome": "Carlos Abicalil",
+      "cargo": "Ex-Deputado Federal, mestre em gestão e políticas públicas em educação",
+      "opinioes": [
+        "As cotas são uma ferramenta fundamental no combate ao racismo estrutural.",
+        "A resistência contra as cotas é intensa, mas a luta pela sua manutenção e aprimoramento deve continuar.",
+        "A implementação das cotas trouxe avanços significativos, mas ainda há desafios a serem enfrentados, como a redução da renda familiar per capita para ampliar a base assistida."
+      ]
+    },
+    {
+      "nome": "Bruna Brelaz",
+      "cargo": "Presidenta da União Nacional dos Estudantes (UNE)",
+      "opinioes": [
+        "As cotas são revolucionárias e têm transformado a vida de milhares de brasileiros.",
+        "É essencial garantir a permanência dos estudantes cotistas na universidade, além de fortalecer o ENEM.",
+        "A universidade não pode voltar a se elitizar; precisamos garantir que o Estado brasileiro invista na permanência dos estudantes."
+      ]
+    },
+    {
+      "nome": "Douglas Belchior",
+      "cargo": "Representante da UNEAFRO",
+      "opinioes": [
+        "As cotas abriram portas, mas foi necessário arrombar muitas para conquistar essa política.",
+        "O movimento de educação popular é histórico e fundamental para a luta por direitos.",
+        "Devemos radicalizar as políticas de cotas, avançando em políticas públicas e garantindo uma educação antirracista e de qualidade."
+      ]
+    },
+    {
+      "nome": "Zara Figueiredo",
+      "cargo": "Secretária de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão do Ministério da Educação",
+      "opinioes": [
+        "O prazo revisional da Lei nº 12.711 não deve ser confundido com vigência; as cotas permanecem.",
+        "É necessário corrigir a distorção de renda e combater fraudes para melhorar a eficácia da política de cotas.",
+        "A permanência dos estudantes cotistas na universidade deve ser garantida com melhorias no Programa Bolsa Permanência."
+      ]
+    },
+    {
+      "nome": "Márcia Lima",
+      "cargo": "Secretária de Políticas de Ações Afirmativas, Combate e Superação do Racismo do Ministério da Igualdade Racial",
+      "opinioes": [
+        "A manutenção da juventude negra na universidade é uma prioridade.",
+        "Estamos trabalhando para ampliar a participação dos negros no serviço público e garantir comissões de heteroidentificação mais eficazes.",
+        "É importante institucionalizar as políticas de ações afirmativas nas universidades para garantir a inclusão e a diversidade."
+      ]
+    },
+    {
+      "nome": "Onésio Soares Amaral",
+      "cargo": "Procurador da República do Ministério Público Federal",
+      "opinioes": [
+        "As cotas devem contemplar tanto o vetor social quanto o racial para promover inclusão efetiva.",
+        "É necessário aprimorar os mecanismos administrativos para garantir a efetiva aplicação da lei de cotas.",
+        "A decisão do Supremo Tribunal Federal confirmou a constitucionalidade das cotas, e devemos avançar com essa política."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Educação debateu a revisão e o aperfeiçoamento das cotas raciais e sociais na educação brasileira, com foco na Lei nº 12.711, de 2012. Os participantes, incluindo a Deputada Dandara, a professora Nilma Lino Gomes, o ex-Deputado Carlos Abicalil, a Presidenta da UNE Bruna Brelaz, o representante da UNEAFRO Douglas Belchior, a Secretária do MEC Zara Figueiredo, a Secretária do Ministério da Igualdade Racial Márcia Lima e o Procurador da República Onésio Soares Amaral, defenderam a continuidade e o aprimoramento das políticas de cotas, destacando a importância da permanência dos estudantes cotistas na universidade, o combate às fraudes e a inclusão de grupos historicamente marginalizados. A audiência reforçou a necessidade de ações afirmativas para garantir a democratização da educação e a justiça social no Brasil."
+}

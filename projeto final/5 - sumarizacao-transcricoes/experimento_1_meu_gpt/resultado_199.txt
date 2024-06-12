@@ -1,0 +1,63 @@
+{
+  "assunto": "Debate sobre políticas de saúde pública, com ênfase em direitos reprodutivos, saúde indígena e gestão do SUS.",
+  "envolvidos": [
+    {
+      "nome": "Nísia Trindade Lima",
+      "cargo": "Ministra da Saúde",
+      "opinioes": [
+        "Manifestou-se contra o Consenso de Genebra, alegando que ele representa uma visão restrita de família e direitos reprodutivos.",
+        "Defendeu a homologação da 17ª Conferência Nacional de Saúde como praxe do SUS.",
+        "Afirmou que as ações do Ministério seguem estritamente a legislação brasileira, inclusive no que tange ao aborto legal e questões de drogas.",
+        "Comentou sobre a política de memória relacionada à COVID-19 e a importância de evitar o negacionismo.",
+        "Enfatizou a reconstrução do SUS baseada nos princípios eleitos pela maioria da população.",
+        "Destacou a importância de enfrentar as desigualdades históricas e promover uma política inclusiva.",
+        "Falou sobre o compromisso com a saúde indígena e a reabertura de polos de saúde para a população ianomâmi.",
+        "Reiterou a importância do debate democrático com o Legislativo e criticou a dicotomia entre técnica e política."
+      ]
+    },
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Presidente da Comissão (PL - DF)",
+      "opinioes": [
+        "Destacou a importância do respeito mútuo entre os deputados e a Ministra.",
+        "Garantiu que a Comissão de Fiscalização deve contar com parlamentares de oposição e situação para manter a democracia.",
+        "Reforçou a necessidade de diálogo democrático e respeito às mulheres durante a audiência."
+      ]
+    },
+    {
+      "nome": "Nikolas Ferreira",
+      "cargo": "Deputado (PL - MG)",
+      "opinioes": [
+        "Criticou a Ministra por não responder se acredita que um homem pode gestar ou menstruar, questionando sua posição sobre direitos trans."
+      ]
+    },
+    {
+      "nome": "Ana Pimentel",
+      "cargo": "Deputada (PT - MG)",
+      "opinioes": [
+        "Criticou a hipocrisia dos que defendem a vida mas ignoram a violência sexual contra meninas.",
+        "Denunciou o Brasil como o país que mais mata pessoas trans e criticou o uso do termo 'ideologia de gênero' para perseguir minorias.",
+        "Apoiou o discurso inclusivo e de reconstrução do SUS proposto pelo Ministério da Saúde."
+      ]
+    },
+    {
+      "nome": "Jorge Solla",
+      "cargo": "Deputado (PT - BA)",
+      "opinioes": [
+        "Parabenizou a Ministra pelo esforço de reconstrução do SUS e pela retomada do diálogo com Estados e Municípios.",
+        "Destacou a importância da Conferência Nacional de Saúde e da resposta ágil ao genocídio da população ianomâmi.",
+        "Enfatizou a liderança do Brasil nos debates sobre saúde indígena na OMS."
+      ]
+    },
+    {
+      "nome": "Evair Vieira de Melo",
+      "cargo": "Deputado (PP - ES)",
+      "opinioes": [
+        "Questionou a Ministra sobre a não compra de vacinas para dengue e sobre a modernização de aparelhos de radioterapia.",
+        "Pediu esclarecimentos sobre a ampliação das investigações de recursos de COVID no Consórcio Nordeste.",
+        "Cobrou políticas de apoio aos hospitais filantrópicos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão da Câmara dos Deputados debateu principalmente políticas de saúde pública, com ênfase em direitos reprodutivos, saúde indígena e gestão do SUS. A Ministra da Saúde, Nísia Trindade Lima, respondeu a críticas e defendeu ações do governo, destacando a importância de enfrentar o negacionismo e promover uma política inclusiva. Deputados divergiram sobre questões de direitos trans, violência sexual e gestão de recursos, mas houve consenso sobre a necessidade de diálogo democrático e respeito mútuo."
+}

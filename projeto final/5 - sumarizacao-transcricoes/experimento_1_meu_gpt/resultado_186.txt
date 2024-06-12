@@ -1,0 +1,85 @@
+{
+  "assunto": "Auxílio Emergencial para situações decorrentes de secas e enchentes, a ser instituído pelo Projeto de Lei nº 83, de 2022.",
+  "envolvidos": [
+    {
+      "nome": "Talíria Petrone",
+      "cargo": "Deputada, Bloco/PSOL - RJ",
+      "opinioes": [
+        "Vivemos um momento muito dramático de extremos climáticos Brasil afora, mundo afora.",
+        "O colapso climático em curso tem consequências muito duras no território.",
+        "É fundamental que mudemos o modelo de desenvolvimento predatório, baseado numa lógica produtivista, desenvolvimentista, que é insustentável.",
+        "Precisamos de políticas públicas e programas que atendam emergencialmente quem vivencia as consequências desses eventos extremos."
+      ]
+    },
+    {
+      "nome": "Maria de Jesus",
+      "cargo": "Representante do Movimento dos Trabalhadores Rurais Sem Terra no Ceará",
+      "opinioes": [
+        "Temos uma realidade histórica de seca no Semiárido brasileiro, com 980.133 hectares e 1.113 Municípios afetados.",
+        "É muito importante o reflorestamento e pensar políticas de armazenamento de água.",
+        "O agronegócio é o grande causador de desmatamento e de desastres no País.",
+        "Precisamos de uma política emergencial, mas também de políticas estruturais para enfrentar os problemas da seca e das enchentes."
+      ]
+    },
+    {
+      "nome": "Victor Marchezini",
+      "cargo": "Pesquisador no Centro Nacional de Monitoramento e Alerta de Desastres Naturais — CEMADEN",
+      "opinioes": [
+        "O CEMADEN tem a missão de prover serviços climáticos relevantes para a redução de risco de desastres.",
+        "Estudamos o impacto de secas e projeções hidrológicas, bem como a vulnerabilidade de pessoas em áreas de risco.",
+        "Há uma necessidade de mais dados sobre as especificidades dos diferentes grupos sociais atingidos por desastres.",
+        "A falta de participação social nas políticas públicas de defesa civil implica mais danos e maior necessidade de auxílio emergencial."
+      ]
+    },
+    {
+      "nome": "Gisele Brito",
+      "cargo": "Representante do Instituto de Referência Negra Peregum",
+      "opinioes": [
+        "O auxílio emergencial é fundamental em situações de crise climática, mas é preciso olhar para as políticas públicas já existentes.",
+        "O PL não menciona como se relacionará com os Municípios que gerenciam a situação de risco.",
+        "É importante pensar em um auxílio que leve em consideração as perdas econômicas e os danos às atividades rurais e urbanas.",
+        "Precisamos de políticas de moradia que sejam vistas como um direito, não como uma mercadoria."
+      ]
+    },
+    {
+      "nome": "Igor Travassos",
+      "cargo": "Porta-voz do Greenpeace Brasil, representando o Observatório do Clima",
+      "opinioes": [
+        "Qualquer política pública que vise à redução das desigualdades precisa ser encarada como urgente.",
+        "Precisamos de diagnósticos sobre quem são as pessoas mais impactadas pelos eventos climáticos extremos.",
+        "O auxílio deve abranger mais do que apenas a renda das pessoas afetadas, considerando também a complexidade da reconstrução de suas vidas.",
+        "É essencial que o auxílio emergencial seja visto como uma política de reparação e indenização."
+      ]
+    },
+    {
+      "nome": "Lídia Lins Assumpção",
+      "cargo": "Representante da Coalizão Negra por Direitos",
+      "opinioes": [
+        "É fundamental ter um recurso que chegue rápido às pessoas atingidas por eventos extremos.",
+        "Precisamos pensar em políticas públicas integradas para evitar esses danos.",
+        "A burocracia muitas vezes impede que os recursos cheguem rapidamente às pessoas que precisam.",
+        "As vozes das pessoas diretamente impactadas precisam ser ouvidas nas discussões sobre políticas públicas."
+      ]
+    },
+    {
+      "nome": "Gabriel Mantelli",
+      "cargo": "Representante da Conectas Direitos Humanos",
+      "opinioes": [
+        "É importante que o PL leve em consideração as convenções internacionais sobre direitos humanos.",
+        "Precisamos mencionar expressamente as perdas e danos no PL.",
+        "A centralidade antirracista deve ser uma prioridade no PL.",
+        "Devemos considerar outras formas de desastre, como a elevação do nível do mar, no escopo do auxílio emergencial."
+      ]
+    },
+    {
+      "nome": "Célia Xakriabá",
+      "cargo": "Deputada, Bloco/PSOL - MG",
+      "opinioes": [
+        "68% das pessoas mais atingidas pela mineração e por fortes enchentes são negras, quilombolas.",
+        "Falar de questões climáticas é falar do racismo ambiental.",
+        "Precisamos de políticas públicas de acesso à moradia com qualidade, especialmente no contexto da crise climática."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o Projeto de Lei nº 83, de 2022, que propõe um auxílio emergencial para situações decorrentes de secas e enchentes. Os envolvidos destacaram a necessidade de políticas públicas mais amplas e integradas, que considerem não só as emergências, mas também soluções estruturais para problemas como desmatamento, ocupação desordenada e mudanças climáticas. Houve um consenso sobre a importância de um auxílio emergencial eficiente, menos burocrático e mais abrangente, que considere as especificidades dos grupos mais vulneráveis, especialmente as populações negras, indígenas e periféricas. A discussão enfatizou a interseção entre crise climática e racismo ambiental, e a necessidade de políticas de reparação e indenização que incluam participação social qualificada e dados racializados."
+}

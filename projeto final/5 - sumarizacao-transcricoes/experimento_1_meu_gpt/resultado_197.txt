@@ -1,0 +1,70 @@
+{
+  "assunto": "Impactos e perspectivas de revisão do novo marco legal da inovação",
+  "envolvidos": [
+    {
+      "nome": "Raimundo Santos",
+      "cargo": "Deputado, Bloco/PSD - PA",
+      "opinioes": [
+        "A reunião foi convocada para discutir os impactos e perspectivas de revisão do novo marco legal da inovação.",
+        "Destacou a importância de aproveitar as sugestões trazidas para aprimorar a lei e garantir seu cumprimento."
+      ]
+    },
+    {
+      "nome": "Luisa Canziani",
+      "cargo": "Deputada, Bloco/PSD - PR, Presidente da Comissão",
+      "opinioes": [
+        "Agradeceu aos participantes e destacou a importância das contribuições trazidas pelos palestrantes.",
+        "Mencionou a possibilidade de uma segunda rodada de discussões sobre o Marco Legal da Inovação."
+      ]
+    },
+    {
+      "nome": "Vitor Lippi",
+      "cargo": "Deputado, Bloco/PSDB - SP",
+      "opinioes": [
+        "Afirmou que ciência e tecnologia não dão votos, mas geram empregos, renda e desenvolvimento.",
+        "Defendeu a prioridade absoluta do governo e do parlamento para educação de qualidade, ciência, tecnologia e inovação."
+      ]
+    },
+    {
+      "nome": "Bruno Monteiro Portela",
+      "cargo": "Procurador Federal da Advocacia-Geral da União (AGU)",
+      "opinioes": [
+        "Destacou os impactos e perspectivas de revisão do marco legal.",
+        "Defendeu a importância de avanços na legislação e a necessidade de evitar retrocessos."
+      ]
+    },
+    {
+      "nome": "Francisco Saboya",
+      "cargo": "Diretor-Presidente da Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII)",
+      "opinioes": [
+        "Falou sobre a necessidade de desimpedir os caminhos que fazem com que o marco regulatório não seja utilizado.",
+        "Mencionou que o Brasil deve endereçar as questões da inovação para evitar o distanciamento das economias globais mais avançadas."
+      ]
+    },
+    {
+      "nome": "Ricardo Galvão",
+      "cargo": "Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+      "opinioes": [
+        "Destacou a importância de operacionalizar a legislação do marco legal.",
+        "Mencionou a necessidade de o Brasil estar atento à participação da ciência e tecnologia no desenvolvimento científico."
+      ]
+    },
+    {
+      "nome": "Gianna Cardoso Sagazio",
+      "cargo": "Representante da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "Destacou a posição do Brasil no Global Innovation Index e a necessidade de comparações internacionais para melhorar a inovação.",
+        "Falou sobre os desafios na implementação do marco legal pela EMBRAPA e a importância de uma política de inovação."
+      ]
+    },
+    {
+      "nome": "Leopoldo Gomes Muraro",
+      "cargo": "Consultor Jurídico do Ministério da Ciência, Tecnologia e Inovação (MCTI)",
+      "opinioes": [
+        "Mencionou a importância da hélice tríplice da inovação e a necessidade de manter essa abordagem no marco legal.",
+        "Defendeu a simplificação e desburocratização para o tema de inovação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os impactos e perspectivas de revisão do novo marco legal da inovação. Participaram deputados, representantes do governo, da indústria e de instituições de pesquisa. Houve consenso sobre a importância da inovação para o desenvolvimento do Brasil e a necessidade de aprimorar e garantir o cumprimento da legislação. Foram destacadas questões como a desburocratização, a operacionalização da lei e a integração entre o público e o privado."
+}

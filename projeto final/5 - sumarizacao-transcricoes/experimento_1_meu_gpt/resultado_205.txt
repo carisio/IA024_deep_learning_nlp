@@ -1,0 +1,52 @@
+{
+  "assunto": "Política Nacional de Enfrentamento aos Crimes Transfronteiriços",
+  "envolvidos": [
+    {
+      "nome": "Deputado Sanderson",
+      "cargo": "Presidente da Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "opinioes": [
+        "A Polícia Federal está no cerne do combate aos crimes transfronteiriços devido às suas atribuições constitucionais de polícia marítima, aeroportuária e de fronteiras, além da atribuição de Polícia Judiciária da União.",
+        "É necessário integrar todos os entes envolvidos no combate aos crimes transfronteiriços.",
+        "É importante envolver os Estados na estruturação e apoio às operações de combate aos crimes transfronteiriços.",
+        "Há necessidade de investimentos em tecnologia e ferramentas de inteligência, como radares e drones, para o monitoramento e combate aos crimes transfronteiriços."
+      ]
+    },
+    {
+      "nome": "Major PM Eldison Martins do Prado",
+      "cargo": "Comandante do Batalhão de Polícia de Fronteira (BPFRON) da Polícia Militar do Paraná",
+      "opinioes": [
+        "Atuamos na região de fronteira do Paraná desde 2012.",
+        "Importância das operações especializadas e da integração entre os órgãos de segurança pública para a redução da criminalidade na fronteira.",
+        "Necessidade de uma Política Nacional de Segurança de Fronteira bem estabelecida."
+      ]
+    },
+    {
+      "nome": "Coronel Cleudo dos Santos Maciel",
+      "cargo": "Coordenador do Grupo Especial de Fronteira do Estado do Acre (GEFRON)",
+      "opinioes": [
+        "O Acre é um território estratégico para a prática dos crimes transfronteiriços devido à sua proximidade com produtores de cocaína no Peru e Bolívia.",
+        "A limitada capacidade operacional do sistema de segurança pública do Acre dificulta o enfrentamento e prevenção dos crimes transfronteiriços.",
+        "A importância da integração entre as diversas forças de segurança para a efetividade das ações de combate ao crime na fronteira."
+      ]
+    },
+    {
+      "nome": "Felipe Vianna de Menezes",
+      "cargo": "Delegado da Polícia Federal e Chefe do Serviço de Projetos Especiais e Fronteiras da Diretoria de Investigação e Combate ao Crime Organizado (DICOR)",
+      "opinioes": [
+        "A Polícia Federal tem atribuições constitucionais e legais que a colocam no centro do combate aos crimes transfronteiriços.",
+        "É essencial a integração entre os diversos entes e a articulação interinstitucional para a eficácia das operações de combate aos crimes fronteiriços.",
+        "Acordos bilaterais entre o Brasil e os países fronteiriços são imprescindíveis para a segurança pública e apoio nas situações imediatas."
+      ]
+    },
+    {
+      "nome": "Carlos Augusto do Prado Bock",
+      "cargo": "Coordenador-Geral de Operações Integradas e Combate ao Crime Organizado",
+      "opinioes": [
+        "O tema fronteira é alvo de atenção no Ministério da Justiça e Segurança Pública há mais de uma década.",
+        "A necessidade de ajustes nos projetos e programas de segurança pública na fronteira para aprimorar os resultados.",
+        "A integração e cooperação entre as forças de segurança são essenciais para o sucesso das operações de combate ao crime organizado na fronteira."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública sobre a Política Nacional de Enfrentamento aos Crimes Transfronteiriços contou com a participação de diversas autoridades, incluindo o Deputado Sanderson, Major PM Eldison Martins do Prado, Coronel Cleudo dos Santos Maciel, Delegado Felipe Vianna de Menezes e o Coordenador-Geral Carlos Augusto do Prado Bock. As discussões destacaram a necessidade de integração e articulação interinstitucional, investimentos em tecnologia e inteligência, acordos bilaterais e uma política nacional robusta para enfrentar os crimes na fronteira. Cada participante ressaltou a importância de suas respectivas instituições e a colaboração entre elas para a efetividade das ações."
+}

@@ -1,0 +1,93 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei nº 1.673, de 2021, que dispõe sobre a Política Nacional de Saúde Funcional, baseada na Classificação Internacional de Funcionalidade, Incapacidade e Saúde — CIF.",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "A audiência pública foi convocada para debater o Projeto de Lei nº 1.673, de 2021.",
+        "O objetivo é discutir a Política Nacional de Saúde Funcional, baseada na CIF.",
+        "Destaca a importância de uma avaliação biopsicossocial conforme a legislação vigente."
+      ]
+    },
+    {
+      "nome": "Arthur de Almeida Medeiros",
+      "cargo": "Coordenador-Geral de Saúde da Pessoa com Deficiência do Ministério da Saúde",
+      "opinioes": [
+        "Enfatizou a importância da Política Nacional de Saúde Funcional.",
+        "Lembrou da publicação da Lei Brasileira de Inclusão em 2015 e seu impacto na CIF.",
+        "Mencionou a criação de um grupo de trabalho interministerial para definir o instrumento de avaliação biopsicossocial.",
+        "Afirmou que a avaliação deve ser holística, considerando os aspectos biopsicossociais das pessoas."
+      ]
+    },
+    {
+      "nome": "Wolnei Caumo",
+      "cargo": "Professor da Universidade Federal do Rio Grande do Sul",
+      "opinioes": [
+        "Defendeu a perspectiva biopsicossocial no tratamento de doenças como a fibromialgia.",
+        "Destacou a importância de mapear o atendimento à saúde no Brasil.",
+        "Afirmou que é necessário um trabalho multidisciplinar e uma melhor formação dos profissionais de saúde.",
+        "Mencionou a necessidade de políticas públicas bem fundamentadas e baseadas em dados reais."
+      ]
+    },
+    {
+      "nome": "Genilza Valente",
+      "cargo": "Membro do Comitê Científico da ANFIBRO",
+      "opinioes": [
+        "Afirmou que a criação da Política Nacional de Saúde Funcional é necessária para potencializar a funcionalidade dos indivíduos.",
+        "Enfatizou a importância da CIF em prevenir incapacidades e proteger a funcionalidade.",
+        "Destacou o aumento das doenças crônicas e a necessidade de uma política inclusiva e de acolhimento.",
+        "Mencionou que a dor crônica é um problema de saúde pública e que a abordagem deve ser multidimensional e multiprofissional."
+      ]
+    },
+    {
+      "nome": "Nadja Waléria Vilela Camara",
+      "cargo": "Representante da CIF Brasil",
+      "opinioes": [
+        "Defendeu a utilização da CIF para avaliar a saúde de forma ampla, considerando o contexto ambiental e social.",
+        "Destacou a importância da saúde funcional para a qualidade de vida.",
+        "Mencionou casos concretos para exemplificar a aplicação da CIF na Atenção Primária à Saúde.",
+        "Afirmou que a CIF deve ser utilizada por todos os profissionais de saúde."
+      ]
+    },
+    {
+      "nome": "Roberto Rodrigues Filho",
+      "cargo": "Médico do Hospital de Base de Brasília",
+      "opinioes": [
+        "Destacou a importância da acessibilidade e do tratamento multidisciplinar para pacientes com doenças crônicas.",
+        "Afirmou que o diagnóstico e tratamento precoces são fundamentais para evitar a cronificação das doenças.",
+        "Mencionou a necessidade de sincronizar as especialidades médicas para um tratamento eficaz."
+      ]
+    },
+    {
+      "nome": "Eduardo Santana Cordeiro",
+      "cargo": "Representante da Associação Internacional de Especialistas e Pesquisadores em Funcionalidade e CIF",
+      "opinioes": [
+        "Destacou a importância da CIF e do modelo biopsicossocial para uma avaliação completa da saúde.",
+        "Afirmou que a avaliação biopsicossocial e a CIF são universais e beneficiam todas as pessoas com condições crônicas.",
+        "Mencionou o histórico da política de saúde funcional e a necessidade de sua implementação abrangente."
+      ]
+    },
+    {
+      "nome": "Carlos Gropen Júnior",
+      "cargo": "Professor da Universidade de Brasília e Coordenador do Serviço Ambulatorial de Dor da Universidade",
+      "opinioes": [
+        "Enfatizou a necessidade de uma equipe multidisciplinar para o tratamento da fibromialgia.",
+        "Destacou o impacto da dor crônica na qualidade de vida e na funcionalidade dos pacientes.",
+        "Mencionou a importância da educação e da integração entre diferentes áreas de tratamento.",
+        "Afirmou que a reabilitação profissional é fundamental para a dignidade dos pacientes."
+      ]
+    },
+    {
+      "nome": "Djane da Silva Bento",
+      "cargo": "Representante da Associação Nacional de Pessoas com Lúpus",
+      "opinioes": [
+        "Relatou a dificuldade de acesso a tratamentos adequados para pessoas com lúpus.",
+        "Destacou a necessidade de políticas públicas que garantam atendimento multidisciplinar e funcional.",
+        "Mencionou que a ausência de uma legislação específica para lúpus prejudica o atendimento e a qualidade de vida dos pacientes.",
+        "Enfatizou a importância de diagnósticos precoces e tratamentos contínuos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu o Projeto de Lei nº 1.673, de 2021, que trata da Política Nacional de Saúde Funcional, baseada na CIF. O evento reuniu diversos especialistas que discutiram a importância de uma avaliação biopsicossocial para melhorar a qualidade de vida das pessoas com doenças crônicas. Participaram do debate autoridades como Erika Kokay, Arthur de Almeida Medeiros, Wolnei Caumo, Genilza Valente, Nadja Waléria Vilela Camara, Roberto Rodrigues Filho, Eduardo Santana Cordeiro, Carlos Gropen Júnior e Djane da Silva Bento. Todos enfatizaram a necessidade de uma abordagem multidisciplinar e a utilização da CIF para garantir uma avaliação mais completa e inclusiva da saúde, considerando aspectos biológicos, psicológicos e sociais."
+}

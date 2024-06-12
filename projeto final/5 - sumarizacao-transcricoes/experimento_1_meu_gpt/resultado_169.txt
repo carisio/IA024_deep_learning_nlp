@@ -1,0 +1,42 @@
+{
+  "assunto": "Conservação do Cerrado e da Caatinga e a importância da aprovação da PEC 504",
+  "envolvidos": [
+    {
+      "nome": "Rosângela Azevedo Corrêa",
+      "cargo": "Deputada",
+      "opinioes": [
+        "As crises atuais são éticas e profundamente existenciais, além de econômicas, políticas e tecnológicas.",
+        "A ciência demonstra a relação entre mudanças climáticas e ações humanas, como a emissão de gases de efeito estufa.",
+        "A principal causa do desmatamento do Cerrado é a expansão agrícola, que contribui com 22% das emissões globais devido ao uso do solo."
+      ]
+    },
+    {
+      "nome": "Célia Xakriabá",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Há uma necessidade urgente de reconhecer efetivamente o Cerrado e a Caatinga, implementando políticas públicas eficazes para a sua conservação.",
+        "O desmatamento do Cerrado está muito além daquele da Amazônia, e falta comprometimento de governantes e políticos para resolver essa questão.",
+        "O Cerrado é essencial para a sobrevivência de outros biomas no Brasil, fornecendo água para rios importantes."
+      ]
+    },
+    {
+      "nome": "Silvio Isoppo Porto",
+      "cargo": "Representante da Campanha em Defesa do Cerrado",
+      "opinioes": [
+        "A conservação da biodiversidade brasileira é uma responsabilidade mundial, pois o Brasil detém um quarto da biodiversidade global.",
+        "As políticas públicas para os biomas Cerrado e Caatinga foram orientadas por uma visão externa e colonizada, ignorando soluções locais e tradicionais.",
+        "É fundamental valorizar e incorporar o conhecimento das comunidades locais para encontrar soluções eficazes para a conservação dos biomas."
+      ]
+    },
+    {
+      "nome": "Lourdinha",
+      "cargo": "Representante da ASA (Articulação no Semiárido Brasileiro)",
+      "opinioes": [
+        "A Caatinga tem uma grande capacidade de segurar o carbono no solo e é essencial para a agricultura familiar no Brasil.",
+        "A energia no Brasil precisa ser verdadeiramente renovável, evitando impactos ambientais negativos das grandes usinas eólicas e solares.",
+        "Aprovar a PEC 504 é fundamental para garantir a proteção e a sustentabilidade dos biomas Cerrado e Caatinga."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a conservação do Cerrado e da Caatinga, destacando a urgência da aprovação da PEC 504 para reconhecer esses biomas como patrimônios nacionais. Participantes enfatizaram a importância de políticas públicas eficazes e a valorização do conhecimento tradicional das comunidades locais para garantir a sustentabilidade. O desmatamento do Cerrado, impulsionado pela expansão agrícola, é um dos principais desafios. Além disso, ressaltaram a necessidade de energias verdadeiramente renováveis e a importância da Caatinga para a agricultura familiar e a captura de carbono."
+}

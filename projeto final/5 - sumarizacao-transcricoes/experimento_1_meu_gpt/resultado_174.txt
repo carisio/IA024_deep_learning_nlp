@@ -1,0 +1,53 @@
+{
+  "assunto": "Debate sobre a taxa de aprovação do REVALIDA",
+  "envolvidos": [
+    {
+      "nome": "Evair Vieira de Melo",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "A taxa de aprovação do último REVALIDA foi de apenas 3,75%, a menor desde o início do exame em 2011.",
+        "O REVALIDA é necessário para que brasileiros ou estrangeiros formados em medicina no exterior possam trabalhar no Brasil.",
+        "Destacou a importância da criação de mecanismos para autonomia financeira das instituições de ensino no Brasil."
+      ]
+    },
+    {
+      "nome": "Francisco de Assis Rocha Neves",
+      "cargo": "Coordenador-Geral de Expansão e Gestão da Educação em Saúde, Ministério da Educação",
+      "opinioes": [
+        "Reconhece a complexidade do processo de avaliação dos alunos de medicina.",
+        "Apoia a necessidade de aprimorar o sistema do REVALIDA para torná-lo mais eficiente.",
+        "Menciona que 40 mil brasileiros estudam medicina no exterior e que o Brasil precisa de médicos.",
+        "Descreve o treinamento oferecido pelo MEC a médicos formados no exterior para o Programa Mais Médicos."
+      ]
+    },
+    {
+      "nome": "Ulysses Tavares Teixeira",
+      "cargo": "Diretor de Avaliação da Educação Superior, INEP",
+      "opinioes": [
+        "Explicou detalhadamente o funcionamento do REVALIDA, suas etapas e os critérios de avaliação.",
+        "Defendeu a consistência e rigor do exame, destacando a participação de docentes brasileiros em todas as etapas.",
+        "Reconheceu os desafios de operacionalizar o exame para um grande número de candidatos.",
+        "Destacou a diferença nas taxas de aprovação entre instituições de diferentes países."
+      ]
+    },
+    {
+      "nome": "Elizabeth Regina Nunes Guedes",
+      "cargo": "Presidente da Associação Nacional das Universidades Particulares (ANUP)",
+      "opinioes": [
+        "Criticou a tramitação simplificada de validação de diplomas e a judicialização do processo.",
+        "Alertou sobre o impacto da pandemia e do ensino a distância na qualidade da formação médica.",
+        "Destacou a importância de consolidar a regulação da educação superior para evitar excessos e garantir qualidade."
+      ]
+    },
+    {
+      "nome": "Jeancarlo Cavalcante",
+      "cargo": "1º Vice-Presidente do Conselho Federal de Medicina",
+      "opinioes": [
+        "Defendeu o REVALIDA como um mecanismo essencial para garantir a qualidade dos médicos no Brasil.",
+        "Criticou o processo simplificado de revalidação de diplomas, defendendo maior rigor.",
+        "Afirmou que o REVALIDA utiliza metodologias avançadas e é alinhado com as melhores práticas internacionais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a baixa taxa de aprovação do REVALIDA, exame essencial para revalidar diplomas médicos estrangeiros no Brasil. O Deputado Evair Vieira de Melo destacou a necessidade de ajustes no sistema e maior autonomia financeira para as instituições de ensino. Ulysses Tavares Teixeira explicou o funcionamento do REVALIDA e os desafios operacionais. Francisco de Assis Rocha Neves e Elizabeth Regina Nunes Guedes discutiram a necessidade de aprimoramento e criticaram a tramitação simplificada de diplomas. Jeancarlo Cavalcante defendeu o rigor do REVALIDA e criticou a judicialização dos processos de revalidação. A audiência buscou identificar formas de melhorar o exame e garantir médicos qualificados no Brasil."
+}

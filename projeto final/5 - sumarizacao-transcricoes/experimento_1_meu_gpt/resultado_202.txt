@@ -1,0 +1,50 @@
+{
+  "assunto": "Discussão sobre o Projeto de Lei nº 114, de 2015, que regulamenta o exercício da profissão de quiropraxista.",
+  "envolvidos": [
+    {
+      "nome": "Alice Portugal",
+      "cargo": "Deputada (Bloco/PCdoB - BA), Presidente da audiência",
+      "opinioes": [
+        "Contextualizou a audiência pública destacando o processo de regulamentação de técnicas de saúde no Brasil, incluindo quiropraxia e osteopatia.",
+        "Mencionou que, historicamente, os cursos de quiropraxia no Brasil não tinham uma abordagem curricular ampla.",
+        "Afirmou que a regulamentação de profissões é necessária para garantir a eficácia e segurança das práticas."
+      ]
+    },
+    {
+      "nome": "Paulo Mayall Guilayn",
+      "cargo": "Coordenador de Democratização do Trabalho em Saúde, Ministério da Saúde",
+      "opinioes": [
+        "Reconheceu a importância da quiropraxia, mas não viu necessidade de uma regulamentação específica por lei.",
+        "Sugeriu que a quiropraxia poderia ser uma especialidade da fisioterapia ou medicina.",
+        "Propôs que a quiropraxia fosse incluída na Política Nacional de Práticas Integrativas e Complementares."
+      ]
+    },
+    {
+      "nome": "Daniel Facchini",
+      "cargo": "Presidente da Associação Brasileira de Quiropraxia (ABQ)",
+      "opinioes": [
+        "Destacou a necessidade de regulamentação para garantir a segurança dos pacientes e a formação adequada dos profissionais.",
+        "Argumentou que a quiropraxia é uma profissão distinta e não apenas uma técnica.",
+        "Enfatizou a importância do acesso ao atendimento quiroprático pela população."
+      ]
+    },
+    {
+      "nome": "Estevam Rivello",
+      "cargo": "Representante do Conselho Federal de Medicina",
+      "opinioes": [
+        "Expressou preocupações sobre a criação de novas profissões regulamentadas, ressaltando que já existem especialidades médicas e fisioterapêuticas adequadas para lidar com as questões abordadas pela quiropraxia.",
+        "Sugeriu que a subdivisão de especialidades poderia aumentar os custos e não necessariamente melhorar a qualidade da assistência."
+      ]
+    },
+    {
+      "nome": "Marcelo Renato Massahud Junior",
+      "cargo": "Conselheiro Federal de Fisioterapia e Terapia Ocupacional (COFFITO)",
+      "opinioes": [
+        "Afirmou que a quiropraxia já é uma prática regulamentada e executada por fisioterapeutas.",
+        "Criticou a criação de uma nova profissão baseada em uma técnica, considerando a quiropraxia como uma ferramenta dentro da fisioterapia.",
+        "Destacou a necessidade de regulamentação e fiscalização para evitar práticas inadequadas por profissionais sem formação adequada."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a regulamentação da profissão de quiropraxista, com opiniões divergentes sobre a necessidade de uma regulamentação específica. Os principais participantes incluíram a Deputada Alice Portugal, o Coordenador do Ministério da Saúde Paulo Mayall Guilayn, o Presidente da ABQ Daniel Facchini, o representante do CFM Estevam Rivello e o Conselheiro do COFFITO Marcelo Renato Massahud Junior. Houve consenso sobre a importância da segurança e formação adequada dos quiropraxistas, mas divergências sobre se a quiropraxia deveria ser uma profissão separada ou uma especialidade dentro de outras áreas da saúde."
+}

@@ -1,0 +1,46 @@
+{
+  "assunto": "Desafios e luta por direitos das mulheres na carreira científica",
+  "envolvidos": [
+    {
+      "nome": "Ana Pimentel",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Mulher",
+      "opinioes": [
+        "Agradece a presença e o apoio de várias reitoras e reitores, assim como o Observatório do Conhecimento, destacando a importância da colaboração para a realização da semana.",
+        "Destaca que a atividade faz parte da primeira Semana da Educação Superior na Câmara, organizada pela Frente Parlamentar Mista da Educação."
+      ]
+    },
+    {
+      "nome": "Mercedes Bustamante",
+      "cargo": "Presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)",
+      "opinioes": [
+        "Aborda a questão da feminização da pobreza e as diferenças de renda e trabalho não remunerado entre homens e mulheres na América Latina.",
+        "Enfatiza a importância da inclusão das mulheres na gestão das instituições de produção de conhecimento."
+      ]
+    },
+    {
+      "nome": "Luana Meneguelli Bonone",
+      "cargo": "Coordenadora-Geral de Popularização da Ciência e Tecnologia do Ministério da Ciência, Tecnologia e Inovação",
+      "opinioes": [
+        "Destaca que as mulheres são maioria em mestrado desde 1997 e em doutorado desde 2003, mas enfrentam desafios maiores para ascender na carreira acadêmica.",
+        "Menciona programas como o Futuras Cientistas e prêmios para mulheres inovadoras como iniciativas para aumentar a representatividade feminina na ciência e tecnologia."
+      ]
+    },
+    {
+      "nome": "Dalila Andrade Oliveira",
+      "cargo": "Diretora de Cooperação Institucional, Internacional e Inovação do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+      "opinioes": [
+        "Comenta sobre a maioria feminina nas bolsas de iniciação à pesquisa e pós-graduação, mas a minoria nas bolsas no exterior devido às dificuldades adicionais que enfrentam.",
+        "Destaca a importância da inclusão de políticas de ações afirmativas para promover a equidade de gênero na ciência."
+      ]
+    },
+    {
+      "nome": "Cristiana Ferreira Alves de Brito",
+      "cargo": "Pesquisadora da FIOCRUZ e Secretária Regional da SBPC em Minas Gerais",
+      "opinioes": [
+        "Salienta a falta de representatividade feminina em cargos de liderança e a importância da diversidade para a criatividade e inovação na ciência.",
+        "Aponta as barreiras que dificultam o avanço profissional das mulheres, como o viés inconsciente e a cultura científica dominada por homens."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública conjunta da Comissão de Defesa dos Direitos da Mulher e da Comissão de Ciência, Tecnologia e Inovação debateu os desafios e a luta por direitos das mulheres na carreira científica. A sessão, presidida por Ana Pimentel, contou com a participação de várias figuras importantes, incluindo Mercedes Bustamante (CAPES), Luana Bonone (MCTI), Dalila Oliveira (CNPq) e Cristiana Brito (FIOCRUZ). Entre os principais pontos discutidos estavam a feminização da pobreza, a inclusão das mulheres na gestão científica, a representatividade feminina em bolsas de pesquisa e a importância de políticas afirmativas para garantir equidade de gênero na ciência."
+}
