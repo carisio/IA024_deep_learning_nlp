@@ -1,0 +1,95 @@
+{
+  "assunto": "Violência contra mulheres com deficiência",
+  "envolvidos": [
+    {
+      "nome": "Iza Arruda",
+      "cargo": "Deputada, Bloco/MDB - PE",
+      "opinioes": [
+        "Destacou a importância de discutir a violência contra mulheres com deficiência para sensibilizar a sociedade e o aparato estatal.",
+        "Afirmou que a audiência visa discutir soluções práticas para a proteção e bem-estar dessas mulheres.",
+        "Mencionou a importância da inclusão e da acessibilidade em todos os aspectos sociais."
+      ]
+    },
+    {
+      "nome": "Tereza Nelma",
+      "cargo": "Ex-Deputada Federal, Secretária Nacional de Aquicultura",
+      "opinioes": [
+        "Enfatizou a invisibilidade da violência contra mulheres com deficiência, especialmente contra aquelas com deficiência intelectual.",
+        "Defendeu a inclusão do projeto Eu Me Protejo nas políticas públicas e sua divulgação nas escolas.",
+        "Ressaltou a necessidade de um maior número de delegacias especializadas e varas criminais para proteção das mulheres.",
+        "Alertou sobre a falta de pesquisas e políticas públicas direcionadas às mulheres com deficiência."
+      ]
+    },
+    {
+      "nome": "Pagu Rodrigues",
+      "cargo": "Coordenadora-Geral de Prevenção de Violência contra as Mulheres, Secretaria Nacional de Enfrentamento à Violência contra Mulheres, Ministério das Mulheres",
+      "opinioes": [
+        "Destacou a importância de enfrentar e prevenir a violência contra mulheres com deficiência.",
+        "Mencionou a invisibilidade da violência contra essas mulheres, mesmo com a obrigatoriedade de notificação prevista em lei.",
+        "Enfatizou a necessidade de consolidar políticas públicas que garantam os direitos das mulheres com deficiência.",
+        "Apresentou ações do Ministério das Mulheres, como o Diálogos pela Inclusão e o Pacto Nacional de Prevenção aos Feminicídios."
+      ]
+    },
+    {
+      "nome": "Anna Paula Feminella",
+      "cargo": "Secretária Nacional dos Direitos da Pessoa com Deficiência, Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Afirmou que a violência contra mulheres com deficiência é recorrente e muitas vezes perpetrada por cuidadores ou profissionais de serviços públicos.",
+        "Ressaltou a falta de inclusão das mulheres com deficiência nas delegacias e a subnotificação de casos de violência.",
+        "Destacou a importância de combater o capacitismo e promover políticas públicas inclusivas.",
+        "Mencionou o lançamento do plano Viver Sem Limite e outras ações para melhorar a qualidade de vida das pessoas com deficiência."
+      ]
+    },
+    {
+      "nome": "Arthur de Almeida Medeiros",
+      "cargo": "Coordenador-Geral de Saúde da Pessoa com Deficiência, Ministério da Saúde",
+      "opinioes": [
+        "Enfatizou a necessidade de revisar a Política Nacional de Saúde da Pessoa com Deficiência para incluir recortes de gênero e raça.",
+        "Mencionou a construção de policlínicas com equipamentos acessíveis para garantir o cuidado às mulheres com deficiência.",
+        "Defendeu a qualificação dos profissionais de saúde para identificar e notificar casos de violência.",
+        "Afirmou a importância da intersetorialidade no cuidado das pessoas com deficiência."
+      ]
+    },
+    {
+      "nome": "Monica Alves Silva",
+      "cargo": "Coordenadora-Geral de Proteção Social Especial de Média Complexidade, Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "opinioes": [
+        "Destacou a importância da política de assistência social no atendimento a pessoas em situação de vulnerabilidade.",
+        "Mencionou a necessidade de ampliar a cobertura da proteção social especializada.",
+        "Enfatizou a importância da participação social e dos movimentos na construção das políticas públicas.",
+        "Defendeu a visão sistêmica e multidimensional das vulnerabilidades e riscos sociais."
+      ]
+    },
+    {
+      "nome": "Marivaldo de Castro Pereira",
+      "cargo": "Secretário de Acesso à Justiça, Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "Destacou a importância de ter dados específicos sobre a violência contra mulheres com deficiência.",
+        "Enfatizou a necessidade de evitar a revitimização das vítimas nos órgãos públicos.",
+        "Defendeu o fortalecimento das políticas de prevenção à violência.",
+        "Mencionou a importância da comunicação e da educação para romper a cultura da violência contra a mulher."
+      ]
+    },
+    {
+      "nome": "Rosana Lago",
+      "cargo": "Fundadora e Coordenadora da Frente Nacional de Mulheres com Deficiência",
+      "opinioes": [
+        "Destacou a invisibilidade da violência contra mulheres com deficiência no ambiente doméstico.",
+        "Ressaltou a necessidade de políticas públicas interministeriais e investimentos adequados.",
+        "Enfatizou a importância da comunicação acessível para que as mulheres com deficiência possam denunciar a violência.",
+        "Defendeu a criação de projetos e políticas específicas para mulheres com deficiência."
+      ]
+    },
+    {
+      "nome": "Neusa Maria",
+      "cargo": "Coautora do projeto Eu Me Protejo, Fundadora e Coordenadora da Frente Nacional de Mulheres com Deficiência",
+      "opinioes": [
+        "Destacou a importância da prevenção à violência através da educação.",
+        "Mencionou que o projeto Eu Me Protejo trabalha a prevenção com foco na periferia.",
+        "Enfatizou a necessidade de não silenciar e não duvidar das crianças e mulheres que denunciam violência.",
+        "Ressaltou que muitas pessoas em situação de violência não se reconhecem como vítimas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou a violência contra mulheres com deficiência, destacando a necessidade de maior visibilidade, inclusão e políticas públicas eficazes para combater essa violência. Participaram Deputadas, Secretárias de Ministérios e representantes de organizações que discutiram a importância da prevenção, da qualificação dos profissionais de saúde, da assistência social e da criação de delegacias especializadas. Defendeu-se a urgência de políticas interministeriais e investimentos adequados para proteger essas mulheres, enfatizando a importância da comunicação acessível e da inclusão nos dados de violência."
+}

@@ -1,0 +1,43 @@
+{
+  "assunto": "Planejamento Estratégico da ANATEL para o quinquênio 2023-2027",
+  "envolvidos": [
+    {
+      "nome": "Amaro Neto",
+      "cargo": "Presidente da Comissão de Comunicação",
+      "opinioes": [
+        "A ANATEL desempenha um papel crucial na regulamentação e supervisão do setor de telecomunicações.",
+        "A universalização dos serviços de telecomunicações é um objetivo que precisa ser continuamente perseguido.",
+        "A qualidade dos serviços deve ser mantida e aprimorada.",
+        "A segurança cibernética é uma questão cada vez mais relevante."
+      ]
+    },
+    {
+      "nome": "Carlos Manuel Baigorri",
+      "cargo": "Presidente da ANATEL",
+      "opinioes": [
+        "Garantir um ambiente de justa concorrência nos mercados de comunicação é o desafio mais relevante.",
+        "Há uma grande assimetria regulatória entre serviços tradicionais e serviços prestados pela Internet.",
+        "A ANATEL precisa criar condições para uma concorrência justa, sem definir ganhadores e perdedores no mercado.",
+        "A ANATEL está discutindo a utilização do espectro de radiofrequência para garantir que ele seja utilizado em prol do cidadão.",
+        "A proteção do consumidor continua sendo uma pauta histórica e importante para a ANATEL.",
+        "A questão da segurança cibernética é cada vez mais importante.",
+        "É necessário repensar o papel do Estado no ecossistema digital.",
+        "A ANATEL está combatendo a pirataria de equipamentos de telecomunicações e conteúdos audiovisuais.",
+        "A ANATEL está atuando na regulamentação do uso de postes de energia elétrica para telecomunicações.",
+        "A ANATEL trabalha para equilibrar as obrigações de radiodifusão e serviços de mídia digital.",
+        "A revisão da legislação de telecomunicações é necessária para lidar com os desafios do século XXI.",
+        "A ANATEL participa de debates sobre inteligência artificial no âmbito da ONU.",
+        "A ANATEL acredita que a única forma de dar efetividade a um processo de regulação digital é por meio do acesso à infraestrutura."
+      ]
+    },
+    {
+      "nome": "Cezinha de Madureira",
+      "cargo": "Deputado Federal (Bloco/PSD - SP)",
+      "opinioes": [
+        "A atuação do Sr. Baigorri na presidência da ANATEL é elogiada pela elegância no atendimento aos parlamentares.",
+        "A situação caótica dos postes de energia elétrica em São Paulo precisa ser resolvida com firmeza."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Comunicação discutiu o Planejamento Estratégico da ANATEL para 2023-2027, com foco na garantia de justa concorrência, adaptação às novas tecnologias, combate à pirataria e segurança cibernética. O presidente da ANATEL, Carlos Manuel Baigorri, destacou a necessidade de repensar a regulamentação do setor para enfrentar os desafios do ecossistema digital, enquanto o deputado Amaro Neto enfatizou a importância da universalização e qualidade dos serviços de telecomunicações. O deputado Cezinha de Madureira elogiou a atuação da ANATEL e pediu soluções para a desordem nos postes de energia elétrica."
+}

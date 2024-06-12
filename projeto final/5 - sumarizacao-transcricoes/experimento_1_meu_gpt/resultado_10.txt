@@ -1,0 +1,79 @@
+{
+  "assunto": "Discussão sobre o fim do saque-aniversário do FGTS, proposto pelo Governo Federal.",
+  "envolvidos": [
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Deputado, PSB-PE",
+      "opinioes": [
+        "Presidiu a abertura da reunião e informou sobre a transmissão e publicação das imagens e pronunciamentos da audiência."
+      ]
+    },
+    {
+      "nome": "Capitão Alberto Neto",
+      "cargo": "Deputado, PL-AM",
+      "opinioes": [
+        "Autor do requerimento que convocou a audiência.",
+        "Acredita que o representante do Ministério do Trabalho deve ter mais tempo para explicar a proposta do Governo."
+      ]
+    },
+    {
+      "nome": "Carlos Augusto Simões Gonçalves Júnior",
+      "cargo": "Secretário de Proteção ao Trabalhador do Ministério do Trabalho e Emprego",
+      "opinioes": [
+        "Apresentou as premissas do Governo para eliminar o saque-aniversário e propor uma linha alternativa de financiamento.",
+        "Afirmou que o saque-aniversário ameaça a sustentabilidade do FGTS a longo prazo.",
+        "Defende que o FGTS deve proteger o trabalhador em caso de dispensa imotivada e financiar habitação, saneamento e infraestrutura."
+      ]
+    },
+    {
+      "nome": "Rafael Baldi",
+      "cargo": "Representante da FEBRABAN",
+      "opinioes": [
+        "Defende que o crédito garantido do FGTS não compromete a renda mensal do trabalhador.",
+        "Acredita que o saque-aniversário não compromete a sustentabilidade do fundo e propôs limitações para melhorar a modalidade."
+      ]
+    },
+    {
+      "nome": "Rodrigo Saraiva Marinho",
+      "cargo": "Diretor-Executivo do Instituto Livre Mercado",
+      "opinioes": [
+        "Criticou a intervenção do Governo na liberdade de escolha do trabalhador.",
+        "Defendeu que o saque-aniversário permite ao trabalhador trocar dívidas caras por dívidas mais baratas.",
+        "Afirmou que o fundo não foi desequilibrado pela modalidade do saque-aniversário."
+      ]
+    },
+    {
+      "nome": "Renato de Sousa Correia",
+      "cargo": "Presidente da Câmara Brasileira da Indústria da Construção (CBIC)",
+      "opinioes": [
+        "Afirmou que o saque-aniversário destrói os pilares do FGTS e prejudica o trabalhador.",
+        "Defendeu que o FGTS é essencial para financiar a habitação e reduzir o déficit habitacional no Brasil."
+      ]
+    },
+    {
+      "nome": "Alex Sander Moreira Gonçalves",
+      "cargo": "Diretor-Executivo de Crédito Consignado da ABBC",
+      "opinioes": [
+        "Apoiou a proposta do consignado do E-Social, mas defendeu a coexistência com o saque-aniversário.",
+        "Destacou que o saque-aniversário oferece crédito acessível a trabalhadores negativados e não compromete a renda mensal."
+      ]
+    },
+    {
+      "nome": "Henrique Lian",
+      "cargo": "Diretor-Executivo da Euroconsumers-Brasil",
+      "opinioes": [
+        "Defendeu que o saque-aniversário é uma política exitosa que deve ser mantida.",
+        "Afirmou que a eliminação da modalidade vai contra os princípios de livre-iniciativa e defesa do consumidor."
+      ]
+    },
+    {
+      "nome": "Mário Avelino",
+      "cargo": "Presidente do Instituto Fundo de Garantia do Trabalhador (IFGT)",
+      "opinioes": [
+        "Apoiou a eliminação do saque-aniversário, afirmando que compromete a sustentabilidade do fundo a longo prazo.",
+        "Defendeu que o FGTS deve ser usado principalmente para proteger o trabalhador e financiar habitação e infraestrutura."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a proposta do Governo Federal de eliminar o saque-aniversário do FGTS. Participaram representantes do Governo, bancos, indústria da construção e entidades de defesa do trabalhador e do consumidor. Os argumentos principais envolveram a sustentabilidade do fundo, a proteção dos trabalhadores e o financiamento da habitação. Houve consenso entre alguns participantes sobre a necessidade de mudanças, mas opiniões divergiram sobre a melhor abordagem. A proposta do Governo inclui a criação de uma linha de financiamento alternativa no E-Social, enquanto representantes dos bancos e do mercado defenderam a coexistência das modalidades para não prejudicar os trabalhadores."
+}

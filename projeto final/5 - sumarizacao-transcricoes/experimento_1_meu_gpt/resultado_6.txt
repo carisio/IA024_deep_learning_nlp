@@ -1,0 +1,55 @@
+{
+  "assunto": "Investigação de operações fraudulentas na gestão de empresas de serviços financeiros, especificamente relacionadas à empresa 123Milhas e seu produto de pacotes de viagem promocionais.",
+  "envolvidos": [
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Presidente da Comissão Parlamentar de Inquérito (CPI), Deputado pelo Bloco/Solidariedade - RJ",
+      "opinioes": [
+        "Destacou a necessidade de investigar as operações fraudulentas da 123Milhas.",
+        "Criticou a empresa por desrespeitar a CPI ao buscar audiência com o Ministro do Turismo no mesmo horário da audiência da Comissão.",
+        "Questionou sobre a sustentabilidade dos pacotes da Linha Promo e a relação da empresa com as companhias aéreas.",
+        "Expressou preocupação com o impacto negativo da suspensão de passagens sobre os consumidores."
+      ]
+    },
+    {
+      "nome": "Ricardo Silva",
+      "cargo": "Relator da CPI, Deputado pelo Bloco/PSD - SP",
+      "opinioes": [
+        "Enfatizou que a CPI está empenhada em ouvir todos os envolvidos e investigar profundamente os casos de fraude.",
+        "Mencionou a necessidade de transparência por parte dos convocados, independentemente de sua fama ou posição social.",
+        "Destacou o caso 123Milhas como emblemático e importante para a investigação da CPI."
+      ]
+    },
+    {
+      "nome": "Ramiro Julio Soares Madureira",
+      "cargo": "Sócio e administrador da 123Milhas",
+      "opinioes": [
+        "Pediu desculpas pelos transtornos causados aos ex-colaboradores, clientes, fornecedores e parceiros.",
+        "Explicou que a ausência em sessão anterior foi devido a reuniões para buscar soluções para atender os interesses dos clientes.",
+        "Defendeu a viabilidade da 123Milhas e a importância do diálogo com órgãos governamentais para solucionar os problemas.",
+        "Afirmou que a empresa iniciou um processo de recuperação judicial para honrar os compromissos com credores.",
+        "Justificou a suspensão das emissões de passagens e pacotes da Linha Promo devido ao comportamento inesperado do mercado de aviação.",
+        "Negou a utilização de recursos de novos clientes para pagar passagens de clientes antigos.",
+        "Explicou o funcionamento dos pacotes da Linha Promo e o momento oportuno para comprar passagens aéreas."
+      ]
+    },
+    {
+      "nome": "Igor Timo",
+      "cargo": "Deputado pelo Bloco/Podemos - MG",
+      "opinioes": [
+        "Questionou sobre a transparência e a saúde financeira da 123Milhas.",
+        "Sugeriu que a recuperação judicial poderia ser um artifício para ganhar tempo e evitar ações judiciais contra a empresa.",
+        "Destacou a importância de tratar a questão com clareza para defender o interesse público."
+      ]
+    },
+    {
+      "nome": "Frederico Horta",
+      "cargo": "Advogado da 123Milhas",
+      "opinioes": [
+        "Esclareceu que a empresa é corresponsável solidária nas transações de milhas e assumiu os débitos na recuperação judicial.",
+        "Defendeu a boa-fé da 123Milhas em buscar uma solução justa para os consumidores afetados."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão Parlamentar de Inquérito (CPI) teve como foco a investigação de operações fraudulentas na gestão da 123Milhas. O Presidente da CPI, Aureo Ribeiro, e o Relator, Ricardo Silva, destacaram a importância de ouvir todos os envolvidos e investigar profundamente o caso. Ramiro Julio Soares Madureira, sócio e administrador da 123Milhas, pediu desculpas pelos transtornos causados e explicou as ações tomadas pela empresa, incluindo a suspensão das emissões de passagens e o início do processo de recuperação judicial. O Deputado Igor Timo levantou questões sobre a transparência e a saúde financeira da empresa, enquanto o advogado Frederico Horta esclareceu a responsabilidade solidária da 123Milhas nas transações de milhas. A audiência trouxe à tona as complexidades envolvidas no modelo de negócios da 123Milhas e a necessidade de soluções justas para os consumidores prejudicados."
+}

@@ -1,0 +1,68 @@
+{
+  "assunto": "A importância das artes marciais como mecanismo de inclusão social",
+  "envolvidos": [
+    {
+      "nome": "Márcio Marinho",
+      "cargo": "Deputado Federal, Bloco/REPUBLICANOS - BA",
+      "opinioes": [
+        "Artes marciais promovem disciplina, respeito, autocontrole e superação pessoal.",
+        "São ferramentas importantes de inclusão social, oferecendo oportunidades de desenvolvimento pessoal e profissional para jovens em situação de vulnerabilidade."
+      ]
+    },
+    {
+      "nome": "Diogo Silva",
+      "cargo": "Assessor Especial do Ministério do Esporte",
+      "opinioes": [
+        "As artes marciais são importantes para o Brasil nos campos educacional, competitivo e olímpico.",
+        "A prática de artes marciais promove valores e disciplina, sendo uma educação passada de mestre para aluno.",
+        "A infraestrutura é essencial para a prática e desenvolvimento das artes marciais.",
+        "A favor do ensino de artes marciais nas escolas, acredita que toda criança deve praticá-las para uma formação cidadã qualificada."
+      ]
+    },
+    {
+      "nome": "Antonio da Silva Jesus (Toninho do Judô)",
+      "cargo": "Presidente da Associação Kamakura de Judô",
+      "opinioes": [
+        "Artes marciais proporcionam inclusão social, disciplina, respeito e valores.",
+        "Projetos sociais são fundamentais para oferecer artes marciais a crianças em situação de vulnerabilidade.",
+        "Necessidade de políticas públicas para fortalecer o esporte através das artes marciais."
+      ]
+    },
+    {
+      "nome": "Carlos Magno Paiva Felicio da Silveira",
+      "cargo": "Presidente da Federação do Distrito Federal de Muaythai",
+      "opinioes": [
+        "Artes marciais promovem salubridade física e mental, além de formação de caráter.",
+        "É importante integrar as artes marciais nas escolas e desenvolver um ambiente pedagógico.",
+        "As políticas públicas devem focar não só no esporte competitivo, mas também na formação cidadã."
+      ]
+    },
+    {
+      "nome": "Nicole Azevedo",
+      "cargo": "Presidente do Conselho Regional de Educação Física do Distrito Federal",
+      "opinioes": [
+        "A parceria entre federações de artes marciais e o Conselho Regional de Educação Física pode elevar o nível de formação profissional.",
+        "O esporte e as artes marciais promovem inclusão e acolhimento, oferecendo novas perspectivas de vida para crianças e adolescentes."
+      ]
+    },
+    {
+      "nome": "Danys Marques Maia Queiroz",
+      "cargo": "Presidente do Conselho Regional de Educação Física da 15ª Região",
+      "opinioes": [
+        "É essencial que os profissionais de artes marciais se qualifiquem em Educação Física para ensinar de forma correta.",
+        "As artes marciais educam através de valores, ensinando respeito à autoridade e resiliência.",
+        "Políticas públicas devem oportunizar que crianças tenham acesso às artes marciais desde cedo."
+      ]
+    },
+    {
+      "nome": "Cleiber Pinheiro Maia",
+      "cargo": "Presidente da Federação Sul-Americana de Sport Jiu-Jitsu",
+      "opinioes": [
+        "O jiu-jítsu pode ser uma ferramenta de inclusão, especialmente para pessoas com deficiências ou necessidades especiais.",
+        "As artes marciais devem ser vistas como instrumentos de pacificação social e integração.",
+        "Professores de jiu-jítsu e outras artes marciais devem se qualificar em Educação Física para trabalhar nas escolas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a importância das artes marciais como um mecanismo de inclusão social, destacando a necessidade de políticas públicas que promovam essa prática nas escolas e comunidades carentes. Participantes como Márcio Marinho, Diogo Silva, Antonio da Silva Jesus, Carlos Magno Paiva Felicio da Silveira, Nicole Azevedo, Danys Marques Maia Queiroz e Cleiber Pinheiro Maia discutiram o impacto positivo das artes marciais na disciplina, respeito, autocontrole e desenvolvimento pessoal dos jovens, defendendo a integração dessa prática no sistema educacional e a qualificação profissional dos instrutores."
+}

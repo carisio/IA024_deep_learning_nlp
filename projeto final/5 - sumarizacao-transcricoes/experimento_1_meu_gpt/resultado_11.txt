@@ -1,0 +1,75 @@
+{
+  "assunto": "Seca e crise ambiental e social no Nordeste em 2024: Previsões, gravidade e respostas do Parlamento.",
+  "envolvidos": [
+    {
+      "nome": "Fernando Mineiro",
+      "cargo": "Deputado Federal (Bloco/PT - RN)",
+      "opinioes": [
+        "Presidiu a audiência pública.",
+        "Anunciou os especialistas convidados para o debate.",
+        "Comentou sobre a importância das informações para o planejamento dos órgãos públicos estaduais, federais e municipais."
+      ]
+    },
+    {
+      "nome": "Regina Célia Santos Alvalá",
+      "cargo": "Diretora-Substituta do Centro Nacional de Monitoramento e Alertas de Desastres Naturais do Ministério de Ciência, Tecnologia e Inovação",
+      "opinioes": [
+        "Destacou a diminuição das chuvas na Região Nordeste do Brasil, especialmente nos estados da Bahia, Piauí, Tocantins e Maranhão.",
+        "Apresentou o Índice Integrado de Secas, que combina chuvas, umidade do solo e saúde da vegetação.",
+        "Disse que mais de 5 milhões de pessoas estão impactadas pela seca.",
+        "Mostrou previsões de chuvas para as próximas semanas e meses, com uma leve melhora esperada em janeiro."
+      ]
+    },
+    {
+      "nome": "Magna Soelma Beserra de Moura",
+      "cargo": "Pesquisadora em Agrometeorologia da Embrapa Semiárido",
+      "opinioes": [
+        "Falou sobre a variabilidade climática no Semiárido e o impacto do El Niño.",
+        "Destacou o histórico de chuvas em Petrolina e a variabilidade temporal associada aos eventos de El Niño.",
+        "Enfatizou a importância da pesquisa e desenvolvimento de cultivares resistentes a condições de seca.",
+        "Mencionou tecnologias como cisternas e barragens subterrâneas que ajudam a enfrentar a seca.",
+        "Disse que é crucial melhorar a convivência produtiva com a seca no Semiárido."
+      ]
+    },
+    {
+      "nome": "Carlos Nobre",
+      "cargo": "Pesquisador do Instituto de Estudos Avançados da Universidade de São Paulo",
+      "opinioes": [
+        "Alertou sobre o aumento da frequência de eventos climáticos extremos.",
+        "Disse que 2023 foi o ano mais quente do registro histórico.",
+        "Previu uma estação de seca muito pronunciada no Semiárido em 2024.",
+        "Afirmou que o Semiárido deve buscar desenvolvimento sustentável.",
+        "Discutiu a importância de explorar o potencial da biodiversidade brasileira."
+      ]
+    },
+    {
+      "nome": "Jose Almir Cirilo",
+      "cargo": "Secretário de Recursos Hídricos e Saneamento do Estado de Pernambuco - Consórcio Nordeste",
+      "opinioes": [
+        "Falou sobre as dificuldades enfrentadas pelos mananciais em se recuperar de secas anteriores.",
+        "Mencionou a importância da distribuição de água através de carros-pipa e a necessidade de fontes adequadas de alimentação para esses carros.",
+        "Recomendou o uso de energia solar para sistemas de bombeamento e dessalinização.",
+        "Destacou a importância de recuperar mananciais e barragens durante períodos de seca."
+      ]
+    },
+    {
+      "nome": "Johnny Amorim Liberato",
+      "cargo": "Técnico de Defesa Civil da Confederação Nacional dos Municípios",
+      "opinioes": [
+        "Expressou preocupação com os danos econômicos causados pela seca aos municípios nordestinos.",
+        "Disse que a Operação Carro-Pipa é crucial para o abastecimento de água em regiões afetadas.",
+        "Comentou sobre a burocracia envolvida na decretação de situação de emergência."
+      ]
+    },
+    {
+      "nome": "Paulo Pedro",
+      "cargo": "Coordenador Executivo da Articulação Semiárido Brasileiro pelo Estado de Pernambuco",
+      "opinioes": [
+        "Destacou a importância de políticas de convivência com a seca em vez de combate à seca.",
+        "Mencionou o programa Um Milhão de Cisternas como um exemplo de política bem-sucedida.",
+        "Falou sobre a necessidade de mais tecnologias de estocagem de água para melhorar a capacidade de convivência com o Semiárido."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública presidida pelo Deputado Fernando Mineiro discutiu a seca e a crise ambiental e social no Nordeste em 2024. Foram apresentadas previsões e análises sobre a situação da seca na região, destacando a diminuição das chuvas e os impactos negativos na população e na agricultura. Especialistas como Regina Célia Santos Alvalá e Magna Soelma Beserra de Moura destacaram a importância do monitoramento climático e das tecnologias para melhorar a convivência com a seca. Carlos Nobre alertou sobre o aumento dos eventos climáticos extremos e a necessidade de um desenvolvimento sustentável. Jose Almir Cirilo e Johnny Amorim Liberato enfatizaram a necessidade de ações emergenciais e estruturantes, como o uso de carros-pipa e energia solar para bombeamento de água. Paulo Pedro reforçou a importância de políticas de convivência com a seca, como o programa Um Milhão de Cisternas."
+}

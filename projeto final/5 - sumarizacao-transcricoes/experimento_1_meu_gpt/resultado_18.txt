@@ -1,0 +1,63 @@
+{
+  "assunto": "Discussão do Programa Institucional de Bolsa de Iniciação à Docência (PIBID)",
+  "envolvidos": [
+    {
+      "nome": "Dandara",
+      "cargo": "Deputada, Bloco/PT - MG",
+      "opinioes": [
+        "O PIBID contribuiu enormemente para a formação e deve ser fortalecido.",
+        "É preocupante ver pesquisas que mostram menos jovens interessados em ser professores.",
+        "A profissão de professor está sendo atacada, criando um estigma que criminaliza o ato de educar.",
+        "A luta inclui a aprovação do PL 3.970/21 para tornar o PIBID uma política nacional e sua inclusão no novo Plano Nacional de Educação (PNE)."
+      ]
+    },
+    {
+      "nome": "Mercedes Maria da Cunha Bustamante",
+      "cargo": "Presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)",
+      "opinioes": [
+        "A CAPES tem um papel fundamental na formação de professores da educação básica desde 2007.",
+        "É importante manter a CAPES em suas atribuições de programas de formação de professores.",
+        "A aprovação do primeiro doutorado profissional para professores da educação básica, como o Profhistória, mostra a importância de ter doutores na sala de aula."
+      ]
+    },
+    {
+      "nome": "Mariana Breim",
+      "cargo": "Diretora de Políticas Educacionais do Instituto Península",
+      "opinioes": [
+        "É fundamental garantir a formação de professores bem preparados para alcançar uma educação de qualidade.",
+        "A formação docente deve ser um espaço de criatividade, autonomia e garantia de direitos de aprendizagem."
+      ]
+    },
+    {
+      "nome": "Manuella Mirella",
+      "cargo": "Presidente da União Nacional dos Estudantes (UNE)",
+      "opinioes": [
+        "A permanência de estudantes na universidade é crucial para o desenvolvimento do país.",
+        "O PIBID deve ser mantido como uma política de Estado para garantir a formação de professores."
+      ]
+    },
+    {
+      "nome": "Hélder Eterno da Silveira",
+      "cargo": "Presidente do Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileiras (FORPROEX)",
+      "opinioes": [
+        "O PIBID deve ser fortalecido e institucionalizado para garantir a formação contínua de professores."
+      ]
+    },
+    {
+      "nome": "Raquel Nery",
+      "cargo": "Coordenadora do PIBID da Universidade Federal da Bahia",
+      "opinioes": [
+        "É importante a plena retomada da Resolução nº 2, de 2015, que orientava o PIBID.",
+        "A valorização do professor não coincide com a realidade enfrentada pelos docentes da educação básica."
+      ]
+    },
+    {
+      "nome": "Nilson Cardoso",
+      "cargo": "Vice-Presidente da Associação Nacional pela Formação dos Profissionais da Educação",
+      "opinioes": [
+        "O fortalecimento da dotação orçamentária é essencial para a manutenção e expansão do PIBID."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a importância e os desafios do Programa Institucional de Bolsa de Iniciação à Docência (PIBID). A Deputada Dandara destacou a relevância do programa na formação de professores e a necessidade de aprovar o PL 3.970/21 para torná-lo uma política nacional. Mercedes Bustamante, presidente da CAPES, ressaltou o papel da CAPES na formação de professores e a necessidade de manter suas atribuições. Outros participantes, incluindo líderes de instituições educacionais e associações, enfatizaram a importância do PIBID para o desenvolvimento educacional e a necessidade de garantir sua continuidade e financiamento. O debate também abordou a valorização do professor e a necessidade de políticas que apoiem a formação docente de qualidade."
+}

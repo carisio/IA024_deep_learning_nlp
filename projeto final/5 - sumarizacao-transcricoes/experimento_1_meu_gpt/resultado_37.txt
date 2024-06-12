@@ -1,0 +1,53 @@
+{
+  "assunto": "Ações e propostas da Secretaria Nacional de Paradesporto para os próximos anos",
+  "envolvidos": [
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Deputado Federal, Presidente da Comissão",
+      "opinioes": [
+        "O esporte é uma ferramenta poderosa para a transformação social e é dever assegurar acesso igualitário às práticas esportivas.",
+        "Estimular o esporte paralímpico em ambientes educacionais promove inclusão e respeito à diversidade.",
+        "A inclusão e o desenvolvimento do esporte para pessoas com deficiência são de grande relevância."
+      ]
+    },
+    {
+      "nome": "Fábio Augusto Lima de Araujo",
+      "cargo": "Secretário Nacional de Paradesporto",
+      "opinioes": [
+        "A SNPAR visa democratizar o acesso das pessoas com deficiência ao paradesporto e à atividade física regular.",
+        "O esporte é essencial para a promoção da saúde e cidadania plena das pessoas com deficiência.",
+        "A necessidade de aumentar a visibilidade do paradesporto e apoiar modalidades não paralímpicas.",
+        "Enfrentar desafios institucionais, financeiros e sociais para melhorar a gestão esportiva e capacitação de gestores.",
+        "Promover programas como TEAtivo e Paradesporto Brasil em Rede para atender pessoas com deficiência."
+      ]
+    },
+    {
+      "nome": "Nayara Karin Falcão de Oliveira",
+      "cargo": "Diretora de Projetos Paradesportivos de Educação, Lazer e Inclusão Social",
+      "opinioes": [
+        "A deficiência é uma característica humana e precisamos reconhecer a humanidade das pessoas com deficiência.",
+        "O esporte resgata a pessoa com deficiência de si mesma e é uma ferramenta de inserção psicossocial.",
+        "Há uma necessidade de ampliar a inclusão comunicacional e acessibilidade arquitetônica e programática.",
+        "A representatividade das pessoas com deficiência na sociedade é essencial."
+      ]
+    },
+    {
+      "nome": "Augusto Puppio",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "A instituição da Subcomissão Permanente do Paradesporto é um passo importante para o reconhecimento e investimento no paradesporto.",
+        "O esporte representa muletas psicológicas e sociais essenciais."
+      ]
+    },
+    {
+      "nome": "Luiz Lima",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "A inclusão social se inicia com o fortalecimento pessoal das pessoas com deficiência.",
+        "É importante valorizar os municípios que já têm políticas públicas voltadas ao paradesporto.",
+        "A Secretaria Nacional de Paradesporto deve ser abraçada e receber um orçamento adequado."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu as ações e propostas da Secretaria Nacional de Paradesporto (SNPAR) para os próximos anos, focando na democratização do acesso ao paradesporto e na promoção da inclusão social das pessoas com deficiência. Dr. Zacharias Calil enfatizou a importância do esporte para a transformação social e inclusão. Fábio Augusto Lima de Araujo detalhou as missões da SNPAR, destacando a necessidade de aumentar a visibilidade e o apoio às modalidades não paralímpicas. Nayara Karin Falcão de Oliveira falou sobre a deficiência como característica humana e a importância da inclusão comunicacional e representatividade. Deputados Augusto Puppio e Luiz Lima reforçaram o compromisso com o paradesporto, mencionando a criação da Subcomissão Permanente do Paradesporto e a importância de um orçamento adequado para a Secretaria."
+}

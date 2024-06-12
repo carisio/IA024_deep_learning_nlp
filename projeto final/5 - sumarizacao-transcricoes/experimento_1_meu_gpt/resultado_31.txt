@@ -1,0 +1,76 @@
+{
+  "assunto": "Formação de professores da educação básica no contexto do Programa Nacional de Formação de Professores da Educação Básica (PARFOR)",
+  "envolvidos": [
+    {
+      "nome": "Professora Goreth",
+      "cargo": "Deputada, Bloco/PDT - AP",
+      "opinioes": [
+        "Importância de concursos públicos para a permanência dos professores na rede.",
+        "Necessidade de garantir que professores possam frequentar e concluir o curso do PARFOR.",
+        "Acompanhamento dos efeitos do PARFOR nos currículos da formação de professores.",
+        "Garantia de orçamento para manutenção e ampliação dos programas da Diretoria de Formação de Professores."
+      ]
+    },
+    {
+      "nome": "Socorro Neri",
+      "cargo": "Deputada, Bloco/PP - AC",
+      "opinioes": [
+        "Importância do PARFOR para a qualidade da educação básica no Brasil.",
+        "Discussão do fator amazônico para que o custo amazônico seja uma realidade.",
+        "Compromisso com a formação de professores e apoio à continuidade do PARFOR.",
+        "Criticou a expansão da educação a distância para a formação de professores."
+      ]
+    },
+    {
+      "nome": "Marcia Serra Ferreira",
+      "cargo": "Diretora de Formação de Professores da Educação Básica da CAPES",
+      "opinioes": [
+        "Defende a formação em nível superior para professores da educação básica.",
+        "Apoio à política pública do PARFOR e a importância de seu financiamento.",
+        "Necessidade de um acompanhamento sistemático dos cursos de formação de professores.",
+        "Importância do diálogo entre entes federados para a distribuição equitativa dos recursos."
+      ]
+    },
+    {
+      "nome": "Suzane da Rocha Vieira Gonçalves",
+      "cargo": "Presidente da Associação Nacional pela Formação dos Profissionais da Educação (ANFOPE)",
+      "opinioes": [
+        "Defende a construção de uma política nacional permanente de formação de professores.",
+        "Reconhece a importância do PARFOR e sua continuidade.",
+        "Necessidade de ampliação do financiamento e das vagas do PARFOR.",
+        "Crítica às políticas educacionais feitas por programas em vez de políticas de Estado."
+      ]
+    },
+    {
+      "nome": "Mark Clark Assen de Carvalho",
+      "cargo": "Presidente do Fórum Nacional de Coordenadores Institucionais do Plano Nacional de Formação de Professores da Educação Básica",
+      "opinioes": [
+        "Apoio à continuidade do PARFOR como política de formação de professores.",
+        "Necessidade de um edital robusto e significativo que atenda às reais necessidades de formação das redes.",
+        "Importância da pactuação e colaboração com os municípios.",
+        "Reconhecimento das assimetrias regionais na formação de professores."
+      ]
+    },
+    {
+      "nome": "Romilson Martins Siqueira",
+      "cargo": "Diretor-Executivo da Associação Nacional de Política e Administração da Educação (ANPAE)",
+      "opinioes": [
+        "Crítica à elaboração de novas diretrizes de formação de professores sem a participação das entidades e universidades.",
+        "Apoio à Resolução nº 2, de 2015, para a formação de professores.",
+        "Defende uma política articulada e permanente para a formação de professores.",
+        "Necessidade de financiamento adequado para a continuidade e expansão do PARFOR."
+      ]
+    },
+    {
+      "nome": "Mariana Breim",
+      "cargo": "Diretora de Políticas Educacionais do Instituto Península",
+      "opinioes": [
+        "Necessidade de um plano efetivo baseado em dados objetivos.",
+        "Importância da formação de professores no local de trabalho para entender a realidade dos professores da educação básica.",
+        "Apoio ao diálogo com os municípios para melhorar a pactuação e colaboração no PARFOR.",
+        "Sugere que o PARFOR se torne uma política de Estado permanente e não dependente de editais periódicos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Educação debateu a formação de professores da educação básica no contexto do PARFOR. Os principais envolvidos foram a Deputada Professora Goreth, a Deputada Socorro Neri, a Diretora da CAPES Marcia Serra Ferreira, a Presidente da ANFOPE Suzane da Rocha Vieira Gonçalves, o Presidente do FORPARFOR Mark Clark Assen de Carvalho, o Diretor-Executivo da ANPAE Romilson Martins Siqueira e a Diretora do Instituto Península Mariana Breim. Todos destacaram a importância do PARFOR, a necessidade de financiamento adequado, a fixação de professores, a pactuação com os municípios e a urgência de se constituir uma política nacional permanente de formação de professores."
+}

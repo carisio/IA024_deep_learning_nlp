@@ -1,0 +1,83 @@
+{
+  "assunto": "Debate sobre os impactos socioambientais em Maceió devido à mineração pela Braskem",
+  "envolvidos": [
+    {
+      "nome": "Ivan Valente",
+      "cargo": "Deputado (PSOL - SP), Presidente da Comissão",
+      "opinioes": [
+        "A questão da Braskem é mais uma crônica de desastres anunciados.",
+        "Há uma CPI aberta no Senado Federal sobre a questão da Braskem e proposta de abertura de CPI na Câmara dos Deputados.",
+        "A mineração no Brasil é marcada pela impunidade das grandes empresas como Samarco, Vale e Braskem.",
+        "A Braskem, assim como outras grandes mineradoras, não quer prestar satisfação à Câmara dos Deputados."
+      ]
+    },
+    {
+      "nome": "Diego Bruno Martins Alves",
+      "cargo": "Defensor Público da União",
+      "opinioes": [
+        "O caso Braskem significa a maior tragédia ambiental em curso no Brasil, causando danos materiais, morais, mentais e socioemocionais.",
+        "A Defensoria Pública da União trabalha há 5 anos para garantir reparação integral aos atingidos.",
+        "O primeiro acordo celebrado foi extremamente válido e histórico, garantindo a desocupação de mais de 60 mil pessoas de uma área de risco com dignidade.",
+        "Mais de 18 mil propostas de indenização foram aceitas, com um índice de aceitação de mais de 99%."
+      ]
+    },
+    {
+      "nome": "Cássio Araújo",
+      "cargo": "Representante do Movimento Unificado das Vítimas da Braskem",
+      "opinioes": [
+        "As vítimas não têm participação nas decisões tomadas em nome delas.",
+        "O poder de negociação foi colocado nas mãos da Braskem, sem diminuição de seu poder.",
+        "A Braskem fez propostas indecorosas e irrisórias que foram aceitas pelas vítimas em condição de alta vulnerabilidade.",
+        "Áreas como Flexais, Quebradas, Marquês de Abrantes, Bom Parto e Vila Saem ainda não foram adequadamente indenizadas.",
+        "A transferência de propriedade para a Braskem é ilegal e indecorosa."
+      ]
+    },
+    {
+      "nome": "Paulo César Pereira Marques",
+      "cargo": "Representante do Movimento pela Soberania Popular na Mineração (MAM)",
+      "opinioes": [
+        "A tragédia da Braskem em Alagoas deveu-se à extração irregular de sal-gema.",
+        "A realocação de mais de 60 mil pessoas foi feita durante a pandemia, agravando a situação das vítimas.",
+        "Muitas pessoas aceitaram acordos com a Braskem devido à crise e à insegurança constante.",
+        "Outros bairros atingidos pela Braskem ainda lutam por uma indenização justa e garantia de direitos mínimos."
+      ]
+    },
+    {
+      "nome": "Duda Salabert",
+      "cargo": "Deputada (PDT - MG)",
+      "opinioes": [
+        "O caso da Braskem em Maceió é o maior crime socioambiental em curso no Brasil.",
+        "Minas Gerais, seu estado, também sofre com crimes de mineradoras, como os casos de Brumadinho e Mariana.",
+        "Há uma relação íntima entre os crimes ambientais em Maceió e em Minas Gerais, demonstrando um padrão criminoso e irresponsável das mineradoras.",
+        "Os donos da Braskem deveriam estar presos pelos crimes cometidos."
+      ]
+    },
+    {
+      "nome": "Alexandre Sampaio",
+      "cargo": "Presidente da Associação dos Empreendedores e Vítimas da Mineração em Maceió",
+      "opinioes": [
+        "A associação entrou com uma notícia-crime contra a Braskem por crime ambiental e fraude no licenciamento ambiental.",
+        "A Agência Nacional de Mineração foi acusada de omissão completa no processo de fiscalização.",
+        "O IMA emitiu licenças em desacordo com a lei, e o BNDES financiou atividades criminosas.",
+        "Mais de 70 mil pessoas foram deslocadas sem uma indenização adequada, apenas uma compensação limitada."
+      ]
+    },
+    {
+      "nome": "Jean Paul Pereira Melo",
+      "cargo": "Representante do Instituto do Meio Ambiente do Estado de Alagoas",
+      "opinioes": [
+        "A atividade de mineração na região teve início nos anos 60, com concessão de lavra emitida pelo Governo Federal em 1970.",
+        "A mineração começou no fim de 1975, com a concessão de lavra emitida pelo DNPM, atual ANM."
+      ]
+    },
+    {
+      "nome": "Roberta Lima Barbosa Bomfim",
+      "cargo": "Procuradora-Chefe da Procuradoria da República em Alagoas",
+      "opinioes": [
+        "A deficiência da legislação minerária e as limitações no sistema de defesa civil dificultam a gestão de desastres crônicos.",
+        "Destaca a importância da participação do Parlamento no processo para abordar temas de desastres ambientais crônicos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os impactos socioambientais em Maceió devido à mineração pela Braskem. Participantes destacaram a gravidade dos danos materiais e morais causados pela mineradora, a impunidade das grandes empresas de mineração e a necessidade de uma regulamentação mais rígida. Houve críticas à falta de participação das vítimas nas decisões e ao processo de negociação de indenizações. Deputados e representantes de movimentos sociais enfatizaram a importância de responsabilizar criminalmente os responsáveis e de buscar justiça para as comunidades afetadas."
+}

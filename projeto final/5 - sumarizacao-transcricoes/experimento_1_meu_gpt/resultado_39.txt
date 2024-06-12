@@ -1,0 +1,59 @@
+{
+  "assunto": "Forças Armadas e a política: limites constitucionais",
+  "envolvidos": [
+    {
+      "nome": "Rui Falcão",
+      "cargo": "Presidente da Comissão de Constituição e Justiça e de Cidadania (CCJC)",
+      "opinioes": [
+        "Abertura da audiência pública para discutir os limites constitucionais da atuação das Forças Armadas."
+      ]
+    },
+    {
+      "nome": "Raul Jungmann",
+      "cargo": "Ex-Ministro da Defesa",
+      "opinioes": [
+        "Defendeu que as Forças Armadas devem estar subordinadas ao Presidente da República e não possuem poder autônomo.",
+        "Criticou a falta de discussão no Congresso sobre a Política Nacional de Defesa, a Estratégia Nacional de Defesa e o Livro Branco de Defesa Nacional.",
+        "Sugeriu que servidores públicos, ao entrarem na política, devem se desligar de suas corporações de origem para evitar contaminação política."
+      ]
+    },
+    {
+      "nome": "Adriana Aparecida Marques",
+      "cargo": "Professora adjunta do Bacharelado em Defesa e Gestão Estratégica Internacional da UFRJ",
+      "opinioes": [
+        "Criticou a falta de atualização e revisão dos documentos normativos de defesa.",
+        "Defendeu maior participação de mulheres e minorias na elaboração da Política Nacional de Defesa.",
+        "Apontou a necessidade de reestruturação do Ministério da Defesa e criticou a atribuição de tarefas não relacionadas à defesa, como o esporte de alto rendimento."
+      ]
+    },
+    {
+      "nome": "Felipe Santa Cruz",
+      "cargo": "Ex-Presidente Nacional da Ordem dos Advogados do Brasil (OAB)",
+      "opinioes": [
+        "Afirmou que a Constituição de 1988 submeteu as Forças Armadas ao poder civil.",
+        "Reiterou que as Forças Armadas não possuem poder moderador e estão subordinadas ao Presidente da República.",
+        "Destacou a importância de afastar militares da vida política para preservar a credibilidade das Forças Armadas."
+      ]
+    },
+    {
+      "nome": "Sérgio Westephalen Etchegoyen",
+      "cargo": "Ex-Ministro Chefe do Gabinete de Segurança Institucional da Presidência da República",
+      "opinioes": [
+        "Afirmou que as Forças Armadas são instituições permanentes e fundamentais para a soberania nacional.",
+        "Defendeu que as operações de garantia da lei e da ordem são conduzidas sob comando civil.",
+        "Destacou a importância de separar as funções políticas das Forças Armadas e criticou a falta de capacidade dos Estados em garantir a segurança pública sem a intervenção das Forças Armadas."
+      ]
+    },
+    {
+      "nome": "Manuel Domingos Neto",
+      "cargo": "Historiador, professor e ex-Deputado Federal",
+      "opinioes": [
+        "Defendeu uma revisão profunda dos instrumentos de força do Estado e uma nova concepção de defesa nacional.",
+        "Criticou a primazia da força terrestre sobre a capacidade aeronaval.",
+        "Destacou a necessidade de uma reforma simultânea da defesa nacional e da segurança pública.",
+        "Afirmou que as Forças Armadas brasileiras têm um distúrbio de personalidade funcional, não sabendo se são militares ou policiais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou os limites constitucionais da atuação das Forças Armadas no Brasil, com destaque para a necessidade de subordinação ao poder civil, a revisão e atualização dos documentos normativos de defesa, e a separação das funções políticas das Forças Armadas. Os participantes, incluindo ex-ministros, professores e advogados, defenderam a importância de um debate mais amplo e inclusivo sobre a política de defesa nacional, a necessidade de maior participação de mulheres e minorias, e a urgência de afastar militares da vida política para preservar a credibilidade das Forças Armadas."
+}

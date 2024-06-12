@@ -1,0 +1,64 @@
+{
+  "assunto": "Importância do Biometano no Transporte",
+  "envolvidos": [
+    {
+      "nome": "Júnior Ferrari",
+      "cargo": "Presidente da Comissão de Minas e Energia",
+      "opinioes": [
+        "Abriu a audiência pública destinada ao debate sobre a importância do biometano no transporte.",
+        "Agradeceu a presença dos convidados e destacou a importância do biometano para a descarbonização da atmosfera."
+      ]
+    },
+    {
+      "nome": "Gustavo Bonini",
+      "cargo": "Diretor Institucional da Scania Latin America e representante da Associação Brasileira do Biogás (ABIOGÁS)",
+      "opinioes": [
+        "Destacou a importância do biometano e do gás natural como combustíveis parceiros na transição energética.",
+        "Afirmou que o biometano é uma alternativa viável para a sustentabilidade e que não concorre com o gás natural.",
+        "Ressaltou a importância de políticas públicas que incentivem o uso de biocombustíveis e a necessidade de infraestrutura adequada."
+      ]
+    },
+    {
+      "nome": "Rogerio Manso",
+      "cargo": "Presidente da Associação de Empresas de Transporte de Gás Natural por Gasoduto (ATGÁS)",
+      "opinioes": [
+        "Apresentou a atividade de transporte de gás natural e sua importância para o sistema energético.",
+        "Destacou a necessidade de investimentos e a importância da compatibilidade do sistema de transporte com o biometano.",
+        "Enfatizou que o transporte de gás natural é essencial para conectar a produção às distribuidoras e, em última instância, aos consumidores."
+      ]
+    },
+    {
+      "nome": "Celso Sá Bastos",
+      "cargo": "Representante do Grupo Urca Energia",
+      "opinioes": [
+        "Apoiou o uso de biometano e GNV na matriz energética nacional.",
+        "Ressaltou a necessidade de políticas públicas para incentivar o uso desses combustíveis."
+      ]
+    },
+    {
+      "nome": "Marcelo Mendonça",
+      "cargo": "Diretor Técnico-Comercial da Associação Brasileira das Empresas Distribuidoras de Gás Canalizado (ABEGÁS)",
+      "opinioes": [
+        "Comentou sobre a importância da descarbonização e do uso de biometano e gás natural para a sustentabilidade.",
+        "Enfatizou que a integração do biometano com o sistema de transporte de gás natural é essencial para expandir o mercado."
+      ]
+    },
+    {
+      "nome": "Tulio Correa",
+      "cargo": "Coordenador de Marketing do Produto da Iveco Group",
+      "opinioes": [
+        "Discutiu o desenvolvimento de veículos movidos a biometano e sua implementação no mercado brasileiro.",
+        "Destacou a experiência da Iveco com veículos a gás na Europa e em outros países, garantindo a maturidade tecnológica da solução."
+      ]
+    },
+    {
+      "nome": "Tiago Samos Santovito",
+      "cargo": "Gerente Executivo de Regulação, Transporte e Distribuição de Gás Natural do Instituto Brasileiro de Petróleo e Gás (IBP)",
+      "opinioes": [
+        "Enfatizou a importância de se trabalhar com incrementos percentuais na descarbonização para expandir o uso do biometano.",
+        "Afirmou que o biometano é compatível com o sistema de transporte de gás natural e que os investimentos devem acompanhar o crescimento da oferta."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Minas e Energia discutiu a importância do biometano no transporte, com foco na descarbonização e sustentabilidade. Participantes como Gustavo Bonini, Rogerio Manso, Marcelo Mendonça, Tulio Correa, e Tiago Samos Santovito destacaram a viabilidade e a necessidade de políticas públicas para incentivar o uso de biometano, além da importância da infraestrutura e integração com o sistema de gás natural. O debate enfatizou a urgência de investimentos e a colaboração entre setor público e privado para promover o desenvolvimento tecnológico e comercial desse biocombustível no Brasil."
+}

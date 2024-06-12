@@ -1,0 +1,65 @@
+{
+  "assunto": "Minirreforma eleitoral com vistas às eleições municipais de 2024",
+  "envolvidos": [
+    {
+      "nome": "Walber Agra",
+      "cargo": "Acadêmico, Livre Docente da USP",
+      "opinioes": [
+        "Propõe que modificações no cômputo de votos apenas sejam válidas para a próxima eleição para evitar insegurança jurídica.",
+        "Sugere antecipar as convenções para o período de 1º a 20 de junho e o prazo de registro para 1º de julho do ano da eleição para garantir tempo hábil para julgamentos.",
+        "Defende a liberação total da pré-campanha, permitindo todos os atos exceto a confecção de material de campanha, contratação de militância e vedação de material na rua."
+      ]
+    },
+    {
+      "nome": "Rubens Pereira Júnior",
+      "cargo": "Presidente da Sessão, Deputado do PT-MA",
+      "opinioes": [
+        "Mencionou que algumas sugestões de Walber Agra já foram debatidas, como candidaturas coletivas e a alteração do cômputo de votos.",
+        "Comentou sobre a divisão do Supremo Tribunal Federal quanto à modulação dos efeitos da discussão sobre o cômputo de votos."
+      ]
+    },
+    {
+      "nome": "Samara Castro",
+      "cargo": "Diretora de Promoção da Liberdade de Expressão da Presidência da República",
+      "opinioes": [
+        "Propõe medidas para garantir a transparência e a segurança jurídica do processo eleitoral.",
+        "Defende a proteção das mulheres contra a violência política e a promoção de transparência ativa na propaganda na Internet.",
+        "Sugere o reconhecimento dos gastos com segurança e cuidados para mulheres candidatas como despesas legítimas na prestação de contas."
+      ]
+    },
+    {
+      "nome": "Thiago Boverio",
+      "cargo": "Coordenador do grupo de trabalho da Coordenação da Advocacia Partidária",
+      "opinioes": [
+        "Destaca a importância da transparência e a necessidade de simplificação sem perder a garantia republicana.",
+        "Sugere acabar com a prestação de contas parciais para vereadores em cidades com até 50 mil habitantes.",
+        "Propõe que a propaganda eleitoral deve ser mais flexível, criticando restrições como o tamanho e a localização de adesivos."
+      ]
+    },
+    {
+      "nome": "Rodrigo Lopez Zilio",
+      "cargo": "Representante da CONAMP – Associação Nacional dos Membros do Ministério Público",
+      "opinioes": [
+        "Levanta a necessidade de um equilíbrio entre a liberdade de expressão e a isonomia entre os competidores eleitorais.",
+        "Defende a inclusão de temas digitais na legislação eleitoral para lidar com novos desafios como ataques online e desinformação."
+      ]
+    },
+    {
+      "nome": "Renildo Calheiros",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Argumenta que, inevitavelmente, todos os partidos políticos brasileiros irão se federar para futuras eleições devido às mudanças legislativas.",
+        "Ressalta a insegurança jurídica no sistema eleitoral e a importância de debates permanentes para buscar segurança na legislação."
+      ]
+    },
+    {
+      "nome": "Isnaldo Bulhões Jr.",
+      "cargo": "Deputado do MDB-AL",
+      "opinioes": [
+        "Enfatiza a importância de debates permanentes para buscar segurança na legislação eleitoral.",
+        "Parabeniza a condução do debate e a participação de diversos especialistas na discussão."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a minirreforma eleitoral visando às eleições municipais de 2024. Os participantes propuseram diversas mudanças para melhorar a transparência, segurança jurídica e eficiência do processo eleitoral. Walber Agra sugeriu antecipar prazos de convenções e registros e liberar a pré-campanha. Samara Castro destacou a proteção das mulheres na política e a transparência na propaganda digital. Thiago Boverio e Rodrigo Lopez Zilio enfatizaram a simplificação e transparência na prestação de contas e propaganda. Renildo Calheiros e Isnaldo Bulhões Jr. ressaltaram a necessidade de debates contínuos para assegurar a segurança jurídica na legislação eleitoral."
+}

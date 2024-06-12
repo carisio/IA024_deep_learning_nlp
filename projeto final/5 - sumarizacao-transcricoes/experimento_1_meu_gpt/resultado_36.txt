@@ -1,0 +1,64 @@
+{
+  "assunto": "Discussão sobre os Projetos de Lei nº 1.565, de 2019 e nº 877, de 2022, que alteram a Lei nº 9.537, de 1997 (LESTA), visando regulamentar o serviço de praticagem no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Coronel Meira",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Destaca a necessidade de unir forças para alcançar um denominador comum em prol do povo brasileiro.",
+        "Esclarece que a audiência visa discutir os PLs nº 1.565, de 2019, e nº 877, de 2022, que alteram a LESTA para regulamentar o serviço de praticagem."
+      ]
+    },
+    {
+      "nome": "Bruna Roncel",
+      "cargo": "Representante da ABAC",
+      "opinioes": [
+        "Defende o PL nº 4.392, de 2020, do Deputado Alceu Moreira, e o PL nº 757, de 2011, do Poder Executivo.",
+        "Afirma que os práticos exercem uma posição dominante e que os reajustes estão acima dos índices de inflação.",
+        "Ressalta que a regulação econômica é a solução mais eficaz para contrapor os efeitos do modelo monopolista e da escala de rodízio único.",
+        "Defende a atuação da ANTAQ como regulador econômico."
+      ]
+    },
+    {
+      "nome": "Lilian Schaefer",
+      "cargo": "Representante do setor de navegação",
+      "opinioes": [
+        "Destaca que a intervenção da agência reguladora deve acontecer na definição dos preços e na fiscalização do cumprimento dos padrões adequados para o serviço.",
+        "Afirma que a regulação econômica não deve ocorrer apenas em caso de paralisação dos serviços."
+      ]
+    },
+    {
+      "nome": "Eduardo Guterra",
+      "cargo": "Representante do setor portuário",
+      "opinioes": [
+        "Afirma que a responsabilidade da praticagem é estratégica, pois envolve a entrada e saída de navios nos portos brasileiros.",
+        "Ressalta a importância de uma discussão equilibrada sobre a remuneração dos práticos para não prejudicar o Custo Brasil."
+      ]
+    },
+    {
+      "nome": "Gustavo Henrique Alves Martins",
+      "cargo": "Representante do setor de navegação",
+      "opinioes": [
+        "Defende que a regulação econômica dos serviços de praticagem deve ser realizada por um órgão público estável de âmbito nacional.",
+        "Apoia a atuação da ANTAQ como regulador econômico em harmonia com a Marinha, que continuará com a regulação técnica."
+      ]
+    },
+    {
+      "nome": "André de Seixas",
+      "cargo": "Representante do setor de navegação",
+      "opinioes": [
+        "Ressalta que o serviço de praticagem no Brasil é monopolista e carece de regulação econômica para uma metodologia clara e transparente na fixação dos preços.",
+        "Defende que a ANTAQ realize a regulação econômica dos serviços de praticagem."
+      ]
+    },
+    {
+      "nome": "Murillo Barbosa",
+      "cargo": "Representante do setor de navegação",
+      "opinioes": [
+        "Afirma que, durante a pandemia, o preço do frete aumentou devido ao desequilíbrio de distribuição dos contêineres, mas os preços da praticagem não acompanham os índices inflacionários.",
+        "Defende que os tomadores de serviços tenham uma instância para coibir abusividade na cobrança de serviços e arbitrar conflitos, apontando a ANTAQ como a melhor opção para essa regulação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os Projetos de Lei nº 1.565, de 2019, e nº 877, de 2022, que visam alterar a LESTA para regulamentar o serviço de praticagem no Brasil. A principal controvérsia gira em torno da necessidade de uma regulação econômica do serviço de praticagem, atualmente caracterizado como um monopólio, com reajustes de preços acima dos índices inflacionários. Diversos representantes do setor de navegação e deputados discutiram a importância da atuação da ANTAQ como regulador econômico, em harmonia com a Marinha, que continuaria a exercer a regulação técnica. A audiência buscou um consenso sobre a melhor forma de garantir segurança jurídica e eficiência econômica no serviço de praticagem, visando a redução do Custo Brasil e a melhoria da competitividade dos produtos brasileiros."
+}

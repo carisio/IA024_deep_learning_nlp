@@ -1,0 +1,45 @@
+{
+  "assunto": "Aprimoramento da legislação de criptomoedas sob a perspectiva dos órgãos técnicos",
+  "envolvidos": [
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Deputado Federal (Bloco/SOLIDARIEDADE - RJ), Presidente da CPI das Pirâmides Financeiras",
+      "opinioes": [
+        "Destacou a importância da reunião para o aprimoramento da legislação de criptomoedas sob a perspectiva dos órgãos técnicos.",
+        "Convidou os participantes para expor suas opiniões e agradeceu pela presença."
+      ]
+    },
+    {
+      "nome": "Otávio Ribeiro Damaso",
+      "cargo": "Diretor de Regulação do Banco Central do Brasil",
+      "opinioes": [
+        "A regulação de criptomoedas é um esforço em curso no Banco Central, iniciado após a aprovação da legislação pelo Congresso e designação pelo Presidente da República.",
+        "O mercado de criptomoedas no Brasil é diverso, com diferentes níveis de complexidade e participação de empresas que desejam ou não a regulamentação.",
+        "A supervisão do Banco Central incluirá aspectos como prevenção à lavagem de dinheiro, proteção ao consumidor e regras de segurança cibernética.",
+        "Espera-se colocar a regulamentação em consulta pública até o final do quarto trimestre de 2023, com regras definitivas até o final do primeiro semestre de 2024.",
+        "Os desafios incluem a regulamentação de empresas offshore e a segregação patrimonial entre recursos de clientes e das instituições."
+      ]
+    },
+    {
+      "nome": "Thiago Bueno",
+      "cargo": "Procurador da República, membro do Grupo de Combate aos Crimes Cibernéticos do Ministério Público Federal",
+      "opinioes": [
+        "A regulamentação dos criptoativos é urgente e relevante, especialmente para combater crimes como esquemas de pirâmide financeira.",
+        "A lei aprovada em dezembro de 2022 e o decreto de junho de 2023 são passos importantes para a regulação.",
+        "A falta de regulação facilita a prática de crimes com criptoativos devido à sua natureza intangível e volatilidade.",
+        "A atuação do Ministério Público envolve o rastreamento e bloqueio de valores, sendo importante a colaboração com outros órgãos."
+      ]
+    },
+    {
+      "nome": "Alexandre Pinheiro dos Santos",
+      "cargo": "Superintendente-Geral da Comissão de Valores Mobiliários (CVM)",
+      "opinioes": [
+        "A CVM atua em parceria com o Banco Central e o Ministério Público na regulação e supervisão do mercado financeiro.",
+        "A regulação de criptoativos deve seguir o princípio da transparência e proteção ao investidor.",
+        "A CVM não tem mandato específico para regular criptoativos, mas trabalha em conjunto com outros órgãos para garantir a segurança do mercado.",
+        "O mercado financeiro deve estar atento à inovação e novas tecnologias, incluindo a tokenização e o uso de blockchain."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública teve como principal assunto o aprimoramento da legislação de criptomoedas sob a perspectiva dos órgãos técnicos. Participaram da audiência o Deputado Federal Aureo Ribeiro, que presidiu a sessão; Otávio Ribeiro Damaso, Diretor de Regulação do Banco Central; Thiago Bueno, Procurador da República e membro do Grupo de Combate aos Crimes Cibernéticos do Ministério Público Federal; e Alexandre Pinheiro dos Santos, Superintendente-Geral da Comissão de Valores Mobiliários. Os participantes discutiram os desafios da regulamentação de criptoativos, a importância da transparência e proteção ao consumidor, e a colaboração entre órgãos reguladores para garantir a segurança e integridade do mercado financeiro."
+}

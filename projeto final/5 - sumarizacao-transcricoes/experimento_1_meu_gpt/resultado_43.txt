@@ -1,0 +1,67 @@
+{
+  "assunto": "Debate sobre o sistema de proteção social dos militares brasileiros e os efeitos da Lei nº 13.954, de 2019.",
+  "envolvidos": [
+    {
+      "nome": "Fernanda Melchionna",
+      "cargo": "Deputada Federal (Bloco/PSOL - RS)",
+      "opinioes": [
+        "Critica a reforma da previdência dos militares enviada pelo Governo Bolsonaro, afirmando que ela foi injusta com a maioria dos servidores das Forças Armadas.",
+        "Defende que a Lei nº 13.954, de 2019, gerou desigualdade e penalizou os militares de patentes mais baixas, enquanto beneficiou o alto escalão.",
+        "Propõe a realização da audiência pública para debater e lutar pela reparação das injustiças causadas pela referida lei."
+      ]
+    },
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Co-autor do requerimento para a realização da audiência pública.",
+        "Críticas ao Governo Bolsonaro pela implementação da reforma da previdência dos militares."
+      ]
+    },
+    {
+      "nome": "Albuquerque",
+      "cargo": "Deputado Federal e Cabo das Forças Armadas",
+      "opinioes": [
+        "Participa na condução dos trabalhos da audiência pública.",
+        "Defende melhorias no sistema de proteção social dos militares."
+      ]
+    },
+    {
+      "nome": "Heraldo Luiz Rodrigues",
+      "cargo": "Tenente-Brigadeiro do Ar R/1, Secretário de Pessoal, Saúde, Desporto e Projetos Sociais do Ministério da Defesa",
+      "opinioes": [
+        "Defende a Lei nº 13.954, de 2019, argumentando que ela foi criada para racionalizar os efetivos, modernizar a gestão da carreira militar, melhorar o aproveitamento das capacidades e valorizar a meritocracia.",
+        "Afirma que a lei trouxe mudanças positivas, como o adicional de habilitação e de disponibilidade militar.",
+        "Reconhece que a lei teve impacto nas praças do quadro especial e que foi necessário um ajuste na contribuição das pensões militares."
+      ]
+    },
+    {
+      "nome": "George Brito",
+      "cargo": "Representante dos militares reformados e do SindMil",
+      "opinioes": [
+        "Critica a redução salarial e a inconstitucionalidade da Lei nº 13.954, de 2019.",
+        "Argumenta que a lei criou desigualdades salariais e não cumpriu os acordos feitos anteriormente.",
+        "Defende que as mudanças não podem ser revertidas por decreto ou lei, e menciona a possibilidade de recorrer a instâncias internacionais como a Corte Interamericana."
+      ]
+    },
+    {
+      "nome": "Jéssica Rocha",
+      "cargo": "Advogada especialista em práticas jurídicas envolvendo pensionistas",
+      "opinioes": [
+        "Critica a contribuição para a pensão militar introduzida pela Lei nº 13.954, de 2019, argumentando que ela violou princípios constitucionais como a irredutibilidade dos proventos e a anterioridade nonagesimal.",
+        "Defende que a contribuição é inconstitucional e prejudicou a remuneração das pensionistas, especialmente as mais idosas.",
+        "Alega que os descontos arrecadados das pensionistas não estão sendo usados para beneficiar a categoria, mas sim para custear reestruturações e aumentos salariais de alta patente."
+      ]
+    },
+    {
+      "nome": "Claudio Lino",
+      "cargo": "Advogado e Presidente do Instituto Brasileiro de Análise de Legislações Militares",
+      "opinioes": [
+        "Argumenta que a Lei nº 13.954, de 2019, foi criada com a intenção de beneficiar os oficiais generais em detrimento dos graduados.",
+        "Critica a retirada do adicional por tempo de serviço e a criação do adicional de disponibilidade militar, que desfavoreceu os veteranos.",
+        "Defende que a meritocracia mencionada pela lei é uma falácia, pois os cursos de altos estudos não foram implementados de forma justa para todos os militares."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os efeitos da Lei nº 13.954, de 2019, no sistema de proteção social dos militares brasileiros. Participaram deputados federais, representantes do Ministério da Defesa, advogados e representantes de associações de militares. A Deputada Fernanda Melchionna e outros parlamentares criticaram a lei por gerar desigualdades e penalizar os militares de patentes mais baixas, enquanto beneficiava o alto escalão. O Tenente-Brigadeiro Heraldo Luiz Rodrigues defendeu a lei, destacando suas mudanças positivas. George Brito, Jéssica Rocha e Claudio Lino criticaram a redução salarial, a contribuição para a pensão militar e a aplicação desigual da meritocracia, defendendo a necessidade de reparações e questionando a constitucionalidade da lei."
+}

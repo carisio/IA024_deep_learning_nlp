@@ -1,0 +1,60 @@
+{
+  "assunto": "O crescimento do comércio eletrônico no Brasil e seu impacto na geração de emprego e renda, tributação, ambiente de negócios e acesso da população a bens de consumo.",
+  "envolvidos": [
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Presidente da audiência e Deputado Federal pelo PSB-PE",
+      "opinioes": [
+        "Destacou a importância do comércio eletrônico para a economia brasileira.",
+        "Afirmou a necessidade de modernizar a legislação vigente para adequar-se às novas realidades do comércio digital.",
+        "Mencionou a perspectiva de arrecadação futura com o crescimento do e-commerce, que pode ser uma nova fonte de financiamento para políticas públicas."
+      ]
+    },
+    {
+      "nome": "Zé Neto",
+      "cargo": "Deputado Federal pelo PT-BA e membro da Frente Parlamentar da Indústria e do Comércio",
+      "opinioes": [
+        "Enfatizou a preocupação com o impacto do comércio eletrônico na indústria e no varejo nacional.",
+        "Defendeu a criação de um marco regulatório para proteger a indústria e o comércio local.",
+        "Alertou para a perda de competitividade da indústria nacional e a evasão fiscal causada pelo e-commerce transfronteiriço."
+      ]
+    },
+    {
+      "nome": "Adriana Azevedo",
+      "cargo": "Diretora do Departamento de Comércio e Serviços da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+      "opinioes": [
+        "Destacou a importância do comércio eletrônico para a produtividade e competitividade do varejo.",
+        "Apresentou o dashboard desenvolvido pelo MDIC para mapear o comércio eletrônico nacional.",
+        "Ressaltou o compromisso do Ministério com a redução das assimetrias digitais e o apoio à transformação digital do comércio."
+      ]
+    },
+    {
+      "nome": "Igor Luna",
+      "cargo": "Advogado e representante da Câmara Brasileira de Economia Digital (Camara-e.net)",
+      "opinioes": [
+        "Defendeu a importância do comércio eletrônico para a inclusão de pequenos comerciantes no mercado digital.",
+        "Sublinhou a necessidade de uma regulamentação equilibrada que não iniba o crescimento do setor.",
+        "Apoiou a modernização da legislação tributária para refletir as novas realidades econômicas, sem criar barreiras excessivas ao comércio eletrônico."
+      ]
+    },
+    {
+      "nome": "Jorge Gonçalves Filho",
+      "cargo": "Presidente do Instituto para o Desenvolvimento do Varejo (IDV)",
+      "opinioes": [
+        "Afirmou que o comércio eletrônico deve crescer, mas é necessário garantir a isonomia tributária.",
+        "Destacou os desafios da sonegação fiscal e a importância de uma fiscalização efetiva das importações de pequeno valor.",
+        "Defendeu a implementação imediata da IN 2.124 e do plano de conformidade para plataformas estrangeiras."
+      ]
+    },
+    {
+      "nome": "Guilherme Henrique Martins Santos",
+      "cargo": "Conselheiro da Associação Brasileira de Comércio Eletrônico (ABCOMM)",
+      "opinioes": [
+        "Ressaltou o crescimento contínuo do comércio eletrônico e sua importância para o varejo nacional.",
+        "Mencionou a necessidade de uma legislação tributária mais simples e eficaz para o setor.",
+        "Propôs a responsabilização solidária dos marketplaces pelo cumprimento das obrigações tributárias dos sellers."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o impacto do crescimento do comércio eletrônico no Brasil, destacando a necessidade de modernização da legislação tributária e regulatória para garantir um ambiente de negócios equilibrado e competitivo. Participaram representantes de entidades do setor, que defenderam a importância do e-commerce para a economia, mas também alertaram para os desafios relacionados à evasão fiscal e à competição desleal com produtos importados. O debate foi rico em propostas para aprimorar a fiscalização e criar políticas públicas que promovam a transformação digital e a inclusão de pequenos comerciantes no mercado eletrônico."
+}

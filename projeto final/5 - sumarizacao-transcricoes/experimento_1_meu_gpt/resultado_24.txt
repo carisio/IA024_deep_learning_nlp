@@ -1,0 +1,62 @@
+{
+  "assunto": "Debate sobre a importância do ensino de filosofia e sociologia na educação básica.",
+  "envolvidos": [
+    {
+      "nome": "Professora Luciene Cavalcante",
+      "cargo": "Deputada Federal e Presidente da Comissão de Educação",
+      "opinioes": [
+        "Defende a introdução da filosofia e da sociologia na educação fundamental como direito dos estudantes e instrumento para alcançar a igualdade social.",
+        "Critica a opção pelo não ensino dessas disciplinas, argumentando que isso reforça desigualdades econômicas, raciais e geográficas."
+      ]
+    },
+    {
+      "nome": "Carlos Giannazi",
+      "cargo": "Professor e Deputado Estadual pelo PSOL de São Paulo",
+      "opinioes": [
+        "Enfatiza que as disciplinas de filosofia e sociologia são fundamentais para o desenvolvimento do senso crítico dos estudantes.",
+        "Critica a redução das aulas dessas disciplinas no currículo do ensino médio e fundamental em São Paulo."
+      ]
+    },
+    {
+      "nome": "Marlei Fernandes de Carvalho",
+      "cargo": "Vice-Presidente da Confederação Nacional dos Trabalhadores em Educação (CNTE)",
+      "opinioes": [
+        "Reforça a importância da obrigatoriedade do ensino de filosofia e sociologia nos currículos de todo o Brasil.",
+        "Apoia a realização de seminários e encontros para fortalecer a luta pela inclusão dessas disciplinas."
+      ]
+    },
+    {
+      "nome": "Christy Ganzert Gomes Pato",
+      "cargo": "Coordenador-Geral de Estratégia de Educação Básica do MEC",
+      "opinioes": [
+        "Destaca o compromisso do MEC em dialogar e acolher contribuições de todos os setores da sociedade.",
+        "Relata os desafios enfrentados pelo MEC após o desmonte do governo anterior, mencionando a necessidade de reconstrução das políticas públicas."
+      ]
+    },
+    {
+      "nome": "João Moura",
+      "cargo": "Coordenador-Geral da Assessoria Especial de Educação e Cultura em Direitos Humanos do Ministério de Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Afirma que o Ministério está à disposição para apoiar a luta pela inclusão das disciplinas de filosofia e sociologia.",
+        "Enfatiza a importância de reconhecer o passado e o presente para construir um futuro baseado em uma perspectiva materialista marxista."
+      ]
+    },
+    {
+      "nome": "Rafaela Reis Azevedo de Oliveira",
+      "cargo": "Presidente da Associação Brasileira de Ensino de Ciências Sociais (ABECS)",
+      "opinioes": [
+        "Critica a reforma do ensino médio atual e defende a revogação dessa reforma.",
+        "Destaca a importância da inclusão da sociologia e filosofia no ensino fundamental e médio para uma formação crítica dos estudantes."
+      ]
+    },
+    {
+      "nome": "Aldo Josias dos Santos",
+      "cargo": "Vice-Presidente da Associação dos Professores e Professoras de Filosofia e Filósofos do Brasil (APROFFIB)",
+      "opinioes": [
+        "Defende a obrigatoriedade das disciplinas de filosofia e sociologia na educação básica.",
+        "Ressalta a importância de uma luta contínua e participação efetiva dos professores e estudantes na defesa dessas disciplinas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Educação debateu a importância do ensino de filosofia e sociologia na educação básica. A Deputada Professora Luciene Cavalcante destacou a necessidade dessas disciplinas para promover igualdade social e criticou a sua exclusão dos currículos. Carlos Giannazi, Marlei Fernandes de Carvalho e outros participantes reforçaram a relevância dessas matérias para o desenvolvimento crítico dos alunos e defenderam a revogação da reforma do ensino médio que reduz a carga horária dessas disciplinas. O MEC, representado por Christy Ganzert Gomes Pato, expressou abertura para diálogo e reconstrução das políticas educacionais. O evento contou com a participação de representantes de várias entidades que apoiam a obrigatoriedade das disciplinas e propõem ações concretas para sua implementação."
+}

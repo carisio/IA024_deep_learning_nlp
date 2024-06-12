@@ -1,0 +1,73 @@
+{
+  "assunto": "Debate sobre a regulamentação da reforma tributária na Comissão de Desenvolvimento Econômico da Câmara dos Deputados.",
+  "envolvidos": [
+    {
+      "nome": "Danilo Forte",
+      "cargo": "Deputado Federal, Presidente da Comissão de Desenvolvimento Econômico",
+      "opinioes": [
+        "A reforma tributária é essencial para simplificar o sistema tributário e fortalecer a segurança jurídica.",
+        "A regulamentação é um passo crucial para destravar investimentos.",
+        "É necessário focar para aprovar a reforma, que será um grande legado para a sociedade brasileira.",
+        "O Brasil precisa de uma legislação compatível com a economia verde e sustentável."
+      ]
+    },
+    {
+      "nome": "Pedro Lupion",
+      "cargo": "Deputado Federal, Presidente da Frente Parlamentar da Agropecuária",
+      "opinioes": [
+        "A reforma tributária é relevante e demanda muito trabalho, diálogo e discussão.",
+        "Destacou a importância das imunidades na exportação e do regime específico de combustíveis e biocombustíveis.",
+        "Defendeu a redução de 60% nas alíquotas de insumos e produtos agropecuários.",
+        "Manifestou-se contra a teoria do cashback na tributação da cesta básica, afirmando que alimento mais barato na gôndola significa melhores preços para o consumidor."
+      ]
+    },
+    {
+      "nome": "Joaquim Passarinho",
+      "cargo": "Deputado Federal, Presidente da Frente Parlamentar Mista do Empreendedorismo",
+      "opinioes": [
+        "É essencial que os projetos complementares da reforma tributária não elevem a carga tributária atual.",
+        "Destacou a importância da não cumulatividade de impostos.",
+        "Enfatizou a necessidade de um amplo debate para que as sugestões da sociedade sejam analisadas e integradas à legislação.",
+        "Reforçou que a legislação tributária deve ser feita para o pagador de impostos, beneficiando a sociedade brasileira."
+      ]
+    },
+    {
+      "nome": "Arnaldo Jardim",
+      "cargo": "Deputado Federal, Presidente da Frente Parlamentar Mista Brasil Competitivo",
+      "opinioes": [
+        "A não cumulatividade e a manutenção da carga tributária são diretrizes importantes na regulamentação.",
+        "O protagonismo do Parlamento foi fundamental nas reformas previdenciária e tributária.",
+        "O Legislativo deve manter sua prerrogativa de iniciativa e proatividade, oferecendo alternativas ao País."
+      ]
+    },
+    {
+      "nome": "Domingos Sávio",
+      "cargo": "Deputado Federal, Presidente da Frente Parlamentar em Defesa do Comércio e Serviços",
+      "opinioes": [
+        "A transição para o novo modelo tributário deve ser simplificada, objetiva e clara.",
+        "Expressou preocupação com os impactos da transição nos municípios e na vida das empresas.",
+        "Alertou para a necessidade de justiça fiscal e cuidado para não cometer erros que possam prejudicar o País."
+      ]
+    },
+    {
+      "nome": "Vicente Braga",
+      "cargo": "Presidente da Associação Nacional dos Procuradores dos Estados do Distrito Federal (ANAP)",
+      "opinioes": [
+        "A reforma tributária deve permitir uma melhor compreensão do sistema tributário por todos os especialistas.",
+        "Destacou a importância de um sistema que simplifique a tributação e permita uma arrecadação mais justa.",
+        "Enfatizou a necessidade de justiça fiscal e da tramitação célere dos processos de execução fiscal para combater a sonegação."
+      ]
+    },
+    {
+      "nome": "Aguinaldo Ribeiro",
+      "cargo": "Deputado Federal, Relator da Reforma Tributária",
+      "opinioes": [
+        "A construção da reforma tributária envolveu amplo diálogo e a participação de diversas frentes parlamentares.",
+        "A regulamentação deve preservar os princípios e conceitos aprovados na emenda constitucional.",
+        "É fundamental que o governo e o legislativo coordenem a tramitação dos projetos complementares com serenidade e segurança.",
+        "A reforma tributária visa criar um ambiente de negócios favorável, gerando emprego e renda, e aumentando a arrecadação para políticas sociais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Desenvolvimento Econômico da Câmara dos Deputados discutiu a regulamentação da reforma tributária, destacando a importância da simplificação do sistema tributário, a não elevação da carga tributária, e a manutenção da não cumulatividade de impostos. Participaram deputados como Danilo Forte, Pedro Lupion, Joaquim Passarinho, Arnaldo Jardim, Domingos Sávio e Vicente Braga, além do relator da reforma, Aguinaldo Ribeiro. Todos enfatizaram a necessidade de um debate amplo, ouvindo a sociedade e garantindo uma transição justa e clara para o novo modelo tributário, visando o desenvolvimento econômico e a justiça fiscal no Brasil."
+}

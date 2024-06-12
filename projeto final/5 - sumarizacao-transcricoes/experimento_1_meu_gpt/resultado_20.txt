@@ -1,0 +1,107 @@
+{
+  "assunto": "Discussão sobre o veto presidencial ao Projeto de Lei nº 2.903, de 2023, relacionado à tese do marco temporal e a educação escolar indígena, incluindo a criação de uma universidade indígena e políticas afirmativas para a educação indígena.",
+  "envolvidos": [
+    {
+      "nome": "Célia Xakriabá",
+      "cargo": "Deputada Federal pelo PSOL-MG",
+      "opinioes": [
+        "A tese do marco temporal foi enterrada pela votação do Congresso Nacional.",
+        "A luta pelo território indígena está diretamente ligada à luta pela educação indígena.",
+        "A demarcação dos territórios indígenas é crucial para barrar a crise climática.",
+        "A importância da criação de uma universidade indígena para fortalecer a educação indígena."
+      ]
+    },
+    {
+      "nome": "Rosilene Cruz de Araújo (Rosilene Tuxá)",
+      "cargo": "Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão, do Ministério da Educação",
+      "opinioes": [
+        "O fortalecimento da universidade indígena e a formação de professores indígenas são pautas essenciais.",
+        "A execução das políticas de educação escolar indígena enfrenta dificuldades para chegar aos territórios.",
+        "Há a necessidade de políticas céleres para a formação de professores e jovens indígenas.",
+        "A importância do Programa Bolsa Permanência para a permanência de estudantes indígenas na universidade.",
+        "O desafio da permanência de estudantes indígenas em universidades não federais."
+      ]
+    },
+    {
+      "nome": "Gersem Baniwa",
+      "cargo": "Coordenador do Fórum Nacional de Educação Escolar Indígena",
+      "opinioes": [
+        "O futuro dos povos indígenas passa pela educação.",
+        "A educação escolar indígena não é prioridade para o Governo e nem para o movimento indígena.",
+        "A formação de uma consciência climática deve passar pela educação.",
+        "A importância da universidade indígena para formar cidadãos indígenas conscientes e tecnicamente capacitados.",
+        "Criação de uma associação de pesquisadores indígenas para empoderar a luta pelos direitos dos povos indígenas."
+      ]
+    },
+    {
+      "nome": "Alberto Terena",
+      "cargo": "Representante da Articulação dos Povos Indígenas do Brasil",
+      "opinioes": [
+        "A importância da discussão das políticas afirmativas da educação escolar indígena.",
+        "A reivindicação por uma universidade indígena é justa e necessária.",
+        "A necessidade de uma estrutura para garantir a permanência de acadêmicos indígenas nas universidades.",
+        "A Articulação dos Povos Indígenas do Brasil apoia a criação da universidade indígena."
+      ]
+    },
+    {
+      "nome": "Juliana Cardoso",
+      "cargo": "Deputada Federal pelo PT-SP",
+      "opinioes": [
+        "A educação nas aldeias guaranis em São Paulo foi uma importante experiência.",
+        "A falta de políticas específicas para o ensino médio indígena.",
+        "Os avanços na gestão do Presidente Lula com as cotas indígenas no ensino universitário.",
+        "A necessidade de subsídios para materiais didáticos e a permanência dos estudantes indígenas nas universidades."
+      ]
+    },
+    {
+      "nome": "Tarcísio Motta",
+      "cargo": "Deputado Federal pelo PSOL-RJ",
+      "opinioes": [
+        "O debate sobre a educação indígena é fundamental.",
+        "As mudanças no ensino médio durante o Governo Temer prejudicaram a qualidade da educação.",
+        "A necessidade de entender as especificidades da educação em um país multiétnico.",
+        "O novo Plano Nacional de Educação deve incluir metas construídas pelos povos indígenas."
+      ]
+    },
+    {
+      "nome": "Arlindo Alemão Gregório (Arlindo Baré)",
+      "cargo": "Presidente da União Plurinacional dos Estudantes Indígenas",
+      "opinioes": [
+        "A importância de construir coletivamente a regulamentação da educação escolar indígena.",
+        "A atualização da Lei de Cotas é necessária para atender às especificidades dos estudantes indígenas.",
+        "A importância de dados atualizados sobre a presença de estudantes indígenas na educação superior.",
+        "A saúde mental dos estudantes indígenas é uma preocupação crescente."
+      ]
+    },
+    {
+      "nome": "Lucia Alberta Andrade",
+      "cargo": "Diretora de Promoção ao Desenvolvimento Sustentável da FUNAI",
+      "opinioes": [
+        "O maior problema na educação escolar indígena é o ensino médio.",
+        "As universidades não estão preparadas para receber estudantes indígenas.",
+        "A necessidade de transformar o Programa Bolsa Permanência em uma política permanente.",
+        "A criação de um sistema próprio de educação escolar indígena é essencial.",
+        "A falta de transparência na implementação dos recursos do FUNDEB para escolas indígenas."
+      ]
+    },
+    {
+      "nome": "Chico Alencar",
+      "cargo": "Deputado Federal pelo PSOL-RJ",
+      "opinioes": [
+        "A maioria dos representantes políticos não reconhece a importância da presença indígena.",
+        "A luta dos povos indígenas precisa continuar mesmo diante de adversidades.",
+        "A educação deve ser uma ferramenta para mudar o modo de viver e promover o bem viver."
+      ]
+    },
+    {
+      "nome": "Braulina Baniwa",
+      "cargo": "Coordenadora da Articulação Nacional das Mulheres Indígenas Guerreiras da Ancestralidade",
+      "opinioes": [
+        "A importância da educação indígena para defender os direitos coletivos dos povos indígenas.",
+        "A necessidade de fortalecer a infraestrutura das escolas indígenas.",
+        "A educação indígena deve valorizar e incluir a diversidade e a ancestralidade dos povos indígenas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o veto presidencial ao PL nº 2.903/2023 sobre a tese do marco temporal e a educação escolar indígena. Participantes enfatizaram a importância da demarcação de territórios indígenas para a educação e a crise climática, a criação de uma universidade indígena e políticas afirmativas para a formação e permanência de estudantes indígenas nas universidades. Destacaram desafios como a falta de prioridade governamental, a infraestrutura inadequada e a necessidade de atualização da Lei de Cotas e do Programa Bolsa Permanência."
+}

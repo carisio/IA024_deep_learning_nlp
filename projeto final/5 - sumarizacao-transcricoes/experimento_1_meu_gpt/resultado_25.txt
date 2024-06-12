@@ -1,0 +1,72 @@
+{
+  "assunto": "Consequências da seca na região norte de Minas Gerais",
+  "envolvidos": [
+    {
+      "nome": "Zé Silva",
+      "cargo": "Deputado, Bloco/SOLIDARIEDADE - MG",
+      "opinioes": [
+        "A audiência pública foi destinada a discutir as consequências da seca em Minas Gerais.",
+        "Destacou a importância de discutir medidas concretas para enfrentar a seca.",
+        "Salientou que a Comissão de Legislação Participativa é um espaço do povo, onde as propostas vêm de mais de 1.200 entidades da sociedade civil."
+      ]
+    },
+    {
+      "nome": "Leonardo Monteiro",
+      "cargo": "Deputado, Bloco/PT - MG",
+      "opinioes": [
+        "Cumprimentou os participantes e enfatizou a importância do Banco do Nordeste para Minas Gerais.",
+        "Apoiou as iniciativas discutidas e a necessidade de medidas concretas contra a seca."
+      ]
+    },
+    {
+      "nome": "Paulo Guedes",
+      "cargo": "Deputado, Bloco/PT - MG",
+      "opinioes": [
+        "Parabenizou os participantes pela audiência pública.",
+        "Reforçou a necessidade de cobrar ações do Governo Federal e do Governo de Minas.",
+        "Destacou a importância de novos financiamentos, renegociação de dívidas e fornecimento de cestas básicas e sementes."
+      ]
+    },
+    {
+      "nome": "Wolnei Aparecido Wolff Barreiros",
+      "cargo": "Secretário Nacional de Defesa Civil",
+      "opinioes": [
+        "Reforçou a necessidade de caminhões-pipa para fornecer água às regiões afetadas.",
+        "Reconheceu a dificuldade da Defesa Civil em entregar água devido à logística."
+      ]
+    },
+    {
+      "nome": "Ricardo Demicheli",
+      "cargo": "Subsecretário de Agricultura do Estado de Minas Gerais",
+      "opinioes": [
+        "Sublinhou a importância de ações emergenciais para mitigar os efeitos da seca.",
+        "Enfatizou a necessidade de recursos financeiros imediatos para as prefeituras."
+      ]
+    },
+    {
+      "nome": "Manoel da Costa Lima",
+      "cargo": "Prefeito",
+      "opinioes": [
+        "Solicitou inclusão de barramentos e barraginhas como medidas de contenção de água.",
+        "Enfatizou a necessidade de fortalecer as prefeituras, pois são as primeiras a serem cobradas pela população."
+      ]
+    },
+    {
+      "nome": "Edilson Nunes",
+      "cargo": "Prefeito de Veredinha",
+      "opinioes": [
+        "Criticou a ineficiência das políticas públicas estaduais e federais para o meio ambiente.",
+        "Relatou que a distribuição de sementes foi tardia, não beneficiando os produtores."
+      ]
+    },
+    {
+      "nome": "Binha Caldeira",
+      "cargo": "Prefeito de Jequitaí",
+      "opinioes": [
+        "Reforçou a necessidade de desburocratização das linhas de crédito emergenciais.",
+        "Sublinhou a urgência na liberação de cestas básicas e na perfuração de poços artesianos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Legislação Participativa discutiu as severas consequências da seca na região norte de Minas Gerais, com participação de deputados, prefeitos e secretários. O Deputado Zé Silva destacou a importância de medidas concretas para enfrentar a seca, enquanto o Deputado Paulo Guedes enfatizou a necessidade de novos financiamentos e apoio do Governo Federal. Prefeitos como Manoel da Costa Lima e Edilson Nunes criticaram a ineficiência das políticas públicas e solicitaram ações imediatas para mitigação da crise hídrica. O Secretário Nacional de Defesa Civil, Wolnei Barreiros, reconheceu as dificuldades na distribuição de água, ressaltando a necessidade de caminhões-pipa e outros recursos."
+}

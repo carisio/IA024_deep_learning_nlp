@@ -1,0 +1,76 @@
+{
+  "assunto": "Discussão sobre a transferência das operações das loterias federais para empresas subsidiárias da Caixa Econômica Federal",
+  "envolvidos": [
+    {
+      "nome": "Tadeu Veneri",
+      "cargo": "Presidente da audiência e Deputado",
+      "opinioes": [
+        "É essencial discutir os possíveis impactos da transferência das operações das loterias para subsidiárias da Caixa.",
+        "A Caixa Econômica Federal é uma instituição fundamental para a população brasileira."
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada",
+      "opinioes": [
+        "A proposta de transferir as loterias para uma subsidiária é arriscada, pois pode facilitar a privatização sem o aval do Congresso.",
+        "Defende que a Caixa retire a proposta para promover uma discussão mais ampla sobre o tema.",
+        "Destaca a importância das loterias como parte intrínseca da Caixa Econômica Federal."
+      ]
+    },
+    {
+      "nome": "Juvandia Moreira Leite",
+      "cargo": "Presidenta da Confederação Nacional dos Trabalhadores do Ramo Financeiro da CUT",
+      "opinioes": [
+        "A transferência das operações das loterias para uma subsidiária pode fragilizar a Caixa.",
+        "Destaca a importância das loterias para o financiamento de programas sociais no Brasil.",
+        "Defende a suspensão da aprovação da proposta e a abertura de um diálogo amplo sobre o tema."
+      ]
+    },
+    {
+      "nome": "Simone Aparecida Vicentini",
+      "cargo": "Secretária Adjunta de Prêmios e Apostas do Ministério da Fazenda",
+      "opinioes": [
+        "A proposta de transferência das loterias para uma subsidiária está em análise desde 2018.",
+        "Qualquer mudança deve garantir que as ações da subsidiária sejam 100% pertencentes à Caixa.",
+        "Destaca que a exploração de loterias é um serviço público exclusivo da União."
+      ]
+    },
+    {
+      "nome": "Ricardo Amado Costa",
+      "cargo": "Vice-Presidente da Federação Brasileira das Empresas Lotéricas — FEBRALOT",
+      "opinioes": [
+        "A rede lotérica precisa ser fortalecida e competitiva para não ser excluída do mercado.",
+        "Defende que a Caixa invista mais em tecnologia e priorize as loterias.",
+        "A privatização não é necessária para tornar as loterias mais eficientes."
+      ]
+    },
+    {
+      "nome": "Sergio Takemoto",
+      "cargo": "Presidente da Federação Nacional das Associações do Pessoal da Caixa Econômica Federal — FENAE",
+      "opinioes": [
+        "A transferência das loterias para uma subsidiária pode prejudicar os empregados da Caixa e os repasses sociais.",
+        "Defende que a Caixa invista em tecnologia e melhore sua estrutura interna.",
+        "Solicita a suspensão da proposta e a abertura de um debate com a sociedade."
+      ]
+    },
+    {
+      "nome": "Fabiana Uehara",
+      "cargo": "Coordenadora da Comissão Executiva dos Empregados da Caixa Econômica Federal",
+      "opinioes": [
+        "Os empregados da Caixa devem ser consultados sobre a transferência das loterias.",
+        "A Caixa deve investir na sua própria estrutura em vez de criar subsidiárias.",
+        "Defende a Caixa 100% pública e o fortalecimento da empresa."
+      ]
+    },
+    {
+      "nome": "Antonio Simoneto",
+      "cargo": "Presidente do Sindicato das Empresas de Loterias, Comissários e Consignatários do Distrito Federal e Entorno — SINDILOTERIAS DF",
+      "opinioes": [
+        "A Caixa precisa ser ágil para competir no mercado de loterias.",
+        "É necessário esclarecer como ficará a situação dos lotéricos no contexto da transferência."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a proposta de transferência das operações das loterias federais para subsidiárias da Caixa Econômica Federal. O tema gerou preocupação entre os participantes, que temem a facilitação da privatização sem o aval do Congresso e a fragilização da Caixa. Vários representantes destacaram a importância das loterias para o financiamento de programas sociais e solicitaram a suspensão da proposta até que um debate mais amplo e esclarecedor seja realizado. A necessidade de investimentos em tecnologia e na própria estrutura da Caixa foi enfatizada, assim como a importância de consultar os empregados e lotéricos sobre as mudanças."
+}

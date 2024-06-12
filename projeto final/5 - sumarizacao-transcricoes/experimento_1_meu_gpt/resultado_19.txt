@@ -1,0 +1,96 @@
+{
+  "assunto": "Debate sobre os benefícios da adequação de velocidades nas cidades brasileiras em relação à saúde, ao meio ambiente e a aspectos socioeconômicos.",
+  "envolvidos": [
+    {
+      "nome": "Juninho do Pneu",
+      "cargo": "Deputado Federal (Bloco/UNIÃO - RJ)",
+      "opinioes": [
+        "As altas velocidades nas cidades brasileiras são um dos principais fatores de mortes e lesões no trânsito.",
+        "A segurança viária deve ser prioridade nas ações públicas, especialmente para pedestres e ciclistas.",
+        "A conscientização da população é essencial para um trânsito mais seguro, além do uso de radares eletrônicos."
+      ]
+    },
+    {
+      "nome": "Bebeto",
+      "cargo": "Deputado Federal (Bloco/PP - RJ)",
+      "opinioes": [
+        "Os acidentes de trânsito são um problema constante nas rodovias e nas capitais brasileiras.",
+        "Proposições como a criação de um corredor exclusivo para motos são importantes para reduzir acidentes.",
+        "É fundamental discutir a velocidade no trânsito para reduzir o número de acidentes e suas consequências."
+      ]
+    },
+    {
+      "nome": "Jilmar Tatto",
+      "cargo": "Deputado Federal (Bloco/PT - SP)",
+      "opinioes": [
+        "Reduzir a velocidade máxima nas vias urbanas é essencial para diminuir o número de acidentes.",
+        "Políticas de redução de velocidade podem economizar recursos significativos para o sistema de saúde e previdência.",
+        "É necessário investir em calçadas, transporte alternativo, ciclovias, transporte coletivo e infraestrutura urbana."
+      ]
+    },
+    {
+      "nome": "Letícia de Oliveira Cardoso",
+      "cargo": "Ministério da Saúde",
+      "opinioes": [
+        "As lesões de trânsito estão entre as principais causas de morte e hospitalização no Brasil.",
+        "Reduzir a velocidade nas vias urbanas é uma das medidas mais efetivas para diminuir a gravidade e o número de acidentes.",
+        "Investimentos em infraestrutura viária e transporte coletivo são fundamentais para a prevenção de acidentes."
+      ]
+    },
+    {
+      "nome": "Adrualdo de Lima Catão",
+      "cargo": "Secretário Nacional de Trânsito",
+      "opinioes": [
+        "A gestão de velocidades e a fiscalização por velocidade média são essenciais para acalmar o trânsito.",
+        "A falta de fiscalização efetiva é um problema significativo na segurança viária.",
+        "O novo PNATRANS inclui importantes medidas para a gestão de velocidades e redução de acidentes."
+      ]
+    },
+    {
+      "nome": "Marcos Daniel Souza dos Santos",
+      "cargo": "Secretaria Nacional de Mobilidade Urbana",
+      "opinioes": [
+        "A redução de velocidades urbanas está alinhada à Política Nacional de Mobilidade Urbana.",
+        "Investimentos em capacitação e infraestrutura urbana são necessários para apoiar as cidades na implementação dessas mudanças.",
+        "Priorizar o transporte público e modos não motorizados é essencial para a mobilidade urbana sustentável."
+      ]
+    },
+    {
+      "nome": "Rodrigo Ribeiro",
+      "cargo": "Organização Nacional de Segurança Viária",
+      "opinioes": [
+        "A velocidade é um dos principais fatores de risco no trânsito.",
+        "É importante conscientizar a população sobre os impactos de um trânsito violento na saúde e na economia.",
+        "Apoiar o projeto de lei que visa a redução de velocidades nas vias urbanas é crucial para salvar vidas."
+      ]
+    },
+    {
+      "nome": "Bruno Rizzon",
+      "cargo": "WRI Brasil",
+      "opinioes": [
+        "Reduzir os limites de velocidade nas vias urbanas é essencial para atingir as metas de segurança viária.",
+        "A readequação de velocidades nas vias urbanas pode salvar milhares de vidas e economizar bilhões de reais.",
+        "Estudos mostram que a redução de velocidades não causa aumento significativo nos congestionamentos."
+      ]
+    },
+    {
+      "nome": "Carlos Henrique Ribeiro de Carvalho",
+      "cargo": "Instituto de Pesquisa Econômica Aplicada (IPEA)",
+      "opinioes": [
+        "A velocidade é um fator crucial na redução de atropelamentos e acidentes graves.",
+        "Investir em novas tecnologias de fiscalização, como a velocidade média, é essencial.",
+        "A gestão eficaz dos recursos destinados à segurança viária é fundamental para atingir as metas de redução de acidentes."
+      ]
+    },
+    {
+      "nome": "Victor Pavarino",
+      "cargo": "Organização Pan-Americana da Saúde (OPAS)",
+      "opinioes": [
+        "A redução de velocidade é uma prioridade para a segurança viária.",
+        "A fiscalização eletrônica é fundamental para o controle da velocidade.",
+        "As evidências mostram que apenas a conscientização não é suficiente; são necessárias medidas de fiscalização."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão da Câmara dos Deputados debateu a importância da adequação das velocidades nas vias urbanas brasileiras, destacando os benefícios para a saúde, o meio ambiente e a segurança viária. Diversos especialistas e autoridades participaram, apresentando dados e argumentos que reforçam a necessidade de reduzir os limites de velocidade para diminuir o número de acidentes e fatalidades no trânsito. Foram discutidas políticas públicas e medidas de fiscalização para garantir um trânsito mais seguro, com ênfase na conscientização da população e investimentos em infraestrutura urbana."
+}

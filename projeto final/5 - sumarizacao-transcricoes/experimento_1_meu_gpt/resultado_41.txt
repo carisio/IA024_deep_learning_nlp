@@ -1,0 +1,69 @@
+{
+  "assunto": "Ratificação da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos",
+  "envolvidos": [
+    {
+      "nome": "Aliel Machado",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Pessoa Idosa, Bloco/PV - PR",
+      "opinioes": [
+        "A reunião é uma articulação para aprovação da convenção, que é uma necessidade para o país.",
+        "Recebeu apoio irrestrito da Associação dos Magistrados do Brasil (AMB).",
+        "O Presidente da Câmara, Arthur Lira, se comprometeu a ajudar a pautar a matéria."
+      ]
+    },
+    {
+      "nome": "Adriana Rodrigues Martins",
+      "cargo": "Diplomata e Assessora do Departamento de Direitos Humanos e Temas Sociais, do Ministério de Relações Exteriores",
+      "opinioes": [
+        "O Governo Lula reconhece a importância da convenção e está defendendo sua ratificação.",
+        "A convenção é importante para alinhar o Brasil aos direitos humanos dos idosos.",
+        "A ratificação representaria um compromisso concreto do Brasil com os direitos dos idosos."
+      ]
+    },
+    {
+      "nome": "Pedro Cisalpino Pinheiro",
+      "cargo": "Analista de Programa em População e Desenvolvimento e em Cooperação Sul-Sul, do Fundo de População das Nações Unidas — UNFPA Brasil",
+      "opinioes": [
+        "O envelhecimento populacional é uma das mais importantes tendências do século XXI.",
+        "As projeções indicam um aumento significativo da população idosa no Brasil e no mundo.",
+        "O envelhecimento traz desafios socioeconômicos e culturais que precisam ser abordados."
+      ]
+    },
+    {
+      "nome": "Bibiana Graeff Chagas Pinto Fabre",
+      "cargo": "Professora da Escola de Artes Cênicas e Humanidades, da Universidade de São Paulo — USP",
+      "opinioes": [
+        "A convenção é o instrumento normativo mais completo e avançado sobre os direitos dos idosos.",
+        "A ratificação da convenção elevaria a proteção jurídica dos direitos dos idosos no Brasil.",
+        "Destaca a necessidade de políticas específicas para diversos grupos de idosos em condição de vulnerabilidade."
+      ]
+    },
+    {
+      "nome": "Alexandre da Silva",
+      "cargo": "Secretário Nacional dos Direitos da Pessoa Idosa, do Ministério dos Direitos Humanos e da Cidadania — MDHC",
+      "opinioes": [
+        "O futuro é envelhecer e o futuro é ancestral.",
+        "O Brasil está passando por um rápido processo de envelhecimento populacional.",
+        "A ratificação da convenção fortaleceria a construção de políticas e programas para os idosos."
+      ]
+    },
+    {
+      "nome": "Carlos Henrique Fialho Mussi",
+      "cargo": "Diretor do Escritório da Comissão Econômica para a América Latina e o Caribe — CEPAL",
+      "opinioes": [
+        "A CEPAL acompanha a implementação do Plano de Madri sobre o envelhecimento.",
+        "É importante considerar a contribuição dos idosos para a economia e a sociedade.",
+        "A criação de um sistema nacional de cuidados é fundamental para a proteção dos idosos."
+      ]
+    },
+    {
+      "nome": "Caroline Maciel da Costa",
+      "cargo": "Procuradora Regional da República e Coordenadora do Grupo de Trabalho Mulher, Criança, Adolescente e Idoso: Proteção de Direitos, da Procuradoria Federal dos Direitos do Cidadão, do Ministério Público Federal",
+      "opinioes": [
+        "A legislação brasileira sobre os direitos dos idosos é adequada, mas falta implementação efetiva.",
+        "A convenção promoveria uma nova cultura de envelhecimento ativo e centrado na cidadania.",
+        "O Ministério Público Federal defende a aprovação urgente e prioritária da convenção."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos da Pessoa Idosa debateu a ratificação da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos. O evento contou com a participação de autoridades e especialistas, que destacaram a importância da convenção para a proteção e promoção dos direitos dos idosos no Brasil. A ratificação da convenção foi defendida como um passo essencial para elevar a proteção jurídica dos direitos dos idosos e promover uma nova cultura de envelhecimento ativo e cidadania. Entre os participantes estavam o Presidente da Comissão, Aliel Machado, que enfatizou a necessidade urgente de aprovação da convenção, e representantes de diversas instituições e órgãos governamentais que reforçaram a importância de políticas públicas e programas específicos para a população idosa."
+}

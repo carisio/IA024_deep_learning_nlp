@@ -1,0 +1,87 @@
+{
+  "assunto": "Apresentação do Plano de Trabalho do Ministério do Trabalho e Emprego para o ano de 2024",
+  "envolvidos": [
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Presidente da Comissão (PSB - PE)",
+      "opinioes": [
+        "Abertura da reunião e saudação aos presentes.",
+        "Explicação sobre as normas e procedimentos da audiência."
+      ]
+    },
+    {
+      "nome": "Luiz Marinho",
+      "cargo": "Ministro de Estado do Trabalho e Emprego",
+      "opinioes": [
+        "O Ministério do Trabalho está sendo reconstruído após ser extinto no governo anterior.",
+        "Estão em curso concursos para recomposição da força de trabalho, incluindo 900 vagas para auditores.",
+        "Importância da FUNDACENTRO para estudar as condições de trabalho e propor melhorias.",
+        "O combate ao trabalho precário e análogo à escravidão é uma missão principal.",
+        "Necessidade de dialogar com empresas para garantir boas condições de trabalho e evitar multas.",
+        "Dados sobre geração de empregos e rotatividade: em 2023 foram gerados 1,5 milhão de empregos, mas houve alta rotatividade de 22 milhões.",
+        "Necessidade de aumentar a massa salarial e o poder de compra dos salários.",
+        "Política de valorização do salário mínimo retomada, influenciando positivamente na massa salarial.",
+        "Medidas para proteção do trabalhador, como a manutenção do benefício do Bolsa Família em casos de contratos sazonais.",
+        "Críticas ao Saque-Aniversário do FGTS, que cria distorções para trabalhadores e diminui a capacidade de investimento do fundo.",
+        "Proposta de oferecer alternativas de crédito mais baratas via eSocial para substituir o Saque-Aniversário.",
+        "Trabalho conjunto com empresas de aplicativos para regulamentar a categoria, garantindo direitos sem impor o regime da CLT."
+      ]
+    },
+    {
+      "nome": "Capitão Alberto Neto",
+      "cargo": "Deputado (PL - AM)",
+      "opinioes": [
+        "Críticas ao fim do Saque-Aniversário, argumentando que beneficia os trabalhadores.",
+        "Afirma que o Saque-Aniversário injeta dinheiro na economia e ajuda trabalhadores a pagar dívidas.",
+        "Apoio à melhoria do projeto, mas contra a sua extinção.",
+        "Preocupação com o impacto da regulamentação sobre motoristas de aplicativo, especialmente sobre a criação de sindicatos e piso para hora trabalhada.",
+        "Defende um ambiente de negócios saudável e questiona a competitividade dos aplicativos com táxis."
+      ]
+    },
+    {
+      "nome": "Alexandre Lindenmeyer",
+      "cargo": "Deputado (Bloco/PT - RS)",
+      "opinioes": [
+        "Celebra a recriação do Ministério do Trabalho e Emprego.",
+        "Defende a regulamentação dos trabalhadores de aplicativo, garantindo direitos trabalhistas como 13º salário e férias.",
+        "Apoio ao patamar mínimo de remuneração para motoristas de aplicativo."
+      ]
+    },
+    {
+      "nome": "Lindbergh Farias",
+      "cargo": "Deputado (Bloco/PT - RJ)",
+      "opinioes": [
+        "Reflexão sobre a contradição entre a percepção da população sobre emprego e os dados econômicos positivos.",
+        "Enfatiza a necessidade de focar no crescimento econômico."
+      ]
+    },
+    {
+      "nome": "Airton Faleiro",
+      "cargo": "Deputado (Bloco/PT - PA)",
+      "opinioes": [
+        "Defende a recriação do Ministério do Trabalho.",
+        "Celebra os avanços no combate ao trabalho precário e à formalização do emprego.",
+        "Importância de assegurar que o Bolsa Família não seja um impedimento para a formalização do trabalho."
+      ]
+    },
+    {
+      "nome": "Vicentinho",
+      "cargo": "Deputado (Bloco/PT - SP)",
+      "opinioes": [
+        "Destaca a importância da política de recuperação do poder aquisitivo do salário mínimo.",
+        "Apoio ao aumento no número de auditores fiscais para combater o trabalho escravo.",
+        "Defende a regulamentação dos motoristas de aplicativo."
+      ]
+    },
+    {
+      "nome": "Bohn Gass",
+      "cargo": "Deputado (Bloco/PT - RS)",
+      "opinioes": [
+        "Critica a extinção do Ministério do Trabalho pelo governo anterior.",
+        "Defende o retorno da ultratividade nas negociações sindicais e a homologação de rescisões nos sindicatos.",
+        "Apoio à retomada da contribuição negocial."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Trabalho da Câmara dos Deputados discutiu o Plano de Trabalho do Ministério do Trabalho e Emprego para 2024, apresentado pelo Ministro Luiz Marinho. O ministro destacou a reconstrução do Ministério após sua extinção no governo anterior, o combate ao trabalho precário e análogo à escravidão, e a importância de aumentar a massa salarial. Também foram abordadas a valorização do salário mínimo e críticas ao Saque-Aniversário do FGTS. Parlamentares discutiram a regulamentação de motoristas de aplicativo, a recuperação do poder aquisitivo do salário mínimo, e a necessidade de fortalecer o movimento sindical."
+}

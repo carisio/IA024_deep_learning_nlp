@@ -1,0 +1,79 @@
+{
+  "assunto": "Debate sobre a necessidade de obras em áreas de risco no Município de Palhoça, Santa Catarina, com foco na construção dos túneis do Morro dos Cavalos na BR-101.",
+  "envolvidos": [
+    {
+      "nome": "José Rocha",
+      "cargo": "Presidente da audiência, Bloco/UNIÃO - BA",
+      "opinioes": [
+        "Anunciou a transformação de uma reunião ordinária em uma audiência pública para debater as enchentes no Rio Grande do Sul.",
+        "Destacou a gravidade das chuvas intensas no Rio Grande do Sul e a necessidade de providências."
+      ]
+    },
+    {
+      "nome": "Daniela Reinehr",
+      "cargo": "Deputada, PL - SC",
+      "opinioes": [
+        "Propôs a audiência pública devido aos deslizamentos no Morro dos Cavalos.",
+        "Expressou solidariedade às vítimas das enchentes no Rio Grande do Sul.",
+        "Reforçou a importância da construção dos túneis para a segurança e logística de Santa Catarina.",
+        "Mencionou a necessidade de investimentos em prevenção e obras estruturantes."
+      ]
+    },
+    {
+      "nome": "Rafael Vitale Rodrigues",
+      "cargo": "Diretor-Geral da Agência Nacional de Transportes Terrestres (ANTT)",
+      "opinioes": [
+        "Falou sobre a necessidade de revisão das infraestruturas para maior resiliência climática.",
+        "Destacou o Programa de Concessões de Rodovias Federais como ferramenta para acelerar investimentos.",
+        "Comentou sobre a necessidade de modernização dos contratos de concessão antigos.",
+        "Afirmou que o Morro dos Cavalos é uma das prioridades e deve ser considerado nas primeiras fases do contrato repactuado."
+      ]
+    },
+    {
+      "nome": "Egídio Martorano",
+      "cargo": "Presidente da Câmara para Assuntos de Transporte e Logística da FIESC",
+      "opinioes": [
+        "Ressaltou a importância do Morro dos Cavalos para a eficiência e segurança do corredor logístico.",
+        "Defendeu a extensão do prazo de concessão como alternativa para realização das obras necessárias.",
+        "Afirmou que a concessão deve ser revista para incorporar novas obras e tecnologias."
+      ]
+    },
+    {
+      "nome": "Dagnor Schneider",
+      "cargo": "Presidente da FETRANCESC",
+      "opinioes": [
+        "Enfatizou a dependência do transporte rodoviário de cargas da qualidade da infraestrutura rodoviária.",
+        "Comentou sobre os impactos econômicos e de mobilidade devido aos deslizamentos no Morro dos Cavalos.",
+        "Defendeu que a renovação do contrato de concessão contemple soluções definitivas para os problemas da BR-101."
+      ]
+    },
+    {
+      "nome": "Daniel Gevaerd Muller",
+      "cargo": "Tenente-Coronel, Chefe de Gabinete do Secretário de Proteção e Defesa Civil de Santa Catarina",
+      "opinioes": [
+        "Destacou a importância da prevenção em obras estruturantes.",
+        "Comentou sobre a atuação da Defesa Civil durante o bloqueio da BR-101.",
+        "Ressaltou a necessidade de ações concretas para mitigar desastres e melhorar a segurança rodoviária."
+      ]
+    },
+    {
+      "nome": "Ana Carolina Colombo",
+      "cargo": "Engenheira civil, Diretora de Obras da Secretaria de Proteção e Defesa Civil de Santa Catarina",
+      "opinioes": [
+        "Falou sobre a resiliência conquistada por Santa Catarina na gestão de desastres.",
+        "Enfatizou a necessidade de um estudo amplo de impactos e rotas de fuga para o Morro dos Cavalos.",
+        "Defendeu a implementação de soluções permanentes para os deslizamentos na região."
+      ]
+    },
+    {
+      "nome": "Carlos Humberto",
+      "cargo": "Deputado Estadual de Santa Catarina",
+      "opinioes": [
+        "Reforçou a importância dos túneis no Morro dos Cavalos para a mobilidade e segurança.",
+        "Criticou a falta de melhorias significativas na BR-101, especialmente no trecho norte.",
+        "Defendeu a repactuação do contrato de concessão com soluções definitivas para os problemas rodoviários."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a necessidade urgente de obras no Morro dos Cavalos, em Palhoça, SC, devido aos frequentes deslizamentos que afetam a segurança e a logística na BR-101. Envolveu representantes de transporte, Defesa Civil e autoridades políticas que destacaram a importância das obras para melhorar a resiliência climática e a eficiência do corredor logístico. A Deputada Daniela Reinehr, responsável pelo requerimento, enfatizou a necessidade de prevenção e investimentos em infraestrutura. A ANTT propôs a modernização dos contratos de concessão como solução para viabilizar os investimentos necessários. A audiência também abordou os impactos econômicos e a importância de ações concretas para mitigar desastres naturais."
+}

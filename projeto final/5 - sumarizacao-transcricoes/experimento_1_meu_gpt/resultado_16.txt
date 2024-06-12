@@ -1,0 +1,50 @@
+{
+  "assunto": "Políticas públicas de direitos humanos, com foco na proteção de diversos grupos vulneráveis e melhorias no sistema prisional.",
+  "envolvidos": [
+    {
+      "nome": "Silvio Almeida",
+      "cargo": "Ministro dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Aprimoramento do Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte (PPCAAM), com aumento de 81% na execução orçamentária e expansão para mais estados.",
+        "Lançamento do Plano Nacional dos Direitos da Pessoa com Deficiência e do Plano Nacional de Políticas para a População em Situação de Rua.",
+        "Necessidade de debater políticas públicas, proteção de defensores de direitos humanos e vítimas de violência.",
+        "Repúdio a insinuações maliciosas e criminosas sobre o tema de direitos humanos.",
+        "Defesa da importância de políticas de direitos humanos para agentes de segurança pública, destacando a necessidade de valorização e proteção dos policiais."
+      ]
+    },
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Deputada (PL-DF), Presidente da Comissão de Fiscalização Financeira e Controle",
+      "opinioes": [
+        "Questionamento sobre a condução democrática do debate.",
+        "Preocupação com a situação de militares da Polícia Militar do Distrito Federal afastados e sem salário, destacando isso como uma violação aos direitos humanos."
+      ]
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "cargo": "Deputado (PL-SP)",
+      "opinioes": [
+        "Crítica ao Movimento Brasil Livre (MBL) por desestabilizar a democracia ao pregar o voto nulo.",
+        "Defesa de uma oposição mais uníssona e crítica ao governo atual, chamando a atenção para a necessidade de um debate maduro sem acusações de racismo, sexismo, misoginia ou xenofobia."
+      ]
+    },
+    {
+      "nome": "Henrique Vieira",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Crítica à lógica política da extrema direita, afirmando que há relações simbólicas e objetivas com o crime organizado.",
+        "Defesa da democracia e pluralidade, afirmando que a extrema direita nega a diversidade e a república."
+      ]
+    },
+    {
+      "nome": "Rogério Correia",
+      "cargo": "Deputado (PT-MG)",
+      "opinioes": [
+        "Parabenização ao Ministro Silvio Almeida pela atuação no Ministério dos Direitos Humanos.",
+        "Preocupação com a população em situação de rua e a necessidade de um plano nacional para essa questão.",
+        "Relatório sobre a CPMI do Golpe de 8 de Janeiro, destacando a importância de políticas públicas eficazes."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou diversas políticas públicas de direitos humanos, incluindo a proteção de crianças e adolescentes ameaçados de morte, pessoas com deficiência, população em situação de rua e agentes de segurança pública. O Ministro Silvio Almeida destacou a importância dessas políticas e repudiou insinuações maliciosas sobre o tema. A Deputada Bia Kicis e outros parlamentares expressaram preocupações com a condução democrática do debate e a situação de militares afastados. Eduardo Bolsonaro criticou o MBL e defendeu uma oposição mais madura, enquanto Henrique Vieira criticou a extrema direita por suas relações com o crime organizado. Rogério Correia parabenizou o Ministro e destacou a importância de um plano nacional para a população em situação de rua."
+}

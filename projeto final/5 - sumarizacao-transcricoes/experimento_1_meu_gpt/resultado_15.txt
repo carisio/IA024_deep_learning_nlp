@@ -1,0 +1,51 @@
+{
+  "assunto": "Obrigatoriedade de vacinação contra a COVID-19 para crianças de 6 meses a 5 anos e sua inclusão no Programa Nacional de Imunizações (PNI).",
+  "envolvidos": [
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Presidente da Comissão, Deputada Federal (PL - DF)",
+      "opinioes": [
+        "É favorável à vacinação e a seus filhos são vacinados, mas defende vacinas com anos de segurança e eficácia comprovadas.",
+        "Critica a obrigatoriedade da vacinação contra a COVID-19 para crianças e defende o direito dos pais de decidirem sobre a vacinação dos filhos.",
+        "Repudia rótulos de negacionista e defende que o debate científico deve ser aberto e sem preconceitos."
+      ]
+    },
+    {
+      "nome": "Eder Gatti",
+      "cargo": "Diretor do Departamento de Imunização e Doenças Transmissíveis do Ministério da Saúde",
+      "opinioes": [
+        "Defende a inclusão da vacina contra a COVID-19 no calendário vacinal brasileiro devido à sua eficácia e segurança comprovadas pela ANVISA.",
+        "Argumenta que a vacinação tem sido crucial para controlar a COVID-19 e outras doenças infecciosas no Brasil.",
+        "Afirma que a COVID-19 continua a ser uma doença de alta magnitude entre crianças, justificando a vacinação obrigatória."
+      ]
+    },
+    {
+      "nome": "Francisco Eduardo Cardoso Alves",
+      "cargo": "Médico infectologista",
+      "opinioes": [
+        "Critica a falta de estudos duplo-cego randomizados que comprovem a eficácia da vacina contra a COVID-19 em reduzir a transmissão e mortalidade.",
+        "Afirma que crianças saudáveis até 5 anos não são consideradas grupo de risco pela Organização Mundial de Saúde.",
+        "Destaca que a COVID-19 não apresenta urgência ou emergência que justifique a obrigatoriedade da vacinação infantil."
+      ]
+    },
+    {
+      "nome": "Caio Salvino",
+      "cargo": "Farmacêutico bioquímico e microbiologista",
+      "opinioes": [
+        "Não concorda que o imunizante de mRNA seja considerado uma vacina no conceito clássico.",
+        "Destaca que as vacinas atuais contra a COVID-19 são baseadas em cepas desatualizadas do vírus.",
+        "Argumenta que a vacinação em massa durante a pandemia pode promover mutações no vírus."
+      ]
+    },
+    {
+      "nome": "Roberto Zeballos",
+      "cargo": "Médico, mestre e doutor em imunologia",
+      "opinioes": [
+        "Afirma que a vacinação em massa promove pressão seletiva no ambiente, levando à mutação do vírus.",
+        "Critica a falta de bom senso na criação de uma vacina baseada na proteína Spike.",
+        "Destaca que a vacinação deve ser recomendada com cautela devido aos riscos observados, como miocardite e trombose."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Câmara dos Deputados debateu a obrigatoriedade da vacinação contra a COVID-19 para crianças de 6 meses a 5 anos e sua inclusão no Programa Nacional de Imunizações (PNI). A Presidente da Comissão, Deputada Bia Kicis, destacou a importância do debate científico e defendeu o direito dos pais de decidirem sobre a vacinação dos filhos. O Diretor do Departamento de Imunização e Doenças Transmissíveis do Ministério da Saúde, Eder Gatti, argumentou a favor da inclusão da vacina no PNI, citando sua eficácia e segurança. Por outro lado, os especialistas Dr. Francisco Eduardo Cardoso Alves, Dr. Caio Salvino e Dr. Roberto Zeballos levantaram preocupações sobre a eficácia, necessidade e riscos da vacinação infantil, destacando a ausência de estudos conclusivos e possíveis efeitos adversos. O debate refletiu a complexidade e a polarização em torno da vacinação infantil contra a COVID-19."
+}
