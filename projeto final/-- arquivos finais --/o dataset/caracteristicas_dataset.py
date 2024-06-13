@@ -52,6 +52,7 @@ pd.set_option('display.max_columns', None)
 print(pd_stats.describe())
 
 # Extraindo os dados para os gráficos
+ids = pd_stats['id'].tolist()
 transcription_words = pd_stats['transcription_words'].tolist()
 article_words = pd_stats['article_words'].tolist()
 num_people = pd_stats['num_people'].tolist()
