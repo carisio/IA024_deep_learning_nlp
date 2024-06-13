@@ -1,0 +1,40 @@
+{
+  "assunto": "Regulamentação dos mercados digitais no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Assimakis Komminos",
+      "cargo": "Advogado especialista em mercados e serviços digitais do escritório de advocacia White & Case",
+      "opinioes": [
+        "Discorda de que se use como modelo a regulação da União Europeia: \"Cada país tem seus próprios interesses nacionais, que devem ser protegidos claramente. Porque a União Europeia introduziu essa legislação numa área específica não significa que todos os países devem fazer a mesma coisa. A União Europeia é muito intervencionista e aprova uma quantidade muito grande de regras e leis para todas as áreas, e nem todos os países devem fazer a mesma coisa. Mas isso depende de como cada país vai defender seus interesses nacionais.\"",
+        "O Brasil deve adotar um modelo mais flexível, como o da Alemanha.",
+        "O País deve identificar interesses públicos nacionais que justificam as regras, que, apesar de serem próprias, não podem ser muito diferentes das regras adotadas no resto do mundo."
+      ]
+    },
+    {
+      "nome": "Giorgio Monti",
+      "cargo": "Professor de direito da concorrência da Universidade de Direito Tilburg, dos Países Baixos",
+      "opinioes": [
+        "Defende uma regulação focada na suavização do controle de acesso essencial das plataformas digitais.",
+        "A regulação, diferentemente do que muitos imaginam, não trata de combate às notícias falsas que os meios digitais possibilitam: \"Nós temos que pensar cuidadosamente sobre o nosso objetivo. Se fake news é a preocupação de certas plataformas no processo democrático, no processo político, então temos que olhar outros instrumentos. Se estivermos preocupados com o dinamismo do mercado, com a dependência econômica, então precisamos focar em instrumentos como a Lei de Mercado Digital na Europa e equivalentes na Alemanha e outras partes do mundo.\"",
+        "Acredita que as condições do Brasil são diferentes da União Europeia e mais próximas da flexibilidade adotada pela Alemanha e do Reino Unido.",
+        "Se na Europa a autorregulação não seria a melhor saída, em outros países pode ser assim."
+      ]
+    },
+    {
+      "nome": "Krisztian Katona",
+      "cargo": "Vice-presidente de concorrência global e política regulatória da Computer and Communications Industry Association (CCIA)",
+      "opinioes": [
+        "Acredita que os reguladores estão sob pressão para desenvolverem programas digitais nacionais.",
+        "É muito importante não depender de exemplos internacionais e elaborar políticas locais mais adequadas.",
+        "No Brasil, a regulação será sentida no bolso: \"Se você pensar no impacto sobre os consumidores, se a conformidade com a proposta brasileira vai aumentar os custos variados ou fixos, é muito importante destacar que os serviços vão aumentar os custos para os usuários e os das empresas também podem aumentar - e, se elas tiverem esse aumento dos custos, vão repassar para os consumidores. Então eu acredito que o impacto dessa regulação de fato pode aumentar o preço para os consumidores.\""
+      ]
+    },
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Deputada (Cidadania-RS)",
+      "opinioes": [
+        "Acredita que a audiência pública com especialistas estrangeiros é um movimento de vanguarda no Parlamento brasileiro: \"Nós estamos aqui tendo uma grande oportunidade de enriquecer o debate, aprendendo com o que já foi construído em outros países, e a experiência que têm, considerando o fato de que os mercados digitais têm se expandido de forma exponencial nas últimas décadas com serviços de tecnologia e informação se tornando cada vez mais presentes na vida cotidiana das pessoas e empresas.\""
+      ]
+    }
+  ]
+}

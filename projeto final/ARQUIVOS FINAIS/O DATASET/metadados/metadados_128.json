@@ -1,0 +1,51 @@
+{
+  "assunto": "Debate sobre a revogação da portaria que autorizava o trabalho aos domingos e feriados e suas implicações",
+  "envolvidos": [
+    {
+      "nome": "Daniela Reinehr",
+      "cargo": "Deputada (PL-SC)",
+      "opinioes": [
+        "Criticou o governo por não ter debatido previamente a questão com trabalhadores e empregados: 'Não houve um amplo debate, não ouve considerações, especialmente num período em que naturalmente o consumo aumenta'."
+      ]
+    },
+    {
+      "nome": "Saulo Pedroso",
+      "cargo": "Deputado (PSD-SP)",
+      "opinioes": [
+        "Criticou a medida do governo. O governo precisa mostrar clareza em relação às suas propostas: 'Se eventualmente tiver que fazer algum tipo de mudança, que não seja da maneira como foi feito, numa publicação num feriado'."
+      ]
+    },
+    {
+      "nome": "Luiz Gastão",
+      "cargo": "Deputado (PSD-CE)",
+      "opinioes": [
+        "Disse que o ministério errou ao não dar um prazo para os empregados e empregadores negociarem."
+      ]
+    },
+    {
+      "nome": "Antônio Lisboa",
+      "cargo": "Advogado da divisão jurídica e sindical da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+      "opinioes": [
+        "Afirmou que a portaria apenas trouxe instabilidade jurídica para a questão, já que ela está pacificada na legislação.",
+        "Lembrou que a Lei 10.101/00 autoriza o trabalho aos domingos e feriados nas atividades do comércio em geral, desde que observada o repouso semanal remunerado, a legislação municipal (no caso dos domingos) e convenção coletiva de trabalho e a legislação municipal (para os feriados).",
+        "Afirmou: 'Precisamos de segurança jurídica para que o empresário possa investir, sabendo que ele vai poder exercer de fato a sua atividade'."
+      ]
+    },
+    {
+      "nome": "Pablo Rolim Carneiro",
+      "cargo": "Gerente de assuntos trabalhistas da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "Afirmou que as mudanças tecnológicas dos últimos anos tornaram o funcionamento ininterrupto uma necessidade do comércio e da indústria.",
+        "Defendeu a aprovação de uma lei regulando de vez a questão."
+      ]
+    },
+    {
+      "nome": "Zilmara David de Alencar",
+      "cargo": "Assessora jurídica da Federação dos Comerciários do Estado de São Paulo (Fecomerciários-SP)",
+      "opinioes": [
+        "Disse que a decisão do MTE apenas 'resgata o privilégio da negociação coletiva': 'A lei que rege o comerciário diz que qualquer tipo de alteração de jornada de trabalho que traga condições de saúde e segurança deve ser previamente objeto de negociação coletiva'.",
+        "Disse ainda que a autorização para trabalho aos domingos e feriados é questão típica de negociação coletiva entre trabalhadores e patrões."
+      ]
+    }
+  ]
+}

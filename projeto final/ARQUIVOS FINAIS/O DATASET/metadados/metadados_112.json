@@ -1,0 +1,45 @@
+{
+  "assunto": "Regulamentação do trabalho de motoristas de aplicativo",
+  "envolvidos": [
+    {
+      "nome": "Paulo Xavier",
+      "cargo": "Presidente da Federação dos Motoristas por Aplicativos do Brasil",
+      "opinioes": [
+        "A categoria quer autonomia.",
+        "Defendeu a rejeição integral da proposta do Executivo."
+      ]
+    },
+    {
+      "nome": "Tadeu Henrique Lopes",
+      "cargo": "Procurador do trabalho e gerente nacional do Projeto Estratégico Plataformas",
+      "opinioes": [
+        "Considerou insuficiente o valor de R$ 8 por hora trabalhada para garantir a aposentadoria: \"Considerando a reforma da Previdência, para que a pessoa tenha o benefício, ela tem que ter um salário de contribuição relativo ao salário mínimo. A gente vê aqui uma possibilidade real de que motoristas recolham e não recebam o benefício futuramente, porque esses R$ 8 por hora podem não alcançar no final do mês esse valor do salário mínimo.\""
+      ]
+    },
+    {
+      "nome": "Rodrigo Carelli",
+      "cargo": "Coordenador do Grupo Direito do Trabalho no Século 21",
+      "opinioes": [
+        "O projeto nem garante autonomia aos trabalhadores nem os trata como empregados: \"O projeto tem o slogan de que seria um autônomo com direitos. Não, na verdade, é um subordinado sem direitos.\"",
+        "Critica especificamente o artigo 5º da proposta que prevê poder empregatício às plataformas: \"Ele sai descrevendo que os aplicativos têm poder organizativo, poder fiscalizatório ou de vigilância e poder punitivo.\""
+      ]
+    },
+    {
+      "nome": "Carina Mineia dos Santos Trindade",
+      "cargo": "Representante da Federação Nacional dos Sindicatos dos Motoristas de Aplicativos",
+      "opinioes": [
+        "Defendeu o projeto do governo.",
+        "Afirmou que os profissionais do setor foram ouvidos por meio de pesquisas: \"Foram feitas audiências públicas estaduais e federais, foram feitas pesquisas em vários órgãos, nas quais os trabalhadores foram ouvidos.\"",
+        "Entre as demandas apresentadas pelos trabalhadores nessas pesquisas estão a necessidade de cobertura às suas famílias e a criação oficial da categoria, o que os retiraria da invisibilidade: \"Muitos motoristas morreram, infelizmente, e a gente depende de ações na Justiça para que a família receba alguma coisa.\"",
+        "Fez um apelo para que o projeto seja aperfeiçoado por meio de emendas, mas ressaltou a importância de os profissionais terem um mínimo garantido, o que, atualmente, não existe."
+      ]
+    },
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado (Psol-RJ) e presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "Quer pedir a retirada da urgência constitucional, que exige a análise da proposta em até 45 dias no Plenário da Câmara: \"Temos que trabalhar por um projeto que represente ganhos reais para os trabalhadores.\""
+      ]
+    }
+  ]
+}

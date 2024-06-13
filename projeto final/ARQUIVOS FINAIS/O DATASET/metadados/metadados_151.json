@@ -1,0 +1,47 @@
+{
+  "assunto": "Defesa da educação profissionalizante nos presídios",
+  "envolvidos": [
+    {
+      "nome": "Luiz Couto",
+      "cargo": "Deputado (PT-PB)",
+      "opinioes": [
+        "É preciso encontrar mecanismos capazes de ampliar a oferta educacional dentro do sistema penitenciário."
+      ]
+    },
+    {
+      "nome": "João Moura",
+      "cargo": "Representante do Ministério dos Direitos Humanos",
+      "opinioes": [
+        "A educação é fundamental para que as pessoas possam acessar seus direitos: \"Não basta que haja o reconhecimento legal desses direitos. É necessário que nos eduquemos para eles, para que possamos aprender a exigi-los e compreendê-los não apenas como nosso, mas como também do outro. E é nesse sentido que a educação se apresenta como elemento fundamental.\""
+      ]
+    },
+    {
+      "nome": "Irmã Petra Silvia",
+      "cargo": "Coordenadora nacional da Pastoral Carcerária",
+      "opinioes": [
+        "A educação é uma das formas de desencarceramento e de diminuição da reincidência no mundo do crime: \"Quando nós entramos no cárcere, muitos querem estudar, muitos querem uma nova chance ao sair. A educação, a escola, a remissão por leitura é uma forma de desencarcerar.\""
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada (PT-DF)",
+      "opinioes": [
+        "Critica a situação atual em que, ao invés de ampliar o acesso à educação, os governos estão se empenhando em colocar grades nas salas de aula: \"É importante o estabelecimento de metas para ampliar o acesso à educação, que ainda é muito pequeno. E também o acesso ao trabalho, porque também é possível incorporar o ensino profissionalizante. Por que os institutos federais não podem estar dentro dos presídios?\""
+      ]
+    },
+    {
+      "nome": "Cíntia Rangel",
+      "cargo": "Representante do Ministério da Justiça",
+      "opinioes": [
+        "A pasta vem investindo em formação profissional e equipamentos que possam proporcionar diferentes formas educacionais capazes de atingir um número maior de detentos: \"Uma grande compra, uma aquisição de equipamentos não para substituir a educação formal, mas que nós possamos diversificar e ampliar as alternativas de educação dentro do sistema prisional.\""
+      ]
+    },
+    {
+      "nome": "Mariângela Graciano",
+      "cargo": "Representante do Ministério da Educação",
+      "opinioes": [
+        "Defende a flexibilização do currículo oferecido aos presos incluindo a formação profissional, capacitando essas pessoas para a saída do sistema prisional."
+      ]
+    }
+  ]
+}

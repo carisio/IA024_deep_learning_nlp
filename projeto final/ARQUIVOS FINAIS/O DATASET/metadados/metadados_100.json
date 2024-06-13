@@ -1,0 +1,45 @@
+{
+  "assunto": "Acesso direto a dados de conexão de abusadores de crianças em investigações de crimes sexuais contra crianças e adolescentes",
+  "envolvidos": [
+    {
+      "nome": "Silvye Alves",
+      "cargo": "Deputada (União-GO)",
+      "opinioes": [
+        "A Safernet recebeu 71.867 denúncias de abuso e exploração sexual infantil: \"A realidade é que essas condutas continuam a ser praticadas na internet por usuários de sites criminosos nas chamadas deep e dark web. Precisamos de uma resposta aqui do nosso legislativo para esse tipo de crime.\""
+      ]
+    },
+    {
+      "nome": "Erika de Oliveira",
+      "cargo": "Delegada do departamento de Repressão a Crimes Cibernéticos da PF",
+      "opinioes": [
+        "Criticou a dificuldade de acesso a dados de conexão dos suspeitos, além da lentidão de resposta dos provedores: \"A gente quer ter meios e instrumentos adequados para conseguir os dados cadastrais de maneira célere, para que a gente consiga enfrentar realmente os crimes.\"",
+        "Os provedores devem ser obrigados a permitir o acesso aos registros de conexão: \"Hoje em dia esse dados não são considerados dados cadastrais e, por conta disso, são negados com alegação de que invadem a intimidade do indivíduo.\""
+      ]
+    },
+    {
+      "nome": "George Neves Lodder",
+      "cargo": "Procurador da República do Ministério Público Federal",
+      "opinioes": [
+        "Defendeu vários pontos do projeto em debate, como a autorização para que o Ministério Público e a polícia possam fazer diretamente a requisição de retirada de conteúdo envolvendo abuso sexual de crianças.",
+        "É fundamental garantir aos órgãos de investigação acesso aos dados de conexão dos suspeitos sem necessidade de decisão judicial: \"Eu acho interessante que a gente tenha, por exemplo, esse pedido dos dados de conexão e cadastrais formulados diretamente pelos órgãos.\""
+      ]
+    },
+    {
+      "nome": "Rodrigo Santana",
+      "cargo": "Representante da Autoridade Nacional de Proteção de Dados",
+      "opinioes": [
+        "Falou sobre os riscos à privacidade por conta do compartilhamento de conteúdos com crianças pelos próprios pais nas redes sociais: \"Temos que ter cuidado com os dados que nós colocamos nas redes sociais.\"",
+        "É crucial aumentar o controle do que os filhos fazem nas redes.",
+        "Informou que 95% das crianças e adolescentes de 9 a 17 anos são usuários de internet e 88% dos usuários de internet com essa idade reportaram ter perfil em redes sociais.",
+        "\"Outro dado também é que 16% dos usuários de 11 a 17 anos afirmaram ter recebido na internet mensagem de conteúdo sexual e 9% desses usuários afirmaram ter recebido pedido de foto ou vídeo em que apareceria nua.\""
+      ]
+    },
+    {
+      "nome": "Tais Niffinegger",
+      "cargo": "Representante do Facebook (Meta)",
+      "opinioes": [
+        "\"Nós não permitimos conteúdo ou atividades que explorem sexualmente ou coloquem em risco as crianças. Isso inclui também o conteúdo gerado por inteligência artificial. Sempre que tomamos conhecimento de alguma situação, denunciamos esse conteúdo diretamente ao NCMEC.\""
+      ]
+    }
+  ]
+}

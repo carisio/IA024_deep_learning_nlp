@@ -1,0 +1,37 @@
+{
+  "assunto": "Aumento de orçamento para combater a tuberculose no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Antonio Brito",
+      "cargo": "Deputado (PSD-BA)",
+      "opinioes": [
+        "Defendeu a necessidade de aumentar o orçamento para o combate à tuberculose.",
+        "Ressaltou que o Brasil registra mais de 80 mil casos de tuberculose por ano.",
+        "Destacou que o governo passado deixou apenas R$ 14 milhões para essa finalidade.",
+        "Se reuniu com o relator-geral do Orçamento de 2024 e com o relator da área de saúde para tratar do assunto: \"Houve o compromisso do senador Marcelo Castro, e nós deveremos, sim, ampliar o orçamento. Nós fizemos uma proposta ousada para ele, mas precisaremos do apoio do Ministério da Saúde e dos deputados e deputadas desta Casa para que a gente apresente uma coisa concreta, não só essas reuniões, mas algo concreto de ampliação de orçamento e programas do Ministério da Saúde.\""
+      ]
+    },
+    {
+      "nome": "Ethel Maciel",
+      "cargo": "Secretária de Vigilância em Saúde e Ambiente do Ministério da Saúde",
+      "opinioes": [
+        "Confirmou que, no ano passado, o Brasil registrou 81.538 casos de tuberculose, o que significa 9 pessoas contaminadas a cada hora. No mesmo período, foram 5.824 óbitos em consequência da enfermidade. Foi o pior cenário da doença em 20 anos: \"A gente retrocedeu duas décadas em relação aos óbitos por tuberculose no Brasil, e morrer por tuberculose no século 21, quando temos um medicamento que cura praticamente 100% dos casos, é inaceitável.\"",
+        "Aderência dos pacientes ao tratamento é um desafio no enfrentamento da tuberculose. Hoje somente 66% dos pacientes tomam os medicamentos até o final.",
+        "O fator determinante para o abandono do tratamento é a pobreza: \"Isso é outro dado inaceitável, e que a gente precisa mudar radicalmente a forma como nós estamos fazendo o acompanhamento, o monitoramento dessas pessoas que estão em tratamento por tuberculose no Brasil. Um fator importante é a pobreza: a fome faz com que haja um aumento de eventos adversos devidos ao medicamento. Então, a pessoa que não tem o comer acaba deixando o tratamento porque o medicamento faz ela se sentir mais mal do que a doença.\"",
+        "Além de ofertar os medicamentos, é fundamental que o governo adote medidas voltadas às pessoas em maior vulnerabilidade – como a população em situação de rua.",
+        "Pesquisas mostram que ações simples, como a oferta de transporte e alimentação gratuitos, asseguram a adesão ao tratamento até o final.",
+        "A meta do governo federal é chegar a 2030 com menos de 10 casos de tuberculose por 100 mil habitantes por ano.",
+        "Atualmente, a proporção de casos de tuberculose é de 37 ou 38 a cada 100 mil pessoas.",
+        "O Brasil assumiu o compromisso de reduzir a mortalidade dos atuais 5.824 casos anuais para menos de 230.",
+        "Para desenvolver as ações necessárias para atingir esses objetivos, o Ministério da Saúde precisa de um orçamento de pelo menos R$ 650 milhões."
+      ]
+    },
+    {
+      "nome": "Miguel Aragón",
+      "cargo": "Coordenador de Prevenção e Controle de Doenças Transmissíveis da Organização Pan-Americana de Saúde",
+      "opinioes": [
+        "A Organização Mundial da Saúde estima que o Brasil diagnostique apenas cerca de 80% das pessoas contaminadas com tuberculose. Calcula que ocorram, de fato, cerca de 105 mil novos casos da doença a cada ano no país."
+      ]
+    }
+  ]
+}

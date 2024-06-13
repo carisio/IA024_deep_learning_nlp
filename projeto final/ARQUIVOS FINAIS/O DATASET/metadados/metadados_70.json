@@ -1,0 +1,53 @@
+{
+  "assunto": "Críticas à instalação de termelétricas flutuantes na Baía de Sepetiba, RJ, sem estudos ambientais",
+  "envolvidos": [
+    {
+      "nome": "Helena Bergallo",
+      "cargo": "Professora da Universidade do Estado do Rio de Janeiro (UERJ)",
+      "opinioes": [
+        "Ao utilizar água da própria baia para resfriar suas caldeiras, as termelétricas têm potencial para elevar a temperatura das águas no local em até 15º C, ameaçando a vida de diversas espécies.",
+        "\"Com a metade dos recursos usados para instalar essas impactantes termelétricas flutuantes, governo e empresários poderiam reflorestar áreas e aumentar a recarga da água subterrânea na bacia hidrográfica do Rio Paraíba do Sul e em outras bacias.\""
+      ]
+    },
+    {
+      "nome": "John Wurdig",
+      "cargo": "Representante do Instituto Internacional Arayara",
+      "opinioes": [
+        "\"As obras não param e os pescadores estão desesperados.\""
+      ]
+    },
+    {
+      "nome": "Jaime Mitropoulos",
+      "cargo": "Procurador federal no Rio de Janeiro",
+      "opinioes": [
+        "\"As provas iniciais trazidas ao Ministério Público já evidenciavam que se trata de empreendimento de altíssimo impacto ambiental.\"",
+        "\"Sendo assim, o mínimo que o poder público deve fazer é exigir o estudo de impacto ambiental da forma mais rigorosa possível.\""
+      ]
+    },
+    {
+      "nome": "Talíria Petrone",
+      "cargo": "Deputada (Psol-RJ)",
+      "opinioes": [
+        "Criticou o 'tempo recorde' com que o Inea concedeu as licenças para o empreendimento.",
+        "Pretende formalizar denúncia a organismos internacionais: \"É licença [ambiental] sem consulta às comunidades atingidas, sem estudos ambientais e sem atender ao MPF.\""
+      ]
+    },
+    {
+      "nome": "Rodrigo Agostinho",
+      "cargo": "Deputado (PSB-SP)",
+      "opinioes": [
+        "Criticou o 'tempo recorde' com que o Inea concedeu as licenças para o empreendimento.",
+        "Pretende comunicar os fatos aos respectivos presidentes das comissões, sugerindo visitas ao local e audiências com autoridades ainda não ouvidas.",
+        "O Inea está bastante ausente até agora."
+      ]
+    },
+    {
+      "nome": "Karpowership (KPS)",
+      "cargo": "Empresa turca",
+      "opinioes": [
+        "Informou que não foi notificada oficialmente sobre a decisão judicial.",
+        "Acrescentou que 'o projeto cumpriu todos os trâmites do órgão ambiental', 'tem baixo impacto' e está 'próximo à subestação de Furnas, facilitando sua conexão ao sistema'."
+      ]
+    }
+  ]
+}

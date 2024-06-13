@@ -1,0 +1,29 @@
+{
+  "assunto": "Desigualdade na cobertura do teste do pezinho nos estados brasileiros e desafios para a ampliação do exame conforme a Lei 14.154/21",
+  "envolvidos": [
+    {
+      "nome": "Carlos Gouvêa",
+      "cargo": "Diretor da Sociedade Brasileira de Triagem Neonatal e Erros Inatos do Metabolismo",
+      "opinioes": [
+        "Apontou uma grande diferença de cobertura do teste do pezinho entre os estados brasileiros.",
+        "Citou como exemplo estados como o Piauí e Pernambuco, onde apenas 24% dos nascidos vivos têm a coleta realizada na primeira semana de vida, e Alagoas, onde esse percentual melhora um pouco, mas fica por volta de 40%.",
+        "Indicou que nos estados de São Paulo e Paraná, essa cobertura é superior a 80%.",
+        "Mencionou que em Brasília, 97% dos bebês são submetidos ao exame nos primeiros 7 dias de vida."
+      ]
+    },
+    {
+      "nome": "Iza Arruda",
+      "cargo": "Deputada (MDB-PE)",
+      "opinioes": [
+        "Enfatizou a necessidade de políticas públicas que preencham as particularidades dos estados brasileiros: \"A gente entende que cada estado tem uma realidade diferente e é importante que a gente construa essas políticas públicas para alcançar o objetivo\"."
+      ]
+    },
+    {
+      "nome": "Daniela Machado Mendes",
+      "cargo": "Diretora do Instituto Jô Clemente",
+      "opinioes": [
+        "Destacou que, além do diagnóstico precoce, a formação de profissionais qualificados também deve estar no planejamento do programa nacional de triagem neonatal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "assunto": "Diminuição da velocidade das vias para garantir segurança de pedestres e ciclistas",
+  "envolvidos": [
+    {
+      "nome": "Renata Falzoni",
+      "cargo": "Representante do movimento Bike é Legal",
+      "opinioes": [
+        "Em acidentes envolvendo pedestres ou ciclistas e carros, se a velocidade for de até 40 km/h as chances de sobrevivência são de 65% contra 15%, se a velocidade for de 60 km/h.",
+        "\"Com isso, há redução dos congestionamentos, da poluição, do consumo de combustível, do stress da cidade e do ruído urbano e criamos um ambiente de tolerância, um compartilhamento das vias baseado em um trânsito calmo, de gentileza.\""
+      ]
+    },
+    {
+      "nome": "Maria Alice Nascimento",
+      "cargo": "Diretora do Departamento de Segurança no Trânsito do Ministério dos Transportes",
+      "opinioes": [
+        "A pasta adotou dois manuais: um de medidas moderadoras e outro de ruas completas e de gestão de velocidade.",
+        "As medidas de diminuição da violência no trânsito serão mais eficazes quando essa disciplina fizer parte da grade curricular de todas as escolas brasileiras: \"A gente sabe que começa no ensino e eu não entendo porque até hoje não é obrigatório.\""
+      ]
+    },
+    {
+      "nome": "Ana Carboni",
+      "cargo": "Representante da União de Ciclistas do Brasil",
+      "opinioes": [
+        "A legislação brasileira já prevê que pedestres e ciclistas são prioridades nas ruas, mas mesmo assim o Brasil é o terceiro país no ranking mundial de mortes no trânsito.",
+        "Somente a redução na velocidade das vias vai ser capaz de evitar essas mortes."
+      ]
+    },
+    {
+      "nome": "Jonas Donizette",
+      "cargo": "Deputado (PSB-SP)",
+      "opinioes": [
+        "A redução da velocidade nas vias brasileiras ainda é um desafio para os gestores que enfrentam o descontentamento de parte da população: \"Mas o resultado é comprovado.\"",
+        "No centro de Campinas nós temos um viaduto que se chama viaduto Cury. Constantemente tinha acidentes, eu coloquei 40 km/h e nós não tivemos mais nem mortes, nem pessoas mutiladas."
+      ]
+    }
+  ]
+}

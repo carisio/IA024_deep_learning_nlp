@@ -1,0 +1,40 @@
+{
+  "assunto": "Mudanças no projeto de regulamentação dos mercados digitais (PL 2768/22)",
+  "envolvidos": [
+    {
+      "nome": "Luizio Felipe Rocha",
+      "cargo": "Consultor de relações governamentais do Spotify",
+      "opinioes": [
+        "Acredita que uma boa regulamentação pode impedir abusos dos dispositivos móveis que dominam o mercado.",
+        "Considera que usar a receita das empresas como critério para taxação na nova legislação pode ser 'pouco equitativo'. Acredita que basear taxas às receitas das plataformas pode acabar isentando empresas como Google e Apple por conta de seus modelos de negócios: \"A Apple não licencia ou vende separadamente seu sistema operacional IOS. Ele é monetizado por meio dos iphones que o acompanham. O Google é monetizado por meio de receitas de publicidade possibilitadas pelos dados coletados pelo Google nos seus dispositivos móveis.\""
+      ]
+    },
+    {
+      "nome": "Adriana Cardinali",
+      "cargo": "Diretora de Enhanced Marketplace do Mercado Livre",
+      "opinioes": [
+        "O Brasil não deve importar modelos de regulamentações de outros países.",
+        "Critérios como faturamento e número de inscritos podem mascarar operações no setor: \"O Mercado Livre acredita que esse critério está baseado numa técnica regulatória inadequada porque esse tipo de limite, relacionado ao tamanho da plataforma por si só, não mede o nível de concorrência efetiva nos mercados.\"",
+        "Essa técnica tem um risco de regular mercados competitivos: \"O que, em economia, a gente entende que é o equivalente a administrar remédios para uma pessoa saudável.\""
+      ]
+    },
+    {
+      "nome": "Ricardo Medeiros",
+      "cargo": "Economista-adjunto do Conselho Administrativo de Defesa Econômica (Cade)",
+      "opinioes": [
+        "Há dificuldades no conselho em ter acesso a dados que permitam a fiscalização.",
+        "Defendeu a aprovação de um projeto (PLP 523/18) que daria ao Cade acesso aos bancos de dados da Receita Federal.",
+        "\"No Brasil, por exemplo, se tem uma noção de que os dados de notas fiscais eletrônicas devem ser utilizados apenas para análise de infrações de ordem tributária. Ou seja, evasão fiscal, sonegação, mas não se utiliza e não se compartilha esses dados para análise de cartel, de atos de concentração, para modelos de simulação.\"",
+        "Hoje, o Cade tem que pagar ao Serpro para obter dados que são próprios do serviço público."
+      ]
+    },
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Deputada (Cidadania-RS) e relatora do PL 2768/22",
+      "opinioes": [
+        "\"Nós entendemos a importância dos mercados digitais na economia local e é fundamental que a Câmara dos Deputados promova um debate aprofundado. Posteriormente faremos também um seminário para incluir demais players.\"",
+        "A intenção é elaborar um texto que garanta competitividade, promoção da concorrência, para fomentar inovação, crescimento econômico e direitos dos consumidores e empreendedores."
+      ]
+    }
+  ]
+}

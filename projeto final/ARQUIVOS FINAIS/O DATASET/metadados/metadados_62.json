@@ -1,0 +1,40 @@
+{
+  "assunto": "Oferta gratuita de novos medicamentos para tratar amiloidose no SUS",
+  "envolvidos": [
+    {
+      "nome": "Liana Ferronato",
+      "cargo": "Presidente da Associação Brasileira de Paramiloidose (ABPAR)",
+      "opinioes": [
+        "O início imediato do tratamento é essencial para impedir o avanço da doença.",
+        "Mesmo o Tafamidis, indicado para as fases iniciais e já incorporado ao SUS, está em falta para a retirada gratuita em farmácias de alto custo: \"Pacientes chegam a ficar até 3 meses sem o Tafamidis, que é de uso contínuo, o que acaba permitindo que a doença evolua para o estágio 2.\""
+      ]
+    },
+    {
+      "nome": "Márcia Cruz",
+      "cargo": "Coordenadora do Centro de Paramiloidose da Universidade Federal do Rio de Janeiro",
+      "opinioes": [
+        "A paramiloidose é uma doença hereditária e relacionada a ascendência portuguesa, acometendo entre 5 mil e 15 mil pessoas no Brasil.",
+        "Por ser multissistêmica, afetando os sistemas nervoso central e periférico, além de coração, sistema gastrointestinal, olhos e rins, quando não tratada, pode levar a óbito no período de 2 a 10 anos.",
+        "Defende a incorporação ao SUS do Inotersen e do Patisirana como instrumentos para tratar tanto a fase 1 quanto a fase 2 da doença: \"Tanto o Onpatrro (Patisiran) quanto o Tegsedi (Inotersen) estão aprovados [pela Anvisa] desde 2020 e 2019, tanto para o estágio1 quanto estágio 2, mas não foram ainda incorporados ao SUS. Esse é o nosso pleito aqui. Eles já estão incorporados no mundo inteiro, mas aqui no Brasil pacientes com essas necessidades ainda não são atendidos.\""
+      ]
+    },
+    {
+      "nome": "Rejane Dias",
+      "cargo": "Deputada (PT-PI)",
+      "opinioes": [
+        "Comentou a demora na incorporação pelo SUS das novas tecnologias, consideradas mais eficazes no estágio 2 da doença.",
+        "Após a exibição de vídeos que mostram pacientes com dificuldades de locomoção e usando bengalas, lamentou: \"É chocante as imagens que a gente acabou de ver sobre as situações que ficam esses pacientes.\""
+      ]
+    },
+    {
+      "nome": "Priscila Louly",
+      "cargo": "Coordenadora-geral de Avaliação de Tecnologias em Saúde do Ministério da Saúde",
+      "opinioes": [
+        "Atualmente, o protocolo clínico e as diretrizes terapêuticas da doença apontam, na fase mais inicial, para o transplante de fígado, já que a transtiretina familiar amiloidotica é produzida pelo órgão, ou para o uso de Tafamidis quando o transplante não é recomendado.",
+        "A incorporação de tecnologias ao SUS leva em conta aspectos clínicos, econômicos, organizacionais e dos pacientes.",
+        "Reiterou a conclusão da Conitec de não recomendar a incorporação das novas drogas.",
+        "No caso do Inotersena, o ministério realizará uma audiência pública no dia 7 de dezembro para debater a incorporação do remédio no SUS."
+      ]
+    }
+  ]
+}

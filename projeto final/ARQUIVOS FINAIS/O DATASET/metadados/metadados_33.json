@@ -1,0 +1,53 @@
+{
+  "assunto": "Defesa da obrigatoriedade do diploma de jornalismo como medida contra a desinformação e notícias falsas",
+  "envolvidos": [
+    {
+      "nome": "Samira Cunha",
+      "cargo": "Presidente da Federação Nacional dos Jornalistas (Fenaj)",
+      "opinioes": [
+		"\"Em um cenário onde a gente tem a maioria da população se informando por redes sociais, nós precisamos qualificar cada vez mais o jornalismo praticado no Brasil.\"",
+        "Acredita que o jornalismo profissional é o antídoto contra a desinformação e notícias falsas: \"Vivemos em uma sociedade que se baseia em mentiras propagadas em larga escala e com objetivos específicos, e deixamos de lado o papel de um profissional que se capacita, no mínimo, por quatro anos para exercer um papel fundamental na democracia.\"",
+        "Revelou que atualmente, sem a necessidade de diploma, há casos de menores de idade e de analfabetos com registro profissional de jornalista no País."
+      ]
+    },
+    {
+      "nome": "Marluce Zacariotti",
+      "cargo": "Presidente da Associação Brasileira de Ensino de Jornalismo",
+      "opinioes": [
+        "Defende que a obrigatoriedade do diploma em jornalismo não compromete a liberdade de expressão: \"O jornalista não manifesta sua opinião nas notícias e reportagens que escreve, portanto a exigência do diploma não lhe garante a alegada exclusividade no direito à manifestação do pensamento pela mídia ou por qualquer outro meio.\""
+      ]
+    },
+    {
+      "nome": "Armando Rollemberg",
+      "cargo": "Diretor da Associação Brasileira de Imprensa (ABI)",
+      "opinioes": [
+        "Considera a decisão do STF de acabar com a obrigatoriedade do diploma um retrocesso.",
+        "Alerta para as consequências desastrosas para a sociedade devido à desinformação: \"O jornalismo é tudo que não tem a ver com a mentira. Dentro do jornalismo cabe a liberdade de expressão, mas na liberdade de expressão não cabe a mentira\". \"A mentira interesseira, odienta, articulada, em um pouco mais de 24 horas, pode trazer prejuízos enormes para a sociedade. Às vezes não é nem possível fazer uma retratação equivalente.\""
+      ]
+    },
+    {
+      "nome": "Samuel Pantoja",
+      "cargo": "Presidente da Associação Brasileira de Pesquisadores em Jornalismo (SBPJor)",
+      "opinioes": [
+        "Citou dados de uma pesquisa que revela que 1 em cada 5 brasileiros acredita que a terra é plana.",
+        "1 em cada 5 brasileiros acredita que vacinas fazem mais mal do que bem para crianças: \"Essas pessoas podem, por exemplo, contribuir para o retorno de doenças que pareciam estar superadas pelo Plano Nacional de Imunização.\""
+      ]
+    },
+    {
+      "nome": "Amaro Neto",
+      "cargo": "Deputado (Republicanos-ES), jornalista e professor",
+      "opinioes": [
+        "Defendeu a formação em jornalismo como instrumento de garantia da qualidade do trabalho: \"Eu acredito que um grande passo para acelerar o combate às fake news é tornar o diploma de jornalismo obrigatório por meio dessa PEC que está parada aqui na Casa.\""
+      ]
+    },
+    {
+      "nome": "Daniel Trzeciak",
+      "cargo": "Deputado (PSDB-RS), jornalista",
+      "opinioes": [
+        "Criticou a decisão do STF de acabar com a obrigatoriedade do diploma.",
+        "Defendeu a PEC que reinstitui a obrigatoriedade do diploma: \"Queria perguntar ao ministro Gilmar Mendes se ele faria uma cirurgia com algum médico que não tivesse sentado nas cadeiras do curso de medicina.\"",
+        "Afirmou que o fim da obrigatoriedade do diploma desvalorizou a função dos cursos de jornalismo: \"Hoje ninguém mais quer fazer faculdade de jornalismo. Para que ficar quatro anos estudando jornalismo se nem do diploma precisa?\""
+      ]
+    }
+  ]
+}

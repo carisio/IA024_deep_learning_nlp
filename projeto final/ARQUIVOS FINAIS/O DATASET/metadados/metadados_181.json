@@ -1,0 +1,44 @@
+{
+  "assunto": "Combate ao uso de cigarros eletrônicos no Brasil para manter a queda no índice de fumantes",
+  "envolvidos": [
+    {
+      "nome": "Margareth Dalcolmo",
+      "cargo": "Presidente da Sociedade Brasileira de Pneumologia e Tisiologia",
+      "opinioes": [
+        "Estima-se que o Brasil já conte com dois milhões usuários de cigarros eletrônicos.",
+        "A maioria dos consumidores tem entre 15 e 24 anos.",
+        "Ressaltou a facilidade para comprar o produto em qualquer lugar: \"O que estamos fazendo com a permissividade da venda dos cigarros eletrônicos é criar de maneira perversa as novas legiões de dependentes de nicotina, que vão apresentar DPOC [doença pulmonar obstrutiva crônica] em idade muito mais tenra do que aquela que estamos habituados a tratar.\""
+      ]
+    },
+    {
+      "nome": "Sandra Marques",
+      "cargo": "Coordenadora estadual do Programa Nacional de Controle do Tabagismo de São Paulo",
+      "opinioes": [
+        "25% dos jovens de 18 a 24 estão fazendo a primeira experiência com tabaco por meio de cigarro eletrônico.",
+        "O índice aumentou em 20%, conforme dados apresentados pelo Covitel 2023, estudo de monitoramento dos fatores de risco para doenças crônicas no Brasil."
+      ]
+    },
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Deputado (União-GO)",
+      "opinioes": [
+        "A DPOC é responsável por metade das mortes decorrentes de tabaco: \"Terceira causa de óbitos no mundo, no Brasil essa doença atinge cerca de 17% da população. Para o Sistema Único de Saúde (SUS), os impactos da DPOC são alarmantes, sendo a quinta maior causa de internação entre pacientes com mais de 40 anos, cerca de 200 mil hospitalizações, com gasto anual de R$ 103 milhões.\""
+      ]
+    },
+    {
+      "nome": "Diogo Alves",
+      "cargo": "Oficial nacional de Controle de Tabaco e Impostos Saudáveis da Organização Mundial da Saúde (OMS) no Brasil",
+      "opinioes": [
+        "Mesmo que os números ainda assustem, o Brasil conseguiu reduzir de 35% para menos de 10% a prevalência de fumantes no total da população com políticas públicas em vigor desde a década de 1980. Nenhum outro país conseguiu até hoje o mesmo índice de redução no consumo de produtos com nicotina."
+      ]
+    },
+    {
+      "nome": "Monica Andreis",
+      "cargo": "Diretora-geral da ONG Aliança de Controle do Tabagismo",
+      "opinioes": [
+        "A medida mais efetiva para essa redução do consumo de cigarro foi a política de preço e impostos. Entre 2009 e 2016, somente essa medida teria reduzido à metade o número de fumantes.",
+        "Defende a criação de imposto seletivo para cigarros e demais derivados do tabaco, como foi aprovado pela Câmara na reforma tributária."
+      ]
+    }
+  ]
+}

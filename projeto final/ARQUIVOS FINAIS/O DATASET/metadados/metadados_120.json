@@ -1,0 +1,45 @@
+{
+  "assunto": "Precarização do trabalho na mineração brasileira",
+  "envolvidos": [
+    {
+      "nome": "Mário Parreiras de Faria",
+      "cargo": "Mestre em saúde pública e auditor fiscal do trabalho",
+      "opinioes": [
+        "\"O setor mineral mata quase três vezes mais do que os outros setores [econômicos]. Daí a necessidade de termos uma legislação moderna, que leve ao controle de todos os fatores de risco no setor mineral.\"",
+		"Apresentou extensa lista de fatores de risco da mineração, tais como ruído (perfuratriz, rock-drill, ar comprimido, etc.), vibração (grandes equipamentos e ferramentas manuais), umidade e radiações ionizantes e não ionizantes (atividades de solda e corte)",
+        "A exposição à sílica presente na poeira respirável de algumas minas pode provocar quadros de silicose, uma fibrose pulmonar progressiva e fatal que geralmente ocorre após 15 anos de exposição. Além da silicose, a sílica também provoca, por exemplo, câncer de laringe e alterações renais.",
+		"Informou tentativas de avanços nas negociações entre governo, mineradoras e trabalhadores em torno da NR22, a norma regulamentadora das condições de trabalho no setor mineral"
+      ]
+    },
+    {
+      "nome": "Eduardo Armond de Araújo",
+      "cargo": "Dirigente da Rede de Sindicatos em Barragens",
+      "opinioes": [
+        "Relatou precarização acentuada no setor, agravada pela Lei da Terceirização.",
+		"Citou a sucessão recente de tragédias e graves transtornos sociais envolvendo a mineração: \"Desde 1986, houve rompimento de barragens em Itabirito e Cataguases duas vezes, Nova Lima, Mariana e Brumadinho, só em Minas Gerais. Hoje, nosso sindicato está com atuação em três barragens que estão em risco 3 e embargadas pela ANM (Agência Nacional de Mineração), mas os terceirizados continuam trabalhando. E há quanto tempo a gente sabe do caso da Braskem? Há 30 anos aquilo está acontecendo lá e 50 mil pessoas foram desalojadas. E os trabalhadores que trabalharam lá, naquele processo?\""
+      ]
+    },
+    {
+      "nome": "Álvaro da Silva Alves",
+      "cargo": "Presidente do Sindicato dos Trabalhadores da Indústria de Extração de Minerais de Sergipe (Sindimina-SE)",
+      "opinioes": [
+        "Criticou a emenda constitucional (EC 103) que passou a exigir idade mínima para a aposentadoria especial: \"Só para vocês terem uma ideia, hoje, na mineração, eu preciso ter 55 anos para me aposentar. Agora, eu lhe pergunto: com todos os problemas que a gente vive, eu consigo chegar lá e ter qualidade de vida depois?\""
+      ]
+    },
+    {
+      "nome": "Cíntia Pantoja Leão",
+      "cargo": "Procuradora do Ministério Público do Trabalho no Pará",
+      "opinioes": [
+        "Admitiu problemas de precarização e de subnotificação do adoecimento de trabalhadores na mineração.",
+        "A instituição atua não só de forma reativa às denúncias, mas também com grupos de trabalho com focos em prevenção e promoção dos direitos do trabalho."
+      ]
+    },
+    {
+      "nome": "Alexandre Lindenmeyer",
+      "cargo": "Deputado (PT-RS)",
+      "opinioes": [
+        "Lamentou a ausência de representantes das mineradoras que foram convidados para a audiência, mas não compareceram: \"Diante do contexto, nós não temos a participação do outro lado. É um tema que, por vezes, passa à margem do conhecimento da ampla maioria do povo brasileiro, mas é um tema recorrente para quem está vivendo na pele as suas dores e as suas perdas.\""
+      ]
+    }
+  ]
+}

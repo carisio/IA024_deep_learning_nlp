@@ -1,0 +1,42 @@
+{
+  "assunto": "Regulação do mercado de criptomoedas no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Otávio Damaso",
+      "cargo": "Diretor de Regulação do Banco Central",
+      "opinioes": [
+        "A regulação do mercado de criptomoedas no País deverá ser concluída até o 1º semestre de 2024.",
+        "O banco vem debatendo o tema com diversos setores e espera colocar uma proposta em consulta pública até o final do ano.",
+        "\"A segregação patrimonial é um ponto que defendemos. Se o Congresso tiver interesse em retomar o debate, o BC e outros órgãos do governo gostariam de contribuir. Podemos fazer alguma coisa no âmbito da regulação, mas não a blindagem legal que caberia ao Congresso.\"",
+        "A regulação está sendo montada com base em recomendações do Fundo Monetário Internacional (FMI), do Financial Stability Board e do Grupo de Ação Financeira Internacional (Gafi).",
+        "Entre os desafios da regulação como maneira de evitar crimes com ativos digitais, apontou a diversidade do mercado, com empresas de porte e constituição bastante diferentes, e, principalmente, a existência de empresas que operam fora do País, as chamadas offshore: \"Tem um conjunto de empresas que está fora do País, fora da nossa jurisdição, não poderemos regulá-las nem puni-las.\"",
+        "Cerca de 2 milhões de pessoas e 70 mil empresas utilizam criptomoedas no Brasil.",
+        "A regulação deverá garantir aos investidores acesso a informações detalhadas dos negócios, como já ocorre com investimentos tradicionais em fundos e ações. \"O importante é que o investidor saiba o risco que está correndo.\"",
+        "Em relação a pirâmides financeiras e outras fraudes, o BC terá, como regulador, instrumentos para punir instituições e dirigentes que descumpram regras de operação."
+      ]
+    },
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Deputado (Solidariedade-RJ) e presidente da CPI das Pirâmides Financeiras",
+      "opinioes": [
+        "Questionou de que maneira a regulação poderá impedir que corretoras de moedas virtuais se envolvam em esquemas de pirâmide financeira e de lavagem de dinheiro.",
+        "Questionou como proteger as pessoas que investem nesses ativos."
+      ]
+    },
+    {
+      "nome": "Thiago Bueno",
+      "cargo": "Procurador da República e integrante do Grupo de Combate a Crimes Cibernéticos do Ministério Público Federal",
+      "opinioes": [
+        "A regulação vai facilitar investigações: \"Após a regulação, serão estendidas às empresas que operarem criptomoedas algumas obrigações de atores do sistema bancário e financeiro, como fazer o registro das transações, conhecer os clientes, prestar informações às autoridades quando verificarem indícios de crimes. Tudo isso vai ser exigido e facilitará o trabalho do MPF.\"",
+        "Mais do que a regulação, é importante que também sejam feitas auditorias e inspeções para fiscalizar o cumprimento das regras: \"É importante um instrumento de auditoria, avaliação e penalidades, como já existe hoje no mercado tradicional regulado pela CVM.\""
+      ]
+    },
+    {
+      "nome": "Alexandre dos Santos",
+      "cargo": "Superintendente-geral da Comissão de Valores Mobiliários (CVM)",
+      "opinioes": [
+        "Atualmente as instituições reguladas pela autarquia cometem crime quando ofertam publicamente criptomoedas sem autorização da entidade: \"É possível ofertar contratos de investimento coletivo que tenham ativos virtuais, que são lícitos em si, vai ter até uma regulação agora. O que não se pode é levar isso a público não tendo registro e sem respeitar o princípio do direito do investidor à plena informação para decisão sobre o investimento.\""
+      ]
+    }
+  ]
+}

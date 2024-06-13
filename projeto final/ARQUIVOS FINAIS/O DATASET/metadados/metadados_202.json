@@ -1,0 +1,45 @@
+{
+  "assunto": "Regulamentação da profissão de quiropraxista",
+  "envolvidos": [
+    {
+      "nome": "Alice Portugal",
+      "cargo": "Deputada (PCdoB-BA)",
+      "opinioes": [
+		"A regulamentação da profissão de quiropraxista vem sendo discutido na Câmara há alguns anos.",
+        "Considera a técnica importante, mas acredita que algumas técnicas na área de saúde devem ser absorvidas por profissões já regulamentadas, com abordagem curricular mais vasta: \"Ao se ter no Brasil tanto o fisiatra, na medicina, como o fisioterapeuta, na fisioterapia, com uma construção técnico-científica em cursos de graduação de 4 anos e meio a 5 anos, o correto seria aproveitar as profissões já regulamentadas — a medicina, há quase 1 século, e a fisioterapia, há mais de meio século\""
+      ]
+    },
+    {
+      "nome": "Paulo Mayall",
+      "cargo": "Representante da Secretaria de Gestão do Trabalho e Educação em Saúde do Ministério da Saúde",
+      "opinioes": [
+        "A técnica pode ser incluída como uma especialidade da Fisioterapia ou da Medicina: \"Nós entendemos, assim como a OMS, que a quiropraxia é uma terapia complementar. Nós temos uma política nacional de terapias integrativas e complementares, que já é definida por portaria. Nós poderíamos incluir a quiropraxia, assim como a osteopatia, nas nossas portarias\""
+      ]
+    },
+    {
+      "nome": "Daniel Facchini",
+      "cargo": "Presidente da Associação Brasileira de Quiropraxia",
+      "opinioes": [
+        "Argumenta que a quiropraxia não é uma técnica, mas uma profissão distinta, por exemplo, do fisioterapeuta: \"Claro, existem outros países em que a profissão ainda não é regulamentada, mas em nenhum deles nós temos ela sujeita a outra profissão\"",
+        "A busca da população pelo serviço é alta, e o nível de satisfação do atendimento quiroprático no Sistema Único de Saúde (SUS) é altíssimo, com 88,5% dos usuários avaliando o atendimento com nota máxima.",
+        "O profissional graduado em quiropraxia, com mais horas de estudo, é o adequado para fazer o atendimento.",
+        "Hoje existem cinco cursos de graduação na área aprovados pelo Ministério da Educação. Por outro lado, também existem cursos de apenas dois dias para a formação de quiropraxistas, inclusive on-line, afetam a segurança da profissão: \"O remédio é regulamentar. Nós temos um problema enorme, nós precisamos de regulamentação, para que a população tenha acesso a um atendimento de qualidade e saiba dizer ‘este indivíduo que está me atendendo tem uma formação adequada, que é uma graduação em quiropraxia’\"",
+        "A regulamentação vai não apenas proporcionar segurança para a população, como aumentar o número de profissionais disponíveis e o acesso da população ao serviço."
+      ]
+    },
+    {
+      "nome": "Estevam Rivello",
+      "cargo": "Conselheiro do Conselho Federal de Medicina",
+      "opinioes": [
+        "Questionou a necessidade de subdivisão de especialidades e áreas da saúde."
+      ]
+    },
+    {
+      "nome": "Marcelo Massahud Junior",
+      "cargo": "Conselheiro do Conselho Federal de Fisioterapia e Terapia Ocupacional",
+      "opinioes": [
+        "O ato da quiropraxia é regulamentado desde 1969, por meio de decreto-lei que considera a atividade privativa de fisioterapeutas: \"O ajuste articular chamado pelo quiropraxista, ou manipulação articular, é um recurso de terapia física, já feito pelo fisioterapeuta. O PL tenta regulamentar uma profissão que já existe, a fisioterapia, que já trabalha com isso\""
+      ]
+    }
+  ]
+}

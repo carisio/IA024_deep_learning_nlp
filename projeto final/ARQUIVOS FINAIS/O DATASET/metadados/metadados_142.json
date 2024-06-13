@@ -1,0 +1,44 @@
+{
+  "assunto": "Regulamentação do empréstimo consignado para servidores públicos",
+  "envolvidos": [
+    {
+      "nome": "Cynthia Curado",
+      "cargo": "Representante do Ministério da Gestão e Inovação em Serviços Públicos",
+      "opinioes": [
+        "A regulamentação da lei que aumentou a margem de empréstimo consignado para servidores públicos será publicada até a semana que vem.",
+        "A questão do limite para os juros do consignado está em estudo."
+      ]
+    },
+    {
+      "nome": "Pedro de Souza",
+      "cargo": "Diretor da Confederação dos Trabalhadores no Serviço Público Federal",
+      "opinioes": [
+        "As dívidas são impagáveis: \"Recentemente, eu estava conversando com um companheiro e eu perguntei se ele sabia quanto ele devia do cartão de crédito que todo mês ele paga R$ 300. Ele disse que não tinha se atentado para isso. Depois ele disse que procurou saber o saldo devedor. Ele pegou cerca de R$ 3 mil há muito tempo e o saldo devedor é de R$ 12 mil.\"",
+        "Os servidores mais atingidos são os de mais baixa renda que ficaram seis anos sem reajustes salariais.",
+        "Pediu ao governo que faça um programa Desenrola, de negociação de dívidas, específico para os servidores públicos e limites para os juros do consignado como os do INSS."
+      ]
+    },
+    {
+      "nome": "Prof. Paulo Fernando",
+      "cargo": "Deputado (Republicanos-DF)",
+      "opinioes": [
+        "Os contratantes de cartão consignado estão em grande risco: \"Quando você tem uma parcela restrita, de 5% da remuneração para pagar o saldo devedor, é comum que a fatura não seja paga integralmente. Isso leva a multas e juros sobre a parcela restante; que, obviamente, também não será paga.\""
+      ]
+    },
+    {
+      "nome": "Rafael Baldi",
+      "cargo": "Diretor adjunto de Produtos da Federação Brasileira de Bancos (Febraban)",
+      "opinioes": [
+        "Os servidores públicos têm 54,8% do crédito consignado, enquanto os aposentados do INSS ficam com 38,5%.",
+        "Pesquisa da entidade mostra que os empréstimos consignados são usados principalmente para pagar dívidas mais caras, ou 31% do total. Em seguida, vem o pagamento de despesas médicas e as contas mensais."
+      ]
+    },
+    {
+      "nome": "Vitor Hugo Ferreira",
+      "cargo": "Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça",
+      "opinioes": [
+        "O servidor, apesar de estar em dificuldades, não consegue renegociar o consignado porque ele está sempre adimplente, já que o pagamento é descontado em folha."
+      ]
+    }
+  ]
+}

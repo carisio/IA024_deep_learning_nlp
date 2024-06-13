@@ -1,0 +1,35 @@
+{
+  "assunto": "Seleção e formação de diretores escolares no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Antonio Bresolin",
+      "cargo": "Diretor executivo da associação Dados para um Debate Democrático na Educação",
+      "opinioes": [
+        "Os diretores representam o segundo fator que mais impacta na qualidade da educação, atrás apenas dos professores. Os gestores escolares interferem no bom clima escolar e na promoção de um ambiente de aprendizado e formação constante."
+      ]
+    },
+    {
+      "nome": "Lara Simielli",
+      "cargo": "Professora da Fundação Getúlio Vargas e uma das autoras do estudo",
+      "opinioes": [
+        "88% dos diretores de escolas públicas têm ensino superior.",
+        "No Nordeste, 1 em cada 5 diretores tem apenas o ensino médio e 9 entre 10 não têm formação em gestão escolar.",
+        "\"A maioria das secretarias oferece formação continuada, mas a maioria ainda está relacionada a um aspecto pedagógico e isso feito por meio de aulas expositivas, tem muito pouco uso de aulas práticas, para formação desses diretores.\""
+      ]
+    },
+    {
+      "nome": "Idilvan Alencar",
+      "cargo": "Deputado (PDT-CE)",
+      "opinioes": [
+        "Os locais que possuem indicação como única modalidade não exigem curso de gestão como pré-requisito no processo seletivo: \"Diretor que não é escolhido por mérito, por competência, fica à mercê do ditame de um determinado político. As pessoas não respeitam diretor que não tem competência, e aí começam a vir resultados desastrosos.\""
+      ]
+    },
+    {
+      "nome": "Ana Cristina de Oliveira",
+      "cargo": "Professora de pedagogia da Universidade Federal do Estado do Rio de Janeiro",
+      "opinioes": [
+        "Ressalta a importância de processos seletivos que comprovem liderança e competência técnica das equipes: \"Existe uma correlação muito importante e significativa entre a representatividade ou o reconhecimento do trabalho de liderança da equipe de gestão escolar eleita ou que passou por um processo seletivo que envolve a comprovação da sua competência técnica para atuar naquele cargo em comparação àquela que foi indicada politicamente.\""
+      ]
+    }
+  ]
+}
