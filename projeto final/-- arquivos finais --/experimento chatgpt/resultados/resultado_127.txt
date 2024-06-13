@@ -1,0 +1,66 @@
+{
+  "assunto": "Avanços e perspectivas do Estatuto da Pessoa Idosa e a Política Nacional de Cuidado Integral para a Pessoa Idosa",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal pelo PT-DF",
+      "opinioes": [
+        "É importante assegurar o cumprimento do estatuto e da legislação que já nos asseguram uma série de direitos.",
+        "A necessidade de políticas específicas para os idosos em todas as áreas, como cultura, saúde e assistência.",
+        "Importância de um recorte transversal nas políticas públicas para a inclusão dos idosos."
+      ]
+    },
+    {
+      "nome": "Luiz Couto",
+      "cargo": "Deputado Federal pelo PT-PB e Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "opinioes": [
+        "Envelhecer é um processo que deve ser tratado com dignidade e respeito aos direitos humanos.",
+        "Necessidade de fortalecimento dos conselhos e estruturas de controle social para efetivação dos direitos da pessoa idosa.",
+        "Importância da articulação da rede nacional dos direitos das pessoas idosas para combater a violência contra esse grupo."
+      ]
+    },
+    {
+      "nome": "Paulo Fernando",
+      "cargo": "Deputado Federal pelo Republicanos-DF",
+      "opinioes": [
+        "A questão do suicídio entre os idosos é uma preocupação crescente.",
+        "Proposta para que o tempo de confirmação do voto dos idosos seja aumentado para evitar erros durante as eleições."
+      ]
+    },
+    {
+      "nome": "Vicente Faleiros",
+      "cargo": "Doutor em Sociologia e Professor Emérito da Universidade de Brasília",
+      "opinioes": [
+        "A reforma da Previdência de 2019 foi catastrófica para as pessoas idosas.",
+        "A principal questão para a vida das pessoas idosas é ter renda e garantia de renda com fundo público.",
+        "Defende a dignidade da pessoa idosa como núcleo dos direitos humanos."
+      ]
+    },
+    {
+      "nome": "Walquiria Cristina Batista",
+      "cargo": "Conselheira Nacional de Saúde, representante da Associação Brasileira de Alzheimer e condições relacionadas (ABRAz Nacional)",
+      "opinioes": [
+        "A universalidade, equidade e integralidade para a pessoa idosa são princípios fundamentais do SUS.",
+        "Necessidade de políticas públicas que respeitem as questões regionais e as diversidades entre os idosos.",
+        "Defende a manutenção da capacidade funcional e a preservação da autonomia e independência dos idosos."
+      ]
+    },
+    {
+      "nome": "Maria Carolina Pereira Alves",
+      "cargo": "Representante da Secretaria Nacional da Política de Cuidados e Família do MDS",
+      "opinioes": [
+        "Envelhecer é um direito que deve ser respeitado com dignidade e igualdade de condições.",
+        "Políticas públicas devem considerar as interseccionalidades e respeitar as trajetórias de vida dos idosos."
+      ]
+    },
+    {
+      "nome": "Elineide Rodrigues",
+      "cargo": "Diretora do SINPRO e Coordenadora da Secretaria de Assuntos para Aposentados",
+      "opinioes": [
+        "A importância de um censo nacional sobre cuidados para incluir cuidadoras remuneradas e não remuneradas.",
+        "Defende que políticas públicas interseccionais e interministeriais são essenciais para a efetivação dos direitos dos idosos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu os avanços e perspectivas do Estatuto da Pessoa Idosa e a Política Nacional de Cuidado Integral para a Pessoa Idosa. Destacou-se a necessidade de políticas públicas transversais e específicas para idosos em todas as áreas, como cultura, saúde e assistência. Foi ressaltada a importância da dignidade, autonomia e inclusão dos idosos, além da articulação de redes de proteção contra a violência. Participaram deputados e especialistas que apresentaram diversas propostas para fortalecer os direitos e a visibilidade dos idosos na sociedade."
+}

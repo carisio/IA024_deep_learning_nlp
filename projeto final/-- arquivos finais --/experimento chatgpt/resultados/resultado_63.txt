@@ -1,0 +1,61 @@
+{
+  "assunto": "Necessidade de fortalecimento das instituições de longa permanência para idosos",
+  "envolvidos": [
+    {
+      "nome": "Denis Bezerra",
+      "cargo": "Deputado Federal (PSB - CE)",
+      "opinioes": [
+        "Reforçou a importância de combater o idadismo e conscientizar a classe política sobre o envelhecimento populacional.",
+        "Destacou a importância das instituições de longa permanência para a dignidade dos idosos.",
+        "Mencionou a necessidade de políticas públicas efetivas para impactar positivamente a vida dos idosos."
+      ]
+    },
+    {
+      "nome": "Karla Giacomin",
+      "cargo": "Presidente da Frente Nacional de Fortalecimento à ILPI",
+      "opinioes": [
+        "Afirmou que é necessário fortalecer as instituições de longa permanência para idosos.",
+        "Ressaltou a falta de uma política nacional de cuidados de longa duração.",
+        "Apontou que há preconceito e desconhecimento sobre as instituições de longa permanência.",
+        "Enfatizou a necessidade de um cadastro nacional de instituições e a criação de uma Política Nacional de Cuidados."
+      ]
+    },
+    {
+      "nome": "Vejuse Alencar de Oliveira",
+      "cargo": "Presidente da Associação Cearense Pró-Idosos — ACEPI",
+      "opinioes": [
+        "Defendeu a necessidade de políticas públicas de qualidade para pessoas que envelhecem.",
+        "Criticou a apatia do governo em relação às instituições de longa permanência.",
+        "Afirmou que viver mais não deve ser um peso e que o Estado é responsável por garantir dignidade aos idosos."
+      ]
+    },
+    {
+      "nome": "Élder Ximenes Filho",
+      "cargo": "Promotor de Justiça do Ministério Público do Ceará",
+      "opinioes": [
+        "Disse que é preciso valorizar as pessoas idosas e criticou a apatia dos poderes públicos.",
+        "Enfatizou a importância de políticas públicas eficientes e do suporte do Ministério Público.",
+        "Falou sobre a necessidade de fiscalização orientadora e não punitiva das ILPIs."
+      ]
+    },
+    {
+      "nome": "Renato da Silva Gomes",
+      "cargo": "Coordenador-Geral de Promoção e Defesa dos Direitos da Pessoa Idosa, do Ministério da Mulher, da Família e dos Direitos Humanos",
+      "opinioes": [
+        "Destacou as ações da Secretaria Nacional para apoiar as ILPIs durante a pandemia.",
+        "Ressaltou a importância de financiamento permanente para as instituições de longa permanência.",
+        "Defendeu a criação de instituições de longa permanência de natureza pública."
+      ]
+    },
+    {
+      "nome": "Sandro Roberto Poleto",
+      "cargo": "Coordenador Nacional do Departamento de Normatização e Orientação da Sociedade Vicente de Paulo",
+      "opinioes": [
+        "Afirmou que as ILPIs filantrópicas enfrentam grandes desafios financeiros.",
+        "Reforçou que o Estado tem a obrigação de apoiar financeiramente essas instituições.",
+        "Criticou a fiscalização desproporcional e a falta de reconhecimento do trabalho das ILPIs filantrópicas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa dos Direitos da Pessoa Idosa discutiu a necessidade de fortalecer as instituições de longa permanência para idosos. Participaram da audiência o Deputado Denis Bezerra, a Dra. Karla Giacomin, Vejuse Alencar de Oliveira, Dr. Élder Ximenes Filho, Renato da Silva Gomes e Sandro Roberto Poleto. Os participantes destacaram a importância de criar políticas públicas eficazes, combater o preconceito contra idosos, e garantir financiamento adequado e apoio às instituições de longa permanência. A falta de uma política nacional de cuidados e a apatia do governo foram criticadas, e a necessidade de uma abordagem intersetorial e de financiamento permanente foi enfatizada."
+}

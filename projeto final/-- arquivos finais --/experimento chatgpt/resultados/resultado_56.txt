@@ -1,0 +1,61 @@
+{
+  "assunto": "Impacto da pandemia da COVID-19 no esporte",
+  "envolvidos": [
+    {
+      "nome": "Diego Garcia",
+      "cargo": "Deputado Federal e Presidente da Comissão de Esportes",
+      "opinioes": [
+        "Destacou a importância da audiência pública para discutir o impacto da pandemia no esporte.",
+        "Enfatizou a necessidade de políticas públicas para promover a atividade física como essencial.",
+        "Comentou sobre a importância do esporte para a saúde pública e a economia."
+      ]
+    },
+    {
+      "nome": "Monica Marques",
+      "cargo": "Consultora da International Health, Racquet & Sportsclub Association",
+      "opinioes": [
+        "Ressaltou que o Brasil é um dos países mais sedentários do mundo, com 47% da população inativa antes da pandemia.",
+        "Disse que a pandemia provavelmente aumentou esse número para cerca de 60%.",
+        "Destacou que 80% dos adolescentes são sedentários e que a expectativa de vida dessa geração pode ser menor.",
+        "Propôs a implementação de políticas públicas que promovam a atividade física para reduzir custos de saúde."
+      ]
+    },
+    {
+      "nome": "Tiago Camilo",
+      "cargo": "Atleta olímpico e Presidente do Instituto Tiago Camilo",
+      "opinioes": [
+        "Relatou que a pandemia teve um impacto negativo significativo no aumento do sedentarismo e no bem-estar das crianças.",
+        "Observou que o Brasil não tem encarado o esporte como uma política pública.",
+        "Defendeu a inclusão do esporte nas escolas como meio de promover saúde e combater problemas sociais como o bullying."
+      ]
+    },
+    {
+      "nome": "Nelson Leme",
+      "cargo": "Presidente do Conselho Regional de Educação Física de São Paulo",
+      "opinioes": [
+        "Destacou as consequências negativas do fechamento das academias durante a pandemia, como a baixa de registros profissionais e o aumento da inatividade física.",
+        "Enfatizou a importância do reconhecimento do profissional de educação física como essencial para a saúde.",
+        "Propôs que a atividade física seja considerada essencial e que sejam criadas políticas para manter academias abertas mesmo durante pandemias."
+      ]
+    },
+    {
+      "nome": "Valter Francisco Brigido (Panche)",
+      "cargo": "Educador físico e ex-atleta de fisiculturismo",
+      "opinioes": [
+        "Criticou as medidas de lockdown que fecharam academias e impactaram negativamente a saúde pública.",
+        "Relatou a falta de políticas públicas eficazes para integrar a medicina e a educação física na prevenção de doenças.",
+        "Defendeu que políticas de prevenção e a prática regular de atividade física são essenciais para a saúde."
+      ]
+    },
+    {
+      "nome": "Gustavo Chaves Brandão",
+      "cargo": "Presidente do Conselho Regional de Educação Física do Paraná",
+      "opinioes": [
+        "Destacou os impactos da pandemia no desenvolvimento motor das crianças e no preparo de atletas de alto rendimento.",
+        "Defendeu o aumento do orçamento para o esporte e a capacitação de profissionais de educação física.",
+        "Sugeriu a criação de um sistema esportivo robusto com maior investimento público e privado."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Esportes, presidida pelo Deputado Diego Garcia, discutiu o impacto da pandemia da COVID-19 no esporte. Os participantes, incluindo Monica Marques, Tiago Camilo, Nelson Leme, Valter Francisco Brigido e Gustavo Chaves Brandão, destacaram as consequências negativas do aumento do sedentarismo e da inatividade física, especialmente entre crianças e adolescentes. Defendeu-se a necessidade de políticas públicas que promovam a atividade física como essencial para a saúde pública e a economia. Propostas incluíram a dedução de despesas com atividade física no imposto de renda, maior orçamento para o esporte e capacitação de profissionais de educação física."
+}

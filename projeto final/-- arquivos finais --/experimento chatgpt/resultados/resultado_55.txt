@@ -1,0 +1,65 @@
+{
+  "assunto": "Debate sobre a Emenda Constitucional nº 103, de 2019, que autoriza o confisco de aposentadorias dos servidores públicos e pensionistas que recebem abaixo do teto do Regime Geral do INSS.",
+  "envolvidos": [
+    {
+      "nome": "Professora Luciene Cavalcante",
+      "cargo": "Deputada Federal (PSOL - SP)",
+      "opinioes": [
+        "A Emenda Constitucional nº 103, de 2019, autoriza o confisco de até 14% dos vencimentos dos servidores públicos aposentados que recebem abaixo do teto do INSS.",
+        "A audiência pública é uma retomada da luta contra os ataques sistemáticos à Previdência Social e busca a revogação das medidas consideradas prejudiciais aos aposentados e pensionistas.",
+        "Defende que a reforma penaliza especialmente as mulheres no serviço público, aumentando a idade mínima de aposentadoria e afetando a maioria feminina nos serviços de educação, saúde e assistência social.",
+        "Acredita que a revogação da Emenda Constitucional nº 103 é essencial para restaurar a dignidade dos aposentados e combater as práticas consideradas inconstitucionais e discriminatórias."
+      ]
+    },
+    {
+      "nome": "Cláudia Fernanda Iten",
+      "cargo": "Coordenadora-Geral de Normatização e Acompanhamento Legal do Departamento de Regimes da Previdência do Ministério da Previdência Social",
+      "opinioes": [
+        "A Emenda Constitucional nº 103/2019 estabelece alíquotas de contribuição previdenciária para servidores ativos, aposentados e pensionistas, com caráter contributivo e solidário.",
+        "Defende que a emenda prevê contribuições progressivas para o custeio dos regimes próprios de previdência social, dependendo do valor dos proventos e do déficit atuarial do regime.",
+        "Ressalta que a aplicação das alíquotas é de eficácia plena e aplicação imediata, sendo obrigatória a adequação por parte dos entes federativos.",
+        "Salienta a importância da adequação dos benefícios e da sustentabilidade financeira dos regimes próprios de previdência."
+      ]
+    },
+    {
+      "nome": "Carlos Giannazi",
+      "cargo": "Deputado Estadual de São Paulo (PSOL)",
+      "opinioes": [
+        "Parabeniza a iniciativa da Deputada Luciene Cavalcante em organizar a audiência pública e em apresentar proposta de emenda à Constituição para revogar o artigo 109 da Emenda Constitucional nº 103.",
+        "Critica a Emenda Constitucional nº 103 por permitir que Municípios e Estados confisquem aposentadorias e pensões, considerando essa medida uma abertura para abusos.",
+        "Destaca a confusão entre déficit atuarial e déficit financeiro como uma justificativa errônea para as medidas de confisco.",
+        "Defende a necessidade de revogação da Emenda Constitucional nº 103 para proteger os direitos dos aposentados e pensionistas."
+      ]
+    },
+    {
+      "nome": "Camilla Louise Galdino Cândido",
+      "cargo": "Assessora jurídica da Confederação dos Trabalhadores no Serviço Público Federal (CONDSEF)",
+      "opinioes": [
+        "A Emenda Constitucional nº 103 altera a sustentabilidade financeira do regime de previdência, transferindo a responsabilidade do déficit para os aposentados, pensionistas e servidores públicos.",
+        "Critica a falta de comprometimento do Estado com a recomposição da força de trabalho, o que agrava o déficit atuarial do regime de previdência.",
+        "Defende que a emenda caminha para a extinção do Regime Próprio de Previdência Social dos servidores públicos, afetando sua sustentabilidade.",
+        "Ressalta a importância de enfrentar a questão da sustentabilidade do regime com a participação do Estado."
+      ]
+    },
+    {
+      "nome": "José Gozze",
+      "cargo": "Presidente da Pública Central do Servidor",
+      "opinioes": [
+        "Critica o confisco das aposentadorias e pensões como uma medida que prejudica severamente os aposentados, retirando recursos necessários para sua sobrevivência.",
+        "Defende a necessidade de união e mobilização dos aposentados para revogar a Emenda Constitucional nº 103.",
+        "Considera a falta de reposição salarial e outras medidas como formas de confisco indireto dos direitos dos servidores públicos.",
+        "Enfatiza a importância de combater a política de terceirização e sucateamento dos serviços públicos, que afetam diretamente a sustentabilidade do regime de previdência."
+      ]
+    },
+    {
+      "nome": "Marcilon Duarte",
+      "cargo": "Presidente do Sindicato dos Servidores Públicos e Empresas Públicas Municipais de Valparaíso de Goiás (SINDSEPEM/VAL)",
+      "opinioes": [
+        "Critica a Emenda Constitucional nº 103 por reduzir os direitos dos trabalhadores e aumentar a alíquota previdenciária em um momento de pandemia e cortes orçamentários.",
+        "Defende a luta pela revogação da emenda como essencial para garantir uma aposentadoria digna para os trabalhadores.",
+        "Ressalta a importância da mobilização e do apoio parlamentar para reverter as medidas prejudiciais aos servidores públicos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a Emenda Constitucional nº 103, de 2019, que autoriza o confisco de até 14% das aposentadorias de servidores públicos que recebem abaixo do teto do INSS. A Deputada Federal Luciene Cavalcante organizou a audiência para retomar a luta contra os ataques à Previdência Social e buscar a revogação da emenda. Os participantes expressaram opiniões contrárias à emenda, destacando seus impactos negativos sobre aposentados e pensionistas, especialmente mulheres. Defendem a necessidade de união e mobilização para reverter as medidas consideradas inconstitucionais e prejudiciais aos direitos dos servidores públicos."
+}

@@ -1,0 +1,70 @@
+{
+  "assunto": "Efetivação da igualdade de direitos e proteção jurídica da população LGBTQIAPN+",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (Bloco/PT - DF), Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "Apoio à efetivação da igualdade de direitos e proteção jurídica da população LGBTQIAPN+.",
+        "Necessidade de assegurar a participação popular nas políticas públicas.",
+        "Importância da existência de conselhos e planos para a intersetorialidade e avaliação das especificidades dentro da comunidade LGBTQIA+.",
+        "Sugestão para uma audiência pública sobre boas práticas."
+      ]
+    },
+    {
+      "nome": "Rogerio Sganzerla",
+      "cargo": "Pesquisador da Aliança Nacional LGBTI+",
+      "opinioes": [
+        "Apresentação do Programa Atena, projeto da Aliança Nacional LGBTI+ financiado pelo Fundo Positivo.",
+        "Análise das políticas públicas LGBT nos 26 Estados e no Distrito Federal.",
+        "Metodologia baseada em busca ativa de informações e Lei de Acesso à Informação.",
+        "Importância da estruturação do tripé da cidadania: órgão gestor, conselho e programa LGBT.",
+        "Resultados mostram variação na implementação das políticas públicas entre os Estados."
+      ]
+    },
+    {
+      "nome": "Cláudio Nascimento",
+      "cargo": "Coordenador do Programa Atena, Aliança Nacional LGBTI+",
+      "opinioes": [
+        "Preocupação metodológica em produzir uma pesquisa com métricas objetivas.",
+        "Análise do tripé da cidadania LGBTI+: órgão gestor, conselhos de direitos LGBT e plano/programa com orçamento.",
+        "Importância do conselho estadual e participação da sociedade civil.",
+        "Rio de Janeiro como exemplo de Estado com ações robustas no combate à violência e implementação de políticas públicas.",
+        "Necessidade de apoio do Ministério Público para a fiscalização dos Estados com menor implementação de políticas públicas."
+      ]
+    },
+    {
+      "nome": "Renan Lira Matos Cadais",
+      "cargo": "Gerente de Políticas de Diversidade Sexual e Gênero do Governo do Estado do Espírito Santo",
+      "opinioes": [
+        "Importância da pesquisa para a visibilidade e aceleração das políticas públicas estaduais.",
+        "Valorização das boas práticas em Estados que não pontuaram alto no tripé da cidadania.",
+        "Desafio de institucionalizar a política nacional para a população LGBT.",
+        "Experiência do Espírito Santo com o Plano Estadual LGBTI+ e fortalecimento do Conselho Estadual LGBT.",
+        "Premiação de Boas Práticas em Promoção da Cidadania LGBTI+ no Espírito Santo."
+      ]
+    },
+    {
+      "nome": "Toni Reis",
+      "cargo": "Representante da Aliança Nacional LGBTI+",
+      "opinioes": [
+        "Importância do orgulho LGBTQIA+ e reconhecimento das conquistas históricas.",
+        "Relevância da pesquisa para fornecer evidências e dados para políticas públicas.",
+        "Defesa de um conselho paritário com participação do Estado e da sociedade civil.",
+        "Necessidade de planos intersetoriais que abranjam educação, saúde, segurança pública, cultura e empregabilidade.",
+        "Importância da participação nas conferências nacionais, estaduais e municipais LGBTI+."
+      ]
+    },
+    {
+      "nome": "Pedro Henrique Godinho Faccioli",
+      "cargo": "Procurador do Ministério Público do Trabalho",
+      "opinioes": [
+        "Trabalho digno é essencial para o exercício da plena cidadania da população LGBTQIA+.",
+        "Atuação do MPT contra discriminação no trabalho e em projetos de empregabilidade da população LGBTQIA+.",
+        "Projetos como Cozinha & Voz para estimular a empregabilidade de pessoas trans.",
+        "MPT favorável a ações afirmativas, incluindo reserva de vagas para pessoas trans."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública organizada pela Comissão de Legislação Participativa, presidida pela Deputada Erika Kokay, debateu a efetivação da igualdade de direitos e a proteção jurídica da população LGBTQIAPN+. Foram apresentados dados do Programa Atena, que analisou a implementação de políticas públicas para a comunidade LGBT nos 26 Estados e no Distrito Federal, destacando variações significativas na estruturação do tripé da cidadania (órgão gestor, conselho e programa LGBT) entre os Estados. Os participantes enfatizaram a importância da participação popular, conselhos estaduais, planos intersetoriais e a necessidade de ações afirmativas no mercado de trabalho para a população LGBTQIA+. A audiência também ressaltou a necessidade de fiscalizar a implementação dessas políticas e promover boas práticas em nível estadual e nacional."
+}

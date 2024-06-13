@@ -1,0 +1,75 @@
+{
+  "assunto": "Elaboração do Orçamento Geral da União para 2024 na perspectiva da mulher",
+  "envolvidos": [
+    {
+      "nome": "Lêda Borges",
+      "cargo": "Deputada Federal e Presidente da Comissão de Defesa dos Direitos da Mulher",
+      "opinioes": [
+        "A audiência pública é essencial para debater a elaboração do Orçamento de 2024 com foco na perspectiva da mulher.",
+        "É importante que a transversalidade de gênero seja reconhecida em todas as áreas onde se executam orçamentos e se produzem políticas públicas.",
+        "Defende a participação de todos os envolvidos para que o orçamento seja um instrumento de redução das desigualdades."
+      ]
+    },
+    {
+      "nome": "Renatho Melo",
+      "cargo": "Diretor-Executivo do Instituto Nacional de Orçamento Público (INOP)",
+      "opinioes": [
+        "A transversalidade de gênero no orçamento público é essencial para diminuir desigualdades.",
+        "O orçamento público deve ser compreendido como um todo, com interação entre todos os instrumentos e momentos.",
+        "Defende o uso de emendas de comissão como um espaço de qualidade para intervenção em políticas públicas.",
+        "Enfatiza que o orçamento público reflete escolhas políticas e deve focar na redução das desigualdades de gênero."
+      ]
+    },
+    {
+      "nome": "Danilo Forte",
+      "cargo": "Deputado Federal e Relator da Lei de Diretrizes Orçamentárias (LDO) 2024",
+      "opinioes": [
+        "A Lei Orçamentária é a peça mais importante do Parlamento e deve refletir as prioridades da sociedade.",
+        "Defende a autonomia do Parlamento na elaboração e execução do orçamento.",
+        "Enfatiza a necessidade de transparência e eficiência na aplicação dos recursos públicos.",
+        "Apoiador da inclusão de um capítulo específico para o empreendedorismo feminino na LDO."
+      ]
+    },
+    {
+      "nome": "Gilda Cabral",
+      "cargo": "Representante do Elas no Orçamento",
+      "opinioes": [
+        "Defende a transparência e execução efetiva do orçamento público com foco nas mulheres.",
+        "A execução orçamentária deve ser acompanhada de perto pela sociedade civil.",
+        "Critica a falta de recursos efetivos para programas importantes, como os Quintais Produtivos.",
+        "Destaca a importância de que a sociedade monitore a aplicação dos recursos públicos."
+      ]
+    },
+    {
+      "nome": "Renata Gil",
+      "cargo": "Idealizadora do Instituto Nós por Elas e Juíza Criminal",
+      "opinioes": [
+        "Ressalta a importância do orçamento para o combate à violência contra a mulher.",
+        "Defende a cessação da dependência econômica como caminho para enfrentamento da violência.",
+        "Enfatiza a necessidade de envolvimento da sociedade civil no enfrentamento da violência.",
+        "Destaca a criação de políticas públicas voltadas para a proteção das mulheres e a igualdade de gênero."
+      ]
+    },
+    {
+      "nome": "Lia Zanotta Machado",
+      "cargo": "Representante do Consórcio Maria da Penha",
+      "opinioes": [
+        "Defende a transparência e efetividade do orçamento voltado para as mulheres.",
+        "Critica a baixa proporção de recursos destinados ao combate à violência contra a mulher.",
+        "Enfatiza a necessidade de medidas efetivas para a prevenção dos feminicídios.",
+        "Propõe a expansão das delegacias especializadas e juizados de violência doméstica, além de medidas de segurança e proteção para as mulheres."
+      ]
+    },
+    {
+      "nome": "Maria Raquel Mesquita Melo",
+      "cargo": "Secretária-Adjunta Nacional de Planejamento",
+      "opinioes": [
+        "Enfatiza a importância do planejamento estratégico para a execução eficiente do orçamento.",
+        "Destaca a construção de políticas públicas com base em diagnósticos e foco em resultados.",
+        "Relata a participação social na elaboração do Plano Plurianual (PPA) com foco nas demandas das mulheres.",
+        "Apresenta os eixos do PPA que incluem indicadores e metas para acompanhar a evolução das políticas de gênero."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Defesa dos Direitos da Mulher debateu a elaboração do Orçamento Geral da União para 2024 com foco na perspectiva da mulher. A Deputada Lêda Borges abriu a sessão destacando a importância da transversalidade de gênero no orçamento público. Renatho Melo, do INOP, ressaltou a necessidade de um orçamento que reduza desigualdades, defendendo o uso de emendas de comissão. O Deputado Danilo Forte falou sobre a autonomia do Parlamento e a inclusão do empreendedorismo feminino na LDO. Gilda Cabral enfatizou a transparência na execução orçamentária, enquanto Renata Gil destacou a importância de recursos para o combate à violência contra a mulher. Lia Zanotta Machado criticou a baixa proporção de recursos destinados à violência contra a mulher e propôs medidas para a prevenção de feminicídios. Maria Raquel Mesquita Melo apresentou a construção do Plano Plurianual com participação social, focando nas demandas das mulheres e nos eixos estratégicos do planejamento."
+}

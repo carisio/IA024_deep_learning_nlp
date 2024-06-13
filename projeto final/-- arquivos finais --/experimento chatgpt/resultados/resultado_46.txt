@@ -1,0 +1,65 @@
+{
+  "assunto": "Conectividade e inovação no meio rural",
+  "envolvidos": [
+    {
+      "nome": "Zé Silva",
+      "cargo": "Deputado (SOLIDARIEDADE - MG)",
+      "opinioes": [
+        "A nova legislação em relação à chegada do 5G no Brasil é fundamental para a conectividade no meio rural.",
+        "É necessário garantir a participação da ANATER em projetos de inovação tecnológica.",
+        "A conectividade no campo é crucial para a inovação e a eficiência na agricultura."
+      ]
+    },
+    {
+      "nome": "José Ferreira da Costa Neto",
+      "cargo": "Presidente da ANATER",
+      "opinioes": [
+        "A ANATER tem um papel fundamental na liderança e otimização dos recursos para assistência técnica e extensão rural.",
+        "A conectividade é uma questão de justiça para os pequenos e médios produtores, permitindo acesso igualitário às tecnologias."
+      ]
+    },
+    {
+      "nome": "Daniela Martins",
+      "cargo": "Gerente de Relações Institucionais e Governamentais e de Comunicação da Conexis Brasil Digital",
+      "opinioes": [
+        "A infraestrutura de telecomunicações é crucial para o desenvolvimento econômico e social do Brasil.",
+        "O setor de telecomunicações investe 38 bilhões de reais por ano em infraestrutura.",
+        "A nova legislação do FUST é um avanço importante para garantir a conectividade em regiões rurais."
+      ]
+    },
+    {
+      "nome": "Matheus Ferreira Pinto da Silva",
+      "cargo": "Representante da Confederação da Agricultura e Pecuária do Brasil",
+      "opinioes": [
+        "A conectividade e a inovação são essenciais para a produtividade e rentabilidade dos produtores rurais.",
+        "72% dos produtores rurais ainda estão desconectados no Brasil, especialmente nas regiões Nordeste e em pequenas propriedades."
+      ]
+    },
+    {
+      "nome": "Sibelle Silva",
+      "cargo": "Diretora da Secretaria de Inovação, Desenvolvimento Sustentável e Irrigação do Ministério da Agricultura",
+      "opinioes": [
+        "O futuro da agricultura é alicerçado em inovação, com ênfase no agro, bio e digital.",
+        "A conectividade é fundamental para a segurança alimentar e para enfrentar os desafios de produção com o crescimento populacional.",
+        "As políticas públicas devem focar em universalizar a conectividade e garantir que as inovações cheguem aos produtores rurais."
+      ]
+    },
+    {
+      "nome": "Wilson Diniz Wellisch",
+      "cargo": "Representante do Ministério das Comunicações",
+      "opinioes": [
+        "Políticas públicas como o Norte Conectado e o Nordeste Conectado incentivam pequenos provedores a expandirem a infraestrutura.",
+        "A redução de impostos como o ICMS é crucial para diminuir os custos para os provedores e usuários finais."
+      ]
+    },
+    {
+      "nome": "Luis Fernando Volpato",
+      "cargo": "Membro do Conselho Consultivo do Ramo de Infraestrutura da Organização das Cooperativas do Brasil",
+      "opinioes": [
+        "A falta de conectividade impede a emissão de notas fiscais eletrônicas e dificulta a comunicação com familiares.",
+        "A conectividade é essencial para a sucessão familiar nas propriedades rurais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública, presidida pelo Deputado Zé Silva, discutiu a importância da conectividade e inovação no meio rural, com ênfase na nova legislação do 5G. Participantes destacaram a necessidade de políticas públicas para universalizar o acesso à conectividade, essencial para a eficiência e produtividade da agricultura. Representantes da ANATER, Conexis Brasil Digital, CNA, e Ministério da Agricultura enfatizaram a relevância da infraestrutura de telecomunicações e o papel crucial de investimentos e parcerias público-privadas. A conectividade foi vista como um meio para promover inovação, segurança alimentar e inclusão digital no campo."
+}

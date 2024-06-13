@@ -1,0 +1,60 @@
+{
+  "assunto": "Financiamento da extensão universitária",
+  "envolvidos": [
+    {
+      "nome": "Lídice da Mata",
+      "cargo": "Deputada, Presidente da sessão",
+      "opinioes": [
+        "A importância do financiamento permanente para as universidades.",
+        "A necessidade de integração das ações de extensão nas políticas públicas de Estado.",
+        "Defendeu a inclusão da extensão na prioridade da pauta do Ministério da Educação.",
+        "Afirmou que a extensão universitária é fundamental para a permanência dos estudantes."
+      ]
+    },
+    {
+      "nome": "Alexandre Brasil Carvalho da Fonseca",
+      "cargo": "Diretor de Políticas e Programas de Educação Superior da Secretaria de Educação Superior do MEC",
+      "opinioes": [
+        "A importância da participação do MEC no diálogo com o Parlamento para a educação no Brasil.",
+        "Apoio à universidade pública e ao fortalecimento da extensão universitária."
+      ]
+    },
+    {
+      "nome": "Hélder Eterno da Silveira",
+      "cargo": "Presidente do Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileira",
+      "opinioes": [
+        "A extensão é indissociável do ensino e da pesquisa.",
+        "A falta de financiamento adequado para a extensão nas instituições públicas.",
+        "A extensão contribui para a indissociabilidade entre ensino, pesquisa e extensão."
+      ]
+    },
+    {
+      "nome": "Penildon Silva Filho",
+      "cargo": "Vice-Reitor da Universidade Federal da Bahia",
+      "opinioes": [
+        "Críticas ao governo anterior pela tentativa de destruição das universidades públicas.",
+        "Apoio ao novo governo por restabelecer o diálogo democrático.",
+        "Defendeu um aumento significativo no orçamento das universidades."
+      ]
+    },
+    {
+      "nome": "Guilherme Bertissolo",
+      "cargo": "Pró-Reitor de Extensão da Universidade Federal da Bahia",
+      "opinioes": [
+        "A extensão é crucial para a missão das instituições públicas.",
+        "A necessidade de um financiamento adequado e permanente para a extensão.",
+        "A extensão contribui para a redução das desigualdades e o enfrentamento de preconceitos."
+      ]
+    },
+    {
+      "nome": "Dandara",
+      "cargo": "Deputada",
+      "opinioes": [
+        "A importância de reforçar a função acadêmica exercida pela extensão universitária.",
+        "A extensão deve ser vista como um espaço problematizador, investigador e dialógico.",
+        "É fundamental democratizar o acesso à ciência através da extensão."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública sobre o financiamento da extensão universitária reuniu diversos representantes do MEC, universidades e parlamentares. A Deputada Lídice da Mata presidiu a sessão, destacando a necessidade de financiamento permanente e a integração das ações de extensão nas políticas públicas. Alexandre Fonseca, do MEC, enfatizou a importância do diálogo com o Parlamento. Hélder Eterno da Silveira e Penildon Silva Filho destacaram a indissociabilidade da extensão com o ensino e a pesquisa, criticando a falta de financiamento adequado. Guilherme Bertissolo ressaltou a extensão como essencial para a missão das instituições públicas e a redução das desigualdades. A Deputada Dandara defendeu a extensão como um espaço de investigação e democratização da ciência."
+}

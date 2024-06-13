@@ -1,0 +1,78 @@
+{
+  "assunto": "Debate sobre prisões ilegais de 8 de janeiro e 9 de janeiro e o desrespeito às prerrogativas dos advogados.",
+  "envolvidos": [
+    {
+      "nome": "Sanderson",
+      "cargo": "Deputado Federal (PL - RS)",
+      "opinioes": [
+        "A audiência é histórica e importante para a democracia brasileira.",
+        "As prisões em massa sem individualização são um abuso.",
+        "Denuncia a desmoralização do ordenamento jurídico brasileiro devido às arbitrariedades nas prisões."
+      ]
+    },
+    {
+      "nome": "Marcel van Hattem",
+      "cargo": "Deputado Federal (NOVO - RS)",
+      "opinioes": [
+        "A audiência pública foi convocada para debater a injustiça nas prisões após os eventos de 8 de janeiro.",
+        "Critica a falta de justificativas para a prisão de pessoas que não cometeram atos de violência.",
+        "Agradece a participação de advogados e defensores dos direitos humanos."
+      ]
+    },
+    {
+      "nome": "Eduardo Girão",
+      "cargo": "Senador (NOVO - CE)",
+      "opinioes": [
+        "Manifesta solidariedade às famílias e vítimas das prisões de 8 de janeiro.",
+        "Critica a seletividade e a falta de participação de autoridades convidadas.",
+        "Enfatiza a importância da transparência e da verdade na condução dos trabalhos."
+      ]
+    },
+    {
+      "nome": "Gabriela Fernanda Ritter",
+      "cargo": "Advogada e Presidente da Associação dos Familiares e Vítimas do 8 de Janeiro (ASFAV)",
+      "opinioes": [
+        "Defende que a maioria das pessoas presas não cometeu atos de violência.",
+        "Denuncia a falta de individualização das condutas nas prisões.",
+        "Relata as condições degradantes e os abusos sofridos pelas pessoas presas nos dias 8 e 9 de janeiro."
+      ]
+    },
+    {
+      "nome": "José Medeiros",
+      "cargo": "Deputado Federal (PL - MT)",
+      "opinioes": [
+        "Critica o uso da democracia como justificativa para prisões políticas.",
+        "Denuncia a manutenção de 2 mil presos políticos sem justificativa legal.",
+        "Defende que criticar o STF e outras instituições não é crime."
+      ]
+    },
+    {
+      "nome": "Fred Linhares",
+      "cargo": "Deputado Federal (REPUBLICANOS - DF)",
+      "opinioes": [
+        "Relata a superlotação e as condições desumanas do Presídio da Papuda.",
+        "Denuncia a falta de individualização e a injustiça nas prisões.",
+        "Defende que as famílias dos presos sofrem com a ausência dos seus entes queridos."
+      ]
+    },
+    {
+      "nome": "Cabo Gilberto Silva",
+      "cargo": "Deputado Federal (PL - PB)",
+      "opinioes": [
+        "Critica as prisões arbitrárias e inconstitucionais.",
+        "Defende que houve abusos de direitos humanos nas prisões de 8 de janeiro.",
+        "Argumenta que não houve golpe de Estado, mas sim depredação do patrimônio público."
+      ]
+    },
+    {
+      "nome": "Sargento Gonçalves",
+      "cargo": "Deputado Federal (PL - RN)",
+      "opinioes": [
+        "Relata a angústia e o sofrimento das famílias das pessoas presas.",
+        "Denuncia a injustiça e a falta de provas concretas contra os presos.",
+        "Defende que Deus traga justiça e paz para a nação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara dos Deputados debateu as prisões ilegais ocorridas em 8 e 9 de janeiro, destacando o desrespeito às prerrogativas dos advogados e as condições desumanas enfrentadas pelos presos. Diversos deputados e advogados, incluindo Gabriela Fernanda Ritter, Presidente da Associação dos Familiares e Vítimas do 8 de Janeiro, criticaram a falta de individualização das condutas e denunciaram abusos e injustiças. A audiência contou com a participação de parlamentares como Sanderson, Marcel van Hattem, Eduardo Girão, José Medeiros, Fred Linhares, Cabo Gilberto Silva e Sargento Gonçalves, que expressaram suas opiniões e solidariedade às vítimas."
+}

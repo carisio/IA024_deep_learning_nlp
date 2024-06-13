@@ -1,0 +1,103 @@
+{
+  "assunto": "Regulamentação do lobby no Brasil, em discussão sobre o Projeto de Lei nº 4.391, de 2021.",
+  "envolvidos": [
+    {
+      "nome": "Augusto Coutinho",
+      "cargo": "Deputado Federal, Republicanos - PE",
+      "opinioes": [
+        "A audiência pública foi convocada para debater a regulamentação do lobby através do Projeto de Lei nº 4.391, de 2021.",
+        "É importante que a discussão seja objetiva devido ao tempo limitado.",
+        "A intenção é ouvir todos os setores interessados para construir uma otimização na reunião."
+      ]
+    },
+    {
+      "nome": "Mônica Messenberg",
+      "cargo": "Representante da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "A regulamentação do lobby é essencial para a transparência e a ética na defesa de interesses.",
+        "A CNI apoia a regulamentação desde 1990 e acredita que é fundamental que a relação entre grupos de interesse e o poder público não seja burocratizada.",
+        "É importante não dificultar o acesso ao parlamentar e considerar experiências internacionais bem-sucedidas.",
+        "Defende que a regulamentação contemple as interações digitais e mantenha equilíbrio entre infrações e sanções."
+      ]
+    },
+    {
+      "nome": "Nilson Aparecido Leitão",
+      "cargo": "Representante da Confederação da Agricultura e Pecuária do Brasil (CNA)",
+      "opinioes": [
+        "É crucial garantir transparência e critérios claros na regulamentação do lobby.",
+        "A CNA acredita que a regulamentação trará segurança jurídica e permitirá um diálogo aberto e transparente com o poder público.",
+        "A regulamentação não deve ser excessivamente exigente, mas também não deve ser inexistente."
+      ]
+    },
+    {
+      "nome": "Carolina Venuto",
+      "cargo": "Representante da Associação Brasileira de Relações Institucionais e Governamentais (ABRIG)",
+      "opinioes": [
+        "A regulamentação do lobby amadureceu ao longo dos anos e o Projeto de Lei nº 4.391 representa um avanço significativo.",
+        "É importante evitar excesso de burocracia e garantir a democratização da profissão.",
+        "A ABRIG apoia a nomenclatura de 'relações institucionais e governamentais' e defende a inclusão do direito de petição."
+      ]
+    },
+    {
+      "nome": "Natasha Martins do Valle Miranda",
+      "cargo": "Representante do Ministério da Economia",
+      "opinioes": [
+        "O Projeto de Lei nº 4.391 foi inspirado pelas recomendações da OCDE e visa melhorar a transparência nas relações público-privadas.",
+        "A regulamentação não deve burocratizar o acesso ao poder público e deve ser inclusiva para pequenas empresas e grupos menos organizados."
+      ]
+    },
+    {
+      "nome": "Luiz Alberto dos Santos",
+      "cargo": "Representante do Departamento Intersindical de Assessoria Parlamentar (DIAP)",
+      "opinioes": [
+        "O projeto deve observar experiências internacionais e recomendações da OCDE.",
+        "Defende um sistema de registro obrigatório de lobistas e a prestação de contas das despesas com lobby.",
+        "Critica a definição pouco clara de lobista e a falta de um rol adequado de condutas vedadas aos representantes de interesses."
+      ]
+    },
+    {
+      "nome": "Valter Souza",
+      "cargo": "Representante da Confederação Nacional do Transporte (CNT)",
+      "opinioes": [
+        "A CNT apoia a regulamentação do lobby desde que sejam respeitados princípios de transparência, ética e não burocratização.",
+        "Defende que já existem instrumentos na legislação que preservam a ética na atividade de lobby."
+      ]
+    },
+    {
+      "nome": "Elielson Almeida",
+      "cargo": "Representante da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+      "opinioes": [
+        "A regulamentação do lobby deve ampliar a participação popular e não criar obstáculos.",
+        "Qualquer iniciativa que mitigue a liberdade de exercer o mandato sindical é inconstitucional.",
+        "A regulamentação não deve criar uma reserva de mercado ou burocracia excessiva."
+      ]
+    },
+    {
+      "nome": "Wagner Parente",
+      "cargo": "Representante do Instituto de Relações Governamentais (IRELGOV)",
+      "opinioes": [
+        "A regulamentação deve focar na transparência e na ampliação da reputação da atividade.",
+        "A regulamentação não deve criar barreiras de entrada para a atividade."
+      ]
+    },
+    {
+      "nome": "Caio Magri",
+      "cargo": "Diretor-Presidente do Instituto Ethos",
+      "opinioes": [
+        "A transparência e a isonomia são fundamentais na regulamentação do lobby.",
+        "É importante que todos os documentos trocados entre agentes públicos e representantes de interesse sejam divulgados.",
+        "Defende que a regulamentação deve garantir igualdade de oportunidades para a sociedade participar do processo decisório."
+      ]
+    },
+    {
+      "nome": "Márcio Denys Pessanha Gonçalves",
+      "cargo": "Diretor de Informações para Prevenção da Corrupção, da Controladoria-Geral da União (CGU)",
+      "opinioes": [
+        "A CGU é contra a criação de uma profissão de lobista e o credenciamento de lobistas.",
+        "O projeto de lei deve respeitar a diversidade e especificidades do sistema federativo brasileiro.",
+        "A CGU já implementa princípios de integridade e transparência através do Decreto nº 10.889."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada na Câmara dos Deputados discutiu a regulamentação do lobby no Brasil, com foco no Projeto de Lei nº 4.391, de 2021. Deputados, representantes de diversas confederações e associações, e membros do governo expressaram suas opiniões sobre a importância da transparência e da ética na defesa de interesses. A regulamentação deve evitar burocracia excessiva e garantir acesso democrático ao poder público. Houve consenso sobre a necessidade de uma legislação que reconheça a legitimidade do lobby, com propostas para aprimorar o texto do projeto de lei e torná-lo adequado à realidade brasileira."
+}

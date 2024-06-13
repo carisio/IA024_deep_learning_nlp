@@ -1,0 +1,78 @@
+{
+  "assunto": "Debate sobre os reajustes dos planos de saúde.",
+  "envolvidos": [
+    {
+      "nome": "Márcio Marinho",
+      "cargo": "Deputado, Bloco/REPUBLICANOS - BA, Presidente da audiência",
+      "opinioes": [
+        "A reunião foi convocada para debater os reajustes dos planos de saúde.",
+        "A ANS aprovou um aumento de 9,63% nos planos de saúde, considerado abusivo.",
+        "A Comissão de Defesa do Consumidor atua como mediadora entre consumidores e empresas."
+      ]
+    },
+    {
+      "nome": "Andrey Freitas",
+      "cargo": "Consultor para Assuntos Econômicos da Federação Nacional de Saúde Suplementar",
+      "opinioes": [
+        "Os reajustes dos planos de saúde são necessários para cobrir os custos assistenciais.",
+        "Em 2022, 86,3% da receita do setor foi utilizada na cobertura de despesas assistenciais.",
+        "A metodologia de cálculo dos reajustes é pública e transparente."
+      ]
+    },
+    {
+      "nome": "Marcos Paulo Novais",
+      "cargo": "Superintendente Executivo da Associação Brasileira de Planos de Saúde — ABRAMGE",
+      "opinioes": [
+        "O setor enfrenta desafios financeiros significativos, com déficits operacionais recorrentes.",
+        "Os custos médico-hospitalares aumentaram significativamente após a pandemia.",
+        "Há necessidade de discutir o custo da saúde no Brasil, não apenas os reajustes."
+      ]
+    },
+    {
+      "nome": "Sérgio D. Bitencourt da Rocha",
+      "cargo": "Presidente do Conselho de Administração da Associação Brasileira de Importadores e Distribuidores de Produtos para Saúde — ABRAIDI",
+      "opinioes": [
+        "A saúde no Brasil vive uma situação caótica e exige discussões conjuntas para soluções eficientes.",
+        "A ABRAIDI representa uma parte significativa do mercado de produtos para a saúde.",
+        "A entidade enfrenta problemas legais e tributários que impactam seus custos."
+      ]
+    },
+    {
+      "nome": "Eduardo Chow de Martino Tostes",
+      "cargo": "Coordenador do Núcleo de Defesa do Consumidor da Defensoria Pública do Estado do Rio de Janeiro — NUDECON",
+      "opinioes": [
+        "Os reajustes dos planos coletivos são desproporcionais e muitas vezes inviáveis para os consumidores.",
+        "O índice de reajuste dos planos coletivos não tem regulação pela ANS, permitindo abusos.",
+        "A judicialização é necessária devido à falta de regulação adequada dos reajustes."
+      ]
+    },
+    {
+      "nome": "Pablo Bismark",
+      "cargo": "Secretário-Executivo do PROCON do Recife",
+      "opinioes": [
+        "Os planos de saúde coletivos registram reajustes médios superiores aos individuais.",
+        "Recomendações incluem padronização de cláusulas de reajuste e maior transparência nos cálculos.",
+        "O aumento da sinistralidade e judicialização são fatores que impactam os custos dos planos."
+      ]
+    },
+    {
+      "nome": "Arthur Rollo",
+      "cargo": "Advogado do Instituto Nacional de Defesa do Consumidor — INADEC",
+      "opinioes": [
+        "Os reajustes dos planos coletivos não são regulados e chegam a ser muito altos.",
+        "Há necessidade de limitar os reajustes dos planos coletivos para evitar expulsão dos consumidores.",
+        "A concentração de mercado e a falta de gestão são problemas críticos no setor de saúde suplementar."
+      ]
+    },
+    {
+      "nome": "Ana Carolina Navarrete",
+      "cargo": "Coordenadora do Programa de Saúde do Instituto Brasileiro de Defesa do Consumidor — IDEC",
+      "opinioes": [
+        "Os reajustes dos planos coletivos são urgentes e problemáticos para os consumidores.",
+        "A falta de transparência e poder de barganha entre contratantes e operadoras é um problema sério.",
+        "Os reajustes médios dos planos coletivos são consistentemente superiores aos dos planos individuais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa do Consumidor da Câmara dos Deputados discutiu os reajustes dos planos de saúde, com ênfase nos aumentos considerados abusivos pela ANS e nos desafios financeiros enfrentados pelas operadoras. Representantes de diversas entidades apresentaram dados e defenderam maior transparência nos cálculos, regulação dos reajustes dos planos coletivos e a necessidade de discutir os custos médicos-hospitalares no Brasil. Problemas como falta de poder de barganha dos contratantes e a judicialização foram destacados, com sugestões para melhorias na regulamentação e proteção dos consumidores."
+}

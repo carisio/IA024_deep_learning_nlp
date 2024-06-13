@@ -1,0 +1,60 @@
+{
+  "assunto": "Educação inclusiva e os avanços decorrentes do Estatuto da Pessoa com Deficiência, Lei nº 13.146, de 2015",
+  "envolvidos": [
+    {
+      "nome": "Décio Nascimento Guimarães",
+      "cargo": "Diretor de Políticas de Educação Especial na Perspectiva Inclusiva da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão — SECADI/MEC",
+      "opinioes": [
+        "Agradeceu à Comissão e expressou felicidade por participar do espaço de diálogo e luta.",
+        "Reforçou a importância da união das lutas pela educação e direitos das pessoas com deficiência.",
+        "Descreveu-se fisicamente e destacou a perspectiva da cegueira.",
+        "Ressaltou os desafios em assegurar direitos e trajetórias de direitos para pessoas com deficiência.",
+        "Anunciou a implementação de ações para transformar a escola, assegurando recursos para salas de recursos multifuncionais e formação continuada para professores.",
+        "Reiterou a oposição do Ministério da Educação a qualquer iniciativa não amplamente debatida com as pessoas do público da educação especial.",
+        "Destacou a necessidade de recursos de tecnologia assistiva para uso pessoal dos estudantes."
+      ]
+    },
+    {
+      "nome": "Renata Flores Tibyriçá",
+      "cargo": "Defensora Pública do Estado de São Paulo e Coordenadora do Núcleo Especializado de Direitos da Pessoa Idosa e da Pessoa com Deficiência — NEDIPED",
+      "opinioes": [
+        "Parabenizou a Deputada Federal Professora Luciene Cavalcante pela realização da audiência pública.",
+        "Reforçou a importância da educação inclusiva como direito garantido em todos os níveis.",
+        "Destacou a necessidade de garantir não apenas o acesso e permanência, mas também a participação e aprendizagem dos alunos com deficiência.",
+        "Ressaltou a importância de apoios adequados para efetivar esses direitos.",
+        "Apontou problemas na inclusão de pessoas com deficiência no ensino superior e mercado de trabalho.",
+        "Enfatizou a importância de angariar dados para reivindicar políticas públicas adequadas."
+      ]
+    },
+    {
+      "nome": "Sandra Ramalhoso",
+      "cargo": "Professora, conselheira titular do Conselho Municipal da Pessoa com Deficiência e Conselho Municipal de Transporte, coordenadora da Pastoral da Pessoa com Deficiência — PASPED da Arquidiocese de São Paulo e Presidente da Associação G-14",
+      "opinioes": [
+        "Agradeceu a oportunidade de falar e enfatizou a importância da educação inclusiva.",
+        "Destacou a necessidade de dados para reivindicar políticas públicas adequadas.",
+        "Expressou a necessidade de participação intersetorial de pessoas com deficiência em todas as fases das políticas públicas.",
+        "Criticou o Projeto de Lei 3.035 e afirmou a necessidade de mais participação nas discussões.",
+        "Compartilhou sua história pessoal de luta e superação como pessoa com deficiência."
+      ]
+    },
+    {
+      "nome": "Naira Gaspar",
+      "cargo": "Diretora dos Direitos da Pessoa com Deficiência da Secretaria Nacional dos Direitos da Pessoa com Deficiência — SNDPD do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Reafirmou o papel fundamental da educação na transformação da sociedade e no combate ao capacitismo.",
+        "Destacou a importância de uma escola inclusiva para todas as pessoas.",
+        "Ressaltou o trabalho conjunto com outras pastas e a necessidade de eliminar barreiras arquitetônicas e tecnológicas."
+      ]
+    },
+    {
+      "nome": "William de Jesus Silva",
+      "cargo": "Membro da Associação Brasileira para Ação por Direitos das Pessoas Autistas — ABRAÇA e Diretor de Comunicação e Mobilização",
+      "opinioes": [
+        "Criticou a tentativa de limitar a liberdade de expressão das organizações de pessoas com deficiência.",
+        "Reforçou a necessidade de escuta ampla e qualificada dos movimentos das pessoas com deficiência.",
+        "Destacou a importância da participação ativa das pessoas com deficiência na elaboração de legislação e políticas públicas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Educação debateu a educação inclusiva e os avanços do Estatuto da Pessoa com Deficiência, Lei nº 13.146, de 2015. Participaram diversos especialistas e representantes, como Décio Nascimento Guimarães (SECADI/MEC), que enfatizou a importância de recursos e formação para educação inclusiva; Renata Flores Tibyriçá (Defensoria Pública de SP), que reforçou a necessidade de garantir participação e aprendizagem para alunos com deficiência; Sandra Ramalhoso (PASPD), que destacou a luta pessoal e a necessidade de mais dados; Naira Gaspar (SNDPD), que focou na educação como ferramenta contra o capacitismo; e William de Jesus Silva (ABRAÇA), que criticou a limitação da liberdade de expressão das organizações de PCDs e ressaltou a importância de uma escuta ampla. A audiência gerou encaminhamentos importantes, como a necessidade de acompanhar a tramitação do PL 3.035 e a inclusão de pessoas com deficiência nas discussões de políticas públicas."
+}

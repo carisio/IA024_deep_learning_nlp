@@ -1,0 +1,72 @@
+{
+  "assunto": "Acolhimento às Famílias Acolhedoras",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (PT-DF) e Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "É autora do requerimento que deu origem à realização da reunião.",
+        "Destacou a importância do acolhimento familiar e a necessidade de fortalecer e divulgar o programa Família Acolhedora.",
+        "Defendeu a priorização do acolhimento em família acolhedora sobre o acolhimento institucional.",
+        "Apontou a necessidade de cofinanciamento e capacitação das entidades para o programa Família Acolhedora.",
+        "Expressou apoio à PEC 383/17, que assegura uma receita permanente para o SUAS."
+      ]
+    },
+    {
+      "nome": "Rosana Viegas e Carvalho",
+      "cargo": "Promotora de Justiça do Ministério Público do Distrito Federal e Territórios",
+      "opinioes": [
+        "Enfatizou a doutrina da proteção integral da criança e do adolescente conforme a Constituição de 1988 e o Estatuto da Criança e do Adolescente.",
+        "Criticou a prática de institucionalização de crianças e adolescentes e defendeu o acolhimento familiar como uma medida mais benéfica.",
+        "Destacou a importância do Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes à Convivência Familiar e Comunitária.",
+        "Apontou que o Brasil ainda tem poucas famílias acolhedoras e que é necessário aumentar esse número.",
+        "Sugeriu estratégias para melhorar a implantação do acolhimento familiar, como a redução do cofinanciamento federal para serviços institucionais e apoio para capacitação de órgãos."
+      ]
+    },
+    {
+      "nome": "Ana Angélica Campelo de Albuquerque",
+      "cargo": "Representante do Departamento de Proteção Social Especial, Ministério da Cidadania",
+      "opinioes": [
+        "Afirmou que o acolhimento familiar é prioritário sobre o institucional, conforme estabelecido pelo ECA.",
+        "Destacou a importância do ambiente familiar para o desenvolvimento saudável de crianças e adolescentes.",
+        "Apresentou dados sobre a situação do acolhimento no Brasil, mostrando a predominância do acolhimento institucional.",
+        "Indicou que o SUAS precisa de mais recursos e apoio para expandir os serviços de família acolhedora.",
+        "Mencionou a necessidade de cursos de capacitação e materiais de divulgação para apoiar a implantação do acolhimento familiar."
+      ]
+    },
+    {
+      "nome": "Edinalva Severo",
+      "cargo": "Representante do Movimento Nacional Pró-Convivência Comunitária",
+      "opinioes": [
+        "Afirmou que o foco do movimento é a prevenção, evitando que crianças precisem ser afastadas de suas famílias.",
+        "Defendeu a necessidade de recursos contínuos e de cofinanciamento para os serviços de acolhimento.",
+        "Destacou a importância de divulgar e mobilizar a sociedade para aumentar o número de famílias acolhedoras.",
+        "Criticou a falta de políticas públicas adequadas para apoiar as famílias de origem e evitar o acolhimento institucional.",
+        "Enfatizou a necessidade de um trabalho integrado e articulado entre os diferentes níveis de governo e políticas públicas."
+      ]
+    },
+    {
+      "nome": "Débora Vigevani",
+      "cargo": "Representante da Coalizão pelo Acolhimento em Família Acolhedora",
+      "opinioes": [
+        "Destacou os benefícios do acolhimento familiar em comparação ao institucional, com base em diversas pesquisas.",
+        "Enfatizou a necessidade de estabilidade e continuidade dos cuidados para o desenvolvimento saudável das crianças.",
+        "Defendeu a importância da formação e seleção criteriosa das famílias acolhedoras.",
+        "Criticou a visão de que famílias acolhedoras deveriam adotar as crianças, apontando que isso pode prejudicar o objetivo do serviço de acolhimento.",
+        "Sublinhou a importância de divulgar informações corretas sobre o acolhimento familiar para combater preconceitos e mitos."
+      ]
+    },
+    {
+      "nome": "Julia Salvagni",
+      "cargo": "Psicóloga e Vice-Presidenta do Grupo Aconchego do Distrito Federal",
+      "opinioes": [
+        "Defendeu que o acolhimento familiar é uma ação de amor e comprometimento com as crianças e adolescentes.",
+        "Enfatizou a importância do vínculo afetivo para o desenvolvimento saudável das crianças acolhidas.",
+        "Criticou a prática de institucionalização e defendeu a necessidade de fortalecer o acolhimento familiar.",
+        "Apontou a importância de um trabalho integrado e articulado entre as equipes técnicas e as famílias de origem.",
+        "Destacou a necessidade de recursos contínuos e adequados para garantir a qualidade do acolhimento familiar."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu o tema 'Acolhimento às Famílias Acolhedoras', destacando a necessidade de priorizar o acolhimento familiar sobre o institucional para o desenvolvimento saudável das crianças. Entre os envolvidos, a Deputada Erika Kokay, promotora Rosana Viegas e representantes de movimentos e entidades como Ana Angélica Campelo, Edinalva Severo, Débora Vigevani e Julia Salvagni defenderam a importância de políticas públicas, recursos contínuos e capacitação para expandir e fortalecer o programa de famílias acolhedoras no Brasil. Houve consenso sobre a necessidade de um trabalho integrado e articulado entre diferentes níveis de governo e sociedade civil para assegurar a proteção integral das crianças e adolescentes."
+}

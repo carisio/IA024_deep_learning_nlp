@@ -1,0 +1,50 @@
+{
+  "assunto": "Certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+  "envolvidos": [
+    {
+      "nome": "Pinheirinho",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Pessoa Idosa (Bloco/PP - MG)",
+      "opinioes": [
+        "A audiência pública foi convocada para discutir a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas.",
+        "A população idosa está aumentando, o que torna a proteção desse grupo ainda mais importante."
+      ]
+    },
+    {
+      "nome": "Monize da Silva Freitas Marques",
+      "cargo": "Juíza do Tribunal de Justiça do Distrito Federal e Coordenadora da Central Judicial do Idoso",
+      "opinioes": [
+        "Para cuidadores formais, a exigência de certidão negativa é viável, mas para cuidadores informais, como familiares, não é praticável.",
+        "Defende uma regulamentação específica para a ocupação de cuidador de idosos, incluindo capacitação em saúde, mediação de conflitos, entre outros.",
+        "Sugere a exigência de uma certidão de antecedentes ao invés de uma certidão negativa, permitindo que o contratante avalie a pertinência dos delitos mencionados."
+      ]
+    },
+    {
+      "nome": "Kenio Costa de Lima",
+      "cargo": "Coordenador-Geral de Políticas de Envelhecimento Saudável da Secretaria Nacional de Defesa do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "A regulamentação da profissão de cuidador de idosos é crucial para garantir um cuidado adequado e proteger tanto os idosos quanto os cuidadores.",
+        "Enfatiza a necessidade de educação sobre envelhecimento e práticas intergeracionais para combater o idadismo.",
+        "Destaca que a criminalização não é a única solução, sendo necessária uma rede de proteção para prevenir violações de direitos."
+      ]
+    },
+    {
+      "nome": "Patrícia Moreira",
+      "cargo": "Assessora Especial da Frente Parlamentar da Longevidade e do Fórum São Paulo da Longevidade",
+      "opinioes": [
+        "A regulamentação da profissão de cuidador é essencial, e a exigência de certidão negativa deve ser acompanhada de uma regulamentação formal.",
+        "A insegurança das famílias em relação aos cuidadores deve ser abordada pela exigência de certificações e regulamentações claras.",
+        "O Fórum da Longevidade é uma iniciativa importante para debater e promover políticas de cuidado aos idosos."
+      ]
+    },
+    {
+      "nome": "Olinda Vicente Moreira",
+      "cargo": "Defensora Pública Federal e Coordenadora do Grupo de Trabalho de Atendimento à Pessoa Idosa e à Pessoa com Deficiência da Defensoria Pública da União",
+      "opinioes": [
+        "A exigência de certidão de antecedentes criminais deve equilibrar a proteção dos idosos com os direitos ao trabalho e à ressocialização dos cuidadores.",
+        "Destaca que muitas cuidadoras são mulheres de baixa renda e baixa instrução, e a exigência de certidão negativa pode prejudicar a sua inserção no mercado de trabalho.",
+        "Enfatiza a importância da educação em direitos para todas as partes envolvidas no cuidado aos idosos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a exigência de certidão negativa de antecedentes criminais para cuidadores de idosos, abordando a necessidade de regulamentação específica para a profissão e a proteção dos direitos dos cuidadores e dos idosos. Os participantes destacaram a importância de capacitação, regulamentação formal e educação sobre envelhecimento para garantir um cuidado adequado e prevenir violações de direitos."
+}

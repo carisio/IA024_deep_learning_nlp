@@ -1,0 +1,78 @@
+{
+  "assunto": "Golpes e fraudes no sistema financeiro",
+  "envolvidos": [
+    {
+      "nome": "Gisela Simona",
+      "cargo": "Deputada Federal, Presidente da Comissão de Defesa do Consumidor",
+      "opinioes": [
+        "A audiência foi convocada para debater golpes e fraudes no sistema financeiro.",
+        "O objetivo é buscar alternativas para que as fraudes não continuem acontecendo da forma que estão."
+      ]
+    },
+    {
+      "nome": "Mayara Trindade Yano",
+      "cargo": "Representante do Departamento de Competição e de Estrutura do Mercado Financeiro do Banco Central do Brasil",
+      "opinioes": [
+        "A segurança do Pix é uma prioridade desde sua concepção.",
+        "O Pix inclui camadas exclusivas de proteção, como autenticação segura do usuário, rastreabilidade, tráfego seguro de informações e um arcabouço regulatório robusto.",
+        "O Banco Central enfrenta uma crise de recursos humanos que pode comprometer avanços na segurança do Pix."
+      ]
+    },
+    {
+      "nome": "Belline Santana",
+      "cargo": "Chefe do Departamento de Supervisão Bancária do Banco Central do Brasil",
+      "opinioes": [
+        "Fraudes e golpes são uma prioridade para o Banco Central.",
+        "O crime migrou para estelionatos digitais devido à pandemia e à baixa educação digital da sociedade.",
+        "O Banco Central realizou inspeções para identificar fragilidades no controle das contas correntes."
+      ]
+    },
+    {
+      "nome": "Walter Faria",
+      "cargo": "Diretor Adjunto de Serviços da Federação Brasileira de Bancos (FEBRABAN)",
+      "opinioes": [
+        "Os criminosos migraram para golpes digitais devido à segurança dos aplicativos bancários.",
+        "A maioria dos golpes ocorre com pessoas entre 25 e 50 anos, não apenas idosos.",
+        "FEBRABAN lançou uma campanha de conscientização chamada 'Pare e Pense: Pode ser Golpe'.",
+        "A FEBRABAN investiu 3,5 bilhões de reais em prevenção a fraudes e segurança bancária em 2022."
+      ]
+    },
+    {
+      "nome": "Márcia Moro",
+      "cargo": "Presidente da Associação Brasileira de PROCONs (PROCONSBRASIL)",
+      "opinioes": [
+        "Os golpistas estão sempre um passo à frente e quem sofre é o consumidor.",
+        "Há um aumento expressivo de reclamações contra o sistema financeiro durante a pandemia.",
+        "Os consumidores precisam ser mais bem informados sobre golpes e fraudes."
+      ]
+    },
+    {
+      "nome": "Ione Amorim",
+      "cargo": "Coordenadora em Serviços Financeiros do Instituto Brasileiro de Defesa do Consumidor (IDEC)",
+      "opinioes": [
+        "Golpes e fraudes se tornaram uma epidemia no Brasil.",
+        "O sistema financeiro propicia as condições para que esses golpes aconteçam.",
+        "Há necessidade de um trabalho robusto de educação financeira e digital."
+      ]
+    },
+    {
+      "nome": "Antônio Carlos Fontes Cintra",
+      "cargo": "Defensor Público do Distrito Federal e Coordenador da Comissão de Direitos do Consumidor da Associação Nacional das Defensoras e Defensores Públicos (ANADEP)",
+      "opinioes": [
+        "O maior problema enfrentado pelos Núcleos de Defesa do Consumidor é o golpe do empréstimo consignado.",
+        "Propõe a proibição de empréstimos digitais para idosos como solução legislativa.",
+        "Critica a responsabilidade dos bancos nos golpes e a falta de ações contra esses procedimentos fraudulentos."
+      ]
+    },
+    {
+      "nome": "Rogério Ferreira",
+      "cargo": "Delegado da Delegacia Especializada de Defesa do Consumidor de Mato Grosso",
+      "opinioes": [
+        "O Brasil é um dos campeões em tentativas de crimes cibernéticos.",
+        "Criminosos migraram para golpes digitais devido à impunidade e ao baixo risco.",
+        "Há necessidade de recrudescimento das penas e do processo penal para coibir a prática desses crimes."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa do Consumidor da Câmara dos Deputados debateu golpes e fraudes no sistema financeiro. Participaram representantes do Banco Central, FEBRABAN, PROCONs, IDEC, Defensoria Pública e Polícia Civil. Os debatedores destacaram a prioridade do combate às fraudes, a migração dos crimes para o ambiente digital e a necessidade de ações coordenadas para proteger os consumidores. Foram discutidas propostas legislativas para restringir empréstimos digitais para idosos e penalizar mais severamente os bancos envolvidos em fraudes."
+}

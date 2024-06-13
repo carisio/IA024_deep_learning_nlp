@@ -1,0 +1,70 @@
+{
+  "assunto": "Debate sobre a criação da Zona Franca da Uva e do Vinho no Rio Grande do Sul",
+  "envolvidos": [
+    {
+      "nome": "Romero Rodrigues",
+      "cargo": "Presidente, Deputado Bloco/PSC - PB",
+      "opinioes": [
+        "A criação da zona franca ajudará a criar um ambiente favorável à tributação e fortalecerá a vinicultura no Rio Grande do Sul.",
+        "A consolidação da zona franca fortalecerá o turismo de visitação e a produção de uva e vinho na região."
+      ]
+    },
+    {
+      "nome": "Carlos Gomes",
+      "cargo": "Deputado Bloco/REPUBLICANOS - RS",
+      "opinioes": [
+        "A criação da zona franca é fundamental para o desenvolvimento socioeconômico da vitivinicultura brasileira.",
+        "A proposta integrará mais de 30 municípios gaúchos, alavancando a isenção tributária sobre vinhos, sucos de uva e espumantes."
+      ]
+    },
+    {
+      "nome": "Cinthia Fernanda Garcia Marques",
+      "cargo": "Coordenadora-Geral de Atração de Investimentos do Departamento de Investimentos, Créditos, Parcerias e Concessões no Turismo da Secretaria Nacional de Infraestrutura, Crédito e Investimentos no Turismo do Ministério do Turismo",
+      "opinioes": [
+        "O enoturismo é trabalhado como uma experiência dentro do turismo gastronômico.",
+        "O projeto de lei incentivará o turismo e a atração de investimentos para a região."
+      ]
+    },
+    {
+      "nome": "Deborah Villas-Bôas Dadalt",
+      "cargo": "Sócia-Diretora do Spa do Vinho Hotel e Condomínio Vitivinícola",
+      "opinioes": [
+        "Apoio incondicional ao projeto da Zona Franca da Uva e do Vinho.",
+        "A isenção da carga tributária possibilitará condições de competitividade para o vinho brasileiro."
+      ]
+    },
+    {
+      "nome": "Ricardo Morari",
+      "cargo": "Presidente da Associação Brasileira de Enologia",
+      "opinioes": [
+        "A criação da zona franca trará maior visibilidade ao trabalho dos enólogos e permitirá mostrar a qualidade dos vinhos brasileiros.",
+        "O vinho nacional precisa de maior competitividade e apoio para enfrentar a concorrência dos vinhos importados."
+      ]
+    },
+    {
+      "nome": "Alexandre Sampaio",
+      "cargo": "Diretor da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)",
+      "opinioes": [
+        "O setor vitivinícola brasileiro necessita de incentivos para competir de forma justa com vinhos importados.",
+        "A criação da zona franca impulsionará o turismo e a geração de empregos na região."
+      ]
+    },
+    {
+      "nome": "Daniel Panizzi",
+      "cargo": "Presidente da União Brasileira de Vitivinicultura (UVIBRA)",
+      "opinioes": [
+        "O enoturismo é fundamental para a sobrevivência das pequenas vinícolas brasileiras.",
+        "A redução da carga tributária é crucial para a competitividade dos vinhos brasileiros frente aos importados."
+      ]
+    },
+    {
+      "nome": "Sergio Pereira Gaspar",
+      "cargo": "Diretor de Operações da Associação Brasileira da Indústria de Hotéis (ABIH Nacional)",
+      "opinioes": [
+        "Apoiamos a criação da zona franca por sua importância para a competitividade do setor vitivinícola.",
+        "O projeto incentivará o turismo e beneficiará a economia local e nacional."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a criação da Zona Franca da Uva e do Vinho no Rio Grande do Sul, com o objetivo de isentar a carga tributária sobre a produção de vinhos, sucos de uva e espumantes, fortalecendo a competitividade do setor vitivinícola brasileiro. O projeto busca integrar mais de 30 municípios gaúchos, impulsionando o enoturismo e atraindo investimentos. Diversos deputados e representantes de entidades ligadas ao setor vitivinícola e de turismo expressaram seu apoio ao projeto, destacando a importância da redução tributária para enfrentar a concorrência dos vinhos importados e promover o desenvolvimento socioeconômico regional."
+}

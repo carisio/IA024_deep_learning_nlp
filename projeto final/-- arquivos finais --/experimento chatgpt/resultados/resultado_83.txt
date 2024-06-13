@@ -1,0 +1,39 @@
+{
+  "assunto": "Direitos da população em situação de rua",
+  "envolvidos": [
+    {
+      "nome": "Orlando Silva",
+      "cargo": "Deputado Federal pelo PCdoB - SP e Presidente da Comissão de Direitos Humanos e Minorias",
+      "opinioes": [
+        "É fundamental tratar das recomendações recebidas pelo Brasil no âmbito da Revisão Periódica Universal sobre os direitos da população em situação de rua.",
+        "Enfatiza a importância de discutir e implementar políticas públicas para melhorar a situação da população em situação de rua."
+      ]
+    },
+    {
+      "nome": "Markinhus Souza",
+      "cargo": "Representante do Movimento de Meninos e Meninas de Rua",
+      "opinioes": [
+        "Há uma falta de políticas públicas para crianças e adolescentes em situação de rua, resultando em violência física e letalidade.",
+        "A invisibilidade das crianças com familiares encarcerados é uma violação significativa de direitos humanos.",
+        "Defende a necessidade de diretrizes nacionais de atendimento a crianças e adolescentes em situação de rua."
+      ]
+    },
+    {
+      "nome": "Carlos Alberto Ricardo Junior",
+      "cargo": "Coordenador-Geral de Direitos de Minorias Sociais e População em Situação de Risco do Ministério da Mulher, da Família e dos Direitos Humanos",
+      "opinioes": [
+        "O acesso à moradia é essencial para a população em situação de rua.",
+        "Destaca a importância de desenvolver ações intersetoriais e em todas as esferas de governo para melhorar a situação dessa população."
+      ]
+    },
+    {
+      "nome": "Ronan Ferreira Figueiredo",
+      "cargo": "Defensor Público do Distrito Federal e membro da Comissão de População em Situação de Rua da ANADEP",
+      "opinioes": [
+        "É importante que as pessoas em situação de rua tenham acesso à documentação civil para obter benefícios assistenciais e renda social.",
+        "A Resolução nº 425 do CNJ é essencial para garantir que os processos judiciais sejam sensíveis às necessidades dessa população."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública tratou sobre os direitos da população em situação de rua, enfatizando a necessidade de políticas públicas efetivas. Os participantes incluíram o Deputado Orlando Silva, que presidiu a audiência, Markinhus Souza do Movimento de Meninos e Meninas de Rua, Carlos Alberto Ricardo Junior do Ministério da Mulher, da Família e dos Direitos Humanos, e Ronan Ferreira Figueiredo, Defensor Público do Distrito Federal. Cada um destacou a importância de diferentes aspectos, como a invisibilidade das crianças de familiares encarcerados, a necessidade de moradia e a importância de documentação civil para acessar benefícios sociais. A audiência sublinhou a urgência de ações coordenadas entre diferentes esferas do governo e a implementação de diretrizes nacionais específicas."
+}

@@ -1,0 +1,33 @@
+{
+  "assunto": "Investigação sobre a atuação do Movimento dos Trabalhadores Sem Terra (MST) e a resposta do Ministério do Desenvolvimento Agrário e Agricultura Familiar.",
+  "envolvidos": [
+    {
+      "nome": "Zucco",
+      "cargo": "Presidente da CPI, Deputado pelo Bloco/REPUBLICANOS - RS",
+      "opinioes": []
+    },
+    {
+      "nome": "Paulo Teixeira",
+      "cargo": "Ministro de Estado do Desenvolvimento Agrário e Agricultura Familiar",
+      "opinioes": [
+        "O Ministério do Desenvolvimento Agrário foi recriado para aumentar e diversificar a produção de alimentos no Brasil.",
+        "A agricultura empresarial e a agricultura familiar são complementares, sendo fundamental fortalecer ambas.",
+        "As políticas de alimentação escolar e o Programa de Aquisição de Alimentos (PAA) são cruciais para a economia da agricultura familiar.",
+        "O programa de reforma agrária é essencial para pacificar o campo e fornecer terras, crédito e assistência técnica aos agricultores.",
+        "A decisão do Tribunal de Contas da União (TCU) de 2015 prejudicou o programa de reforma agrária ao identificar incorretamente irregularidades.",
+        "Há 57 mil famílias acampadas no Brasil, justificando a retomada do programa de reforma agrária."
+      ]
+    },
+    {
+      "nome": "Ricardo Salles",
+      "cargo": "Deputado pelo PL - SP",
+      "opinioes": [
+        "Critica a atuação de Rui Costa por não comparecer à CPI.",
+        "Questiona a eficácia do programa de reforma agrária e a gestão das listas de assentados pelo INCRA.",
+        "Defende que a norma administrativa infralegal não deve sobrepor-se aos princípios constitucionais de impessoalidade.",
+        "Reconhece que a gestão Bolsonaro estabeleceu critérios de seleção de famílias e editais para assentamentos."
+      ]
+    }
+  ],
+  "tl_dr": "A 17ª Reunião Extraordinária da Comissão Parlamentar de Inquérito (CPI) investigou a atuação do Movimento dos Trabalhadores Sem Terra (MST) e contou com a presença do Ministro do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira. O Ministro destacou a importância da agricultura familiar e empresarial, detalhou programas voltados para a alimentação escolar e aquisição de alimentos, e enfatizou a necessidade de retomar o programa de reforma agrária para pacificar o campo brasileiro. Teixeira criticou a decisão do Tribunal de Contas da União (TCU) de 2015, que paralisou o programa de reforma agrária. O Deputado Ricardo Salles questionou a eficácia do programa e a gestão do INCRA, defendendo a impessoalidade nos processos de seleção. O debate destacou divergências sobre a execução e regulamentação da reforma agrária no Brasil."
+}

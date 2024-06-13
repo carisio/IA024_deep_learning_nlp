@@ -1,0 +1,56 @@
+{
+  "assunto": "Política Industrial Brasileira e propostas para o desenvolvimento econômico",
+  "envolvidos": [
+    {
+      "nome": "Sidney Leite",
+      "cargo": "Presidente da Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços (PSD - AM)",
+      "opinioes": [
+        "Acredita que o papel do BNDES não é o lucro, mas fomentar o desenvolvimento.",
+        "Destaca a importância de visitar o Instituto de Pesos e Medidas para contribuir com a indústria nacional.",
+        "Defende que a reforma tributária é consenso entre Parlamentares e a sociedade.",
+        "Enfatiza a necessidade de políticas industriais que valorizem a indústria nacional e criem empregos."
+      ]
+    },
+    {
+      "nome": "Jorge Nascimento",
+      "cargo": "Presidente da Associação Nacional de Fabricantes de Produtos Eletroeletrônicos (ELETROS)",
+      "opinioes": [
+        "Agradece a oportunidade de diálogo proporcionada pela Comissão.",
+        "Defende a necessidade de uma aproximação contínua com todos os setores.",
+        "Enfatiza a importância do diálogo para evitar decisões equivocadas.",
+        "Advoga pela continuidade do PDL 575 como ferramenta essencial para a indústria nacional."
+      ]
+    },
+    {
+      "nome": "Patrícia Gomes",
+      "cargo": "Diretora Executiva de Mercado Externo da Associação Brasileira da Indústria de Máquinas e Equipamentos (ABIMAQ)",
+      "opinioes": [
+        "Defende a necessidade de propostas de solução para problemas como a qualificação da mão de obra e o acesso a crédito.",
+        "Enfatiza a importância de instrumentos de apoio à inovação.",
+        "Propõe a reforma tributária e políticas de financiamento e garantias para produção e exportação.",
+        "Apoia a reforma administrativa como crucial para o setor industrial."
+      ]
+    },
+    {
+      "nome": "Marcelo Pimentel",
+      "cargo": "Gerente de Relações Institucionais da Associação Brasileira da Indústria Química (ABIQUIM)",
+      "opinioes": [
+        "Convida todos para o Encontro Anual da Indústria Química para apresentação de propostas.",
+        "Destaca a importância da redução de carga tributária e do custo energético para a competitividade da indústria química.",
+        "Advoga pelo retorno do regime especial da indústria química.",
+        "Discorda da abertura desmedida do PDL 575, considerando-a prejudicial à indústria nacional."
+      ]
+    },
+    {
+      "nome": "Marcos Borges de Castro",
+      "cargo": "Gerente Executivo de Assuntos Legislativos da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "Apresenta documento com plano de retomada da indústria.",
+        "Defende a importância da segurança jurídica e da reforma tributária.",
+        "Enfatiza a necessidade de projetos de transição para uma economia de baixo carbono.",
+        "Propõe a priorização de temas como educação, carbono e questões trabalhistas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a política industrial brasileira, abordando temas como reforma tributária, qualificação de mão de obra, financiamento e inovação. Sidney Leite, presidente da Comissão, destacou a necessidade de fomentar o desenvolvimento industrial. Jorge Nascimento (ELETROS) enfatizou a importância do diálogo contínuo com os setores e a continuidade do PDL 575. Patrícia Gomes (ABIMAQ) propôs soluções para crédito e exportação, além de apoiar reformas tributária e administrativa. Marcelo Pimentel (ABIQUIM) destacou a necessidade de reduzir a carga tributária e custos energéticos, e Marcos Borges de Castro (CNI) apresentou um plano de retomada da indústria, enfatizando segurança jurídica e transição para uma economia de baixo carbono."
+}

@@ -1,0 +1,63 @@
+{
+  "assunto": "Resolução Nexus entre Bem-Estar Animal, Ambiente e Desenvolvimento Sustentável",
+  "envolvidos": [
+    {
+      "nome": "Bruno Ganem",
+      "cargo": "Presidente da audiência, Deputado (Bloco/PODE - SP)",
+      "opinioes": [
+        "Reafirmou a importância do bem-estar animal e sua crescente relevância na política e na sociedade.",
+        "Destacou o aumento da bancada de bem-estar animal na Câmara dos Deputados.",
+        "Apoiou as iniciativas e trabalhos apresentados pelos expositores na audiência."
+      ]
+    },
+    {
+      "nome": "Vanessa Negrini",
+      "cargo": "Diretora do Departamento de Proteção, Defesa e Direito dos Animais do Ministério do Meio Ambiente e Mudança do Clima",
+      "opinioes": [
+        "Salientou que o bem-estar animal é uma pauta econômica importante para os países.",
+        "Mencionou que tratados internacionais, como o entre União Europeia e MERCOSUL, podem ser impactados por cláusulas ambientais e de bem-estar animal.",
+        "Ressaltou a importância da Resolução Nexus e a necessidade de estudos e pesquisas para entender a relação entre bem-estar animal, meio ambiente e desenvolvimento sustentável.",
+        "Destacou que o bem-estar animal também dialoga com a questão da fome."
+      ]
+    },
+    {
+      "nome": "Celso Funcia Lemme",
+      "cargo": "Pesquisador da Universidade Federal do Rio de Janeiro (UFRJ)",
+      "opinioes": [
+        "Afirmou que a pauta de bem-estar animal traz oportunidades econômicas, ambientais e sociais para o Brasil.",
+        "Destacou a importância de modelos de negócios sustentáveis e alinhados com os Objetivos de Desenvolvimento Sustentável (ODS).",
+        "Mencionou a urgência em adaptar sistemas de produção e a importância de inovações no setor.",
+        "Enfatizou o impacto do bem-estar animal na prevenção de zoonoses e futuras pandemias."
+      ]
+    },
+    {
+      "nome": "Cristina Mendonça",
+      "cargo": "Diretora-Executiva da Mercy for Animals no Brasil",
+      "opinioes": [
+        "Abordou como o bem-estar animal pode ser um indutor dos pilares do desenvolvimento sustentável.",
+        "Destacou a Resolução Nexus como uma importante iniciativa para interligar bem-estar animal e desenvolvimento sustentável.",
+        "Ressaltou a necessidade de mudanças transformacionais nos sistemas alimentares para enfrentar a crise climática.",
+        "Mencionou a importância de uma alimentação mais sustentável e diversificada."
+      ]
+    },
+    {
+      "nome": "Karina Ishida",
+      "cargo": "Coordenadora de Programas de Food Systems da Proteção Animal Mundial",
+      "opinioes": [
+        "Afirmou que a exploração animal está diretamente ligada a crises de saúde pública, emissões de gases de efeito estufa e perda de biodiversidade.",
+        "Destacou os impactos negativos da pecuária intensiva no meio ambiente e na saúde animal e humana.",
+        "Enfatizou a necessidade de práticas éticas e sustentáveis na produção de alimentos."
+      ]
+    },
+    {
+      "nome": "Alysson Soares",
+      "cargo": "Especialista em Políticas Públicas da The Good Food Institute Brasil",
+      "opinioes": [
+        "Promoveu as proteínas alternativas como uma solução para mitigar impactos climáticos e melhorar o bem-estar animal.",
+        "Destacou a importância de políticas públicas para o desenvolvimento do setor de proteínas alternativas.",
+        "Mencionou o potencial do Brasil em liderar o mercado de proteínas alternativas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a Resolução Nexus entre Bem-Estar Animal, Ambiente e Desenvolvimento Sustentável, com ênfase na necessidade de políticas e práticas sustentáveis que integrem a proteção animal, a preservação ambiental e o desenvolvimento econômico. Participantes de diversas áreas, incluindo Vanessa Negrini do Ministério do Meio Ambiente, Celso Funcia Lemme da UFRJ, Cristina Mendonça da Mercy for Animals, Karina Ishida da Proteção Animal Mundial e Alysson Soares do The Good Food Institute, destacaram a importância de tratar o bem-estar animal como uma pauta econômica e de saúde pública. Eles abordaram a urgência de adaptações no sistema de produção, a interconexão com crises globais e as oportunidades econômicas e sustentáveis associadas à implementação de boas práticas de bem-estar animal."
+}

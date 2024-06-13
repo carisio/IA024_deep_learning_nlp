@@ -1,0 +1,79 @@
+{
+  "assunto": "Planejamento do Estado brasileiro frente às mudanças demográficas",
+  "envolvidos": [
+    {
+      "nome": "Alexandre Lindenmeyer",
+      "cargo": "Deputado (Bloco/PT - RS)",
+      "opinioes": [
+        "Importância do debate sobre o planejamento do Estado brasileiro em relação às mudanças demográficas.",
+        "Comemoração dos 20 anos do Estatuto do Idoso e reconhecimento de evoluções, mas destacando a necessidade de efetivação de mais direitos.",
+        "Preocupação com a diminuição da natalidade e aumento da população idosa, enfatizando a necessidade de preparação do Estado brasileiro.",
+        "Desafios em garantir qualidade de vida para a população idosa no futuro."
+      ]
+    },
+    {
+      "nome": "Alexandre da Silva",
+      "cargo": "Secretário Nacional dos Direitos da Pessoa Idosa, Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Destacou a importância do debate sobre o planejamento para as mudanças demográficas.",
+        "Mencionou que o envelhecimento deve ser visto como um ganho das políticas públicas.",
+        "Salientou a necessidade de políticas públicas para garantir a longevidade com qualidade de vida.",
+        "Apontou a feminização da velhice e a necessidade de analisar a mortalidade precoce dos homens.",
+        "Enfatizou a importância da educação e aprendizagem ao longo da vida para a população idosa.",
+        "Abordou a questão da violência contra a pessoa idosa, tanto física quanto psicológica, e a importância de políticas de proteção."
+      ]
+    },
+    {
+      "nome": "Danyel Iório de Lima",
+      "cargo": "Diretor Substituto de Programas Sociais, Áreas Transversais e Multissetoriais e Participação Social, Ministério do Planejamento e Orçamento",
+      "opinioes": [
+        "Explicou a importância do Plano Plurianual (PPA) no planejamento das ações governamentais.",
+        "Destacou as megatendências mundiais que influenciaram a construção do PPA, incluindo a transição demográfica.",
+        "Mencionou as implicações da transição demográfica para o Brasil, como a demanda por serviços de saúde e o financiamento da Previdência Social.",
+        "Apresentou programas específicos no PPA voltados para a população idosa, como o Programa de Promoção do Direito de Envelhecer e dos Direitos Humanos da Pessoa Idosa.",
+        "Enfatizou a necessidade de políticas de inclusão no mercado de trabalho formal e aumento da cobertura previdenciária."
+      ]
+    },
+    {
+      "nome": "Matheus Guerra Cotta",
+      "cargo": "Secretário de Relações de Trabalho, Mobilização e Inserção Profissional, Federação Nacional dos Arquitetos e Urbanistas (FNA)",
+      "opinioes": [
+        "Destacou a importância da atuação do Estado no planejamento para as mudanças demográficas.",
+        "Enfatizou a necessidade de políticas públicas que cheguem à população idosa em diferentes contextos regionais.",
+        "Sugeriu uma ação transversal envolvendo diferentes Ministérios e entidades para garantir políticas efetivas para a população idosa.",
+        "Salientou a importância da mobilidade urbana e de espaços de convivência e socialização para a população idosa."
+      ]
+    },
+    {
+      "nome": "Andréa dos Santos",
+      "cargo": "Presidente, Federação Nacional dos Arquitetos e Urbanistas (FNA)",
+      "opinioes": [
+        "Ressaltou a importância de cidades inclusivas e acessíveis para a população idosa.",
+        "Mencionou a necessidade de adaptar as cidades para as mudanças demográficas e o aumento da população idosa.",
+        "Destacou a importância de políticas integradas de saúde, mobilidade e acessibilidade.",
+        "Enfatizou a necessidade de regulamentação que garanta acessibilidade em novas construções e no mercado imobiliário."
+      ]
+    },
+    {
+      "nome": "Vladimir Milton Pomar",
+      "cargo": "Geógrafo e Mestre em Estado, Governo e Políticas Públicas",
+      "opinioes": [
+        "Alertou para a iminência de uma crise populacional no Brasil, especialmente no Sul do país.",
+        "Destacou a necessidade de planejamento a longo prazo para lidar com o aumento da população idosa.",
+        "Enfatizou a importância de políticas públicas para pessoas idosas, especialmente aquelas de baixa renda e sem acesso à Previdência.",
+        "Mencionou a necessidade de formação de cuidadores para a crescente população idosa."
+      ]
+    },
+    {
+      "nome": "Izabel Guimarães Marri",
+      "cargo": "Gerente de Estudos e Análises da Dinâmica Demográfica, Coordenação de População e Indicadores Sociais, IBGE",
+      "opinioes": [
+        "Explicou o conceito de transição demográfica e como ela se deu no Brasil.",
+        "Destacou a redução da mortalidade infantil e o aumento da expectativa de vida como fatores chave da transição demográfica.",
+        "Enfatizou a diferença de expectativa de vida entre homens e mulheres e as causas de mortalidade diferenciadas.",
+        "Salientou a importância de considerar essas diferenças no planejamento de políticas para a população idosa."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos da Pessoa Idosa debateu o planejamento do Estado brasileiro frente às mudanças demográficas. O Deputado Alexandre Lindenmeyer destacou a importância do tema e os desafios futuros. Alexandre da Silva, Secretário Nacional dos Direitos da Pessoa Idosa, abordou a necessidade de políticas públicas eficazes para garantir longevidade com qualidade de vida, enquanto Danyel Iório de Lima, do Ministério do Planejamento, detalhou o Plano Plurianual e suas implicações para a população idosa. Matheus Guerra Cotta e Andréa dos Santos, da Federação Nacional dos Arquitetos e Urbanistas, enfatizaram a importância de cidades inclusivas e acessíveis. Vladimir Milton Pomar alertou para uma iminente crise populacional no Sul do Brasil, e Izabel Guimarães Marri, do IBGE, forneceu dados sobre a transição demográfica no país. O debate destacou a necessidade de planejamento integrado e políticas específicas para lidar com o envelhecimento populacional."
+}

@@ -1,0 +1,64 @@
+{
+  "assunto": "Importância da formação superior para o exercício do jornalismo",
+  "envolvidos": [
+    {
+      "nome": "Amaro Neto",
+      "cargo": "Deputado Federal, Presidente da Comissão de Comunicação",
+      "opinioes": [
+        "Defende a obrigatoriedade do diploma de jornalismo para garantir um exercício ético, responsável e profissional da profissão.",
+        "Acredita que a graduação em Jornalismo demonstra uma formação específica e dedicada, garantindo o conhecimento técnico e teórico necessário para a prática jornalística.",
+        "Argumenta que o diploma confere credibilidade e confiança tanto para veículos de comunicação quanto para o público.",
+        "Considera o diploma um instrumento fundamental para a valorização da profissão e a inserção mais segura e justa no mercado de trabalho."
+      ]
+    },
+    {
+      "nome": "Marluce Zacariotti",
+      "cargo": "Presidente da Associação Brasileira de Ensino de Jornalismo (ABEJ)",
+      "opinioes": [
+        "Defende que a formação prévia é essencial para o exercício profissional do jornalismo.",
+        "Critica a desregulamentação da profissão que, segundo ela, descredibiliza o jornalismo.",
+        "Apoia a PEC do Diploma como um meio de garantir a qualidade e a credibilidade da profissão.",
+        "Afirma que a pandemia de COVID-19 mostrou a importância da informação profissionalmente orientada."
+      ]
+    },
+    {
+      "nome": "Daniel Trzeciak",
+      "cargo": "Deputado Federal (PSDB-RS), Jornalista",
+      "opinioes": [
+        "Critica a decisão do STF de 2009 que dispensou a obrigatoriedade do diploma para jornalistas.",
+        "Argumenta que todas as profissões regulamentadas precisam da valorização do diploma.",
+        "Defende que a ausência de diploma prejudica a credibilidade do jornalismo em tempos de fake news.",
+        "Relata a queda na procura por cursos de jornalismo como um impacto direto da desregulamentação."
+      ]
+    },
+    {
+      "nome": "Samira de Castro Cunha",
+      "cargo": "Presidente da Federação Nacional dos Jornalistas (FENAJ)",
+      "opinioes": [
+        "Defende a valorização do jornalismo profissional como antídoto à desinformação e às fake news.",
+        "Ressalta a necessidade urgente de retomar a exigência do diploma para qualificar o jornalismo.",
+        "Argumenta que a queda do diploma enfraqueceu o jornalismo e abriu caminho para conteúdos duvidosos.",
+        "Afirma que a PEC 206/12 é essencial para corrigir o erro cometido pelo STF em 2009."
+      ]
+    },
+    {
+      "nome": "Armando Sobral Rollemberg",
+      "cargo": "Diretor da Associação Brasileira de Imprensa (ABI)",
+      "opinioes": [
+        "Considera a retirada da exigência do diploma um retrocesso para a profissão.",
+        "Defende a criação do Conselho Federal de Jornalismo como uma alternativa caso a PEC não seja aprovada.",
+        "Acredita que o controle e a regulamentação do jornalismo são essenciais para combater a desinformação."
+      ]
+    },
+    {
+      "nome": "Samuel Pantoja Lima",
+      "cargo": "Presidente da Associação Brasileira de Pesquisadores em Jornalismo (SBPJOR)",
+      "opinioes": [
+        "Cita pesquisas que mostram o impacto da desinformação na sociedade e a importância de um jornalismo qualificado.",
+        "Defende que o diploma é essencial para assegurar a qualidade e a ética no jornalismo.",
+        "Critica a decisão do STF e apoia a mobilização pela aprovação da PEC do Diploma."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Comunicação da Câmara dos Deputados discutiu a importância da formação superior para o exercício do jornalismo. Presidida pelo Deputado Amaro Neto, o evento contou com a participação de diversos especialistas e representantes do setor, que defenderam a obrigatoriedade do diploma de jornalismo como forma de garantir a qualidade, a ética e a credibilidade da profissão. Entre os principais argumentos apresentados, destacaram-se a valorização do diploma como diferencial no mercado de trabalho, a necessidade de combater a desinformação e as fake news, e a defesa da regulamentação profissional para fortalecer o jornalismo no Brasil. A PEC 206/12, que restabelece a exigência do diploma, foi amplamente apoiada pelos participantes como uma medida urgente e necessária para corrigir a desregulamentação imposta pelo STF em 2009."
+}

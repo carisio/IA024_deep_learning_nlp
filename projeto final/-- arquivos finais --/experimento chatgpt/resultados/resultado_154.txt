@@ -1,0 +1,68 @@
+{
+  "assunto": "Debate sobre políticas públicas de atenção à saúde da mulher no climatério e na menopausa",
+  "envolvidos": [
+    {
+      "nome": "Lêda Borges",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Agradeceu a presença dos participantes e reafirmou o compromisso do Parlamento em avançar nas legislações específicas.",
+        "Comentou sobre a importância da reposição hormonal e o uso de fitoterápicos.",
+        "Ressaltou a importância de políticas públicas específicas para o envelhecimento da população brasileira.",
+        "Mencionou a necessidade de debate sobre a saúde da mulher no climatério e na menopausa.",
+        "Parabenizou os participantes e reafirmou o compromisso com o projeto de lei em tramitação."
+      ]
+    },
+    {
+      "nome": "Adriana Ferreira",
+      "cargo": "Fundadora da Associação Menopausa Feliz",
+      "opinioes": [
+        "Enfatizou a necessidade de tratamento, prevenção e acompanhamento para mulheres na menopausa.",
+        "Destacou a importância da equidade de gênero nas políticas públicas.",
+        "Discutiu o impacto do lipedema e a carga tributária sobre medicamentos hormonais.",
+        "Mencionou a discriminação etária e a exclusão das mulheres acima de 50 anos do mercado de trabalho.",
+        "Agradeceu a participação e o apoio das parlamentares e representantes do Ministério da Saúde."
+      ]
+    },
+    {
+      "nome": "Dr. Jaime Kulak Junior",
+      "cargo": "Secretário Adjunto da Associação Brasileira de Climatério e membro da Comissão Nacional Especializada em Climatério da FEBRASGO",
+      "opinioes": [
+        "Agradeceu o convite e destacou a complexidade do tratamento da mulher climatérica.",
+        "Discutiu a deficiência estrogênica e a necessidade de investigação e tratamento adequados.",
+        "Criticou a falta de medicamentos recomendados pelo SUS para reposição hormonal.",
+        "Solidarizou-se com as famílias dos colegas assassinados no Rio de Janeiro e comentou sobre a violência no país."
+      ]
+    },
+    {
+      "nome": "Dra. Ana Priscila Soggia",
+      "cargo": "Endocrinologista, especialista em saúde feminina, climatério e menopausa",
+      "opinioes": [
+        "Ressaltou a importância do diagnóstico e tratamento da menopausa para a saúde pública.",
+        "Discutiu a necessidade de simplificação do processo e treinamento médico.",
+        "Defendeu mais pesquisas voltadas para a população brasileira.",
+        "Enfatizou a importância do acesso a medicações e a capacitação de médicos de família."
+      ]
+    },
+    {
+      "nome": "Dra. Sonia Umbelino Mendes",
+      "cargo": "Especialista em clínica médica",
+      "opinioes": [
+        "Discutiu a ação dos fitoterápicos e a importância da terapia de reposição hormonal.",
+        "Ressaltou a necessidade de atualização dos estudos científicos sobre menopausa.",
+        "Enfatizou a importância do Manual de Atendimento à Mulher no Climatério e Menopausa.",
+        "Agradeceu a participação e se colocou à disposição para futuras discussões."
+      ]
+    },
+    {
+      "nome": "Dra. Pérola Grinberg Plapler",
+      "cargo": "Diretora da Divisão de Medicina Física do Instituto de Ortopedia e Traumatologia do Hospital das Clínicas da USP",
+      "opinioes": [
+        "Agradeceu a oportunidade de participar e destacou a importância de políticas públicas para a menopausa.",
+        "Comentou sobre a importância das medicações do SUS para osteoporose.",
+        "Ressaltou a necessidade de apoio e informação para mulheres na menopausa.",
+        "Discutiu o impacto da menopausa na qualidade de vida e na saúde das mulheres."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a importância de políticas públicas voltadas para a saúde da mulher no climatério e na menopausa. A Deputada Lêda Borges destacou a necessidade de avançar nas legislações específicas e a importância da reposição hormonal. Adriana Ferreira, fundadora da Associação Menopausa Feliz, enfatizou a necessidade de tratamento e prevenção, além de discutir a discriminação etária e a exclusão das mulheres acima de 50 anos do mercado de trabalho. O Dr. Jaime Kulak Junior destacou a complexidade do tratamento da mulher climatérica e criticou a falta de medicamentos recomendados pelo SUS. A Dra. Ana Priscila Soggia defendeu mais pesquisas e capacitação de médicos de família para tratar a menopausa. A Dra. Sonia Umbelino Mendes discutiu a importância da terapia de reposição hormonal e a necessidade de atualização dos estudos científicos. A Dra. Pérola Grinberg Plapler ressaltou a importância das medicações do SUS para osteoporose e a necessidade de apoio para mulheres na menopausa."
+}

@@ -1,0 +1,47 @@
+{
+  "assunto": "Os impactos da dependência tecnológica na sociedade, com foco específico na nomofobia.",
+  "envolvidos": [
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Deputado Federal, Bloco/SOLIDARIEDADE - RJ",
+      "opinioes": [
+        "A audiência pública é realizada para discutir os impactos da dependência tecnológica na sociedade.",
+        "Ressalta a importância de debates como esse para a sociedade.",
+        "Menciona a novela 'Travessia', que trouxe à tona o tema da nomofobia.",
+        "Apresenta um projeto de lei para criar centros de atenção a usuários compulsivos de serviços de Internet e redes sociais."
+      ]
+    },
+    {
+      "nome": "Aline Paz",
+      "cargo": "Psicóloga clínica e terapeuta cognitivo-comportamental",
+      "opinioes": [
+        "Destaca a importância de debates sobre a nomofobia e a dependência tecnológica.",
+        "Define nomofobia como o medo de ficar sem contato com o celular, Internet ou computador.",
+        "Aponta que a nomofobia pode ser um sinal de transtornos primários como transtorno de pânico, fobia social e transtorno obsessivo-compulsivo.",
+        "Defende a necessidade de políticas públicas para sensibilização e conscientização sobre os efeitos nocivos da dependência tecnológica.",
+        "Sugere tratamento com medicação e terapia cognitivo-comportamental para casos de nomofobia."
+      ]
+    },
+    {
+      "nome": "Cristiano Nabuco",
+      "cargo": "Coordenador do Grupo de Dependência Tecnológica do Hospital das Clínicas da Universidade de São Paulo",
+      "opinioes": [
+        "Afirma que a dependência tecnológica é comparável a uma epidemia silenciosa.",
+        "Relata que o Brasil é um dos países que mais acessa tecnologia no mundo, com 10 horas e 19 minutos diários por usuário.",
+        "Destaca os efeitos colaterais da dependência tecnológica na saúde física e mental, incluindo perda de memória, problemas de postura e aumento de casos de TDAH em crianças.",
+        "Chama a atenção para a necessidade de criar um grupo de trabalho e desenvolver programas de orientação sobre a dependência tecnológica.",
+        "Sugere a criação de um 'dia do detox digital' no Brasil.",
+        "Menciona a importância de campanhas de conscientização e a implementação de notificações compulsórias para dependência tecnológica."
+      ]
+    },
+    {
+      "nome": "Paulo Fernando",
+      "cargo": "Deputado Federal, Bloco/REPUBLICANOS - DF",
+      "opinioes": [
+        "Parabeniza a iniciativa da audiência pública e a criação da Frente Parlamentar Mista do Uso Saudável das Tecnologias Digitais.",
+        "Expressa preocupação com a dependência tecnológica em crianças e os efeitos na saúde neonatal."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Cultura da Câmara dos Deputados discutiu os impactos da dependência tecnológica na sociedade, com foco na nomofobia. O Deputado Aureo Ribeiro destacou a importância do debate e mencionou seu projeto de lei para criar centros de atenção a usuários compulsivos de Internet. A psicóloga Aline Paz explicou a nomofobia e sugeriu tratamentos com medicação e terapia cognitivo-comportamental. Cristiano Nabuco, do Hospital das Clínicas da USP, comparou a dependência tecnológica a uma epidemia e sugeriu a criação de um grupo de trabalho e campanhas de conscientização. O Deputado Paulo Fernando ressaltou a importância da Frente Parlamentar Mista do Uso Saudável das Tecnologias Digitais e a preocupação com a dependência em crianças."
+}

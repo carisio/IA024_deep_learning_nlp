@@ -1,0 +1,87 @@
+{
+  "assunto": "Situação dos refugiados no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Luizianne Lins",
+      "cargo": "Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "opinioes": [
+        "Ressaltou a importância do debate sobre a situação dos refugiados no Brasil, mencionando a necessidade de uma força-tarefa intersetorial para atendimento rápido em portos e aeroportos."
+      ]
+    },
+    {
+      "nome": "Bianca Abrahami Pinto da Cunha",
+      "cargo": "Oficial de Mobilização Comunitária e Voluntária no Instituto Migrações e Direitos Humanos",
+      "opinioes": [
+        "Destacou a importância da Lei nº 9.474, de 1997, que implementa o Estatuto dos Refugiados no Brasil.",
+        "Afirmou que a integração dos refugiados na sociedade brasileira deve ser objeto de políticas públicas para evitar que fiquem à margem da sociedade.",
+        "Sublinhou a necessidade de avançar em políticas públicas para crianças, adolescentes e jovens migrantes refugiados.",
+        "Citou a importância de projetos de lei que facilitem a integração, como o PL 5.182, de 2020, e o PL 2.482, de 2020."
+      ]
+    },
+    {
+      "nome": "Marina Rongo",
+      "cargo": "Representante da Conectas Direitos Humanos",
+      "opinioes": [
+        "Elogiou as iniciativas pioneiras do Comitê Nacional para Refugiados e a criação da Política Nacional de Migrações, Refúgio e Apatridia.",
+        "Ressaltou a importância de medidas simplificadas de reconhecimento de refúgio para pessoas LGBTQIA+ e vítimas de mutilação genital feminina.",
+        "Alertou sobre a necessidade de mais orçamento e descentralização de escritórios do CONARE.",
+        "Sugeriu a revogação da Portaria 678, de 2022, que impõe medidas excepcionais para a entrada no Brasil.",
+        "Destacou a necessidade de aprimorar a implementação de políticas de integração local para refugiados."
+      ]
+    },
+    {
+      "nome": "Oscar Sánchez",
+      "cargo": "Representante adjunto no Brasil da ACNUR",
+      "opinioes": [
+        "Ressaltou os desafios do refúgio globalmente e no Brasil, mencionando as mais de 110 milhões de pessoas deslocadas forçadamente.",
+        "Elogiou o compromisso do Estado brasileiro com a proteção e integração dos refugiados.",
+        "Destacou a política de vistos humanitários do Brasil e a necessidade de ampliar políticas de integração.",
+        "Criticou a Portaria Interministerial nº 678, de 2022, e sugeriu sua revisão."
+      ]
+    },
+    {
+      "nome": "Lutiana Valadares Fernandes Barbosa",
+      "cargo": "Coordenadora Nacional do Grupo de Trabalho Migração, Apatridia e Refúgio da Defensoria Pública da União",
+      "opinioes": [
+        "Criticou as portarias ministeriais durante a pandemia que criaram obstáculos à migração e sugeriu sua revogação.",
+        "Apontou a necessidade de reconhecimento da situação de grave violação de direitos humanos no Haiti.",
+        "Destacou a importância da revalidação de diplomas e da educação em direitos humanos para a integração dos refugiados.",
+        "Ressaltou as dificuldades enfrentadas por crianças migrantes e solicitantes de refúgio indocumentadas."
+      ]
+    },
+    {
+      "nome": "Fernanda Rosas",
+      "cargo": "Chefe da Assessoria de Participação Social e Diversidade do Ministério dos Portos e Aeroportos",
+      "opinioes": [
+        "Enfatizou a falta de planejamento estrutural para o acolhimento de refugiados em portos e aeroportos.",
+        "Relatou a realidade enfrentada por refugiados afegãos no Aeroporto de Guarulhos.",
+        "Sublinhou a necessidade de uma política nacional de acolhimento."
+      ]
+    },
+    {
+      "nome": "Alex André Vargem",
+      "cargo": "Diretor de Promoção dos Direitos Humanos do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Destacou a importância da promoção dos direitos humanos e da sensibilização em políticas de migração.",
+        "Apontou a necessidade de participação dos migrantes e refugiados nos colegiados e a educação em direitos humanos."
+      ]
+    },
+    {
+      "nome": "Tomás Alejandro Guzmán",
+      "cargo": "Representante da Casa Venezuela",
+      "opinioes": [
+        "Ressaltou a resposta humanitária do Brasil à crise migratória venezuelana.",
+        "Destacou a importância da Operação Acolhida na documentação e integração dos venezuelanos."
+      ]
+    },
+    {
+      "nome": "Luiz Guilherme Gonçalves",
+      "cargo": "Representante da AVSI Brasil",
+      "opinioes": [
+        "Elogiou o trabalho da Operação Acolhida e destacou a importância do acolhimento humanitário.",
+        "Sugeriu maior apoio e conhecimento sobre o trabalho de campo em abrigos de refugiados."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Direitos Humanos, Minorias e Igualdade Racial discutiu a situação dos refugiados no Brasil, destacando a importância de políticas públicas para a integração e acolhimento dos refugiados, a necessidade de revogar portarias restritivas e criar uma política nacional de acolhimento. Os participantes enfatizaram a urgência de melhorar a revalidação de diplomas, a educação em direitos humanos e o apoio específico para crianças e populações indígenas refugiadas. A Operação Acolhida foi elogiada como um exemplo positivo de resposta humanitária."
+}

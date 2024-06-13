@@ -1,0 +1,70 @@
+{
+  "assunto": "Engajamento do jovem eleitor no processo democrático",
+  "envolvidos": [
+    {
+      "nome": "Lídice da Mata",
+      "cargo": "Deputada Federal, PSB - BA",
+      "opinioes": [
+        "Defendeu a importância da integração do jovem ao processo político a partir dos 16 anos.",
+        "Ressaltou a necessidade de promover a formação cidadã desde a educação básica.",
+        "Destacou os desafios da manipulação das redes sociais e a necessidade de combate às fake news."
+      ]
+    },
+    {
+      "nome": "Maria Claudia Bucchianeri Pinheiro",
+      "cargo": "Ministra Substituta do Tribunal Superior Eleitoral",
+      "opinioes": [
+        "O TSE foca na participação, engajamento, senso crítico, formação de novas lideranças e renovação política da juventude.",
+        "Desenvolveu o projeto Eleitor do Futuro para engajar crianças e jovens em diferentes níveis de ensino.",
+        "Enfatizou a importância da inclusão e diversidade, aumentando a participação feminina e de grupos minorizados na política.",
+        "Ressaltou a importância do uso de mídias sociais para aproximar a Justiça Eleitoral dos jovens, resultando em um aumento significativo no alistamento de eleitores jovens."
+      ]
+    },
+    {
+      "nome": "Lucas Fernandes Hoogerbrugge",
+      "cargo": "Líder de Relações Governamentais do Movimento Todos pela Educação",
+      "opinioes": [
+        "A educação é fundamental para a melhoria da qualidade da democracia.",
+        "Vinculou a melhora da educação com a redução de comportamentos de risco e a melhora de indicadores de saúde, criminalidade e desenvolvimento econômico.",
+        "Destacou a necessidade de um debate plural e crítico dentro das escolas para formar eleitores conscientes."
+      ]
+    },
+    {
+      "nome": "José Ricardo Moreno Pinho",
+      "cargo": "Secretário de Articulação Interinstitucional da Reitoria da Universidade Estadual da Bahia (UNEB)",
+      "opinioes": [
+        "Ressaltou a importância do engajamento histórico da juventude na política, citando exemplos de líderes políticos que iniciaram suas carreiras jovens.",
+        "Defendeu a inclusão de disciplinas como sociologia e filosofia na grade curricular para formação cidadã.",
+        "Afirmou que a universidade se coloca ao lado da campanha de ampliação da participação da juventude no processo eleitoral."
+      ]
+    },
+    {
+      "nome": "Carlos Eduardo Miguel Sobral",
+      "cargo": "Superintendente Regional da Polícia Federal no Ceará",
+      "opinioes": [
+        "Enfatizou a importância de combater as fake news e a desinformação para proteger o processo democrático.",
+        "Defendeu a necessidade de manter o debate democrático acalorado, mas respeitoso, sem tolerância para com a intolerância e o ódio.",
+        "Destacou que a presença de desinformação nas redes sociais é uma ameaça à participação democrática dos jovens."
+      ]
+    },
+    {
+      "nome": "Thaís Falone Bernardes",
+      "cargo": "Representante da União Nacional dos Estudantes (UNE)",
+      "opinioes": [
+        "Ressaltou a importância histórica do voto aos 16 anos, uma conquista das entidades estudantis.",
+        "Defendeu que a juventude está mobilizada para participar das eleições de 2022 para transformar o futuro da educação e do país.",
+        "Criticou fortemente o governo Bolsonaro e defendeu a remoção dele do poder como uma das principais motivações da campanha de mobilização jovem."
+      ]
+    },
+    {
+      "nome": "Yaminah Nala",
+      "cargo": "Primeira travesti a assumir a Pasta LGBTQIAP+ na União Brasileira de Estudantes Secundaristas (UBES)",
+      "opinioes": [
+        "Destacou o processo de exclusão e apagamento histórico de pessoas trans e negras na sociedade.",
+        "Defendeu a necessidade de empoderar jovens de diferentes identidades para reescrever uma nova proposta de país.",
+        "Criticou a falta de representação adequada de mulheres, negros e pessoas LGBTQIAP+ em posições de poder."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Educação debateu o engajamento do jovem eleitor no processo democrático. Presidida pela Deputada Lídice da Mata, o evento contou com a participação de figuras como a Ministra Substituta do TSE, Maria Claudia Bucchianeri, que destacou os projetos de engajamento cívico do TSE, e Lucas Hoogerbrugge, do Movimento Todos pela Educação, que vinculou a educação de qualidade à democracia sólida. José Ricardo Moreno Pinho, da UNEB, defendeu a importância histórica do engajamento juvenil, enquanto Carlos Eduardo Miguel Sobral, da Polícia Federal, enfatizou o combate às fake news. Representantes estudantis, como Thaís Falone Bernardes da UNE, defenderam a mobilização jovem contra o governo atual, e Yaminah Nala da UBES destacou a necessidade de inclusão e empoderamento de jovens marginalizados. A audiência ressaltou a importância do respeito, do debate democrático e da formação cidadã desde a educação básica."
+}

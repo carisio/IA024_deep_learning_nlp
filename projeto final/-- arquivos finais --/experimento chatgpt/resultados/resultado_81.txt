@@ -1,0 +1,60 @@
+{
+  "assunto": "Instabilidade no fornecimento de fertilizantes estrangeiros",
+  "envolvidos": [
+    {
+      "nome": "Bosco Costa",
+      "cargo": "Deputado Federal, PL-SE",
+      "opinioes": [
+        "A guerra prejudicou o fornecimento de fertilizantes da Rússia, afetando a agricultura no Brasil.",
+        "Os preços dos insumos triplicaram nos últimos dois anos."
+      ]
+    },
+    {
+      "nome": "Luis Eduardo Pacifici Rangel",
+      "cargo": "Diretor de Programa do Ministério da Agricultura, Pecuária e Abastecimento (MAPA)",
+      "opinioes": [
+        "A pandemia e os conflitos geopolíticos no leste europeu impactaram negativamente o fornecimento de insumos agrícolas.",
+        "A diplomacia dos fertilizantes foi crucial para manter o abastecimento durante a crise.",
+        "Apesar do aumento do volume de importação de fertilizantes, os preços dispararam, elevando o custo de produção agrícola.",
+        "Acredita que os preços dos insumos tendem a se estabilizar ao longo do tempo."
+      ]
+    },
+    {
+      "nome": "Ricardo Eudes Parahyba",
+      "cargo": "Superintendente de Pesquisas e Recursos Materiais da Agência Nacional de Mineração (ANM)",
+      "opinioes": [
+        "A produção nacional de potássio é insuficiente, com 97% sendo importado.",
+        "Há uma necessidade de políticas públicas perenes para incentivar a pesquisa e produção nacional de potássio."
+      ]
+    },
+    {
+      "nome": "Reginaldo Lopes Minaré",
+      "cargo": "Diretor Técnico Adjunto da Confederação da Agricultura e Pecuária do Brasil (CNA)",
+      "opinioes": [
+        "A dependência do Brasil em importação de fertilizantes é muito grande, especialmente da Rússia.",
+        "A diplomacia brasileira foi eficiente em manter o fornecimento de fertilizantes apesar do conflito na Rússia.",
+        "A oscilação dos preços dos fertilizantes é influenciada pelos conflitos internacionais e pela demanda global.",
+        "Há necessidade de melhorar a infraestrutura de pesquisa para mapear o território nacional em busca de insumos."
+      ]
+    },
+    {
+      "nome": "Vinicius de Melo Benites",
+      "cargo": "Presidente do Comitê Gestor do Portfólio Nutrientes para a Agricultura da Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA)",
+      "opinioes": [
+        "O Brasil sempre dependerá da importação de fertilizantes devido à sua geologia.",
+        "Há necessidade de um plano de longo prazo para garantir o fornecimento de insumos.",
+        "A EMBRAPA tem iniciativas para otimizar o uso de fertilizantes através de boas práticas agrícolas e uso de resíduos orgânicos."
+      ]
+    },
+    {
+      "nome": "Amália Borsari",
+      "cargo": "Diretora Executiva de Biológicos da CropLife Brasil",
+      "opinioes": [
+        "Os produtos biológicos podem melhorar a eficiência dos fertilizantes e reduzir sua dose necessária.",
+        "A produção de bioinsumos é essencial para a competitividade agrícola brasileira.",
+        "Há necessidade de segurança jurídica para fomentar a pesquisa e o desenvolvimento no setor de bioinsumos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a instabilidade no fornecimento de fertilizantes estrangeiros, destacando a dependência do Brasil da importação, especialmente da Rússia, e os impactos da pandemia e conflitos geopolíticos. Os participantes enfatizaram a importância da diplomacia e de um plano nacional de fertilizantes para mitigar os efeitos das crises. Além disso, sugeriram a ampliação da pesquisa e uso de bioinsumos como alternativas para reduzir a dependência externa e os custos de produção agrícola."
+}

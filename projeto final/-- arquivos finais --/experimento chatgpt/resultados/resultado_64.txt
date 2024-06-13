@@ -1,0 +1,82 @@
+{
+  "assunto": "Desafios e o potencial do turismo religioso no Estado de Santa Catarina",
+  "envolvidos": [
+    {
+      "nome": "Rodrigo Coelho",
+      "cargo": "Deputado e Presidente da Comissão de Turismo",
+      "opinioes": [
+        "O turismo religioso movimenta cerca de 15 bilhões de reais por ano no Brasil.",
+        "Santa Catarina foi o quarto Estado que mais faturou em viagens ligadas ao turismo religioso em 2021, com mais de 834 milhões de reais.",
+        "O turismo religioso envolve destinos como Nova Trento, Brusque, Joaçaba, Camboriú, entre outros.",
+        "Destacou a importância de investimentos em infraestrutura turística, como pavimentação e sinalização."
+      ]
+    },
+    {
+      "nome": "Fabio Pinheiro",
+      "cargo": "Secretário Nacional de Desenvolvimento e Competitividade do Turismo",
+      "opinioes": [
+        "O turismo religioso é um forte indutor de renda para os municípios.",
+        "É importante mostrar ao turista as intervenções que acontecem no interior dos estados.",
+        "Há necessidade de promoção do turismo religioso através de campanhas publicitárias."
+      ]
+    },
+    {
+      "nome": "Gervásio Maciel",
+      "cargo": "Prefeito de Ituporanga",
+      "opinioes": [
+        "Destacou o investimento de 15 milhões de reais no Santuário Nossa Senhora de Lourdes e do Louvor.",
+        "A obra inclui uma cruz de 50 metros com elevador e o maior terço do mundo, pendurado a 40 metros de altura.",
+        "A infraestrutura turística é crucial para o desenvolvimento do turismo religioso na região."
+      ]
+    },
+    {
+      "nome": "Alexandre Márcio de Souza",
+      "cargo": "Representante dos Gideões Missionários da Última Hora",
+      "opinioes": [
+        "O Congresso dos Gideões movimenta a economia de Camboriú, arrecadando 500 mil reais diretamente para o cofre municipal.",
+        "O evento atrai turistas que também visitam outros locais turísticos como o Beto Carrero."
+      ]
+    },
+    {
+      "nome": "Thayse Tristão Rosa de Souza",
+      "cargo": "Representante dos Gideões Missionários da Última Hora",
+      "opinioes": [
+        "O turismo religioso contribui significativamente para o desenvolvimento econômico, social e regional.",
+        "Há necessidade de diferenciar eventos religiosos de eventos comerciais para fins de cobrança de direitos autorais."
+      ]
+    },
+    {
+      "nome": "Ariane Nakamura",
+      "cargo": "Representante da SANTUR",
+      "opinioes": [
+        "Santa Catarina reconhece a importância do turismo religioso para a economia.",
+        "Proposta de inclusão do turismo religioso como um segmento no CADASTUR para melhor retratar os dados do setor."
+      ]
+    },
+    {
+      "nome": "Zenilda Cunha",
+      "cargo": "Secretária de Turismo de Aparecida",
+      "opinioes": [
+        "Aparecida é um case de sucesso em turismo religioso, atraindo visitantes durante todo o ano.",
+        "A região se beneficia economicamente com o fluxo contínuo de turistas."
+      ]
+    },
+    {
+      "nome": "Marcos Jaboski",
+      "cargo": "Representante do Santuário Santa Paulina, Nova Trento",
+      "opinioes": [
+        "O Santuário Santa Paulina é um importante destino de turismo religioso que também promove a salvação de vidas e famílias.",
+        "Necessidade de investimentos em infraestrutura como sinal telefônico e de Internet, e segurança para ciclistas."
+      ]
+    },
+    {
+      "nome": "Flávio Remigio",
+      "cargo": "Padre dos Arautos do Evangelho",
+      "opinioes": [
+        "A Igreja Nossa Senhora do Triunfo em Joinville tem o potencial de se tornar um importante destino de turismo religioso.",
+        "A arquitetura gótica da igreja atrai visitantes e oferece uma experiência espiritual única."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os desafios e o potencial do turismo religioso em Santa Catarina, destacando a importância econômica do setor e a necessidade de investimentos em infraestrutura. Os participantes, incluindo autoridades e representantes de diversas instituições religiosas, enfatizaram o papel do turismo religioso no desenvolvimento regional e apresentaram propostas para melhorar as condições para os turistas. Destinos como Ituporanga, Camboriú e Nova Trento foram citados como exemplos de locais que têm se beneficiado desse tipo de turismo, mas que ainda enfrentam desafios que precisam ser superados para maximizar seu potencial."
+}

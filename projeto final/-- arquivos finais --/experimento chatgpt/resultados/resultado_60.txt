@@ -1,0 +1,67 @@
+{
+  "assunto": "Adequação do QualiSUS Cardio para melhorar o atendimento à pessoa idosa",
+  "envolvidos": [
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Presidente da Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "opinioes": [
+        "É importante acompanhar a tecnologia e a inovação, especialmente em cirurgias minimamente invasivas para melhorar a qualidade de vida dos pacientes idosos.",
+        "A atualização da Tabela SUS é crucial para que os hospitais possam continuar a operar e oferecer tratamentos adequados.",
+        "Enfatizou a necessidade de regulação do SUS para garantir o acesso dos pacientes aos tratamentos necessários sem furar a fila.",
+        "Destacou a importância da atenção primária à saúde para orientar e informar a população idosa sobre cuidados preventivos."
+      ]
+    },
+    {
+      "nome": "Dra. Fernanda de Carvalho",
+      "cargo": "Diretora de Relações Institucionais e Internacionais do Instituto Lado a Lado Pela Vida",
+      "opinioes": [
+        "É necessário que os idosos sejam acolhidos, recebam diagnósticos rápidos e tenham acesso aos tratamentos necessários para doenças cardiovasculares.",
+        "O Instituto Lado a Lado pela Vida trabalha para mobilizar a sociedade e gestores de saúde em prol da ampliação do acesso aos serviços de saúde.",
+        "É importante engajar os profissionais de saúde para incentivar a adoção de hábitos saudáveis e uma vida ativa desde cedo.",
+        "Discutir a adequação do Programa QualiSUS Cardio é urgente devido ao crescente envelhecimento da população brasileira."
+      ]
+    },
+    {
+      "nome": "Dr. José Mangione",
+      "cargo": "Cardiologista intervencionista",
+      "opinioes": [
+        "O tratamento de pacientes idosos com novas tecnologias menos invasivas é essencial para reduzir complicações cirúrgicas.",
+        "Há um crescimento significativo da população idosa, o que torna crucial discutir as melhores formas de tratamento para essa faixa etária."
+      ]
+    },
+    {
+      "nome": "Dr. Fernando Silveira",
+      "cargo": "Presidente da Associação Brasileira da Indústria de Tecnologia para Saúde (ABIMED)",
+      "opinioes": [
+        "O envelhecimento populacional aumenta a demanda por serviços de saúde e representa um grande desafio.",
+        "A ABIMED contribui para as conversações sobre novas formas de remuneração em saúde, visando a qualidade e a sustentabilidade do sistema.",
+        "O modelo QualiSUS Cardio precisa de aperfeiçoamentos para melhor atender a população idosa."
+      ]
+    },
+    {
+      "nome": "Dra. Maíra Batista Botelho",
+      "cargo": "Secretária de Atenção Especializada à Saúde do Ministério da Saúde",
+      "opinioes": [
+        "É importante entender o cuidado longitudinal e integrado com a atenção primária, focando na prevenção e promoção da saúde.",
+        "A Tabela SUS precisa de ajustes para refletir melhor os custos reais e permitir a compra de dispositivos médicos de qualidade."
+      ]
+    },
+    {
+      "nome": "Dr. Alexandre Kalache",
+      "cargo": "Gerontólogo e Presidente do Centro Internacional de Longevidade Brasil",
+      "opinioes": [
+        "As doenças cardiovasculares são a principal causa de morte no Brasil e tendem a aumentar com o envelhecimento da população.",
+        "A sociedade civil deve manter a vigilância para que a velhice não seja categorizada como doença."
+      ]
+    },
+    {
+      "nome": "Dr. João Fernando Monteiro Ferreira",
+      "cargo": "Presidente do Conselho Administrativo da Sociedade Brasileira de Cardiologia",
+      "opinioes": [
+        "As doenças cardiovasculares são a principal causa de morte entre os idosos, e é fundamental promover um envelhecimento saudável.",
+        "Devemos manter a prevenção cardiovascular em todas as fases da vida, incluindo a terceira idade."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a adequação do Programa QualiSUS Cardio para melhorar o atendimento aos idosos, enfatizando a necessidade de atualização da Tabela SUS, a incorporação de novas tecnologias menos invasivas, e a importância da prevenção e promoção da saúde. Dr. Zacharias Calil destacou a importância da regulação e atenção primária no SUS. Dra. Fernanda de Carvalho e Dr. José Mangione enfatizaram a urgência de melhorar o diagnóstico e tratamento das doenças cardiovasculares na população idosa. Dr. Fernando Silveira e Dra. Maíra Batista Botelho abordaram a necessidade de ajustes no financiamento e na remuneração dos serviços de saúde. Dr. Alexandre Kalache e Dr. João Fernando Monteiro Ferreira ressaltaram a importância da prevenção desde a juventude e a manutenção de cuidados preventivos na terceira idade."
+}

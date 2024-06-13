@@ -1,0 +1,49 @@
+{
+  "assunto": "Ativismo judicial e a legitimidade democrática",
+  "envolvidos": [
+    {
+      "nome": "Rui Falcão",
+      "cargo": "Presidente da Comissão de Constituição e Justiça e de Cidadania (CCJC)",
+      "opinioes": ["Abertura do seminário enfatizando a importância do tema 'Ativismo judicial e a legitimidade democrática'."]
+    },
+    {
+      "nome": "Rodrigo Saraiva",
+      "cargo": "Diretor-Executivo do Instituto Livre Mercado e Secretário da Frente Parlamentar pelo Livre Mercado",
+      "opinioes": [
+        "Criticou o Supremo Tribunal Federal (STF) por ir além dos limites constitucionais e legais.",
+        "Mencionou várias decisões do STF, como a descriminalização do aborto até o terceiro mês e a proibição de operações policiais em favelas durante a pandemia, argumentando que essas decisões configuram ativismo judicial.",
+        "Afirmou que algumas decisões do STF vão contra a lei e a Constituição, excedendo o ativismo judicial e se tornando abuso de poder.",
+        "Criticou o inquérito das fake news, alegando censura e prisão arbitrária de opositores políticos."
+      ]
+    },
+    {
+      "nome": "Sebastião Coelho",
+      "cargo": "Desembargador aposentado do Tribunal de Justiça do Distrito Federal",
+      "opinioes": [
+        "Argumentou que a intromissão do STF nas competências dos outros Poderes é indevida e viola a legitimidade democrática.",
+        "Citou casos de interferência do STF em nomeações do Executivo, como as de Lula e Cristiane Brasil, como exemplos de ativismo judicial.",
+        "Afirmou que a Suprema Corte está atuando como um partido político, o que considera inapropriado.",
+        "Criticou a relação de proximidade entre Ministros do STF e parlamentares, alegando que isso compromete a independência dos Poderes."
+      ]
+    },
+    {
+      "nome": "Pedro Estevam",
+      "cargo": "Advogado e Professor de Direito",
+      "opinioes": [
+        "Defendeu que a rigidez das constituições é uma resposta ao autoritarismo e que a constituição democrática deve incluir mecanismos de defesa contra extremismos.",
+        "Afirmou que o STF deve ser o guardião da Constituição e da democracia, e que o controle de constitucionalidade é fundamental para proteger os direitos.",
+        "Criticou o uso ideológico do direito e enfatizou a necessidade de críticas construtivas e técnicas ao Judiciário."
+      ]
+    },
+    {
+      "nome": "Eduardo Lycurgo",
+      "cargo": "Advogado, Presidente do Instituto dos Advogados do Distrito Federal",
+      "opinioes": [
+        "Defendeu que o ativismo judicial não é inerentemente negativo e pode ser necessário para lidar com pressões socioculturais e mudanças tecnológicas.",
+        "Argumentou que um certo grau de ativismo judicial é necessário para adaptar as normas às novas realidades sociais e tecnológicas.",
+        "Afirmou que a discussão sobre o ativismo judicial deve focar em encontrar um equilíbrio, em vez de simplesmente criticar as decisões judiciais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada na Comissão de Constituição e Justiça e de Cidadania discutiu o ativismo judicial e a legitimidade democrática. Os participantes, incluindo o Presidente da CCJC, Rui Falcão, e os palestrantes Rodrigo Saraiva, Sebastião Coelho, Pedro Estevam e Eduardo Lycurgo, apresentaram opiniões divergentes sobre o papel do Supremo Tribunal Federal (STF) e suas decisões recentes. Enquanto alguns criticaram o STF por abusar de seu poder e interferir nas competências dos outros Poderes, outros defenderam a necessidade de um certo grau de ativismo judicial para adaptar as leis às novas realidades sociais e tecnológicas. A discussão destacou a importância de encontrar um equilíbrio entre a independência judicial e o respeito à separação dos Poderes."
+}

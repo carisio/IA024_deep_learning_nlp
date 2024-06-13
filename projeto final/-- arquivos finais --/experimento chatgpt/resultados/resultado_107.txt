@@ -1,0 +1,54 @@
+{
+  "assunto": "Debate sobre melhorias na Defesa Civil e o Novo Plano Nacional de Proteção e Defesa Civil",
+  "envolvidos": [
+    {
+      "nome": "Gilson Daniel",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Destacou a importância de incluir observações sobre a chegada de recursos em um prazo determinado na legislação futura.",
+        "Reconheceu a necessidade de autorizações legislativas para ações humanitárias entre Estados e Municípios durante recessos das Câmaras e Assembleias.",
+        "Apontou a falta de previsões orçamentárias para pronta resposta e prevenção, destacando a dependência de medidas provisórias.",
+        "Prometeu melhorias na organização e convite para participação de todos os coordenadores estaduais nas próximas audiências."
+      ]
+    },
+    {
+      "nome": "Henguel Ricardo Pereira",
+      "cargo": "Coordenador de Defesa Civil de São Paulo",
+      "opinioes": [
+        "Sugeriu que parte dos recursos não executados alimentem o fundo de defesa civil.",
+        "Defendeu a desburocratização do processo para que os recursos cheguem rapidamente aos municípios.",
+        "Propôs a inclusão de recursos do PAC para obras estruturais de prevenção.",
+        "Criticou a utilização política dos recursos, sugerindo gestão baseada em necessidades reais."
+      ]
+    },
+    {
+      "nome": "Fernando Raimundo Schunig",
+      "cargo": "Coordenador Estadual de Proteção e Defesa Civil do Paraná",
+      "opinioes": [
+        "Criticou a falta de participação de coordenadores estaduais e municipais em audiências.",
+        "Defendeu a importância de convidar todos os coordenadores para as discussões.",
+        "Sugeriu a desburocratização dos repasses de recursos durante desastres.",
+        "Destacou a necessidade de um sistema integrado e mais científico para a Defesa Civil."
+      ]
+    },
+    {
+      "nome": "Luciano Chaves Boeira",
+      "cargo": "Coordenador Estadual de Proteção e Defesa Civil do Rio Grande do Sul",
+      "opinioes": [
+        "Relatou atrasos na implementação de tecnologias prometidas pelo Governo Federal.",
+        "Destacou a necessidade de desburocratização para acesso rápido a recursos.",
+        "Propôs a criação de um sistema de monitoramento hidrodinâmico para bacias problemáticas."
+      ]
+    },
+    {
+      "nome": "Sosthenes Macêdo",
+      "cargo": "Diretor-Geral da Defesa Civil de Salvador e Presidente do Fórum Nacional dos Secretários e Dirigentes de Defesa Civil",
+      "opinioes": [
+        "Defendeu investimentos em Defesa Civil nos municípios, destacando suas necessidades técnicas e de equipamentos.",
+        "Apontou a necessidade de uma carreira estruturada para coordenadores de Defesa Civil nos municípios.",
+        "Sugeriu a criação de um fundo de calamidade pública abastecido de recursos de forma constante."
+      ]
+    }
+  ],
+  "tl_dr": "Na audiência pública, discutiu-se principalmente o Novo Plano Nacional de Proteção e Defesa Civil e as melhorias necessárias na Defesa Civil do Brasil. Participantes enfatizaram a necessidade de desburocratização dos processos de repasse de recursos, maior integração entre os entes federativos, e a inclusão de coordenadores estaduais e municipais nas discussões. Destacou-se a falta de previsão orçamentária para pronta resposta e prevenção, e a dependência de medidas provisórias para liberação de recursos. Propostas incluíram a alimentação do fundo de defesa civil com recursos não executados, acesso a recursos do PAC, e o desenvolvimento de sistemas científicos e integrados para monitoramento e gestão de desastres."
+}

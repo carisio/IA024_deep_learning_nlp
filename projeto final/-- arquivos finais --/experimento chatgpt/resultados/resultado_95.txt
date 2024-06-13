@@ -1,0 +1,71 @@
+{
+  "assunto": "Sustentabilidade na produção e consumo de alimentos de origem animal",
+  "envolvidos": [
+    {
+      "nome": "Zé Silva",
+      "cargo": "Deputado e Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "A produção de alimentos deve estar alinhada com a preservação do meio ambiente.",
+        "A sustentabilidade deve ser considerada desde a Eco 92 e nos acordos climáticos.",
+        "Os países desenvolvidos devem ajudar a preservar as florestas brasileiras.",
+        "A produção de alimentos deve incluir bem-estar animal e evitar a remoção de florestas."
+      ]
+    },
+    {
+      "nome": "Patrycia Sato",
+      "cargo": "Presidente e Diretora Técnica da Alianima",
+      "opinioes": [
+        "A Alianima trabalha por melhores condições aos animais de produção e sistemas alimentares mais justos.",
+        "O bem-estar animal é uma ciência legitimada por várias pesquisas e órgãos oficiais.",
+        "É importante reduzir o uso indiscriminado de antibióticos na pecuária para evitar resistência antimicrobiana.",
+        "A indústria deve ser transparente sobre as condições de produção animal."
+      ]
+    },
+    {
+      "nome": "Cynthia Schuck",
+      "cargo": "Diretora do Welfare Footprint Project",
+      "opinioes": [
+        "A produção intensiva de animais para consumo está associada ao surgimento de doenças infecciosas.",
+        "A seleção genética intensiva compromete a imunidade dos animais, facilitando surtos de doenças.",
+        "Medidas de biossegurança nas fazendas são insuficientes para controlar a transmissão de patógenos."
+      ]
+    },
+    {
+      "nome": "Karina Rie Ishida",
+      "cargo": "Coordenadora de Campanhas da Proteção Animal Mundial",
+      "opinioes": [
+        "A resistência a antibióticos na pecuária é um problema grave e global.",
+        "A contaminação de rios próximos a fazendas industriais por genes de resistência é uma preocupação crescente.",
+        "É necessário desenvolver e implementar políticas e normas de bem-estar animal."
+      ]
+    },
+    {
+      "nome": "Rafael Rioja Arantes",
+      "cargo": "Coordenador do Programa de Consumo Sustentável do IDEC",
+      "opinioes": [
+        "Práticas de greenwashing enganam os consumidores e precisam ser combatidas.",
+        "Os sistemas alimentares devem garantir saúde humana, bem-estar animal e justiça socioambiental.",
+        "Há necessidade de regulamentação federal detalhada sobre rotulagem ambiental para combater o greenwashing."
+      ]
+    },
+    {
+      "nome": "Luis Barbieri",
+      "cargo": "Cofundador da Raiar Orgânicos",
+      "opinioes": [
+        "A produção de proteínas deve ser repensada para ser mais sustentável.",
+        "O sistema de produção orgânica garante transparência e qualidade.",
+        "O bem-estar animal é fundamental para a sustentabilidade da produção de proteínas."
+      ]
+    },
+    {
+      "nome": "Vanessa Negrini",
+      "cargo": "Diretora do Departamento de Proteção, Defesa e Direitos Animais do Ministério do Meio Ambiente e Mudança do Clima",
+      "opinioes": [
+        "O bem-estar animal é essencial para o desenvolvimento sustentável.",
+        "A diversidade e o equilíbrio na produção de alimentos são fundamentais.",
+        "Políticas públicas devem promover práticas de produção que respeitem o bem-estar animal e a sustentabilidade."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Legislação Participativa, presidida pelo Deputado Zé Silva, debateu a sustentabilidade na produção e consumo de alimentos de origem animal. Participaram diversos especialistas, como Patrycia Sato, Cynthia Schuck, Karina Rie Ishida, Rafael Rioja Arantes, Luis Barbieri e Vanessa Negrini. As discussões abordaram a importância de práticas sustentáveis e transparentes na produção animal, o combate ao uso indiscriminado de antibióticos, a necessidade de políticas de bem-estar animal, e a luta contra o greenwashing. Cada participante contribuiu com perspectivas sobre como a produção animal pode ser realizada de forma mais sustentável e responsável."
+}

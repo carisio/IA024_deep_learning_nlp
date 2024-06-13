@@ -1,0 +1,75 @@
+{
+  "assunto": "Debate sobre doenças raras: desafios econômicos, sociais e de saúde pública",
+  "envolvidos": [
+    {
+      "nome": "Murillo Gouvea",
+      "cargo": "Deputado Federal pelo Bloco/UNIÃO - RJ, Presidente da audiência",
+      "opinioes": [
+        "Agradeceu pela realização da audiência pública e destacou a importância do debate sobre as doenças raras."
+      ]
+    },
+    {
+      "nome": "Marina Domenech",
+      "cargo": "Vice-Presidente da Associação Brasileira de Organizações Representativas de Pesquisa Clínica — ABRACRO",
+      "opinioes": [
+        "Definiu doenças raras conforme critérios dos EUA, Europa e Brasil.",
+        "Mencionou que no mundo há mais de 400 milhões de pessoas com doenças raras, com 50% a 75% começando na infância.",
+        "Destacou a demora nos diagnósticos precoces, que levam em média 7 anos nos EUA e de 10 a 15 anos no Brasil.",
+        "Salientou os altos custos no sistema de saúde pública, com 90% dos gastos judiciais em medicamentos destinados a doenças raras.",
+        "Defendeu a importância da pesquisa clínica para oferecer tratamentos, reduzir custos e gerar inovação.",
+        "Apelou pela regulamentação da pesquisa clínica e pela aprovação do projeto de lei para facilitar os investimentos no setor."
+      ]
+    },
+    {
+      "nome": "Marcela Pontes",
+      "cargo": "Gerente de Acesso e Precificação do Sindicato da Indústria de Produtos Farmacêuticos de São Paulo — SINDUSFARMA",
+      "opinioes": [
+        "Destacou que o Brasil está fora da rota mundial de pesquisa clínica devido a desafios regulatórios e econômicos.",
+        "Enfatizou a importância de isenção de impostos para ampliar a pesquisa clínica no Brasil.",
+        "Mencionou barreiras no registro sanitário e na precificação de medicamentos, que geram insegurança jurídica.",
+        "Apontou a necessidade de mecanismos alternativos de financiamento para medicamentos de doenças raras.",
+        "Criticou a judicialização como forma de acesso a medicamentos e sugeriu a criação de uma política de Estado para o Complexo Econômico-Industrial da Saúde."
+      ]
+    },
+    {
+      "nome": "Lauda Vieira dos Santos",
+      "cargo": "Presidente da Associação Maria Vitória de Doenças Raras e Crônicas — AMAVIRARAS",
+      "opinioes": [
+        "Apresentou a missão da AMAVI Raras de acolher e orientar pacientes e familiares com doenças raras e crônicas.",
+        "Destacou a importância do diagnóstico precoce e a dificuldade de acesso ao tratamento.",
+        "Criticou a falta de incentivo à pesquisa clínica e a burocratização do acesso a novos medicamentos.",
+        "Apelou por políticas de Estado em vez de políticas de governo para garantir os direitos dos pacientes com doenças raras.",
+        "Enfatizou que cada dia é crucial para pacientes com doenças raras e que o tempo de desenvolvimento clínico deve ser reduzido."
+      ]
+    },
+    {
+      "nome": "Ana Maria Martins",
+      "cargo": "Médica Geneticista do Hospital Paulo e do Instituto de Genética e Erros Inatos do Metabolismo — IGEIM",
+      "opinioes": [
+        "Destacou a falta de conhecimento sobre doenças raras na formação médica e a dificuldade de diagnóstico.",
+        "Apresentou o caso de um paciente com mucopolissacaridose tipo II que melhorou com tratamento inovador.",
+        "Enfatizou a importância do tratamento precoce para melhorar a qualidade de vida dos pacientes.",
+        "Apelou à ANVISA para repensar o tempo necessário para aprovar novos medicamentos."
+      ]
+    },
+    {
+      "nome": "Rômulo Bezerra Marques",
+      "cargo": "Diretor da Federação Brasileira das Associações de Doenças Raras",
+      "opinioes": [
+        "Ressaltou a necessidade de atrair pesquisas clínicas para o Brasil.",
+        "Defendeu a flexibilização de marcos regulatórios e incentivos fiscais para facilitar a produção de novos medicamentos.",
+        "Enfatizou a importância do diagnóstico precoce e da criação de centros de referência em atendimento."
+      ]
+    },
+    {
+      "nome": "Fabricio Carneiro de Oliveira",
+      "cargo": "Gerente-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas da ANVISA",
+      "opinioes": [
+        "Apresentou medidas da ANVISA para priorizar e flexibilizar a aprovação de medicamentos para doenças raras.",
+        "Ressaltou que as flexibilizações não comprometem a segurança e eficácia dos produtos.",
+        "Mencionou a importância do uso de dados de vida real para a aprovação de novos tratamentos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos das Pessoas com Deficiência discutiu os desafios econômicos, sociais e de saúde pública relacionados às doenças raras. Os participantes destacaram a importância da pesquisa clínica, a necessidade de incentivos fiscais e a flexibilização de marcos regulatórios para atrair investimentos e acelerar o desenvolvimento de novos tratamentos. A falta de diagnóstico precoce e a judicialização foram apontadas como grandes obstáculos. Propostas de políticas de Estado e maior envolvimento de centros de referência foram sugeridas para melhorar a qualidade de vida dos pacientes com doenças raras."
+}

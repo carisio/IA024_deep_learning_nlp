@@ -1,0 +1,71 @@
+{
+  "assunto": "Outubro Rosa: Combate ao Câncer de Mama",
+  "envolvidos": [
+    {
+      "nome": "Weliton Prado",
+      "cargo": "Deputado (Bloco/SOLIDARIEDADE - MG), Presidente da Comissão",
+      "opinioes": [
+        "A importância da prevenção e rastreamento mamográfico para salvar vidas.",
+        "A luta pela implementação e cumprimento da Lei dos 30 e dos 60 dias.",
+        "A proposta de criação de um fundo nacional de enfrentamento ao câncer, utilizando recursos novos como acordos judiciais e criptomoedas apreendidas."
+      ]
+    },
+    {
+      "nome": "Silvia Cristina",
+      "cargo": "Deputada (PL - RO)",
+      "opinioes": [
+        "A prevenção é o melhor remédio para o câncer de mama.",
+        "Agradecimento aos participantes e a importância do Outubro Rosa.",
+        "O câncer de mama é o que mais mata mulheres no Brasil e no mundo."
+      ]
+    },
+    {
+      "nome": "Suyanne Monteiro",
+      "cargo": "Servidora da Coordenação-Geral da Política Nacional de Prevenção e Controle do Câncer do Ministério da Saúde",
+      "opinioes": [
+        "O câncer de mama é o tumor feminino mais incidente no Brasil, com cerca de 70 mil novos casos anuais.",
+        "A importância da prevenção e promoção de hábitos saudáveis para reduzir o risco de câncer.",
+        "A estratégia de rastreamento populacional com mamografia recomendada para mulheres entre 50 e 69 anos a cada 2 anos.",
+        "A necessidade de organização da rede de atenção para garantir a continuidade do acompanhamento das pacientes."
+      ]
+    },
+    {
+      "nome": "Larissa Veríssimo",
+      "cargo": "Consultora Nacional de Doenças Crônicas não Transmissíveis da OPAS no Brasil",
+      "opinioes": [
+        "A iniciativa global da OMS para reduzir a mortalidade por câncer de mama em 2,5% até 2040.",
+        "A promoção de saúde e hábitos saudáveis como pilares fundamentais no combate ao câncer de mama.",
+        "A necessidade de fortalecer os sistemas de diagnóstico e tratamento do câncer de mama.",
+        "A importância da OPAS em apoiar as estratégias de combate ao câncer de mama no Brasil."
+      ]
+    },
+    {
+      "nome": "Verônica Savatin",
+      "cargo": "Diretora do Conselho Nacional de Secretarias Municipais de Saúde — CONASEMS",
+      "opinioes": [
+        "A necessidade de financiamento adequado para manter os serviços de saúde.",
+        "A preocupação com a dificuldade de contratar profissionais qualificados e manter o funcionamento dos equipamentos.",
+        "O apelo para fortalecer o Sistema Único de Saúde e garantir acesso universal e integral aos pacientes."
+      ]
+    },
+    {
+      "nome": "Cíntia Cerqueira",
+      "cargo": "Representante do grupo Escolhemos Viver",
+      "opinioes": [
+        "A falta de prioridade e tratamento adequado para pacientes metastáticos.",
+        "A dificuldade de acesso a medicamentos e tratamentos avançados no SUS.",
+        "O apelo por mudanças no sistema para garantir que todos os pacientes, especialmente os metastáticos, tenham acesso ao tratamento necessário."
+      ]
+    },
+    {
+      "nome": "Alexandre Ben",
+      "cargo": "Coordenador de Relações Governamentais da FEMAMA",
+      "opinioes": [
+        "A importância das audiências públicas para disseminação de informações e alfabetização em saúde.",
+        "A necessidade de aumento de financiamento para a saúde pública e de melhor alocação dos recursos.",
+        "A proposta do modelo 50-50, que sugere investir 50% em prevenção e diagnóstico e 50% em tratamento e ações de sobrevivência."
+      ]
+    }
+  ],
+  "tl_dr": "A 9ª Reunião Extraordinária da Comissão Especial destinada a acompanhar as ações de combate ao câncer no Brasil teve como tema o Outubro Rosa e o combate ao câncer de mama. A audiência pública destacou a importância da prevenção, rastreamento e tratamento adequado do câncer de mama. Entre os envolvidos estavam deputados, representantes de instituições de saúde e grupos de apoio a pacientes. A discussão abordou a necessidade de financiamento adequado, criação de um fundo nacional de enfrentamento ao câncer e melhorias nos protocolos de atendimento e tratamento para garantir que todos os pacientes tenham acesso a cuidados de qualidade."
+}

@@ -1,0 +1,69 @@
+{
+  "assunto": "Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Déficit de Atenção com Hiperatividade (TDAH).",
+  "envolvidos": [
+    {
+      "nome": "Fábio Trad",
+      "cargo": "Deputado, Presidente da Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "opinioes": [
+        "Organizou e presidiu a audiência pública para debater sobre a Política Nacional de Proteção dos Direitos da Pessoa com TDAH.",
+        "Agradeceu a contribuição de Yuri Maia e ressaltou a importância de suas sugestões para o aprimoramento do Projeto de Lei nº 2.630/2021.",
+        "Destacou a necessidade de reunir o maior número possível de contribuições e sugestões para elaborar uma lei eficaz, inteligente e justa."
+      ]
+    },
+    {
+      "nome": "Yuri Maia",
+      "cargo": "Idealizador do Programa Meu TDAH e criador do Instituto TDAH Descomplicado",
+      "opinioes": [
+        "Ressaltou a importância de discutir o TDAH na Comissão de Defesa dos Direitos das Pessoas com Deficiência.",
+        "Descreveu como o TDAH afeta a vida das pessoas, destacando os déficits em atividades educacionais, autorresponsabilidade, e desempenho no trabalho.",
+        "Propôs três ajustes ao Projeto de Lei nº 2.630/2021: inclusão de pessoas com TDAH na Lei de Cotas, criação de cotas para concursos públicos e universidades, e políticas públicas para fornecimento gratuito de medicamentos."
+      ]
+    },
+    {
+      "nome": "Cybelle Fraga",
+      "cargo": "Bióloga especialista em TDAH e comorbidades, neurocientista e neuropsicopedagoga",
+      "opinioes": [
+        "Afirmou a necessidade de informar a população sobre o TDAH, destacando a falta de aceitação do transtorno pelas famílias e escolas.",
+        "Explicou a natureza neurobiológica e genética do TDAH, bem como a presença frequente de comorbidades como ansiedade e depressão.",
+        "Defendeu a criação de políticas públicas para fornecer tratamento adequado, incluindo medicação e terapia cognitivo-comportamental."
+      ]
+    },
+    {
+      "nome": "Benjamim Vale",
+      "cargo": "Diretor-Presidente do Instituto de Neurociências",
+      "opinioes": [
+        "Destacou a necessidade de atendimento multidisciplinar para pessoas com TDAH.",
+        "Defendeu a criação de políticas públicas para atender pessoas com TDAH, enfatizando a importância da integração entre família, educação e saúde.",
+        "Enfatizou que o TDAH na infância precisa ser bem conduzido para melhorar as condições na adolescência e vida adulta."
+      ]
+    },
+    {
+      "nome": "Cely Matthiesen Granja",
+      "cargo": "Mãe de uma adolescente com TDAH",
+      "opinioes": [
+        "Relatou as dificuldades enfrentadas por sua filha no sistema educacional e a falta de compreensão das escolas sobre o TDAH e TOD.",
+        "Defendeu a necessidade de políticas públicas para fornecer apoio adequado, incluindo medicamentos e suporte escolar.",
+        "Compartilhou a experiência de gestão da condição de sua filha, destacando a importância do diagnóstico precoce e tratamento contínuo."
+      ]
+    },
+    {
+      "nome": "Capitão Fábio Abreu",
+      "cargo": "Deputado, coautor do projeto de lei",
+      "opinioes": [
+        "Expressou apoio às propostas discutidas na audiência e destacou a importância do tema.",
+        "Questionou a relação entre TDAH e TEA, e a possível conexão entre adoção e predisposição ao TDAH.",
+        "Ressaltou a necessidade de garantir acesso a medicamentos para pessoas com TDAH."
+      ]
+    },
+    {
+      "nome": "Eduardo Barbosa",
+      "cargo": "Deputado, Pediatra",
+      "opinioes": [
+        "Afirmou que o TDAH não deve ser considerado uma deficiência, exceto quando associado a outras deficiências.",
+        "Destacou a importância de uma política governamental adequada para atender pessoas com TDAH sem rotulá-las como incapazes.",
+        "Defendeu que uma abordagem adequada pode garantir uma vida ativa e produtiva para pessoas com TDAH."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública presidida pelo Deputado Fábio Trad discutiu a Política Nacional de Proteção dos Direitos da Pessoa com TDAH. Yuri Maia, idealizador do Programa Meu TDAH, propôs ajustes ao Projeto de Lei nº 2.630/2021, incluindo cotas e políticas públicas para medicação. Cybelle Fraga, neurocientista, enfatizou a necessidade de informar e criar políticas públicas para tratamento adequado do TDAH. Benjamim Vale destacou a importância de atendimento multidisciplinar e políticas integradas. Cely Matthiesen Granja, mãe de uma adolescente com TDAH, relatou as dificuldades enfrentadas e a necessidade de apoio adequado. Deputado Capitão Fábio Abreu e Deputado Eduardo Barbosa contribuíram com questões sobre diagnóstico, tratamento e a inclusão do TDAH como deficiência. A audiência ressaltou a importância de elaborar uma lei eficaz para garantir dignidade e qualidade de vida às pessoas com TDAH."
+}

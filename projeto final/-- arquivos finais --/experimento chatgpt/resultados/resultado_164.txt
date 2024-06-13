@@ -1,0 +1,45 @@
+{
+  "assunto": "Discussão sobre o marco regulatório do saneamento básico no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Max Lemos",
+      "cargo": "Deputado Federal (Bloco/PDT - RJ)",
+      "opinioes": [
+        "Defende a modernização e melhoria da regulação e controle após concessões no saneamento.",
+        "Ressalta a necessidade de segurança jurídica para investimentos privados no setor.",
+        "Enfatiza a importância da universalização do saneamento e da redução de tarifas.",
+        "Menciona a urgência de investimento no saneamento para melhorar a qualidade de vida e a condição ambiental do país."
+      ]
+    },
+    {
+      "nome": "Jamaci Avelino do Nascimento Junior",
+      "cargo": "Coordenador-Geral de Orçamento e Finanças da Secretaria Nacional de Saneamento",
+      "opinioes": [
+        "Destaca a ampliação do prazo para comprovação da capacidade econômico-financeira até 31 de dezembro de 2033.",
+        "Menciona a necessidade de elaborar projetos de saneamento com substância suficiente para aprovação.",
+        "Relata a dificuldade de muitos municípios em apresentar planos de saneamento básico."
+      ]
+    },
+    {
+      "nome": "Pedro Damásio Costa Neto",
+      "cargo": "Representante da Federação Nacional dos Urbanitários",
+      "opinioes": [
+        "Enfatiza a importância do financiamento público, especialmente pelo BNDES e Caixa Econômica Federal, para operadores públicos de saneamento.",
+        "Defende a presença forte do Estado na universalização do saneamento."
+      ]
+    },
+    {
+      "nome": "Percy Soares Neto",
+      "cargo": "Representante da ABCON e SINDCON",
+      "opinioes": [
+        "Sugere que não se reabra o debate estrutural sobre o saneamento, pois acredita que a questão está pacificada.",
+        "Apoia a manutenção do atual marco regulatório para dar tempo de trabalho às empresas.",
+        "Comenta sobre a importância de legislações sobre tarifa social e saneamento rural que estão tramitando na Câmara.",
+        "Menciona a preocupação do setor privado com a perspectiva de reabrir o debate legislativo sobre saneamento.",
+        "Destaca a necessidade de comprovação de capacidade econômico-financeira para operar no setor de saneamento.",
+        "Ressalta o papel do Legislativo em monitorar e acompanhar a implementação da lei de saneamento."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o marco regulatório do saneamento básico no Brasil. O Deputado Max Lemos destacou a importância da modernização do setor, a necessidade de segurança jurídica e a urgência de investimentos para universalizar o saneamento. Jamaci Avelino do Nascimento Junior falou sobre a extensão do prazo para comprovação econômico-financeira e as dificuldades enfrentadas pelos municípios na elaboração de projetos de saneamento. Pedro Damásio Costa Neto enfatizou a importância do financiamento público para a universalização do saneamento. Percy Soares Neto, representando a ABCON e SINDCON, sugeriu que não se reabra o debate estrutural sobre o saneamento, defendendo a atual legislação para dar estabilidade ao setor."
+}

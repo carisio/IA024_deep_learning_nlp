@@ -1,0 +1,65 @@
+{
+  "assunto": "Proteção de jovens contra o assédio e abuso sexual no esporte",
+  "envolvidos": [
+    {
+      "nome": "Roberto Alves",
+      "cargo": "Presidente da Comissão do Esporte da Câmara dos Deputados",
+      "opinioes": [
+        "A importância de defender os atletas brasileiros contra o assédio e abuso sexual.",
+        "A realização da audiência pública é para debater e encontrar soluções para esse problema."
+      ]
+    },
+    {
+      "nome": "Rodrigo Acioli",
+      "cargo": "Representante do Conselho Federal de Psicologia",
+      "opinioes": [
+        "A psicologia ajuda a recuperar o rendimento esportivo de jovens que sofrem abuso ou assédio sexual através da escuta e apoio psicológico.",
+        "A formação adequada dos profissionais de psicologia é crucial para lidar com casos de abuso e assédio sexual."
+      ]
+    },
+    {
+      "nome": "Luísa Carvalho Rodrigues",
+      "cargo": "Procuradora do Trabalho do Ministério Público do Trabalho",
+      "opinioes": [
+        "O Ministério Público do Trabalho tem um histórico de atuação para garantir os direitos dos atletas em formação e combater o assédio sexual no esporte.",
+        "A importância da conscientização e educação sexual para que crianças e adolescentes possam identificar e denunciar abusos.",
+        "A necessidade de políticas preventivas e repressivas, com canais de denúncia e responsabilização dos agressores."
+      ]
+    },
+    {
+      "nome": "Elizabete Laurindo de Souza",
+      "cargo": "2ª Secretária do Conselho Federal de Educação Física",
+      "opinioes": [
+        "A educação física é uma profissão regulamentada e os profissionais têm um código de ética que deve ser seguido.",
+        "A importância de conscientizar e informar as crianças desde a escola sobre abuso e assédio sexual.",
+        "A necessidade de fiscalizar e regulamentar a atuação dos profissionais de educação física para garantir a segurança das crianças."
+      ]
+    },
+    {
+      "nome": "Alexandre Montrimas",
+      "cargo": "Ex-goleiro e representante do Sindicato dos Atletas de São Paulo",
+      "opinioes": [
+        "O assédio e abuso sexual são comuns no futebol e muitos atletas passam por essas situações.",
+        "A importância de informar e educar os jovens atletas sobre o que é abuso e como denunciar."
+      ]
+    },
+    {
+      "nome": "Marcia de Andrade Angelo Bueno",
+      "cargo": "Presidente do Instituto de Ginástica Artística Paranaense",
+      "opinioes": [
+        "A necessidade de apoio e estrutura para clubes de base.",
+        "A importância de não demonizar os clubes de base e os profissionais que trabalham neles."
+      ]
+    },
+    {
+      "nome": "Luciana Neder",
+      "cargo": "Presidente da Comissão de Direitos das Mulheres no Jiu-Jitsu",
+      "opinioes": [
+        "A criação de um canal de ouvidoria para denúncias de assédio e violência no jiu-jitsu.",
+        "A importância da educação e conscientização sobre igualdade de gênero e combate à violência no esporte.",
+        "A necessidade de medidas punitivas claras e transparentes pelas federações esportivas para combater o acobertamento de criminosos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a proteção de jovens contra o assédio e abuso sexual no esporte, com a participação de representantes de diversas entidades, incluindo o Ministério Público do Trabalho, o Conselho Federal de Psicologia, o Conselho Federal de Educação Física, o Sindicato dos Atletas de São Paulo, o Instituto de Ginástica Artística Paranaense e a Comissão de Direitos das Mulheres no Jiu-Jitsu. Os participantes destacaram a importância da conscientização, educação e criação de canais de denúncia para combater o assédio e abuso sexual no esporte. Também foi enfatizada a necessidade de apoio aos clubes de base e a implementação de medidas punitivas claras pelas federações esportivas."
+}

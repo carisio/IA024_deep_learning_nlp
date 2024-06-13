@@ -1,0 +1,51 @@
+{
+  "assunto": "Utilização da inteligência artificial nos processos eleitorais",
+  "envolvidos": [
+    {
+      "nome": "Prof. Paulo Fernando",
+      "cargo": "Deputado Federal, Bloco/REPUBLICANOS - DF",
+      "opinioes": [
+        "A Comissão de Legislação Participativa aprovou o Requerimento nº 94, de 2023, para discutir a utilização da inteligência artificial nos processos eleitorais.",
+        "A inteligência artificial já foi usada em eleições nos Estados Unidos e na Argentina, e há projetos de lei tramitando na Câmara dos Deputados e no Senado sobre o tema.",
+        "Há a necessidade de regulamentação e fiscalização do uso da inteligência artificial para garantir a lisura do processo eleitoral."
+      ]
+    },
+    {
+      "nome": "Emerson Saraiva",
+      "cargo": "Presidente da Associação dos Profissionais do Marketing Político (APROMAP)",
+      "opinioes": [
+        "A inteligência artificial já é amplamente utilizada na vida cotidiana e nas campanhas eleitorais.",
+        "Há um potencial de manipulação dos resultados eleitorais antes mesmo das eleições, utilizando ferramentas de inteligência artificial.",
+        "É crucial que a sociedade e os operadores do direito estejam atentos e informados sobre o impacto da inteligência artificial."
+      ]
+    },
+    {
+      "nome": "Fernando Bueno de Castro",
+      "cargo": "Advogado e membro relator da Comissão de Direito Eleitoral da OAB - Paraná",
+      "opinioes": [
+        "A inteligência artificial apresenta riscos que precisam ser regulamentados para garantir a lisura das eleições.",
+        "Há um convênio entre o TSE e plataformas de mídia social para monitorar disparos em massa e deepfakes.",
+        "Os projetos de lei na Câmara dos Deputados e no Senado precisam ser aprimorados para abordar especificamente o uso de IA nas eleições."
+      ]
+    },
+    {
+      "nome": "Marcelo Senise",
+      "cargo": "CEO da Comunica 360º — Comunicação, Marketing e Inteligência Digital",
+      "opinioes": [
+        "A inteligência artificial mapeia emoções humanas e tem um grande potencial de manipulação eleitoral.",
+        "Há a necessidade de uma legislação urgente para regular o uso da inteligência artificial nas eleições.",
+        "A falta de clareza na regulamentação pode prejudicar a democracia, e é importante envolver o TSE e outras autoridades no debate."
+      ]
+    },
+    {
+      "nome": "Melillo Dinis do Nascimento",
+      "cargo": "Diretor do Movimento de Combate à Corrupção Eleitoral (MCCE)",
+      "opinioes": [
+        "A desinformação é um problema crítico que precisa ser combatido com a participação da sociedade.",
+        "A hipernormatividade do sistema eleitoral brasileiro pode ser uma barreira para a efetiva regulamentação da inteligência artificial.",
+        "A sociedade deve estar mobilizada para garantir que a inteligência artificial seja usada de maneira ética e responsável."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Legislação Participativa discutiu a utilização da inteligência artificial nos processos eleitorais, com a participação de deputados, advogados, especialistas em marketing político e representantes de movimentos contra a corrupção eleitoral. O tema central foi a regulamentação e os riscos da inteligência artificial na manipulação dos resultados eleitorais, a necessidade de fiscalização e a importância da participação da sociedade na criação de um ambiente eleitoral ético e transparente."
+}

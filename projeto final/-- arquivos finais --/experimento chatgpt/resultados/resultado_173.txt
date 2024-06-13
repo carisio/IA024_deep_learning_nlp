@@ -1,0 +1,75 @@
+{
+  "assunto": "Expansão das hidrelétricas e inclusão de novos reservatórios na matriz energética do Brasil no contexto da transição energética, descarbonização, redução de tarifa ao consumidor e segurança do sistema elétrico nacional.",
+  "envolvidos": [
+    {
+      "nome": "Rodrigo de Castro",
+      "cargo": "Presidente da Comissão de Minas e Energia",
+      "opinioes": [
+        "Agradece a participação dos expositores.",
+        "Ressalta a importância da energia hidrelétrica no Brasil.",
+        "Comenta as dificuldades de licenciamento para novas hidrelétricas em Minas Gerais."
+      ]
+    },
+    {
+      "nome": "Christiany Salgado Faria",
+      "cargo": "Diretora do Departamento de Planejamento e Outorgas de Geração de Energia Elétrica do Ministério de Minas e Energia",
+      "opinioes": [
+        "Destaca a importância da energia hidrelétrica para a matriz energética brasileira.",
+        "Apresenta dados sobre a produção de energia elétrica no Brasil, com 88% proveniente de fontes renováveis, sendo 64% hidrelétrica.",
+        "Enfatiza a necessidade de novos reservatórios e a importância do planejamento a longo prazo para garantir a segurança energética.",
+        "Aponta a falta de evolução na capacidade de armazenamento de água como um desafio.",
+        "Sugere a reavaliação do potencial hidrelétrico considerando o novo contexto socioambiental."
+      ]
+    },
+    {
+      "nome": "Cristiana Nepomuceno de Sousa Soares",
+      "cargo": "Advogada especialista em Direito de Energia",
+      "opinioes": [
+        "Defende a sustentabilidade e a redução de gases de efeito estufa.",
+        "Aponta a importância das hidrelétricas na redução de emissões de CO2.",
+        "Ressalta os benefícios sociais e econômicos das hidrelétricas, como o acesso à eletricidade em áreas rurais e o apoio aos Objetivos de Desenvolvimento Sustentável da ONU."
+      ]
+    },
+    {
+      "nome": "Ênio Fonseca",
+      "cargo": "Conselheiro do Fórum do Meio Ambiente do Setor Elétrico (FMASE)",
+      "opinioes": [
+        "Destaca a importância da diversificação das fontes de energia para a segurança energética do país.",
+        "Defende o tratamento equânime das políticas públicas para todas as fontes de energia renovável.",
+        "Enfatiza a história e a importância dos reservatórios para o controle de cheias e segurança hídrica.",
+        "Sublinha a necessidade de uma matriz energética diversificada para garantir segurança energética e política."
+      ]
+    },
+    {
+      "nome": "Charles Lenzi",
+      "cargo": "Presidente Executivo da Associação Brasileira de Geração de Energia Limpa (ABRAGEL)",
+      "opinioes": [
+        "Defende a expansão das hidrelétricas no contexto da transição energética.",
+        "Aponta a importância das usinas hidrelétricas de pequeno porte para a geração de energia firme e flexível.",
+        "Ressalta a necessidade de políticas públicas que viabilizem investimentos em hidrelétricas.",
+        "Afirma que as hidrelétricas são fundamentais para garantir a segurança e a estabilidade do sistema elétrico."
+      ]
+    },
+    {
+      "nome": "Alessandra Torres",
+      "cargo": "Presidente da Associação Brasileira de Pequenas Centrais Hidrelétricas (ABRAPCH)",
+      "opinioes": [
+        "Defende a construção de novos reservatórios para garantir a segurança hídrica e energética.",
+        "Afirma que os reservatórios são a solução para a escassez hídrica e a modulação da carga elétrica.",
+        "Critica a demonização das hidrelétricas e a falta de novos reservatórios para acompanhar o crescimento das renováveis intermitentes.",
+        "Enfatiza os benefícios socioeconômicos das PCHs e CGHs."
+      ]
+    },
+    {
+      "nome": "Ludimila Lima da Silva",
+      "cargo": "Superintendente de Concessões, Permissões e Autorizações dos Serviços de Energia Elétrica da ANEEL",
+      "opinioes": [
+        "Destaca o orgulho da matriz elétrica limpa do Brasil.",
+        "Ressalta a diminuição da participação das hidrelétricas na matriz elétrica ao longo dos anos.",
+        "Aponta os desafios para o desenvolvimento de novos projetos hidrelétricos, incluindo o licenciamento ambiental e a falta de interesse do setor.",
+        "Defende a necessidade de comunicação adequada com a sociedade sobre os benefícios das hidrelétricas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a expansão das hidrelétricas e a inclusão de novos reservatórios na matriz energética brasileira, destacando sua importância para a transição energética, descarbonização, redução de tarifas e segurança do sistema elétrico. Os participantes, incluindo representantes do governo, especialistas em energia e membros de associações do setor elétrico, debateram os desafios e benefícios das hidrelétricas. Foram apontados a necessidade de planejamento a longo prazo, políticas públicas equânimes, melhor comunicação com a sociedade e superação das dificuldades de licenciamento ambiental para viabilizar novos projetos."
+}

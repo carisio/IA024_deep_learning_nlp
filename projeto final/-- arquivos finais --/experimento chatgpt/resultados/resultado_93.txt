@@ -1,0 +1,50 @@
+{
+  "assunto": "Educação técnica profissional de nível médio e o novo ensino médio — análise do cenário atual e desafios — e o potencial de contribuição do Projeto de Lei nº 6.494, de 2019.",
+  "envolvidos": [
+    {
+      "nome": "Flávia Morais",
+      "cargo": "Presidente da Comissão Especial, Deputada PDT-GO",
+      "opinioes": [
+        "Destaca a relevância do tema para criar oportunidades para a juventude e melhorar a legislação para oferecer mais oportunidades aos jovens.",
+        "Enfatiza a necessidade de fortalecer as políticas de incentivo à juventude e acredita na importância da educação técnica profissional."
+      ]
+    },
+    {
+      "nome": "Getúlio Marques Ferreira",
+      "cargo": "Vice-Presidente do Conselho Nacional de Secretários de Educação — CONSED e Secretário de Educação do Estado do Rio Grande do Norte",
+      "opinioes": [
+        "Defende que a educação técnica e profissional é crucial para a inserção sustentável e justa dos jovens no mercado de trabalho.",
+        "Salienta que a educação profissional no Brasil ainda é precária em termos de quantidade e condições nas escolas públicas.",
+        "Acredita que o projeto de lei está no caminho correto para atender demandas sociais e melhorar a formação técnica e profissional."
+      ]
+    },
+    {
+      "nome": "Maria Leopoldina Veras Camelo",
+      "cargo": "Vice-Presidente de Assuntos Acadêmicos do Conselho Nacional das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica — CONIF e Reitora do Instituto Federal do Sertão Pernambucano",
+      "opinioes": [
+        "Ressalta a importância de cursos técnicos alinhados com a demanda do mercado de trabalho.",
+        "Destaca a necessidade de atender a demanda crescente por formação técnica, evidenciada pelo alto número de inscrições para vagas na rede federal.",
+        "Enfatiza a importância de assistência estudantil para reduzir a evasão e garantir a dedicação exclusiva dos alunos aos estudos."
+      ]
+    },
+    {
+      "nome": "Francisco Aparecido Cordão",
+      "cargo": "Especialista em educação profissional",
+      "opinioes": [
+        "Acredita na importância de articular a educação profissional com a aprendizagem profissional para potencializar a formação técnica.",
+        "Sugere alterações na legislação para melhorar a integração entre a formação técnica de nível médio e a aprendizagem profissional.",
+        "Defende que a legislação da educação profissional e da aprendizagem profissional se complementam e que a colaboração entre o Ministério da Educação e o Ministério do Trabalho é essencial."
+      ]
+    },
+    {
+      "nome": "Antonio Almerico Biondi Lima",
+      "cargo": "Professor da Universidade Federal do Recôncavo da Bahia, Coordenador da Rede de Ensino, Pesquisa e Extensão da Educação Profissional e Tecnológica Pública da Bahia e Doutor em Educação na área de políticas públicas de educação profissional",
+      "opinioes": [
+        "Destaca a importância da aprendizagem como uma ação que integra trabalho e educação, proporcionando uma formação integral para os jovens.",
+        "Critica a burocratização do cadastramento de instituições para oferta de aprendizagem e defende uma maior promoção e fiscalização da aprendizagem profissional.",
+        "Enfatiza a necessidade de harmonizar a legislação educacional com as demandas do mercado de trabalho para garantir uma formação adequada e eficaz."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a educação técnica profissional de nível médio e o novo ensino médio, destacando a importância de oferecer oportunidades e melhorar a legislação para a juventude. Flávia Morais, presidente da comissão, ressaltou a necessidade de fortalecer as políticas de incentivo à juventude. Getúlio Marques Ferreira destacou a importância da educação técnica para a inserção sustentável dos jovens no mercado de trabalho e defendeu o projeto de lei. Maria Leopoldina Veras Camelo enfatizou a necessidade de cursos técnicos alinhados com o mercado e assistência estudantil. Francisco Aparecido Cordão sugeriu alterações na legislação para melhorar a integração entre formação técnica e aprendizagem profissional. Antonio Almerico Biondi Lima criticou a burocratização no cadastramento de instituições e destacou a importância de harmonizar a legislação com as demandas do mercado de trabalho."
+}

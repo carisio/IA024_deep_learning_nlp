@@ -1,0 +1,53 @@
+{
+  "assunto": "Situação dos pós-graduandos no Brasil e políticas para valorização e atração para a produção científica",
+  "envolvidos": [
+    {
+      "nome": "Alice Portugal",
+      "cargo": "Deputada Federal (Bloco/PCdoB - BA)",
+      "opinioes": [
+        "A pós-graduação é essencial para a preparação de novos cientistas, docentes e pesquisadores.",
+        "É necessário valorizar a ciência e garantir a atratividade da produção científica no Brasil.",
+        "Defende a ampliação da licença parental para pós-graduandos, com ou sem bolsa.",
+        "A contagem de tempo para aposentadoria para pós-graduandos deve ser garantida, similar ao que é feito com médicos residentes."
+      ]
+    },
+    {
+      "nome": "Vinícius Soares",
+      "cargo": "Presidente da Associação Nacional de Pós-Graduandos (ANPG)",
+      "opinioes": [
+        "A situação dos pós-graduandos no Brasil é precária, sem direitos adequados.",
+        "Defende a inclusão de pós-graduandos nos direitos previdenciários.",
+        "Solicita políticas públicas que valorizem a produção científica e garantam financiamento adequado para pesquisa.",
+        "A reforma da Previdência impactou negativamente os jovens, que agora têm dificuldades para planejar a aposentadoria.",
+        "É necessário um apoio mais efetivo das universidades e do governo para os pós-graduandos."
+      ]
+    },
+    {
+      "nome": "Mercedes Bustamante",
+      "cargo": "Presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)",
+      "opinioes": [
+        "Há dificuldades de repasse de recursos para universidades estaduais.",
+        "A proposta de Lei Orçamentária de 2024 para a CAPES é menor do que a de 2023, o que representa uma restrição para novos programas.",
+        "É essencial recuperar as perdas orçamentárias dos últimos anos para o fortalecimento da pós-graduação."
+      ]
+    },
+    {
+      "nome": "Ricardo Galvão",
+      "cargo": "Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+      "opinioes": [
+        "A ciência e a tecnologia sofreram com cortes orçamentários nos últimos anos, afetando laboratórios de pesquisa.",
+        "É contra a utilização de fundos do FNDCT para cobrir áreas sociais devido à experiência negativa anterior.",
+        "Defende maior investimento em ciência, tecnologia e inovação como uma forma de desenvolvimento, não como gasto."
+      ]
+    },
+    {
+      "nome": "Jackson Raymundo",
+      "cargo": "Coordenador-Geral de Articulação Institucional da SESU/MEC",
+      "opinioes": [
+        "É necessário avançar no financiamento da educação e da ciência e tecnologia.",
+        "O Ministério da Educação está disponível para parcerias que promovam a expansão e melhoria da educação superior no Brasil."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a situação dos pós-graduandos no Brasil, abordando a necessidade de valorização e atração para a produção científica. Entre os pontos destacados estão a importância de políticas públicas que garantam financiamento adequado, a ampliação dos direitos previdenciários e de licença parental para pós-graduandos, e a recuperação das perdas orçamentárias dos últimos anos. Participaram da audiência a Deputada Alice Portugal, o Presidente da ANPG Vinícius Soares, a Presidente da CAPES Mercedes Bustamante, o Presidente do CNPq Ricardo Galvão, e o Coordenador-Geral de Articulação Institucional da SESU/MEC Jackson Raymundo."
+}

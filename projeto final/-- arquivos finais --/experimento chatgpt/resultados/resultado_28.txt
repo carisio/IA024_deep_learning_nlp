@@ -1,0 +1,78 @@
+{
+  "assunto": "Monopólio dos softwares de reparos de veículos pelas concessionárias",
+  "envolvidos": [
+    {
+      "nome": "Jorge Braz",
+      "cargo": "Deputado, Bloco/REPUBLICANOS - RJ",
+      "opinioes": [
+        "A audiência foi convocada para debater o monopólio dos softwares de reparos de veículos pelas concessionárias.",
+        "O movimento 'right to repair' começou nos EUA em 2017 e garante o direito ao conserto de automóveis.",
+        "A economia circular é uma base importante para a ideia do 'right to repair'.",
+        "O Brasil ainda não tem uma legislação específica sobre o tema.",
+        "A importância de desenvolver uma base legislativa auxiliar no Brasil."
+      ]
+    },
+    {
+      "nome": "Thomas Paris Caldellas",
+      "cargo": "Coordenador da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços — SDIC/MDIC",
+      "opinioes": [
+        "A discussão sobre acesso à informação para reparo de veículos começou na Europa há mais de 10 anos.",
+        "O tema envolve vários departamentos, incluindo propriedade intelectual e defesa da concorrência.",
+        "Necessidade de construir um consenso interno no Ministério."
+      ]
+    },
+    {
+      "nome": "Vitor Hugo do Amaral Ferreira",
+      "cargo": "Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor — SENACON/MJ",
+      "opinioes": [
+        "A pauta do monopólio de softwares de reparo é discutida há bastante tempo.",
+        "A situação atual afronta a liberdade de escolha do consumidor, um dos pilares da defesa do consumidor.",
+        "Impedir que o consumidor tenha acesso aos seus direitos é violar a proteção do consumidor como um direito fundamental.",
+        "É urgente avançar na garantia da liberdade de escolha dos consumidores."
+      ]
+    },
+    {
+      "nome": "Celso Mattos",
+      "cargo": "Presidente do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA",
+      "opinioes": [
+        "O consumidor tem direito a ter seu carro reparado da forma correta.",
+        "A segurança é comprometida se o reparador não tiver a informação correta.",
+        "Concessionárias não conseguem reparar todos os veículos por falta de peças, concessionárias e mão de obra.",
+        "Oficinas independentes são necessárias e empregam milhares de pessoas.",
+        "Facilitar o acesso à informação e ferramentas corretas para reparo é essencial."
+      ]
+    },
+    {
+      "nome": "Marcelo Luiz Dias da Silva Gabriel",
+      "cargo": "Assessor Especial do Sindicato da Indústria de Reparação de Veículos e Acessórios — SINDIREPA Brasil",
+      "opinioes": [
+        "O Brasil é o quarto maior mercado de reposição automotiva do mundo.",
+        "O consumidor tem direito à livre escolha e à liberdade para escolher onde consertar seu carro.",
+        "A legislação americana e europeia já contempla o direito à reparação.",
+        "A infraestrutura atual de concessionárias é insuficiente para atender toda a demanda.",
+        "O preço e a acessibilidade dos serviços de reparo precisam ser melhorados."
+      ]
+    },
+    {
+      "nome": "Gilberto Martins",
+      "cargo": "Gerente de Assuntos Técnicos da Associação Nacional dos Fabricantes de Veículos Automotores — ANFAVEA",
+      "opinioes": [
+        "A evolução tecnológica dos veículos implica maior complexidade no reparo.",
+        "Acesso a códigos e softwares dos veículos deve ser controlado para garantir segurança.",
+        "Sugere credenciamento, treinamento e controle para oficinas independentes.",
+        "A discussão sobre direito de reparo está avançando na Europa e nos EUA."
+      ]
+    },
+    {
+      "nome": "Gisela Simona",
+      "cargo": "Deputada, Bloco/UNIÃO - MT",
+      "opinioes": [
+        "A venda casada é vedada pela Lei 8.078/1990.",
+        "É necessário respeitar a liberdade de escolha e a livre concorrência garantidas pela Constituição.",
+        "Há necessidade de alternativas para evitar longos tempos de espera por peças em concessionárias.",
+        "As oficinas devidamente credenciadas devem poder realizar reparos sem o monopólio das concessionárias."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública convocada para discutir o monopólio dos softwares de reparos de veículos pelas concessionárias destacou a importância do direito à reparação e da economia circular. Deputados e representantes de diversos órgãos, como a Secretaria de Desenvolvimento Industrial, SENACON, SINDIREPA e ANFAVEA, debateram a necessidade de criar uma legislação específica no Brasil, inspirada em modelos já existentes nos EUA e na Europa. Todos concordaram sobre a importância de garantir ao consumidor o direito de escolher onde reparar seu veículo, com acesso a informações e ferramentas adequadas, e discutiram propostas para credenciamento e treinamento de oficinas independentes."
+}

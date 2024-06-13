@@ -1,5 +1,7 @@
 import json
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 # Função para contar palavras e caracteres
 def count_words_and_chars(text):
@@ -40,31 +42,58 @@ for data in dataset:
         'article_words': art_words,
         'article_chars': art_chars,
         'num_people': num_people,
-        'num_opinions': num_opinions
+        'num_opinions': num_opinions,
+        'percentage_words_article_transcription': art_words/trans_words
     })
 
+# Imprimindo algumas estatísticas
+pd_stats = pd.DataFrame(dataset_stats)
+pd.set_option('display.max_columns', None)
+print(pd_stats.describe())
+
 # Extraindo os dados para os gráficos
-ids = [entry['id'] for entry in dataset_stats]
-transcription_words = [entry['transcription_words'] for entry in dataset_stats]
-transcription_chars = [entry['transcription_chars'] for entry in dataset_stats]
-article_words = [entry['article_words'] for entry in dataset_stats]
-article_chars = [entry['article_chars'] for entry in dataset_stats]
-num_people = [entry['num_people'] for entry in dataset_stats]
-num_opinions = [entry['num_opinions'] for entry in dataset_stats]
-percentage_words_article_transcription = [article_words[i]/transcription_words[i] for i in range(len(article_words))]
+transcription_words = pd_stats['transcription_words'].tolist()
+article_words = pd_stats['article_words'].tolist()
+num_people = pd_stats['num_people'].tolist()
+num_opinions = pd_stats['num_opinions'].tolist()
+percentage_words_article_transcription = pd_stats['percentage_words_article_transcription'].tolist()
+
+# Calcula os quartis
+transcription_q1 = np.percentile(transcription_words, 25)
+transcription_median = np.median(transcription_words)
+transcription_q3 = np.percentile(transcription_words, 75)
+article_q1 = np.percentile(article_words, 25)
+article_median = np.median(article_words)
+article_q3 = np.percentile(article_words, 75)
+percentage_words_article_transcription_q1 = np.percentile(percentage_words_article_transcription, 25)
+percentage_words_article_transcription_median = np.median(percentage_words_article_transcription)
+percentage_words_article_transcription_q3 = np.percentile(percentage_words_article_transcription, 75)
+num_people_q1 = np.percentile(num_people, 25)
+num_people_median = np.median(num_people)
+num_people_q3 = np.percentile(num_people, 75)
+num_opnions_q1 = np.percentile(num_opinions, 25)
+num_opnions_median = np.median(num_opinions)
+num_opnions_q3 = np.percentile(num_opinions, 75)
 
 # Gráfico de Barras para Contagem de Palavras nas Transcrições
 plt.figure(figsize=(10, 6))
 plt.bar(ids, transcription_words, label='Transcription Words')
+plt.axhline(y=transcription_q1, color='r', linestyle='--', label='Q1 (25th percentile)')
+plt.axhline(y=transcription_median, color='g', linestyle='-', label='Median (50th percentile)')
+plt.axhline(y=transcription_q3, color='b', linestyle='--', label='Q3 (75th percentile)')
 plt.xlabel('ID')
 plt.xlim(1, 206)
 plt.ylabel('Word Count')
 plt.title('Word Count in Transcriptions')
+plt.legend()
 plt.show()
 
 # Gráfico de Barras para Contagem de Palavras nas Matérias
 plt.figure(figsize=(10, 6))
 plt.bar(ids, article_words, label='Article Words')
+plt.axhline(y=article_q1, color='r', linestyle='--', label='Q1 (25th percentile)')
+plt.axhline(y=article_median, color='g', linestyle='-', label='Median (50th percentile)')
+plt.axhline(y=article_q3, color='b', linestyle='--', label='Q3 (75th percentile)')
 plt.xlabel('ID')
 plt.xlim(1, 206)
 plt.title('Word Count in Articles')
@@ -74,6 +103,9 @@ plt.show()
 # Gráfico de Barras da relação entre a contagem de palavras nas matérias e a contagem de palavras nas transcrições
 plt.figure(figsize=(10, 6))
 plt.bar(ids, percentage_words_article_transcription)
+plt.axhline(y=percentage_words_article_transcription_q1, color='r', linestyle='--', label='Q1 (25th percentile)')
+plt.axhline(y=percentage_words_article_transcription_median, color='g', linestyle='-', label='Median (50th percentile)')
+plt.axhline(y=percentage_words_article_transcription_q3, color='b', linestyle='--', label='Q3 (75th percentile)')
 plt.xlabel('ID')
 plt.xlim(1, 206)
 plt.title('Relative size of article in relation to the transcription (in words)')
@@ -91,3 +123,4 @@ plt.title('Number of People and Opinions in Metadata')
 plt.xlim(1, 206)
 plt.legend()
 plt.show()
+

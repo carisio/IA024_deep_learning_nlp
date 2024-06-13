@@ -1,0 +1,69 @@
+{
+  "assunto": "Debate sobre as políticas e desafios para a população idosa, com foco na reversão das mudanças na pensão por morte implementadas pela Reforma da Previdência.",
+  "envolvidos": [
+    {
+      "nome": "Aliel Machado",
+      "cargo": "Deputado, Presidente da Comissão",
+      "opinioes": [
+        "Reconheceu a importância do tema da pensão por morte e a necessidade de debatê-lo como pauta prioritária da Comissão.",
+        "Afirmou o compromisso da Comissão em defender os mais necessitados."
+      ]
+    },
+    {
+      "nome": "Luiz Legñani",
+      "cargo": "Representante da COBAP",
+      "opinioes": [
+        "Criticou a Reforma da Previdência, especialmente a mudança na pensão por morte, descrevendo-a como cruel.",
+        "Relatou casos de pensionistas que enfrentam dificuldades extremas devido às mudanças nas pensões.",
+        "Destacou a necessidade de reverter a alteração na idade mínima para pensão vitalícia de 44 para 45 anos."
+      ]
+    },
+    {
+      "nome": "Maria do Carmo Guido Di Lascio",
+      "cargo": "Participante da audiência",
+      "opinioes": [
+        "Apoiou a necessidade de revisão das políticas de pensão por morte."
+      ]
+    },
+    {
+      "nome": "Margô Gomes de Oliveira Karnikowski",
+      "cargo": "Participante da audiência",
+      "opinioes": [
+        "Destacou os avanços trazidos pelo Estatuto do Idoso e a importância de consolidar espaços sociais que permitam um envelhecimento digno e intergeracional."
+      ]
+    },
+    {
+      "nome": "Alexandre da Silva",
+      "cargo": "Secretário Nacional da Pessoa Idosa",
+      "opinioes": [
+        "Afirmou a necessidade de criar redes de apoio para o envelhecimento.",
+        "Enfatizou a importância de garantir a autonomia e independência das pessoas idosas através de políticas públicas."
+      ]
+    },
+    {
+      "nome": "Wellington Coimbra",
+      "cargo": "Presidente do Tribunal Regional Eleitoral do Paraná",
+      "opinioes": [
+        "Relatou a utilização de redes sociais como o TikTok para engajar jovens e idosos no processo eleitoral.",
+        "Destacou a necessidade de maior proximidade do Poder Judiciário com a sociedade."
+      ]
+    },
+    {
+      "nome": "Antônio Fernandes Toninho Costa",
+      "cargo": "Ex-Secretário Nacional da Pessoa Idosa",
+      "opinioes": [
+        "Reforçou a importância de um orçamento adequado para a Secretaria da Pessoa Idosa.",
+        "Discutiu a criação de frentes de proteção durante a pandemia."
+      ]
+    },
+    {
+      "nome": "Alexandre Kalache",
+      "cargo": "Presidente do Centro Internacional de Longevidade Brasil (ILC-BR)",
+      "opinioes": [
+        "Comentou sobre os desafios do envelhecimento acelerado no Brasil em comparação com outros países.",
+        "Defendeu a participação ativa de universidades e entidades da sociedade civil na formulação de políticas públicas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública focou nas dificuldades enfrentadas pela população idosa, especialmente em relação às mudanças na pensão por morte introduzidas pela Reforma da Previdência. Participantes, incluindo representantes de entidades como a COBAP e autoridades como deputados e secretários, discutiram a necessidade de reverter essas mudanças, garantir a autonomia e dignidade dos idosos, e envolver mais a sociedade e o Poder Judiciário em ações de apoio à terceira idade. A Comissão se comprometeu a priorizar a defesa dos necessitados e a discussão de políticas públicas eficazes para o envelhecimento."
+}

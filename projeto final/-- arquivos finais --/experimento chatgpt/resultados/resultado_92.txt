@@ -1,0 +1,57 @@
+{
+  "assunto": "Recomendações para o aperfeiçoamento da política do aprendiz no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Felipe Rigoni",
+      "cargo": "Presidente da Comissão Especial",
+      "opinioes": []
+    },
+    {
+      "nome": "Antonio de Oliveira Lima",
+      "cargo": "Diretor de Assuntos Legislativos da ANPT",
+      "opinioes": [
+        "O Projeto de Lei nº 6.461, que propõe a aprovação do Estatuto do Aprendiz, é de suma importância para o direito à profissionalização de crianças, adolescentes e jovens.",
+        "O Ministério Público do Trabalho elaborou uma nota com várias propostas de aperfeiçoamento do projeto.",
+        "É importante que a aprendizagem profissional não saia da Consolidação das Leis do Trabalho.",
+        "Propõe ajustes nos artigos do projeto, como a inclusão de parágrafos que reforcem a profissionalização como um direito constitucional."
+      ]
+    },
+    {
+      "nome": "Luiz Antonio Colussi",
+      "cargo": "Juiz do Trabalho e Presidente da ANAMATRA",
+      "opinioes": [
+        "A aprendizagem deve ser tratada pelo Estado como uma política pública, pois estabelece pilares que garantem benefícios para a sociedade.",
+        "Defende a obrigatoriedade do cumprimento das cotas de aprendizagem e a contratação de aprendizes como empregados após o término do contrato.",
+        "Sugeriu a criação de políticas públicas que estimulem a contratação de ex-aprendizes."
+      ]
+    },
+    {
+      "nome": "Sebastião Estevam dos Santos",
+      "cargo": "Diretor Adjunto de Comunicação do SINAIT",
+      "opinioes": [
+        "A aprendizagem deve permanecer na Consolidação das Leis do Trabalho, pois é uma relação especial de emprego.",
+        "Destacou a importância da fiscalização na garantia da contratação de aprendizes.",
+        "Criticou a redução da alíquota de 5% e o aumento do prazo de aprendizagem de 2 para 3 anos, entre outras alterações propostas."
+      ]
+    },
+    {
+      "nome": "Maria Aparecida Gugel",
+      "cargo": "Subprocuradora do Trabalho e representante da AMPID",
+      "opinioes": [
+        "Criticou a falta de previsão de critérios de acessibilidade e adaptação razoável para aprendizes com deficiência.",
+        "Aumentar o prazo do contrato de aprendizagem para 3 anos é prejudicial para a pessoa com deficiência.",
+        "Defendeu a obrigatoriedade da frequência escolar para aprendizes com deficiência."
+      ]
+    },
+    {
+      "nome": "Anna Luiza Calixto Amaral",
+      "cargo": "Representante do CONAPETI",
+      "opinioes": [
+        "Criticou artigos que excluem determinados empregados do cálculo da cota de aprendizagem.",
+        "Afirmou que o objetivo do Estatuto do Aprendiz é garantir direitos fundamentais e ampliar a capilaridade da lei para mais adolescentes.",
+        "Argumentou contra a contagem em dobro de aprendizes em situação de vulnerabilidade social."
+      ]
+    }
+  ],
+  "tl_dr": "A 7ª Reunião Extraordinária da Comissão Especial discutiu recomendações para o aperfeiçoamento da política do aprendiz no Brasil, focando no Projeto de Lei nº 6.461, de 2019, que institui o Estatuto do Aprendiz. Diversos especialistas, incluindo Antonio de Oliveira Lima (ANPT), Luiz Antonio Colussi (ANAMATRA), Sebastião Estevam dos Santos (SINAIT), Maria Aparecida Gugel (AMPID) e Anna Luiza Calixto Amaral (CONAPETI), apresentaram suas opiniões e propostas de ajustes ao projeto. As discussões abordaram a necessidade de manter a aprendizagem profissional dentro da CLT, a importância da fiscalização, a inclusão de pessoas com deficiência, e a priorização dos adolescentes de 14 a 18 anos. A reunião enfatizou a importância de uma política pública robusta e inclusiva para a profissionalização de jovens no Brasil."
+}

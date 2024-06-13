@@ -1,0 +1,69 @@
+{
+  "assunto": "Discussão sobre a redução dos homicídios de jovens negros no Brasil e a construção de um pacto republicano pela preservação da vida da juventude negra.",
+  "envolvidos": [
+    {
+      "nome": "Luizianne Lins",
+      "cargo": "Deputada Federal, Bloco/PT - CE",
+      "opinioes": [
+        "A audiência pública debate a proposta de construção de um pacto republicano pela redução dos homicídios de jovens negros no Brasil.",
+        "Enfatizou a importância das tecnologias de acessibilidade no plenário.",
+        "Destacou a importância da Constituição de 1988 e a luta contínua pelos direitos da classe trabalhadora, mulheres, população indígena, negra, quilombola e comunidade LGBTQIA+."
+      ]
+    },
+    {
+      "nome": "Benedita da Silva",
+      "cargo": "Deputada Federal, Bloco/PT - RJ",
+      "opinioes": [
+        "Expressou a importância da homenagem recebida e a luta pela igualdade racial e pelos direitos humanos.",
+        "Enfatizou a necessidade de políticas afirmativas para a população negra e a resistência às desigualdades históricas.",
+        "Destacou o impacto da violência e da discriminação racial na juventude negra e a necessidade de ações concretas para mitigar esses problemas."
+      ]
+    },
+    {
+      "nome": "Rafael Moreira da Silva de Oliveira",
+      "cargo": "Coordenador de Projeto na Assessoria Especial de Assuntos Parlamentares e Federativos do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "O Programa Juventude Negra Viva deve ser prioridade devido à alta letalidade da juventude negra no Brasil.",
+        "Apresentou dados alarmantes sobre a violência contra jovens negros e a necessidade de políticas públicas específicas.",
+        "Destacou a importância de programas como o Prêmio Cidadania nas Periferias e o Prêmio Luiz Gama para reconhecer e valorizar iniciativas em prol dos direitos humanos."
+      ]
+    },
+    {
+      "nome": "Nilmário Miranda",
+      "cargo": "Assessor Especial de Defesa da Democracia, Memória e Verdade do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Ressaltou a importância da Comissão de Direitos Humanos da Câmara dos Deputados na luta pelos direitos humanos.",
+        "Destacou os desafios enfrentados pelos defensores dos direitos humanos no Brasil e a necessidade de maior participação social nas decisões.",
+        "Enfatizou a importância da educação e da conscientização sobre os direitos humanos e a igualdade racial."
+      ]
+    },
+    {
+      "nome": "Pastor Henrique Vieira",
+      "cargo": "Deputado Federal, Bloco/PSOL - RJ",
+      "opinioes": [
+        "Destacou o compromisso com a pauta da juventude negra e a necessidade de políticas públicas transversais e multidisciplinares.",
+        "Enfatizou a importância de garantir não apenas a sobrevivência, mas a vida plena e digna para a juventude negra.",
+        "Criticou a naturalização da violência e do racismo e a necessidade de uma mudança cultural e estrutural na sociedade brasileira."
+      ]
+    },
+    {
+      "nome": "Yuri Silva",
+      "cargo": "Diretor de Políticas de Combate e Superação do Racismo, do Ministério da Igualdade Racial",
+      "opinioes": [
+        "Ressaltou a construção de uma política para a juventude negra brasileira a partir de caravanas participativas e do trabalho interministerial.",
+        "Enfatizou que a preservação da vida da juventude negra é um debate de desenvolvimento e uma pauta civilizatória.",
+        "Destacou a importância de monitorar e garantir a efetivação das políticas públicas voltadas para a juventude negra."
+      ]
+    },
+    {
+      "nome": "Silvio Conceição do Rosário",
+      "cargo": "Major da Polícia Militar do Estado da Bahia, representante da Secretaria de Segurança Pública do Estado da Bahia",
+      "opinioes": [
+        "Compartilhou a importância de ressignificar a lógica da segurança pública no Brasil.",
+        "Destacou a criação do Curso de Policiamento Antirracista e a Ronda Antirracista como medidas para melhorar o atendimento e a atuação policial.",
+        "Enfatizou a necessidade de interseccionalidade entre segurança pública e a questão racial para uma segurança mais cidadã."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Direitos Humanos, Minorias e Igualdade Racial discutiu a redução dos homicídios de jovens negros no Brasil e a construção de um pacto republicano pela preservação da vida da juventude negra. A Deputada Luizianne Lins abriu o evento destacando a importância da Constituição de 1988 e a luta contínua pelos direitos de grupos vulneráveis. Benedita da Silva enfatizou a necessidade de políticas afirmativas e a resistência às desigualdades históricas. Rafael Moreira apresentou o Programa Juventude Negra Viva como prioridade devido à alta letalidade dos jovens negros, enquanto Nilmário Miranda ressaltou os desafios na defesa dos direitos humanos. O Deputado Pastor Henrique Vieira criticou a naturalização da violência e do racismo, e Yuri Silva destacou a construção de políticas para a juventude negra através de um trabalho interministerial. Silvio Conceição do Rosário, Major da Polícia Militar da Bahia, compartilhou iniciativas de policiamento antirracista e a necessidade de ressignificar a lógica da segurança pública."
+}

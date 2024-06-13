@@ -1,0 +1,87 @@
+{
+  "assunto": "Debate sobre o aumento dos casos de violência contra as mulheres no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Luizianne Lins",
+      "cargo": "Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial, Deputada Federal (Bloco/PT - CE)",
+      "opinioes": [
+        "Houve aumento nos casos de agressões, ameaças, chamadas ao 190, medidas protetivas, assédio sexual, feminicídios e estupros.",
+        "Destacou a importância da Lei Maria da Penha e sua necessidade de atualizações.",
+        "Criticou a política negacionista do governo anterior e o desmonte de políticas de proteção às mulheres."
+      ]
+    },
+    {
+      "nome": "Ana Pimentel",
+      "cargo": "Deputada Federal (Bloco/PT - MG)",
+      "opinioes": [
+        "Ressaltou a importância da audiência para debater e buscar avanços nas políticas públicas de combate à violência contra as mulheres.",
+        "Criticou a naturalização da violência pelo Estado e a polarização entre cidadãos e polícia.",
+        "Defendeu que todas as vidas devem ser protegidas e a necessidade de uma política de segurança pública técnica e de proteção."
+      ]
+    },
+    {
+      "nome": "Luiz Couto",
+      "cargo": "Deputado Federal (Bloco/PT - PB)",
+      "opinioes": [
+        "Destacou o aumento dos casos de violência contra a mulher conforme dados do Fórum Brasileiro de Segurança Pública.",
+        "Ressaltou a subnotificação como um problema e a necessidade de garantir segurança às vítimas para denunciar.",
+        "Criticou o machismo estrutural e a ignorância ecoada no governo anterior."
+      ]
+    },
+    {
+      "nome": "Carmela Zigoni",
+      "cargo": "Membro do Instituto de Estudos Socioeconômicos (INESC)",
+      "opinioes": [
+        "Apresentou dados sobre a redução do orçamento destinado às políticas para mulheres nos últimos anos.",
+        "Criticou a invisibilização das mulheres negras no plano plurianual do governo anterior.",
+        "Ressaltou a importância da recomposição do orçamento e da implementação de orçamentos sensíveis a gênero em todos os Ministérios."
+      ]
+    },
+    {
+      "nome": "Letícia Godinho",
+      "cargo": "Pesquisadora da Fundação João Pinheiro",
+      "opinioes": [
+        "Destacou o aumento dos homicídios de mulheres e feminicídios, conforme o Anuário Brasileiro de Segurança Pública.",
+        "Ressaltou a importância de considerar a soma dos homicídios e feminicídios como indicador e a subnotificação dos dados.",
+        "Criticou o desmonte das políticas públicas e o impacto do ultraconservadorismo no aumento da violência."
+      ]
+    },
+    {
+      "nome": "Luciano Pereira da Silva",
+      "cargo": "Coordenador-Geral de Monitoramento e Avaliação do Ministério da Igualdade Racial",
+      "opinioes": [
+        "Destacou a importância dos dados do DATASUS e a necessidade de filtrar melhor os dados por raça e cor.",
+        "Ressaltou a vulnerabilidade social como um fator correlacionado ao feminicídio.",
+        "Enfatizou a importância de políticas específicas para mulheres negras e a necessidade de dados mais claros para fortalecer essas políticas."
+      ]
+    },
+    {
+      "nome": "Denise Motta Dau",
+      "cargo": "Secretária de Enfrentamento à Violência contra as Mulheres do Ministério das Mulheres",
+      "opinioes": [
+        "Criticou o desfinanciamento das políticas de proteção à mulher e o impacto da pandemia nos serviços de acolhimento.",
+        "Destacou a ascensão dos movimentos ultraconservadores como um fator que contribuiu para o aumento da violência.",
+        "Ressaltou a importância de políticas afirmativas dentro das políticas de segurança pública."
+      ]
+    },
+    {
+      "nome": "Wilma dos Reis",
+      "cargo": "Membro da Marcha Mundial das Mulheres",
+      "opinioes": [
+        "Criticou a sociedade capitalista, patriarcal e racista como a causa do aumento das violências.",
+        "Destacou o golpe de 2016 como um fator que acentuou a divisão sexual do trabalho e a precarização dos direitos das mulheres.",
+        "Ressaltou a necessidade de políticas públicas mais eficazes e a importância da autonomia econômica para as mulheres."
+      ]
+    },
+    {
+      "nome": "Lêda Borges",
+      "cargo": "Deputada Federal (Bloco/PSDB - GO)",
+      "opinioes": [
+        "Ressaltou a importância da rede de proteção e da independência econômica para as mulheres.",
+        "Defendeu a necessidade de Delegacias Especializadas de Atendimento à Mulher (DEAMs) em todas as cidades brasileiras.",
+        "Criticou a progressão de pena para crimes de violência contra a mulher."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu o aumento dos casos de violência contra as mulheres no Brasil, destacando o impacto do desmonte das políticas públicas e do orçamento nos últimos anos. Participantes como as Deputadas Luizianne Lins, Ana Pimentel e Lêda Borges, além de representantes de organizações e do governo, discutiram a necessidade de reforçar a rede de proteção, garantir a autonomia econômica das mulheres e implementar políticas afirmativas e orçamentos sensíveis a gênero. A importância da Lei Maria da Penha e a crítica ao conservadorismo e à naturalização da violência foram temas centrais."
+}

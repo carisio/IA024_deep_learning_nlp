@@ -1,0 +1,51 @@
+{
+  "assunto": "Discussão sobre a situação do setor elétrico brasileiro, incluindo o apagão recente e a renovação das distribuidoras de energia, e a crise na mineração.",
+  "envolvidos": [
+    {
+      "nome": "Rodrigo de Castro",
+      "cargo": "Presidente da Comissão de Minas e Energia",
+      "opinioes": [
+        "Necessidade de esclarecimento sobre o apagão e medidas preventivas.",
+        "Importância da participação do Ministério de Minas e Energia na renovação das distribuidoras.",
+        "Crise na mineração e a situação da Agência Nacional de Mineração (ANM)."
+      ]
+    },
+    {
+      "nome": "Alexandre Silveira de Oliveira",
+      "cargo": "Ministro de Minas e Energia",
+      "opinioes": [
+        "Esclarecimentos sobre as ações do Ministério nos setores de energia elétrica, petróleo, gás e mineração.",
+        "Explicação técnica sobre o apagão, enfatizando a robustez do sistema elétrico brasileiro.",
+        "Apoio à modernização do sistema elétrico e investimentos em novas linhas de transmissão.",
+        "Defesa da necessidade de estabilidade regulatória e atração de investimentos.",
+        "Preocupação com a situação da ANM e defesa da reestruturação salarial e funcional da agência."
+      ]
+    },
+    {
+      "nome": "Luiz Carlos Ciocchi",
+      "cargo": "Diretor-Geral do Operador Nacional do Sistema Elétrico (ONS)",
+      "opinioes": [
+        "Detalhamento técnico sobre o apagão ocorrido em 15 de agosto.",
+        "Afirmou que o evento foi inusitado e destacou a complexidade do sistema elétrico brasileiro.",
+        "Defendeu a operação mais conservadora do sistema até a conclusão da análise das causas do apagão."
+      ]
+    },
+    {
+      "nome": "Bia Kicis",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Questionamento sobre a real causa do apagão e medidas para evitar futuros incidentes.",
+        "Preocupação com a modernização do sistema elétrico e a expansão de fontes de energia renováveis."
+      ]
+    },
+    {
+      "nome": "Odair Cunha",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Preocupação com a assertividade no diagnóstico do apagão.",
+        "Defesa da retomada do debate sobre a participação do governo na ELETROBRAS."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a situação do setor elétrico brasileiro, com foco no recente apagão, a necessidade de renovação das distribuidoras de energia, e a crise na mineração. Os principais envolvidos foram Rodrigo de Castro, presidente da Comissão de Minas e Energia; Alexandre Silveira, Ministro de Minas e Energia; Luiz Carlos Ciocchi, Diretor-Geral do ONS; e os deputados Bia Kicis e Odair Cunha. O debate destacou a importância da modernização e estabilidade do sistema elétrico, bem como a reestruturação da Agência Nacional de Mineração."
+}

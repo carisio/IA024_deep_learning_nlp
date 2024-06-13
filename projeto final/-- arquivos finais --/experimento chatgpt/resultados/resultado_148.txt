@@ -1,0 +1,66 @@
+{
+  "assunto": "Impactos da Fauna Exótica Invasora na Agropecuária e o Controle dessas Espécies",
+  "envolvidos": [
+    {
+      "nome": "Marcos Pollon",
+      "cargo": "Presidente da Comissão de Agricultura, Pecuária e Abastecimento e Desenvolvimento Rural da Câmara dos Deputados",
+      "opinioes": [
+        "Destaca a importância de tratar a questão da fauna exótica invasora de forma desideologizada para evitar a destruição da pecuária no Brasil.",
+        "Menciona que o manejo de fauna exótica está sendo comprometido desde janeiro devido a novas políticas governamentais."
+      ]
+    },
+    {
+      "nome": "Guilherme Takeda",
+      "cargo": "Coordenador de Prevenção e Vigilância de Doenças Animais do Ministério da Agricultura e Pecuária (MAPA)",
+      "opinioes": [
+        "Apresentou a situação das doenças suínas clássica e africana no Brasil e no mundo.",
+        "Explicou o papel do javali na transmissão dessas doenças e as ações de vigilância sanitária realizadas no Brasil.",
+        "Ressaltou a importância do monitoramento e controle dos suínos asselvajados para evitar a propagação de doenças."
+      ]
+    },
+    {
+      "nome": "João Carlos de Carli",
+      "cargo": "Consultor da Comissão Ambiental do Instituto Pensar Agropecuária (FPA)",
+      "opinioes": [
+        "Alertou sobre os prejuízos econômicos e sociais causados por várias espécies exóticas, além do javali.",
+        "Destacou a importância de um controle efetivo e contínuo dessas espécies para evitar a propagação de doenças e danos às plantações.",
+        "Criticou a falta de ações coordenadas e sugeriu a necessidade de uma maior integração entre controladores, pesquisadores e órgãos públicos."
+      ]
+    },
+    {
+      "nome": "Lívia Karina Passos Martins",
+      "cargo": "Diretora de Uso Sustentável da Biodiversidade e Florestas do IBAMA",
+      "opinioes": [
+        "Ressaltou os danos ambientais causados pelos javalis e a necessidade de um controle efetivo.",
+        "Explicou as mudanças na instrução normativa para adequação ao novo decreto e as dificuldades enfrentadas pelo IBAMA para implementar essas mudanças.",
+        "Destacou a importância de ações conjuntas entre IBAMA, Polícia Ambiental, controladores e MAPA para um controle eficaz dos javalis."
+      ]
+    },
+    {
+      "nome": "Humberto de Mattos Brandão",
+      "cargo": "Chefe da Divisão Nacional de Controle de Armas e Fogo da Polícia Federal",
+      "opinioes": [
+        "Explicou o papel da Polícia Federal na nova regulamentação do controle de armas, conforme o Decreto nº 11.615, de 2023.",
+        "Destacou a necessidade de uma estrutura adequada e pessoal suficiente para lidar com a demanda de controle de armas transferida do Exército para a Polícia Federal."
+      ]
+    },
+    {
+      "nome": "Rodrigo Bordeaux Mattos",
+      "cargo": "Chefe da Divisão de Regulação do Exército Brasileiro (DFPC)",
+      "opinioes": [
+        "Ressaltou que não houve transferência de responsabilidade do controle de javalis do IBAMA para o Exército.",
+        "Explicou as mudanças trazidas pelo Decreto nº 11.615, de 2023, especialmente no que diz respeito à emissão de guias de tráfego e à regularização da atividade de caça."
+      ]
+    },
+    {
+      "nome": "Rafael Augusto Salerno",
+      "cargo": "Presidente da Associação Brasileira de Caçadores",
+      "opinioes": [
+        "Destacou o impacto dos javalis na agricultura e no meio ambiente.",
+        "Criticou a suspensão do manejo dos javalis e a falta de políticas determinadas para o controle desses animais.",
+        "Enfatizou a necessidade de um controle eficiente e contínuo para evitar a propagação dos javalis e seus impactos negativos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou os impactos das espécies exóticas invasoras, especialmente os javalis, na agropecuária e no meio ambiente. Os participantes destacaram a necessidade de um controle efetivo e contínuo dessas espécies para evitar a propagação de doenças e danos econômicos e ambientais. Foi enfatizada a importância de ações coordenadas entre diversos órgãos e setores para enfrentar o problema. Críticas foram feitas à suspensão do manejo dos javalis e à falta de uma política clara e eficaz para o controle dessas espécies."
+}

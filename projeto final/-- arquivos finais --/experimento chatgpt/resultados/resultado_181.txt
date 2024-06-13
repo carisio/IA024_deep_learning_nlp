@@ -1,0 +1,77 @@
+{
+  "assunto": "Debate sobre o Programa Nacional de Controle do Tabagismo (PNCT) na Comissão de Defesa dos Direitos da Pessoa Idosa.",
+  "envolvidos": [
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Deputado Federal (Bloco/UNIÃO - GO)",
+      "opinioes": [
+        "Apoia e fortalece o Programa Nacional de Controle do Tabagismo.",
+        "Destaca os altos números de mortes e doenças causadas pelo tabagismo.",
+        "Ressalta a importância da luta contra o tabagismo e a necessidade do engajamento de todos os setores da sociedade."
+      ]
+    },
+    {
+      "nome": "Maria José Giongo",
+      "cargo": "Chefe da Divisão do Programa Nacional de Controle do Tabagismo e Outros Fatores de Risco de Câncer do Ministério da Saúde",
+      "opinioes": [
+        "Destaca que o tabagismo é um grande problema de saúde pública, especialmente entre as populações de menor renda e baixa escolaridade.",
+        "Apresenta dados do impacto econômico e de saúde do tabagismo no Brasil.",
+        "Explica os objetivos e estratégias do Programa Nacional de Controle do Tabagismo, como prevenir a iniciação e promover a cessação do tabagismo.",
+        "Ressalta a importância de ambientes livres de fumaça e da cooperação internacional para o controle do tabagismo.",
+        "Defende a necessidade de políticas públicas e da formação de profissionais de saúde para o tratamento do tabagismo."
+      ]
+    },
+    {
+      "nome": "Sandra Marques",
+      "cargo": "Coordenadora Estadual de São Paulo do Programa Nacional de Controle do Tabagismo",
+      "opinioes": [
+        "Elogia o Brasil como modelo exitoso no controle do tabagismo.",
+        "Destaca os desafios enfrentados durante a pandemia e a importância da retomada das ações de controle.",
+        "Enfatiza a necessidade de qualificação dos profissionais de saúde para o manejo do tabagismo como uma dependência química.",
+        "Defende a inclusão do Programa Nacional de Controle do Tabagismo no Plano Nacional de Saúde e a necessidade de financiamento adequado.",
+        "Sublinha a importância da intersetorialidade e da participação de diversos setores no controle do tabagismo."
+      ]
+    },
+    {
+      "nome": "Margareth Dalcolmo",
+      "cargo": "Presidente da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT)",
+      "opinioes": [
+        "Ressalta a importância de fornecer medicações para o tratamento de doenças pulmonares obstrutivas crônicas e asma brônquica.",
+        "Propõe o treinamento de profissionais para diagnóstico precoce de doenças pulmonares.",
+        "Expressa preocupação com o aumento do uso de cigarros eletrônicos entre jovens e adolescentes.",
+        "Defende a necessidade de ações mais rigorosas de fiscalização e proibição da venda de cigarros eletrônicos."
+      ]
+    },
+    {
+      "nome": "Mônica Andreis",
+      "cargo": "Diretora-Geral da ONG Aliança de Controle do Tabagismo (ACT Promoção da Saúde)",
+      "opinioes": [
+        "Reafirma a importância do Programa Nacional de Controle do Tabagismo e da CONICQ.",
+        "Defende a política de aumento de preços e impostos sobre o tabaco como uma medida eficaz para reduzir o consumo.",
+        "Alerta sobre os riscos dos dispositivos eletrônicos para fumar e defende a manutenção da proibição da ANVISA.",
+        "Pede o apoio a medidas legislativas que fortaleçam o controle do tabagismo e a sensibilização dos parlamentares para a importância dessas medidas."
+      ]
+    },
+    {
+      "nome": "Diogo Alves",
+      "cargo": "Oficial Nacional de Controle de Tabaco e Impostos Saudáveis da Coordenação de Determinantes da Saúde, Doenças Crônicas não Transmissíveis e Saúde Mental da OPAS/OMS no Brasil",
+      "opinioes": [
+        "Destaca o impacto econômico e social do tabagismo, especialmente em países de baixa e média renda.",
+        "Reforça a importância de programas nacionais e de medidas baseadas em evidências para o controle do tabagismo.",
+        "Enfatiza a necessidade de aumento de preços e impostos sobre o tabaco como uma medida eficaz para reduzir o consumo.",
+        "Alerta para a questão dos cigarros eletrônicos e a necessidade de medidas rigorosas de controle e fiscalização."
+      ]
+    },
+    {
+      "nome": "Gustavo San Martin",
+      "cargo": "Diretor-Executivo da associação Crônicos do Dia a Dia e fundador da ONG Amigos Múltiplos pela Esclerose",
+      "opinioes": [
+        "Aborda a relação entre o tabagismo e a Doença Pulmonar Obstrutiva Crônica (DPOC).",
+        "Destaca os altos custos econômicos e de saúde associados ao tratamento da DPOC.",
+        "Defende a necessidade de atualização do protocolo clínico para o tratamento da DPOC e o aumento da oferta de espirometria pelo SUS.",
+        "Ressalta a importância de ações preventivas e de políticas públicas eficazes para o controle do tabagismo."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos da Pessoa Idosa debateu o Programa Nacional de Controle do Tabagismo (PNCT). Dr. Zacharias Calil destacou o impacto negativo do tabagismo na saúde pública. Maria José Giongo apresentou dados alarmantes sobre o tabagismo e destacou a importância de políticas públicas e cooperação internacional. Sandra Marques elogiou o Brasil como um modelo exitoso no controle do tabagismo, ressaltando a necessidade de financiamento adequado e qualificação dos profissionais de saúde. Margareth Dalcolmo expressou preocupação com o aumento do uso de cigarros eletrônicos entre jovens e defendeu ações rigorosas de fiscalização. Mônica Andreis defendeu a política de aumento de preços e impostos sobre o tabaco e pediu apoio a medidas legislativas. Diogo Alves enfatizou o impacto econômico do tabagismo e a necessidade de medidas rigorosas de controle. Gustavo San Martin destacou a relação entre o tabagismo e a DPOC, defendendo a atualização do protocolo clínico e o aumento da oferta de espirometria pelo SUS."
+}

@@ -1,0 +1,61 @@
+{
+  "assunto": "Debate sobre o Dia Mundial de Conscientização sobre o Autismo e a implementação de políticas públicas para pessoas com Transtorno do Espectro Autista (TEA)",
+  "envolvidos": [
+    {
+      "nome": "Weliton Prado",
+      "cargo": "Deputado, Bloco/SOLIDARIEDADE - MG",
+      "opinioes": [
+        "Destaca a importância da audiência pública para debater o Dia Mundial de Conscientização sobre o Autismo.",
+        "Ressalta a necessidade de que todas as escolas sejam inclusivas e respeitem seus projetos político-pedagógicos para incluir pessoas com autismo.",
+        "Informa sobre a necessidade de diagnósticos e atendimentos de saúde adequados para pessoas com autismo no Distrito Federal."
+      ]
+    },
+    {
+      "nome": "Andreia Siqueira",
+      "cargo": "Deputada, Bloco/MDB - PA",
+      "opinioes": [
+        "Agradece aos convidados e destaca a importância da audiência pública.",
+        "Relata seus esforços para promover políticas públicas que garantam a inclusão e desenvolvimento das pessoas com TEA.",
+        "Destaca a importância da educação, saúde e oportunidades no mercado de trabalho para pessoas com TEA."
+      ]
+    },
+    {
+      "nome": "Fernando Cotta",
+      "cargo": "Presidente de Honra do Movimento Orgulho Autista Brasil",
+      "opinioes": [
+        "Defende a necessidade de uma verdadeira inclusão para pessoas com autismo em todos os setores da sociedade.",
+        "Relata o sucesso do Movimento Orgulho Autista Brasil na publicização da causa desde 2005.",
+        "Critica a falta de suporte adequado do SUS e outras instituições para autistas de níveis 2 e 3 de suporte.",
+        "Apresenta a Casa do Autista, ONG que oferece mais de 2 mil atendimentos gratuitos mensais com uma renda per capita de R$ 5,33."
+      ]
+    },
+    {
+      "nome": "Luane Carvalho Costa",
+      "cargo": "Representante da Coordenação-Geral de Saúde da Pessoa com Deficiência, Ministério da Saúde",
+      "opinioes": [
+        "Destaca os desafios de cuidar das pessoas com TEA na área da saúde.",
+        "Fala sobre a atualização da Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência e da Rede de Cuidados à Pessoa com Deficiência no SUS.",
+        "Enfatiza a importância do cuidado integral, ações contra o capacitismo, interseccionalidade e qualificação dos projetos terapêuticos."
+      ]
+    },
+    {
+      "nome": "Roselene Candida Alves",
+      "cargo": "Representante da Secretaria Nacional dos Direitos das Pessoas com Deficiência, Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "Fala sobre a importância do autismo na perspectiva da neurodiversidade.",
+        "Apresenta iniciativas do Plano Novo Viver sem Limite para garantir mais dignidade às pessoas com deficiência e suas famílias.",
+        "Critica a estigmatização das pessoas autistas na sociedade."
+      ]
+    },
+    {
+      "nome": "Daniela Reinehr",
+      "cargo": "Deputada, PL - SC",
+      "opinioes": [
+        "Comemora as vitórias e aperfeiçoamentos na inclusão de pessoas com deficiência ao longo dos anos.",
+        "Enfatiza a importância da formação de novos profissionais para atender à crescente demanda de pessoas com deficiência.",
+        "Destaca a necessidade de promover a inclusão de pessoas com deficiência na educação, mercado de trabalho e esporte."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o Dia Mundial de Conscientização sobre o Autismo, destacando a importância da inclusão, educação e saúde para pessoas com Transtorno do Espectro Autista (TEA). Participaram do debate deputados, representantes do governo e ONGs, que defenderam a implementação efetiva de políticas públicas e relataram desafios enfrentados pelas famílias de autistas. Opiniões variaram desde a necessidade de escolas inclusivas até a crítica à falta de suporte adequado em instituições de saúde. Fernando Cotta apresentou a Casa do Autista, uma ONG que realiza atendimentos gratuitos. Luane Carvalho Costa e Roselene Candida Alves destacaram ações governamentais e a importância da neurodiversidade."
+}

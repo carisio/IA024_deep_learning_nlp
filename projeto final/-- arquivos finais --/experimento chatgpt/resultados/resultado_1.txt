@@ -1,0 +1,72 @@
+{
+  "assunto": "Discussão sobre censura e liberdade de expressão no Brasil, com foco nos Twitter Files e as ações do STF.",
+  "envolvidos": [
+    {
+      "nome": "Lucas Redecker",
+      "cargo": "Presidente da Comissão de Relações Exteriores e de Defesa Nacional, Deputado Federal (PSDB-RS)",
+      "opinioes": [
+        "Destacou a importância da audiência para discutir a censura e a liberdade de expressão no Brasil.",
+        "Agradeceu a presença dos convidados e organizou a sequência de falas dos deputados e convidados."
+      ]
+    },
+    {
+      "nome": "Michael Shellenberger",
+      "cargo": "Jornalista e Autor",
+      "opinioes": [
+        "Expressou preocupação com a censura no Brasil, mencionando que o país poderia estar à beira de um regime de censura muito severo.",
+        "Afirmou que a liberdade de expressão é essencial e que censurar para proteger a democracia é uma forma de desinformação grave.",
+        "Criticou o poder ilimitado de censura nas mãos do Ministro Alexandre de Moraes."
+      ]
+    },
+    {
+      "nome": "Eli Vieira Araújo",
+      "cargo": "Jornalista",
+      "opinioes": [
+        "Apoiou o modelo americano de liberdade de expressão, que permite uma proteção mais ampla à expressão, inclusive para discursos ofensivos.",
+        "Criticou a violação do ordenamento jurídico brasileiro por parlamentares, promotores e ordens judiciais que coletam informações em massa sem respeitar a lei."
+      ]
+    },
+    {
+      "nome": "Glenn Greenwald",
+      "cargo": "Jornalista",
+      "opinioes": [
+        "Denunciou que as ordens de censura do STF são completamente secretas, sem acusação específica e sem oportunidade de defesa.",
+        "Criticou o uso contínuo do poder de censura pelo Ministro Alexandre de Moraes mesmo após o período eleitoral.",
+        "Defendeu que jornalistas devem evitar a politização e sempre lutar pela liberdade de expressão e contra a censura."
+      ]
+    },
+    {
+      "nome": "Marcel van Hattem",
+      "cargo": "Deputado Federal (NOVO-RS)",
+      "opinioes": [
+        "Reforçou a importância da exposição internacional dos Twitter Files para mostrar as ordens ilegais e inconstitucionais de censura no Brasil.",
+        "Criticou a perseguição e censura promovidas pelo STF e destacou a necessidade de um novo pacto com os brasileiros para garantir a democracia e a liberdade de expressão."
+      ]
+    },
+    {
+      "nome": "Luiz Philippe de Orleans e Bragança",
+      "cargo": "Deputado Federal (PL-SP)",
+      "opinioes": [
+        "Enalteceu a defesa da liberdade de expressão pelos convidados e questionou a legalidade das ações do Ministro da Justiça e do STF.",
+        "Defendeu que a mídia internacional e os políticos internacionais devem reagir se o Brasil não tomar providências contra a censura."
+      ]
+    },
+    {
+      "nome": "Arlindo Chinaglia",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Criticou a falta de equilíbrio na escolha dos painelistas para a audiência pública.",
+        "Destacou que todos os jornalistas presentes estavam em busca da verdade, independentemente de suas preferências políticas."
+      ]
+    },
+    {
+      "nome": "Mario Frias",
+      "cargo": "Deputado Federal (PL-SP)",
+      "opinioes": [
+        "Afirmou que o Brasil vive sob uma sombra de incerteza quanto aos limites da democracia.",
+        "Criticou a censura e defendeu que as questões de difamação e acusação devem ser tratadas juridicamente, sem a necessidade de novas leis."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Relações Exteriores e de Defesa Nacional discutiu amplamente a questão da censura e da liberdade de expressão no Brasil, destacando as revelações dos Twitter Files e criticando as ações do STF, especialmente do Ministro Alexandre de Moraes. Participantes como Michael Shellenberger, Glenn Greenwald e Eli Vieira Araújo defenderam a liberdade de expressão e condenaram a censura, enquanto deputados como Marcel van Hattem e Luiz Philippe de Orleans e Bragança ressaltaram a necessidade de reação internacional e medidas para garantir a democracia no Brasil. O presidente da comissão, Lucas Redecker, organizou e conduziu a audiência, permitindo um debate detalhado sobre o tema."
+}

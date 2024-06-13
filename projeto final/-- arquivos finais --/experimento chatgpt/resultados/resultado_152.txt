@@ -1,0 +1,81 @@
+{
+  "assunto": "Debate sobre as políticas de atendimento, apoio e reparação das pessoas com deficiência vítimas de acidentes de trânsito.",
+  "envolvidos": [
+    {
+      "nome": "Márcio Jerry",
+      "cargo": "Deputado Federal, Presidente da Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "opinioes": [
+        "Importância de debater as políticas de atendimento e reparação para vítimas de acidentes de trânsito.",
+        "Agradece a presença de todos e reitera a importância do tema para a sociedade."
+      ]
+    },
+    {
+      "nome": "Carlos Roberto Alves de Queiroz",
+      "cargo": "Diretor da Superintendência de Seguros Privados (SUSEP)",
+      "opinioes": [
+        "A principal política de apoio às vítimas de acidentes de trânsito no Brasil é o seguro DPVAT, instituído pela Lei nº 6.194 de 1974.",
+        "O DPVAT cobre danos pessoais causados por veículos automotores, com indenizações por morte, invalidez permanente e despesas médicas.",
+        "Desde 2021, a Caixa Econômica Federal é responsável pela gestão do fundo e operacionalização das indenizações."
+      ]
+    },
+    {
+      "nome": "Lúcio Deodato Machado de Almeida",
+      "cargo": "Presidente do Centro de Defesa das Vítimas do Trânsito (CDVT)",
+      "opinioes": [
+        "É necessário haver políticas públicas de reabilitação para vítimas de acidentes de trânsito, além das indenizações.",
+        "Critica a isenção da arrecadação do DPVAT e o congelamento das indenizações desde 2006.",
+        "Propõe a inclusão de representantes das vítimas no Conselho Nacional de Seguros Privados e a melhoria das perícias médicas."
+      ]
+    },
+    {
+      "nome": "Patricia Menezes",
+      "cargo": "Advogada e Diretora Jurídica do CDVT",
+      "opinioes": [
+        "Defende a importância do DPVAT para a manutenção das vítimas de trânsito.",
+        "Critica a obrigatoriedade de abertura de conta na Caixa para receber a indenização.",
+        "Solicita transparência nas ações do Ministério da Fazenda e o envolvimento das entidades de defesa das vítimas nas decisões sobre o DPVAT."
+      ]
+    },
+    {
+      "nome": "Enio Alberto Siloti",
+      "cargo": "Representante da Associação Nacional dos Procuradores de Seguros (ANPS)",
+      "opinioes": [
+        "Critica a atuação da Caixa na gestão das indenizações, especialmente em relação à poupança social digital e à demora nos pagamentos.",
+        "Destaca a necessidade de melhorar a reanálise de perícias e a transparência nos processos de indenização."
+      ]
+    },
+    {
+      "nome": "Carlos Ademir Veras Pinheiro",
+      "cargo": "Vice-Presidente da Associação Brasileira de Atendimento às Vítimas de Trânsito (ABAVT)",
+      "opinioes": [
+        "Ressalta a importância do DPVAT para vítimas de trânsito de baixa renda.",
+        "Critica a possibilidade de extinção do DPVAT e solicita medidas urgentes para sua manutenção e revisão dos valores de indenização."
+      ]
+    },
+    {
+      "nome": "Danielle Mendonça de Souza dos Reis",
+      "cargo": "Superintendente Nacional de Gestão de Fundos da Caixa Econômica Federal",
+      "opinioes": [
+        "A Caixa aceitou o desafio de operacionalizar o DPVAT em 2021 e vem realizando melhorias contínuas no processo.",
+        "Destaca que a maior parte dos pedidos de indenização é feita digitalmente e que o prazo médio de pagamento é de 16,4 dias.",
+        "Reafirma a disposição da Caixa em continuar operacionalizando o DPVAT e a necessidade de definição do modelo para 2024."
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal",
+      "opinioes": [
+        "Defende a manutenção do DPVAT e a necessidade de financiamento contínuo para garantir sua sustentabilidade.",
+        "Critica o congelamento das indenizações e destaca a importância de considerar os acidentes de trânsito como acidentes de trabalho quando aplicável."
+      ]
+    },
+    {
+      "nome": "Leo Prates",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "Parabeniza a Caixa pelo trabalho realizado e questiona como a instituição pretende melhorar ainda mais os processos de indenização."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Defesa dos Direitos das Pessoas com Deficiência discutiu as políticas de atendimento, apoio e reparação das pessoas com deficiência vítimas de acidentes de trânsito, com foco na importância do seguro DPVAT. Participaram diversos especialistas e representantes de entidades, que ressaltaram a necessidade de manter o DPVAT, revisar os valores das indenizações e melhorar os processos de reanálise de perícias e pagamento das indenizações. A Caixa Econômica Federal, responsável pela operacionalização do DPVAT desde 2021, destacou as melhorias contínuas e a necessidade de definição do modelo para 2024. Os parlamentares presentes também enfatizaram a urgência de garantir a continuidade do DPVAT e o financiamento adequado para sua sustentabilidade."
+}

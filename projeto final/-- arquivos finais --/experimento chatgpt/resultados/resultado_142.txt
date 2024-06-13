@@ -1,0 +1,49 @@
+{
+  "assunto": "Impactos positivos e negativos do Projeto de Lei nº 2.591, de 2023, que altera regras relativas ao percentual da remuneração que pode ser aplicado na contratação de crédito consignado.",
+  "envolvidos": [
+    {
+      "nome": "Prof. Paulo Fernando",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Destaca que o Projeto de Lei nº 2.591, de 2023, visa alterar o percentual da remuneração que pode ser aplicado na contratação de crédito consignado.",
+        "Menciona que o objetivo da audiência pública é subsidiar o Relator e os membros da Comissão com informações necessárias para a confecção do futuro parecer."
+      ]
+    },
+    {
+      "nome": "Pedro Armengol de Souza",
+      "cargo": "Diretor da Confederação dos Trabalhadores no Serviço Público Federal (CONDSEF)",
+      "opinioes": [
+        "Aponta que aproximadamente 70% dos servidores da sua base estão endividados com empréstimos consignados.",
+        "Defende a importância de uma política de valorização dos servidores públicos para evitar o endividamento.",
+        "Critica a modalidade de cartão consignado, considerando-a uma dívida impagável.",
+        "Apoia a retirada da obrigatoriedade do uso do cartão consignado e a possibilidade de escolha pelo trabalhador."
+      ]
+    },
+    {
+      "nome": "Edison João Costa",
+      "cargo": "Presidente da Associação Nacional dos Profissionais e Empresas Promotoras de Crédito e Correspondentes no País (ANEPS)",
+      "opinioes": [
+        "Defende o uso do cartão de crédito consignado, considerando-o uma melhor opção em comparação ao crédito pessoal.",
+        "Argumenta que a portabilidade de taxas de juros mais altas para mais baixas deve ser mais divulgada e incentivada.",
+        "Sublinha a importância da educação financeira para o uso correto do cartão de crédito."
+      ]
+    },
+    {
+      "nome": "Vitor Hugo do Amaral Ferreira",
+      "cargo": "Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor (SENACON)",
+      "opinioes": [
+        "Ressalta a necessidade de promover a educação financeira para enfrentar o problema do superendividamento.",
+        "Enfatiza a importância de garantir o direito de escolha ao consumidor e fornecer informações claras sobre as opções de crédito."
+      ]
+    },
+    {
+      "nome": "Lusimar Arruda",
+      "cargo": "Presidente da Associação da Família Policial e Bombeiro Militar do DF",
+      "opinioes": [
+        "Relata o impacto negativo do endividamento sobre a saúde mental dos policiais e bombeiros, incluindo casos de suicídio.",
+        "Critica a modalidade de cartão consignado, afirmando que ela promove um endividamento adicional desnecessário."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os impactos do Projeto de Lei nº 2.591, de 2023, sobre o crédito consignado. Participaram diversos representantes, incluindo o Deputado Prof. Paulo Fernando, que destacou a importância do projeto. Pedro Armengol de Souza, da CONDSEF, criticou o endividamento dos servidores públicos e a modalidade de cartão consignado. Edison João Costa, da ANEPS, defendeu o uso do cartão de crédito consignado e a necessidade de educação financeira. Vitor Hugo do Amaral Ferreira, da SENACON, enfatizou a importância da escolha informada pelo consumidor. Lusimar Arruda, da Associação da Família Policial e Bombeiro Militar do DF, destacou o impacto negativo do endividamento na saúde mental dos servidores."
+}

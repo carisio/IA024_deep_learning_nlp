@@ -1,0 +1,67 @@
+{
+  "assunto": "Discussão sobre a ampliação do acesso a recursos e tratamentos para a distonia no sistema público de saúde",
+  "envolvidos": [
+    {
+      "nome": "Meire Serafim",
+      "cargo": "Deputada Federal, Presidente da Comissão",
+      "opinioes": [
+        "A distonia é uma condição neurológica debilitante que causa contrações musculares involuntárias, resultando em movimentos repetitivos e posturas anormais.",
+        "Os acessos a tratamentos e recursos através da saúde pública são limitados.",
+        "A audiência pública visa discutir a necessidade de ampliação do acesso a recursos e tratamentos para a distonia."
+      ]
+    },
+    {
+      "nome": "Amira Awada",
+      "cargo": "Vice-Presidente do Instituto Vidas Raras",
+      "opinioes": [
+        "É importante haver audiências públicas sobre patologias que precisam ser incorporadas ao Sistema Único de Saúde.",
+        "A dificuldade de acesso a políticas públicas específicas para essas patologias agrava as condições dos pacientes.",
+        "As políticas públicas sobre doenças raras devem ser completas e contemplar as necessidades dos pacientes.",
+        "Doenças raras e crônicas não devem ser negligenciadas pelo poder público."
+      ]
+    },
+    {
+      "nome": "Heitor Felipe Lima",
+      "cargo": "Neurologista",
+      "opinioes": [
+        "As distonias significam situações em que contrações involuntárias de grupos musculares diferentes fazem com que a pessoa tenha uma mudança na posição de certa parte do corpo.",
+        "Muitos medicamentos já foram tentados para o tratamento da distonia, mas a toxina botulínica tem sido eficaz para diminuir a contração muscular involuntária."
+      ]
+    },
+    {
+      "nome": "Patricia Dumke da Silva Möller",
+      "cargo": "Neurologista Pediátrica",
+      "opinioes": [
+        "Na infância e na adolescência, a paralisia cerebral é a principal causa de distonia.",
+        "A distonia pode ser uma sequela de um dano cerebral ou parte de uma doença de base.",
+        "Há necessidade de tratamento integral e de inclusão social para crianças e adolescentes com distonia."
+      ]
+    },
+    {
+      "nome": "Maria Nilde Soares",
+      "cargo": "Presidente do Instituto Distonia Saúde",
+      "opinioes": [
+        "Um paciente com distonia necessita de uma equipe multidisciplinar para tratamento.",
+        "É importante divulgar e informar sobre a distonia para salvar vidas.",
+        "Há uma necessidade de ampliação de tratamento e capacitação dos profissionais de saúde."
+      ]
+    },
+    {
+      "nome": "Sara Casagrande",
+      "cargo": "Neurologista",
+      "opinioes": [
+        "As doenças raras, como a distonia, precisam de maior divulgação e diagnóstico precoce.",
+        "A atuação das associações é fundamental para o acolhimento e troca de experiências dos pacientes."
+      ]
+    },
+    {
+      "nome": "Rosângela Moro",
+      "cargo": "Deputada Federal",
+      "opinioes": [
+        "A saúde não é apenas cura, mas qualidade de vida.",
+        "A capacitação da porta de entrada do SUS é importante para um diagnóstico rápido e correto."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada em 11 de julho de 2023, presidida pela Deputada Meire Serafim, discutiu a necessidade de ampliar o acesso a recursos e tratamentos para a distonia no sistema público de saúde. Participaram da audiência especialistas como os neurologistas Heitor Felipe Lima, Patricia Dumke da Silva Möller, e Sara Casagrande, além de representantes de instituições como Amira Awada do Instituto Vidas Raras e Maria Nilde Soares do Instituto Distonia Saúde. Foram abordadas questões sobre a dificuldade de diagnóstico e tratamento, a importância da capacitação profissional e a necessidade de políticas públicas mais inclusivas e eficazes. A Deputada Rosângela Moro também participou, destacando a importância da qualidade de vida e do diagnóstico precoce."
+}

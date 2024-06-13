@@ -1,0 +1,76 @@
+{
+  "assunto": "Regulamentação da Lei Paulo Gustavo e sua importância para o cenário cultural do Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Thiago Rocha Leandro",
+      "cargo": "Diretor de Assistência Técnica a Estados, Distrito Federal e Municípios, representante do Ministério da Cultura",
+      "opinioes": [
+        "A Lei Paulo Gustavo foi aprovada para socorrer o setor cultural, muito afetado pela pandemia.",
+        "Durante a pandemia, a cultura foi um dos setores mais impactados, sendo um dos primeiros a parar e um dos últimos a retornar.",
+        "A Lei Paulo Gustavo destinou 3,8 bilhões de reais para a cultura, distribuídos entre Estados e Municípios.",
+        "Houve uma alta adesão à Lei, com 98,12% dos Municípios do Brasil participando.",
+        "A cultura é um setor significativo para o PIB brasileiro, gerando mais empregos que a indústria automobilística.",
+        "O Ministério da Cultura voltou com o maior orçamento da história, investindo em cultura como desenvolvimento humano."
+      ]
+    },
+    {
+      "nome": "Jefferson Santiago",
+      "cargo": "Representante do Movimento Pagode da 27, do Grajaú",
+      "opinioes": [
+        "O projeto Pagode da 27 realiza um trabalho sociocultural há 18 anos sem o devido reconhecimento do poder público.",
+        "A Lei Paulo Gustavo é vista como uma oportunidade para gerar empregos e qualificar projetos culturais na periferia."
+      ]
+    },
+    {
+      "nome": "Tarcísio Motta",
+      "cargo": "Deputado pelo PSOL do Rio de Janeiro",
+      "opinioes": [
+        "A cultura foi essencial durante a pandemia para a saúde mental da população.",
+        "A Lei Paulo Gustavo e a Lei Aldir Blanc foram vitais para o sustento de políticas culturais.",
+        "A Lei Paulo Gustavo tem que ser comemorada por apoiar especialmente o audiovisual, que gera emprego, renda e cultura."
+      ]
+    },
+    {
+      "nome": "Defensor Stélio Dener",
+      "cargo": "Deputado pelo Republicanos de Roraima",
+      "opinioes": [
+        "A Lei Paulo Gustavo é crucial para todos os segmentos culturais e fomenta a cultura em Roraima.",
+        "É importante discutir outras ações para auxiliar o Governo Federal a garantir a aplicação dos recursos."
+      ]
+    },
+    {
+      "nome": "Max Maciel",
+      "cargo": "Deputado Distrital da Câmara Legislativa do Distrito Federal",
+      "opinioes": [
+        "A Lei Paulo Gustavo é essencial para a produção audiovisual nas periferias.",
+        "É necessário equipar auditórios e espaços culturais para democratizar o acesso ao cinema e à produção audiovisual.",
+        "A cultura gera um grande impacto econômico e social, especialmente em territórios periféricos."
+      ]
+    },
+    {
+      "nome": "Fernanda Morgani",
+      "cargo": "Conselheira Nacional de Políticas Culturais e representante da Associação de Profissionais do Audiovisual Negro (APAN)",
+      "opinioes": [
+        "A Lei Paulo Gustavo é uma conquista da sociedade civil e necessita de fiscalização e regulamentação.",
+        "É preciso profissionalizar a cultura e utilizar as instâncias de participação social para garantir a aplicação dos recursos."
+      ]
+    },
+    {
+      "nome": "Eneida Soller",
+      "cargo": "Presidente do Conselho Brasileiro de Entidades Culturais (CBEC)",
+      "opinioes": [
+        "Os editais da Lei Paulo Gustavo precisam garantir o acesso das pequenas produtoras independentes.",
+        "Há preocupação de que editais com valores muito altos possam dificultar o acesso dos artistas aos recursos."
+      ]
+    },
+    {
+      "nome": "Aureo Ribeiro",
+      "cargo": "Deputado pelo Solidariedade do Rio de Janeiro",
+      "opinioes": [
+        "Questiona a dificuldade na aplicação dos recursos da Lei Paulo Gustavo.",
+        "Propõe estender o prazo para execução dos recursos até 30 de junho de 2024."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Cultura discutiu a regulamentação e a importância da Lei Paulo Gustavo para o setor cultural brasileiro. Entre os principais envolvidos estavam representantes do Ministério da Cultura, movimentos culturais e parlamentares, que defenderam a relevância da lei para a recuperação do setor após a pandemia e a necessidade de facilitar o acesso aos recursos, especialmente nas periferias. A Lei Paulo Gustavo, que destina 3,8 bilhões de reais para a cultura, teve alta adesão dos municípios e é vista como fundamental para gerar emprego, renda e fortalecer a diversidade cultural no Brasil."
+}

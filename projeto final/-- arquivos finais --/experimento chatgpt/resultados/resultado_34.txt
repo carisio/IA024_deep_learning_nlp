@@ -1,0 +1,61 @@
+{
+  "assunto": "Impacto das redes sociais na autoestima e saúde mental de crianças e adolescentes",
+  "envolvidos": [
+    {
+      "nome": "Eduardo Velloso",
+      "cargo": "Deputado, Bloco/UNIÃO - AC",
+      "opinioes": [
+        "A importância do debate sobre a saúde mental de crianças e adolescentes devido ao impacto das redes sociais.",
+        "Parabenizou a Unilever pelo papel em melhorar a autoestima das mulheres.",
+        "Comentou sobre sua própria experiência de infância com preocupações relacionadas à aparência física."
+      ]
+    },
+    {
+      "nome": "Rosângela Moro",
+      "cargo": "Deputada, Bloco/UNIÃO - SP",
+      "opinioes": [
+        "Requereu a audiência pública devido à preocupação com a saúde mental das crianças e adolescentes.",
+        "Destacou a relação entre saúde mental e padrões de beleza estabelecidos pelas redes sociais.",
+        "Mencionou dados alarmantes sobre o aumento de doenças mentais no Brasil.",
+        "Propôs a inclusão de educação sobre saúde mental na grade curricular da educação básica."
+      ]
+    },
+    {
+      "nome": "Thais Hagge",
+      "cargo": "Vice-Presidente de Beleza e Bem-Estar da Unilever Brasil",
+      "opinioes": [
+        "Apresentou as ações da Unilever para promover a saúde mental e autoestima, como a retirada da palavra 'normal' das embalagens.",
+        "Destacou a importância do compromisso Dove pela Real Beleza e a exibição de mulheres reais nas campanhas.",
+        "Comentou sobre a preocupação com o impacto das redes sociais na autoestima das jovens e a importância de criar um ambiente mais inclusivo."
+      ]
+    },
+    {
+      "nome": "Joana de Vilhena Novaes",
+      "cargo": "Professora, Doutora e Coordenadora do Núcleo de Doenças da Beleza da PUC-Rio",
+      "opinioes": [
+        "Discutiu a importância de políticas públicas para a inclusão social e representatividade.",
+        "Abordou a responsabilidade ética e social na manipulação de imagens na publicidade.",
+        "Destacou os altos índices de suicídio e transtornos alimentares entre os jovens devido à pressão das redes sociais."
+      ]
+    },
+    {
+      "nome": "Bruno Ziller",
+      "cargo": "Coordenador de Projetos do Instituto Cactus",
+      "opinioes": [
+        "Enfatizou a necessidade de políticas públicas para a saúde mental dos jovens.",
+        "Apresentou dados sobre a prevalência de transtornos mentais entre crianças e adolescentes no Brasil.",
+        "Destacou a importância da prevenção e da intersetorialidade nas políticas de saúde mental."
+      ]
+    },
+    {
+      "nome": "Maria Aparecida Cina da Silva",
+      "cargo": "Chefe de Gabinete da Secretaria de Informação e Saúde Digital do Ministério da Saúde",
+      "opinioes": [
+        "Comentou sobre a responsabilidade da Secretaria na promoção da saúde digital.",
+        "Destacou a importância da telessaúde para atender populações vulneráveis.",
+        "Discutiu a necessidade de notificação e coleta de dados para políticas públicas eficazes."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o impacto das redes sociais na autoestima e saúde mental de crianças e adolescentes. A Deputada Rosângela Moro, que requereu a audiência, destacou a relação entre padrões de beleza e problemas de saúde mental, propondo a inclusão de educação sobre saúde mental nas escolas. Thais Hagge, da Unilever, apresentou iniciativas para promover a saúde mental e a autoestima, enquanto Joana de Vilhena Novaes enfatizou a responsabilidade social na manipulação de imagens e os altos índices de suicídio entre jovens. Bruno Ziller, do Instituto Cactus, ressaltou a importância da prevenção e da intersetorialidade nas políticas de saúde mental. Maria Aparecida Cina da Silva, do Ministério da Saúde, discutiu a telessaúde e a necessidade de dados para políticas públicas eficazes."
+}

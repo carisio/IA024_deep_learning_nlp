@@ -1,0 +1,60 @@
+{
+  "assunto": "A importância da integração entre governo, academia e empresas no desenvolvimento da ciência, tecnologia e inovação no Brasil.",
+  "envolvidos": [
+    {
+      "nome": "Guilherme Coutinho Calheiros",
+      "cargo": "Secretário de Desenvolvimento Tecnológico e Inovação do Ministério de Ciência, Tecnologia e Inovação (MCTI)",
+      "opinioes": [
+        "O desenvolvimento de parques tecnológicos é crucial para a inovação.",
+        "A ciência busca o domínio do conhecimento, enquanto a tecnologia aplica esse conhecimento e a inovação leva essa aplicação para a sociedade.",
+        "É importante criar um ambiente de consenso e compreensão das funções de cada parte envolvida."
+      ]
+    },
+    {
+      "nome": "Ricardo Magnus Osório Galvão",
+      "cargo": "Presidente do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)",
+      "opinioes": [
+        "A integração entre governo, academia e empresas deve ser incentivada por meio do Marco Legal de Ciência e Tecnologia.",
+        "A Lei do Bem precisa ser aplicada e utilizada efetivamente.",
+        "É essencial que a academia incentive a inovação, mas os pesquisadores não precisam se preocupar diretamente com tecnologia ou inovação.",
+        "É necessário melhorar a articulação para que os recursos destinados ao CNPq e à interação entre empresas e indústria sejam utilizados de forma eficaz."
+      ]
+    },
+    {
+      "nome": "Lilian Amaral",
+      "cargo": "Gerente de Relações Institucionais da Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras (ANPEI)",
+      "opinioes": [
+        "É fundamental promover a cultura de inovação também na sociedade e no ambiente político.",
+        "É necessário garantir que o investimento em pesquisa e desenvolvimento seja contínuo e crescente.",
+        "A reforma tributária e o arcabouço fiscal devem considerar a importância da ciência e tecnologia a longo prazo."
+      ]
+    },
+    {
+      "nome": "Francilene Procópio Garcia",
+      "cargo": "Vice-Presidente da Sociedade Brasileira para o Progresso da Ciência (SBPC)",
+      "opinioes": [
+        "A discussão sobre a integração entre governo, academia e empresas é crucial para enfrentar desafios complexos.",
+        "É importante criar carreiras específicas para a gestão da inovação nas universidades e instituições de pesquisa.",
+        "A legislação precisa amadurecer para apoiar melhor a inovação e a pesquisa."
+      ]
+    },
+    {
+      "nome": "Mauricio dos Santos Neves",
+      "cargo": "Chefe do Departamento de Inovação e Estratégia Industrial do Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+      "opinioes": [
+        "Há necessidade de uma visão integrada de desenvolvimento industrial e tecnológico.",
+        "A relação com os órgãos de controle deve ser reforçada para entender que a inovação envolve riscos.",
+        "O BNDES está desenhando programas para ambientes de inovação que incluem a inovação aberta e a integração com a FINEP."
+      ]
+    },
+    {
+      "nome": "Gianna Cardoso Sagazio",
+      "cargo": "Diretora de Inovação da Confederação Nacional da Indústria (CNI)",
+      "opinioes": [
+        "É necessário desmistificar o impacto fiscal da pesquisa científica e da inovação tecnológica.",
+        "Precisamos de um diálogo mais profundo com a área econômica do governo para priorizar a ciência, tecnologia e inovação."
+      ]
+    }
+  ],
+  "tl_dr": "A 19ª Reunião Extraordinária de Audiência Pública da Comissão de Ciência, Tecnologia e Inovação discutiu a importância da integração entre governo, academia e empresas (modelo Triple Helix) para o desenvolvimento da ciência, tecnologia e inovação no Brasil. Entre os principais envolvidos, destacam-se Guilherme Coutinho Calheiros, Ricardo Magnus Osório Galvão, Lilian Amaral, Francilene Procópio Garcia, Mauricio dos Santos Neves e Gianna Cardoso Sagazio, que apresentaram diversas opiniões sobre a necessidade de um ambiente colaborativo, investimentos contínuos e maiores articulações para fortalecer a inovação no país. A audiência ressaltou a urgência de implementar e utilizar eficazmente o Marco Legal de Ciência e Tecnologia e a Lei do Bem, além de criar carreiras específicas para a gestão da inovação."
+}

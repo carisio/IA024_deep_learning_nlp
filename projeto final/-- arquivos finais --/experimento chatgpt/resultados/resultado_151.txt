@@ -1,0 +1,95 @@
+{
+  "assunto": "A inclusão da educação no Plano Nacional de Educação no sistema prisional.",
+  "envolvidos": [
+    {
+      "nome": "Luiz Couto",
+      "cargo": "Deputado Federal, Bloco/PT - PB",
+      "opinioes": [
+        "A importância de incluir vagas de educação escolar nos espaços prisionais.",
+        "A superlotação e as péssimas condições de encarceramento são causas e consequências desumanizadoras."
+      ]
+    },
+    {
+      "nome": "Petra Silvia Pfaller",
+      "cargo": "Coordenadora Nacional da Agenda Nacional pelo Desencarceramento — Pastoral Carcerária da CNBB",
+      "opinioes": [
+        "A educação no cárcere é uma medida de desencarceramento.",
+        "Há discriminação na escolha de quem pode estudar no sistema prisional.",
+        "A estrutura física dos cárceres não prevê espaços adequados para educação."
+      ]
+    },
+    {
+      "nome": "João Moura",
+      "cargo": "Representante do Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "A preocupação com a educação de pessoas em conflito com a lei.",
+        "A importância da formação para a cidadania e os direitos humanos desde os anos 80 e 90."
+      ]
+    },
+    {
+      "nome": "Mariângela Graciano",
+      "cargo": "Representante do Ministério da Educação",
+      "opinioes": [
+        "A Comissão Nacional de Alfabetização e Educação de Jovens Adultos foi reconstituída.",
+        "A necessidade de contatos e colaboração para construção das políticas públicas de EJA no sistema prisional."
+      ]
+    },
+    {
+      "nome": "Cláudia Bandeira",
+      "cargo": "Representante da Campanha Nacional pelo Direito à Educação",
+      "opinioes": [
+        "O fortalecimento da colaboração entre Segurança e Educação nas unidades prisionais.",
+        "A atualização dos planos específicos de educação nas prisões alinhados aos Planos Estaduais e Nacional de Educação."
+      ]
+    },
+    {
+      "nome": "Sandra de Almeida Figueira",
+      "cargo": "Coordenadora Nacional do Fórum Nacional de Educação Prisional e Inserção Social",
+      "opinioes": [
+        "O planejamento do FNEPIS inclui discussões sobre a Base Nacional Comum Curricular e a oferta de educação nas prisões.",
+        "A importância de rever a utilização de delegacias como estabelecimentos penais com a participação da sociedade civil."
+      ]
+    },
+    {
+      "nome": "Vanessa Martins Farias Alves Bomfim",
+      "cargo": "Vice-Coordenadora do FNEPIS do Distrito Federal",
+      "opinioes": [
+        "A defesa de uma diretriz operacional nacional para a EJA nas prisões.",
+        "A importância da criação de um comitê permanente como gestor nacional da EJA nas prisões."
+      ]
+    },
+    {
+      "nome": "Diógenes Faustino do Nascimento",
+      "cargo": "Representante do FNEPIS da Paraíba",
+      "opinioes": [
+        "O aumento de vagas da EJA no sistema prisional.",
+        "A importância da empregabilidade e saúde mental para egressos e apenados."
+      ]
+    },
+    {
+      "nome": "Cíntia Rangel Assumpção",
+      "cargo": "Diretora de Políticas Penitenciárias do Ministério da Justiça e Segurança Pública",
+      "opinioes": [
+        "A meta de alcançar 35% de presos com acesso à educação formal até 2027.",
+        "A defesa de um novo decreto de política nacional de trabalho ao sistema penal."
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal, Bloco/PT - DF",
+      "opinioes": [
+        "A educação é um dos momentos que rompe a desumanização imposta às pessoas dentro do presídio.",
+        "A crítica à instalação de grades dentro das salas de aula nos presídios do Distrito Federal."
+      ]
+    },
+    {
+      "nome": "Adauto Locatelli Taufer",
+      "cargo": "Representante da Federação de Sindicatos de Professores e Professoras de Institutos Federais",
+      "opinioes": [
+        "A educação direcionada ao sistema prisional deve entrar no planejamento das universidades públicas e institutos federais.",
+        "A leitura é um elemento essencial e deve ser promovida no sistema prisional."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública focou na inclusão da educação no sistema prisional no Plano Nacional de Educação. Participaram diversos representantes do governo, ONGs e setores da sociedade civil. As principais discussões envolveram a importância da educação como meio de desencarceramento, a necessidade de melhor estrutura física e políticas adequadas para a educação nas prisões, e a criação de comitês e diretrizes nacionais para a EJA nas prisões. A audiência também destacou a discriminação na escolha de quem pode estudar e a relevância da colaboração entre Segurança e Educação para implementar políticas eficazes."
+}

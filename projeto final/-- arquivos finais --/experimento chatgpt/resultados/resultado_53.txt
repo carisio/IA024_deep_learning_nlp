@@ -1,0 +1,80 @@
+{
+  "assunto": "A cultura inclusiva e acessível: promoção da inclusão das pessoas com deficiência através da arte",
+  "envolvidos": [
+    {
+      "nome": "Márcio Jerry",
+      "cargo": "Deputado Federal (Bloco/PCdoB - MA)",
+      "opinioes": [
+        "Agradeceu a cada uma das contribuições trazidas ao painel.",
+        "Ressaltou a importância de assumir compromissos práticos para que as sugestões se tornem medidas concretas.",
+        "Propôs a realização de uma reunião para extrair encaminhamentos concretos e ações que possam avançar as políticas para pessoas com deficiência.",
+        "Enfatizou a necessidade de um federalismo de políticas de defesa para pessoas com deficiência, promovendo uma relação federativa entre União, Estados e Municípios.",
+        "Anunciou a realização de um seminário para debater a inclusão das pessoas com deficiência em nível federal, estadual e municipal."
+      ]
+    },
+    {
+      "nome": "Rafael Maximiniano",
+      "cargo": "Chefe de Divisão em Acessibilidade da Secretaria de Formação, Livro e Leitura do Ministério da Cultura",
+      "opinioes": [
+        "Comentou sobre a importância do Decreto nº 11.336, de 2023, que reestruturou o Ministério da Cultura para incluir a promoção da acessibilidade cultural.",
+        "Destacou a Meta nº 29 do Plano Nacional de Cultura, que visa garantir acessibilidade total em espaços culturais até 2024.",
+        "Enfatizou a necessidade de participação social na formulação do novo Plano Nacional de Cultura.",
+        "Defendeu a interseccionalidade e transversalidade das pautas de acessibilidade e inclusão."
+      ]
+    },
+    {
+      "nome": "Patricia Almeida",
+      "cargo": "Jornalista, ativista e representante do Movimento Down",
+      "opinioes": [
+        "Defendeu a acessibilidade por meio da linguagem simples, priorizando a inclusão de pessoas com deficiência intelectual e daqueles sem oportunidades educacionais.",
+        "Ressaltou a importância da mídia na promoção da inclusão, citando a novela 'Páginas da Vida' como exemplo.",
+        "Apontou que a inclusão na mídia pode ser um divisor de águas para a visibilidade das pessoas com deficiência."
+      ]
+    },
+    {
+      "nome": "Thiago Ribeiro",
+      "cargo": "Fundador do Instituto Invisibilidown",
+      "opinioes": [
+        "Alertou para a menor expectativa de vida das pessoas negras com síndrome de Down em comparação com as brancas.",
+        "Defendeu a necessidade de ações específicas para garantir a vida e a inclusão das pessoas negras com deficiência intelectual.",
+        "Ressaltou a invisibilidade das pessoas negras com síndrome de Down e a necessidade de mais espaços para discussão e ação sobre esta questão."
+      ]
+    },
+    {
+      "nome": "Helena Werneck",
+      "cargo": "Secretária Municipal da Pessoa com Deficiência do Rio de Janeiro",
+      "opinioes": [
+        "Comentou sobre a criação de uma resolução de linguagem simples no Rio de Janeiro, implementada em órgãos públicos.",
+        "Apoiou a presença de intérpretes de LIBRAS em discursos oficiais e em comissões.",
+        "Promoveu o carnaval inclusivo no Rio de Janeiro, convidando pessoas com deficiência e seus familiares para participarem gratuitamente."
+      ]
+    },
+    {
+      "nome": "Luérgio de Sousa",
+      "cargo": "Representante do Festival de Cultura para Surdos",
+      "opinioes": [
+        "Destacou a importância da acessibilidade linguística e a participação das pessoas surdas no cinema e audiovisual.",
+        "Defendeu a presença de intérpretes de LIBRAS em todas as audiências públicas."
+      ]
+    },
+    {
+      "nome": "Renata Rezende",
+      "cargo": "Representante do Festival de Cultura para Surdos",
+      "opinioes": [
+        "Enfatizou que a LIBRAS é um direito linguístico e deve ser garantido.",
+        "Defendeu que a acessibilidade deve ser plena e não apenas pontual.",
+        "Ressaltou a capacidade das pessoas com deficiência e a necessidade de reconhecimento e garantia de seus direitos."
+      ]
+    },
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (Bloco/PT - DF)",
+      "opinioes": [
+        "Agradeceu a presença e a contribuição de todos os participantes.",
+        "Sugeriu a realização de uma audiência pública com todas as Unidades da Federação para discutir a política das pessoas com deficiência.",
+        "Ressaltou a importância das experiências e sugestões trazidas na audiência."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Defesa dos Direitos das Pessoas com Deficiência discutiu a promoção da inclusão das pessoas com deficiência através da arte. Participaram diversos representantes de instituições e movimentos ligados à acessibilidade e inclusão. Destacaram-se a importância de políticas públicas interseccionais, a necessidade de um federalismo de políticas de defesa e a implementação de resoluções e projetos que garantam a acessibilidade universal. Os participantes reforçaram a urgência de ações práticas para transformar as sugestões em medidas concretas, com foco em acessibilidade linguística, cultural e em todos os âmbitos sociais."
+}

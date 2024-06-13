@@ -1,0 +1,60 @@
+{
+  "assunto": "Discussão sobre o Projeto de Lei nº 490, de 2011, que trata do Serviço de Radiodifusão Comunitária",
+  "envolvidos": [
+    {
+      "nome": "Jadyel Alencar",
+      "cargo": "Deputado, Presidente da Frente Parlamentar Mista em Apoio às Rádios Comunitárias",
+      "opinioes": [
+        "Enfatiza a importância do debate aberto, inclusivo e transparente sobre as rádios comunitárias.",
+        "Informa que a Frente Parlamentar tem 226 membros, mostrando a relevância do tema.",
+        "Reafirma o compromisso de seguir ouvindo os técnicos e defendendo as rádios comunitárias."
+      ]
+    },
+    {
+      "nome": "Luiza Erundina",
+      "cargo": "Deputada (Bloco/PSOL - SP)",
+      "opinioes": [
+        "Defende a atualização do marco legal da Lei nº 9.612, de 1998, devido às mudanças tecnológicas nos últimos 25 anos.",
+        "Ressalta a importância de uma nova lei que contemple as inovações e desafios atuais das rádios comunitárias.",
+        "Pretende recriar a Frente Parlamentar pela democratização dos meios de comunicação no País."
+      ]
+    },
+    {
+      "nome": "Taís Ladeira",
+      "cargo": "Representante da Associação Mundial de Rádios Comunitárias (AMARC) no Brasil",
+      "opinioes": [
+        "Critica a proposta de proibir o uso da sigla FM pelas rádios comunitárias, considerando-a infundada.",
+        "Defende que as rádios comunitárias são essenciais para a democratização da comunicação.",
+        "Reitera a necessidade de um novo decreto para garantir melhores condições de funcionamento para as rádios comunitárias."
+      ]
+    },
+    {
+      "nome": "Geremias dos Santos",
+      "cargo": "Representante da Abraço Brasil",
+      "opinioes": [
+        "Critica o Projeto de Lei nº 490/2011 por incluir múltiplos 'jabutis' (emendas sem relação direta com o tema principal).",
+        "Defende a manutenção do uso da sigla FM pelas rádios comunitárias.",
+        "Ressalta que as rádios comunitárias são vitais para o desenvolvimento local e para a democratização da comunicação."
+      ]
+    },
+    {
+      "nome": "Daniela Naufel Schettino",
+      "cargo": "Diretora do Departamento de Radiodifusão Pública, Comunitária e Estatal do Ministério das Comunicações",
+      "opinioes": [
+        "Destaca que as rádios comunitárias operam na faixa de frequência modulada (FM) conforme a lei vigente.",
+        "Afirma que o Ministério das Comunicações é contrário à restrição do uso da sigla FM para rádios comunitárias.",
+        "Aponta que o Ministério está trabalhando para agilizar os processos de outorga e licenciamento das rádios comunitárias."
+      ]
+    },
+    {
+      "nome": "Renato Sales Bizerra Aguiar",
+      "cargo": "Gerente de Outorga e Licenciamento de Estações da ANATEL",
+      "opinioes": [
+        "Ressalta a importância das rádios comunitárias para levar informação e educação às áreas mais remotas do país.",
+        "Informa que a ANATEL está trabalhando para acelerar o processo de autorização de uso de radiofrequência e licenciamento das estações.",
+        "Defende que a sigla FM deve ser mantida pelas rádios comunitárias, pois operam tecnicamente nessa faixa."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o Projeto de Lei nº 490, de 2011, focando nos desafios enfrentados pelas rádios comunitárias. Os principais envolvidos foram deputados, representantes de associações de rádios comunitárias e órgãos governamentais. A maioria das opiniões se posicionou contra a proibição do uso da sigla FM pelas rádios comunitárias, defendendo a necessidade de atualizar a legislação para refletir as mudanças tecnológicas e garantir melhores condições de operação para essas rádios. Os participantes ressaltaram a importância das rádios comunitárias para a democratização da comunicação e o desenvolvimento local."
+}

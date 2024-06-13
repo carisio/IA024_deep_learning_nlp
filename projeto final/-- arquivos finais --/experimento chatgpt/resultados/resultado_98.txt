@@ -1,0 +1,85 @@
+{
+  "assunto": "O Combate aos Crimes Cibernéticos do Brasil — Papel do Parlamento",
+  "envolvidos": [
+    {
+      "nome": "Luis Miranda",
+      "cargo": "Deputado (DEM - DF), Presidente da Comissão de Ciência e Tecnologia, Comunicação e Informática",
+      "opinioes": [
+        "Aumentou a preocupação com crimes cibernéticos, especialmente crimes antidemocráticos.",
+        "Os crimes cibernéticos agora incluem manipulação de opinião pública e fake news, além dos tradicionais furtos e invasões de contas bancárias.",
+        "Há uma necessidade urgente de combater a disseminação de desinformação e proteger a democracia."
+      ]
+    },
+    {
+      "nome": "George Lodder",
+      "cargo": "Procurador da República e membro do Grupo de Apoio sobre Criminalidade Cibernética do Ministério Público Federal",
+      "opinioes": [
+        "Defende a aprovação da Convenção de Budapeste sobre o Crime Cibernético para criar mecanismos de cooperação internacional.",
+        "Destaca a necessidade de uma legislação brasileira que obrigue plataformas digitais a notificarem crimes como pedofilia, similar à legislação americana.",
+        "Ressalta a importância de se discutir a criminalização de notícias falsas e de melhorar a legislação relacionada aos crimes cibernéticos."
+      ]
+    },
+    {
+      "nome": "Regilene Siqueira Rozal",
+      "cargo": "Delegada, representante da Associação dos Delegados de Polícia Civil do Distrito Federal (ADEPOL)",
+      "opinioes": [
+        "É essencial o investimento em polícia judiciária e a evolução legislativa para lidar com crimes cibernéticos.",
+        "Defende a necessidade de regulamentação para a preservação de provas cibernéticas, como prints de tela, para que sejam aceitas judicialmente.",
+        "Aponta a dificuldade de comunicação com provedores de conexão que não cooperam com investigações, sugerindo maior regulamentação nesse setor."
+      ]
+    },
+    {
+      "nome": "Dário Taciano de Freitas Junior",
+      "cargo": "Delegado, representante da Delegacia Especial de Repressão aos Crimes Cibernéticos da Polícia Civil do Distrito Federal",
+      "opinioes": [
+        "Destaca o aumento exponencial de crimes cibernéticos durante a pandemia, especialmente crimes contra a honra.",
+        "Sugere a mudança na legislação para que o acesso a informações de IP não dependa de ordem judicial, agilizando investigações.",
+        "Propõe a possibilidade de utilização de especialistas externos para ajudar em investigações cibernéticas e a incorporação de bens apreendidos de criminosos para uso policial."
+      ]
+    },
+    {
+      "nome": "Diogo Rais",
+      "cargo": "Diretor-Geral do Instituto Liberdade Digital, Professor de Direito Eleitoral e Direito Digital na Universidade Mackenzie",
+      "opinioes": [
+        "Identifica a necessidade de uma legislação mais clara e eficaz para lidar com crimes digitais nas eleições.",
+        "Defende a diferenciação entre usuários comuns que espalham fake news e aqueles que o fazem de forma coordenada e profissional.",
+        "Ressalta que a legislação penal deve focar em ações coordenadas e estruturadas de disseminação de desinformação."
+      ]
+    },
+    {
+      "nome": "Carlos Affonso Souza",
+      "cargo": "Diretor do Instituto de Tecnologia e Sociedade do Rio de Janeiro",
+      "opinioes": [
+        "Afirma que o combate à desinformação deve ser multissetorial e não apenas jurídico.",
+        "Defende a necessidade de uma análise econômica e tecnológica das raízes da desinformação.",
+        "Critica propostas legislativas que tipificam 'notícias falsas' sem uma definição clara, argumentando que podem ser subjetivas e ineficazes."
+      ]
+    },
+    {
+      "nome": "Aristides Moura",
+      "cargo": "Membro da Associação das Empresas de Tecnologia da Informação e Comunicação e de Tecnologias Digitais (BRASSCOM), Gerente de Relacionamento com as Autoridades de Investigação e Assuntos Digitais da Microsoft",
+      "opinioes": [
+        "Destaca a necessidade de segurança jurídica para que as empresas possam colaborar efetivamente no combate aos crimes cibernéticos.",
+        "Defende a acessão do Brasil à Convenção de Budapeste e a atualização das legislações brasileiras para alinhamento com padrões internacionais."
+      ]
+    },
+    {
+      "nome": "Ygor Valerio",
+      "cargo": "Consultor da Motion Picture Association (MPA)",
+      "opinioes": [
+        "Enfatiza a importância de equilibrar privacidade e segurança nas investigações de crimes cibernéticos.",
+        "Sugere a criação de instrumentos legislativos que resolvam conflitos entre direitos de privacidade e necessidade de segurança.",
+        "Defende o Projeto de Lei nº 4.939/20, que trata da obtenção e admissibilidade de provas digitais."
+      ]
+    },
+    {
+      "nome": "Jonas Antunes Couto",
+      "cargo": "Diretor Jurídico-Regulatório da Associação Brasileira de Televisão por Assinatura (ABTA)",
+      "opinioes": [
+        "Alerta sobre o impacto econômico e social da pirataria audiovisual no Brasil.",
+        "Defende a necessidade de projetos de lei que combatam a oferta ilegal de conteúdos audiovisuais e protejam os direitos autorais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública teve como foco o combate aos crimes cibernéticos no Brasil, destacando a necessidade de melhorias legislativas e de cooperação internacional. Os participantes, incluindo deputados, procuradores, delegados e representantes de diversas associações, defenderam a aprovação de leis como a Convenção de Budapeste e a necessidade de uma legislação que obrigue plataformas digitais a notificarem crimes. Também foram discutidos os desafios na preservação de provas digitais, a importância da segurança jurídica para empresas, e a luta contra a desinformação e a pirataria audiovisual. A audiência evidenciou a urgência de ações coordenadas para proteger a sociedade contra as ameaças cibernéticas."
+}

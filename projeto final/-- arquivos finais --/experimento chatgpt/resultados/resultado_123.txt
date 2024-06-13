@@ -1,0 +1,47 @@
+{
+  "assunto": "Enfrentamento da tuberculose no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Antonio Brito",
+      "cargo": "Deputado",
+      "opinioes": [
+        "A luta contra a tuberculose é uma prioridade.",
+        "A Comissão Externa sobre Propostas para Análise do Enfrentamento da Tuberculose é essencial para acompanhar os compromissos internacionais do Brasil.",
+        "É necessário aumentar o orçamento destinado ao combate à tuberculose."
+      ]
+    },
+    {
+      "nome": "Ethel Leonor Noia Maciel",
+      "cargo": "Secretária de Vigilância em Saúde e Ambiente",
+      "opinioes": [
+        "Destacou a importância de acabar com a epidemia de AIDS, tuberculose e malária.",
+        "Afirmou que quase 50% das pessoas com tuberculose enfrentam custos catastróficos durante o tratamento.",
+        "Reforçou a necessidade de uma abordagem multissetorial para enfrentar os determinantes sociais da tuberculose."
+      ]
+    },
+    {
+      "nome": "Leonardo Moura Vilela",
+      "cargo": "Assessor Parlamentar do Conselho Nacional de Secretários de Saúde (CONASS)",
+      "opinioes": [
+        "Destacou a necessidade de envolver Estados e Municípios no enfrentamento da tuberculose.",
+        "Mencionou a importância de aumentar a proteção social e incorporar novas tecnologias."
+      ]
+    },
+    {
+      "nome": "Marcia de Ávila Leão",
+      "cargo": "Coordenadora da Parceria Brasileira contra a Tuberculose (STOP TB Brasil)",
+      "opinioes": [
+        "Ressaltou a necessidade de políticas públicas permanentes para o enfrentamento da tuberculose.",
+        "Destacou a importância da participação da sociedade civil no combate à doença."
+      ]
+    },
+    {
+      "nome": "Miguel Angel Aragón López",
+      "cargo": "Coordenador de Prevenção e Controle de Doenças Transmissíveis da Organização Pan-Americana da Saúde (OPAS)",
+      "opinioes": [
+        "Enfatizou a importância do financiamento adequado para a implementação de ações de prevenção, diagnóstico e tratamento da tuberculose."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública sobre o enfrentamento da tuberculose no Brasil contou com a participação de vários representantes, incluindo o Deputado Antonio Brito, que destacou a importância de aumentar o orçamento para o combate à doença. A Secretária Ethel Leonor Noia Maciel enfatizou a necessidade de uma abordagem multissetorial para enfrentar os determinantes sociais e reduzir os custos catastróficos enfrentados pelas pessoas com tuberculose. Leonardo Moura Vilela reforçou a importância do envolvimento dos Estados e Municípios, enquanto Marcia de Ávila Leão sublinhou a necessidade de políticas públicas permanentes e da participação da sociedade civil. Miguel Angel Aragón López, da OPAS, destacou a importância do financiamento adequado para ações de prevenção, diagnóstico e tratamento."
+}

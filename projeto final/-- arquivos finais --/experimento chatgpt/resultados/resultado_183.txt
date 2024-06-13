@@ -1,0 +1,43 @@
+{
+    "assunto": "Exploração de petróleo na foz do Rio Amazonas e outras questões de licenciamento ambiental.",
+    "envolvidos": [
+        {
+            "nome": "Marina Silva",
+            "cargo": "Ministra de Estado do Meio Ambiente e Mudança do Clima",
+            "opinioes": [
+                "A importância do licenciamento ambiental para equilibrar benefícios econômicos, sociais e ambientais.",
+                "A necessidade de aperfeiçoar processos e estruturas do licenciamento ambiental sem flexibilizar de maneira que comprometa a qualidade.",
+                "Preocupação com a exploração de petróleo na foz do Rio Amazonas devido à sua complexidade ambiental e técnica.",
+                "Necessidade de aumentar a capacidade de resposta do Ministério do Meio Ambiente através da contratação de mais servidores."
+            ]
+        },
+        {
+            "nome": "Rodrigo Antonio de Agostinho Mendonça",
+            "cargo": "Presidente do Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+            "opinioes": [
+                "O IBAMA já concedeu licença de instalação para o Linhão Boa Vista-Manaus em 2021.",
+                "A Ferrogrão teve seu processo de licenciamento suspenso devido a inconsistências nos estudos de impacto ambiental.",
+                "A equipe técnica do IBAMA é altamente especializada e está reavaliando o pedido de reavaliação da PETROBRAS sobre a exploração na foz do Rio Amazonas.",
+                "Necessidade de planejamento e estudos prévios pelo Estado para facilitar os processos de licenciamento."
+            ]
+        },
+        {
+            "nome": "Ricardo Salles",
+            "cargo": "Deputado",
+            "opinioes": [
+                "O licenciamento ambiental deve encontrar maneiras de dizer 'sim' com condicionantes, em vez de apenas negar.",
+                "A falta de licenciamento do Linhão Boa Vista-Manaus está causando mais danos ambientais devido ao uso de termelétricas a diesel.",
+                "Preocupações com a exploração de petróleo na foz do Rio Amazonas precisam ser balanceadas com a realidade de que países vizinhos estão explorando na mesma região."
+            ]
+        },
+        {
+            "nome": "Lafayette de Andrada",
+            "cargo": "Deputado",
+            "opinioes": [
+                "A exploração de petróleo na foz do Rio Amazonas deve ser considerada devido ao potencial econômico significativo.",
+                "Pequenas hidrelétricas são essenciais para o sistema elétrico brasileiro e seu licenciamento deve ser facilitado."
+            ]
+        }
+    ],
+    "tl_dr": "A audiência pública da Comissão de Minas e Energia debateu principalmente sobre a exploração de petróleo na foz do Rio Amazonas e questões relacionadas ao licenciamento ambiental. Marina Silva destacou a importância de um licenciamento que equilibre benefícios econômicos, sociais e ambientais, e a necessidade de aperfeiçoar os processos sem comprometer a qualidade. Rodrigo Agostinho, do IBAMA, forneceu detalhes técnicos e defendeu um planejamento melhor para reduzir custos e melhorar a eficiência dos licenciamentos. Deputados como Ricardo Salles e Lafayette de Andrada levantaram preocupações sobre a necessidade de equilibrar a proteção ambiental com o desenvolvimento econômico, destacando exemplos específicos como o Linhão Boa Vista-Manaus e a exploração de petróleo na região amazônica."
+}

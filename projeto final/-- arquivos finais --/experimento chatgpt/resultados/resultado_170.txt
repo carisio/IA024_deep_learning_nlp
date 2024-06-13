@@ -1,0 +1,91 @@
+{
+  "assunto": "Ações de enfrentamento ao racismo na primeira infância",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Deputada Federal (Bloco/PT - DF)",
+      "opinioes": [
+        "O racismo deve integrar o debate sobre as políticas públicas para a primeira infância.",
+        "A construção de compromissos e ações que garantam os direitos das crianças negras, indígenas, quilombolas e de terreiros é essencial."
+      ]
+    },
+    {
+      "nome": "Suelaine Carneiro",
+      "cargo": "Instituto da Mulher Negra — Geledés",
+      "opinioes": [
+        "O racismo deve ser parte integrante de todas as políticas públicas para a primeira infância.",
+        "Geledés atua em articulação com outras organizações da sociedade civil contra o racismo, sexismo, etnocídio e racismo religioso.",
+        "Defende a construção de compromissos e ações que garantam os direitos das crianças negras, indígenas, quilombolas e de terreiros."
+      ]
+    },
+    {
+      "nome": "Damiana Neto",
+      "cargo": "Ação de Mulheres pela Equidade — AME",
+      "opinioes": [
+        "Enfatiza a importância da participação das crianças nas discussões sobre suas próprias políticas.",
+        "Defende projetos infantis que envolvam as crianças das periferias."
+      ]
+    },
+    {
+      "nome": "Letícia Silva",
+      "cargo": "Instituto Alana",
+      "opinioes": [
+        "Necessidade de visibilizar o recorte racial nos dados sobre a primeira infância.",
+        "Defende a promoção de debates sobre os atravessamentos do racismo na primeira infância nas instituições de ensino superior."
+      ]
+    },
+    {
+      "nome": "Rosijane Tukano",
+      "cargo": "Makira E'ta",
+      "opinioes": [
+        "Defende a inclusão de crianças indígenas nas políticas de enfrentamento ao racismo."
+      ]
+    },
+    {
+      "nome": "Isabela Cruz",
+      "cargo": "Coordenação Nacional de Articulação das Comunidades Negras Rurais Quilombolas — CONAQ",
+      "opinioes": [
+        "Defende o reconhecimento e a valorização das comunidades negras rurais quilombolas nas políticas públicas."
+      ]
+    },
+    {
+      "nome": "Miriam Alves",
+      "cargo": "Rede Nacional de Religiões Afro-brasileiras e Saúde — RENAFRO e Conselho Regional de Psicologia",
+      "opinioes": [
+        "A importância da educação continuada antirracista e do letramento racial para os profissionais."
+      ]
+    },
+    {
+      "nome": "Eduardo Fernandes de Araújo",
+      "cargo": "Coordenador-Geral de Educação Étnico-Racial e Educação Escolar Quilombola, do Ministério da Educação",
+      "opinioes": [
+        "A perspectiva de pensar o racismo desde a primeira infância para garantir a igualdade racial.",
+        "Defende a interação entre o Ministério da Educação e as redes, universidades e movimentos sociais para combater o racismo."
+      ]
+    },
+    {
+      "nome": "Laura Lucia Pereira Ferrarez",
+      "cargo": "Defensora Pública Federal, Ponto Focal do Grupo de Trabalho de Políticas Etnorraciais da Defensoria Pública da União",
+      "opinioes": [
+        "Coloca a instituição à disposição para colaborar com o aspecto jurídico necessário na construção de políticas públicas antirracistas."
+      ]
+    },
+    {
+      "nome": "Laís Helena Custódio Rodrigues de Queiroz",
+      "cargo": "Diretoria de Combate e Superação do Racismo da Secretaria de Políticas de Ações Afirmativas, Combate e Superação do Racismo, do Ministério da Igualdade Racial",
+      "opinioes": [
+        "A existência do Ministério da Igualdade Racial redobra os desafios e responsabilidades na luta racial.",
+        "Defende a construção de políticas públicas voltadas à primeira infância que incluam o recorte racial."
+      ]
+    },
+    {
+      "nome": "Maria Luiza Moura Oliveira (Malu)",
+      "cargo": "Diretora de Proteção da Criança e do Adolescente, Secretaria Nacional dos Direitos da Criança e do Adolescente, Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "O racismo estrutural afeta as crianças negras desde o nascimento e precisa ser combatido desde a primeira infância.",
+        "Defende a inclusão do recorte racial em todos os sistemas e políticas públicas para garantir a igualdade de acesso e tratamento."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Direitos Humanos, Minorias e Igualdade Racial discutiu ações de enfrentamento ao racismo na primeira infância. Participaram diversos representantes de organizações e órgãos governamentais, que destacaram a importância de incluir o recorte racial nas políticas públicas, capacitar profissionais para lidar com o racismo institucional e promover a igualdade de acesso e tratamento para crianças negras, indígenas, quilombolas e de terreiros. As falas enfatizaram a necessidade de compromissos intersetoriais e da participação da sociedade civil na construção dessas políticas."
+}

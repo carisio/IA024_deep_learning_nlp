@@ -1,0 +1,92 @@
+{
+  "assunto": "Paralisação das negociações sobre a repactuação do acordo de Mariana",
+  "envolvidos": [
+    {
+      "nome": "Rogério Correia",
+      "cargo": "Presidente da Comissão Externa da Câmara dos Deputados",
+      "opinioes": [
+        "Explicou o motivo da paralisação das negociações sobre a repactuação do acordo de Mariana.",
+        "Destacou a diferença entre os valores oferecidos pelas empresas (42 bilhões) e o esperado pelos governos (126 bilhões).",
+        "Criticou a postura das empresas e solicitou que o Poder Judiciário fixe prazos para a resolução."
+      ]
+    },
+    {
+      "nome": "Vitor Eduardo de Almeida Saback",
+      "cargo": "Secretário Nacional de Geologia, Mineração e Transformação Mineral do Ministério de Minas e Energia",
+      "opinioes": [
+        "Afirmou que a questão de Mariana é uma prioridade e que o Ministério está focado na segurança e prevenção.",
+        "Defendeu um acordo célere, mas que seja justo e compatível com a tragédia ocorrida."
+      ]
+    },
+    {
+      "nome": "Junior Divino Fideles",
+      "cargo": "Adjunto do Advogado-Geral da União",
+      "opinioes": [
+        "Enfatizou a qualidade do texto produzido na Mesa de repactuação.",
+        "Reiterou que o poder público não aceitará um acordo sem a contrapartida financeira adequada das empresas.",
+        "Criticou a proposta de 42 bilhões das empresas como vergonhosa e desrespeitosa."
+      ]
+    },
+    {
+      "nome": "Isabella Karen Araújo Simões",
+      "cargo": "Defensora Pública da União",
+      "opinioes": [
+        "Criticou a cláusula de confidencialidade que impede a participação dos atingidos.",
+        "Defendeu que a presença da Defensoria Pública na Mesa não substitui a necessidade de participação direta dos atingidos.",
+        "Reforçou a necessidade de uma reparação justa e efetiva."
+      ]
+    },
+    {
+      "nome": "Thaís Cristina Lopes de Araújo Vilas Boas",
+      "cargo": "Coordenadora Adjunta do Comitê Pró-Rio Doce, do Governo de Minas Gerais",
+      "opinioes": [
+        "Informou que 27 pontos do relatório da Comissão estão contemplados na proposta de acordo.",
+        "Defendeu a necessidade de pressão do Judiciário para que as empresas retornem à mesa de negociação."
+      ]
+    },
+    {
+      "nome": "Pericles Ferreira de Almeida",
+      "cargo": "Procurador do Estado do Espírito Santo",
+      "opinioes": [
+        "Criticou a falta de seriedade das empresas na negociação, exemplificada pela disparidade entre os valores oferecidos e esperados.",
+        "Defendeu a necessidade de um acordo que contemple a reparação ambiental e socioeconômica de forma integral e justa."
+      ]
+    },
+    {
+      "nome": "Thiago Alves",
+      "cargo": "Coordenação Nacional do Movimento dos Atingidos por Barragens — MAB",
+      "opinioes": [
+        "Criticou a falta de participação efetiva dos atingidos nas negociações.",
+        "Defendeu a utilização da Política Nacional dos Atingidos por Barragens como referência para garantir a participação dos atingidos.",
+        "Criticou os valores apresentados pelas empresas como insuficientes."
+      ]
+    },
+    {
+      "nome": "Geovane Souza",
+      "cargo": "Atingido e morador de Baixo Guandu",
+      "opinioes": [
+        "Reforçou a falta de participação dos atingidos nas negociações.",
+        "Defendeu que os atingidos deveriam estar presentes na mesa de negociação para garantir uma reparação justa."
+      ]
+    },
+    {
+      "nome": "Vivian Esteves",
+      "cargo": "Atingida e moradora de Pedra Corrida",
+      "opinioes": [
+        "Destacou a importância da Política Nacional dos Atingidos por Barragens como um avanço na luta dos atingidos.",
+        "Criticou a proposta das empresas como insuficiente e defendeu a participação dos atingidos nas negociações.",
+        "Pediu maior presença das autoridades nas comunidades atingidas para entenderem melhor a situação."
+      ]
+    },
+    {
+      "nome": "Rafael Mello Portella Campos",
+      "cargo": "Defensor Público do Estado do Espírito Santo",
+      "opinioes": [
+        "Criticou a diferença de valores apresentados pelas empresas como uma visão díspar do que significa a reparação.",
+        "Defendeu o reconhecimento integral do litoral do Espírito Santo como território impactado.",
+        "Reforçou a importância da participação social na repactuação e a necessidade de mecanismos eficazes para isso."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão Externa da Câmara dos Deputados abordou a paralisação das negociações sobre a repactuação do acordo de Mariana. Os participantes destacaram a discrepância entre os valores oferecidos pelas empresas e os esperados pelos governos, criticaram a falta de participação dos atingidos nas negociações e defenderam a necessidade de um acordo justo e transparente. Houve consenso sobre a importância de pressionar as empresas e utilizar a Política Nacional dos Atingidos por Barragens como referência para garantir a reparação adequada."
+}

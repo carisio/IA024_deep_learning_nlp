@@ -1,0 +1,51 @@
+{
+  "assunto": "Debate sobre a privatização da Unidade de Industrialização do Xisto (SIX) em São Mateus do Sul, Paraná, e seus impactos econômicos, sociais e tecnológicos.",
+  "envolvidos": [
+    {
+      "nome": "Enio Verri",
+      "cargo": "Deputado Federal, PT-PR",
+      "opinioes": [
+        "Privatizações têm sido prejudiciais para a população brasileira, favorecendo oligopólios privados.",
+        "A privatização da PETROBRAS não aumentará a concorrência e resultará em maiores custos para a população.",
+        "A audiência pública visa discutir os impactos econômicos e sociais da privatização da SIX em São Mateus do Sul e na região."
+      ]
+    },
+    {
+      "nome": "Omar Picheth",
+      "cargo": "Vereador e Presidente da Câmara Municipal de São Mateus do Sul, Paraná",
+      "opinioes": [
+        "A privatização da SIX trará dificuldades significativas para o município, que é altamente dependente da estatal.",
+        "A venda da SIX impactará cerca de 40% da arrecadação de impostos do município, causando um grande déficit.",
+        "A tecnologia desenvolvida na SIX é vital e lucrativa, apesar da PETROBRAS alegar o contrário."
+      ]
+    },
+    {
+      "nome": "Henrique Jager",
+      "cargo": "Economista e pesquisador do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis (INEEP)",
+      "opinioes": [
+        "A privatização das refinarias cria monopólios locais, desmantela o parque de refino integrado e pode causar desabastecimento de combustíveis.",
+        "A política de preços de paridade de importação adotada pela PETROBRAS beneficia importadores e eleva os preços domésticos dos combustíveis.",
+        "A venda das refinarias, incluindo a SIX, tem sido feita a preços depreciados, beneficiando compradores privados em detrimento do interesse público."
+      ]
+    },
+    {
+      "nome": "Deyvid Souza Bacelar da Silva",
+      "cargo": "Coordenador-Geral da Federação Única dos Petroleiros (FUP)",
+      "opinioes": [
+        "A nomeação do novo Presidente da PETROBRAS foi ilegal e será contestada judicialmente.",
+        "A política de preços atual é prejudicial e a privatização das refinarias perpetuará essa política, aumentando os lucros privados à custa da população.",
+        "A privatização da SIX e outras refinarias impactará negativamente as economias locais e pode resultar em precarização das relações de trabalho e sonegação fiscal."
+      ]
+    },
+    {
+      "nome": "Mario Alberto Dal Zot",
+      "cargo": "Presidente da Associação Nacional dos Petroleiros Acionistas Minoritários da PETROBRAS (ANAPETRO)",
+      "opinioes": [
+        "A SIX é tecnologicamente avançada e lucrativa, e sua venda representa uma perda de soberania e de receitas para o estado.",
+        "A venda da SIX está repleta de irregularidades, incluindo direcionamento para uma empresa com histórico de problemas e suspeitas de espionagem industrial.",
+        "Os subprodutos desenvolvidos na SIX, especialmente na agricultura, não foram considerados no preço de venda, subestimando significativamente seu valor."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços discutiu a privatização da Unidade de Industrialização do Xisto (SIX) em São Mateus do Sul, Paraná. Participaram do debate o Deputado Enio Verri, o Vereador Omar Picheth, o economista Henrique Jager, o Coordenador-Geral da FUP Deyvid Souza Bacelar da Silva e o Presidente da ANAPETRO Mario Alberto Dal Zot. Enio Verri destacou os prejuízos das privatizações para a população, enquanto Omar Picheth ressaltou a dependência econômica do município em relação à SIX. Henrique Jager criticou a criação de monopólios locais e a política de preços da PETROBRAS. Deyvid Bacelar enfatizou a ilegalidade na nomeação do novo Presidente da PETROBRAS e os impactos negativos das privatizações nas economias locais. Mario Dal Zot apontou irregularidades na venda da SIX e subestimação de seu valor devido ao não reconhecimento dos avanços tecnológicos e subprodutos desenvolvidos. O consenso foi de que a privatização da SIX trará consequências econômicas e sociais adversas para a região e para o Brasil."
+}

@@ -1,0 +1,60 @@
+{
+  "assunto": "Desafios da regularização migratória e acesso a direitos pela população migrante no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Erika Kokay",
+      "cargo": "Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "opinioes": [
+        "Destacou a importância da transparência e do cumprimento da Lei nº 9.784, de 1999, que regula o processo administrativo.",
+        "Enfatizou a necessidade de contratação de migrantes e refugiados como mediadores interculturais nos serviços públicos.",
+        "Reiterou o compromisso da Comissão com a pauta migratória e a busca de soluções para os desafios apresentados."
+      ]
+    },
+    {
+      "nome": "Erika Hilton",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Propôs a realização da audiência pública e destacou a importância de continuar a construção de políticas públicas voltadas para a população migrante.",
+        "Enfatizou a importância da educação e o papel do Ministério da Educação em garantir o acesso de crianças migrantes à educação.",
+        "Criticou a ausência do Ministério das Relações Exteriores na audiência, ressaltando a importância de sua participação."
+      ]
+    },
+    {
+      "nome": "Marina Rongo Barbosa",
+      "cargo": "Representante da Conectas Direitos Humanos",
+      "opinioes": [
+        "Reconheceu as medidas do atual Governo na área de migração e refúgio, mas destacou a necessidade de mais políticas públicas para garantir os direitos dos migrantes.",
+        "Apelou para que a Política Nacional de Migrações, Refúgio e Apatridia não seja letra morta e que receba a devida atenção orçamentária do Parlamento.",
+        "Destacou a importância da regularização migratória para prevenir a violência, exploração e garantir acesso a direitos."
+      ]
+    },
+    {
+      "nome": "Paulo Illes",
+      "cargo": "Coordenador-Geral de Política Migratória da Secretaria Nacional de Justiça do Ministério da Justiça e Segurança Pública (SENAJUS)",
+      "opinioes": [
+        "Descreveu a estrutura e as competências do Departamento de Migrações.",
+        "Destacou a importância da Política Nacional de Migrações, Refúgio e Apatridia.",
+        "Afirmou o compromisso do Departamento de Migrações com a regularização migratória e mencionou a Portaria Interministerial nº 678, de 2022, em processo de revogação."
+      ]
+    },
+    {
+      "nome": "Fedo Bacourt",
+      "cargo": "Representante das Ocupações Haiti, Vila das Belezas, Penha Pietra, MLB Brasil e MLB Praça da República",
+      "opinioes": [
+        "Reforçou a importância da participação dos imigrantes nas audiências públicas.",
+        "Destacou os desafios enfrentados pelas mulheres imigrantes, especialmente na área da saúde.",
+        "Apoiou a validação dos diplomas de mulheres imigrantes como uma forma de melhorar sua integração e atendimento de saúde."
+      ]
+    },
+    {
+      "nome": "Fabio Ando Filho",
+      "cargo": "Assistente de Projetos da Agência da ONU para as Migrações (OIM)",
+      "opinioes": [
+        "Destacou a importância do Brasil retornar ao Pacto Global para Migração.",
+        "Reforçou a necessidade de uma política migratória inclusiva e com protagonismo dos migrantes.",
+        "Mencionou a responsabilidade de tratar toda a documentação recebida e garantir os direitos dos migrantes."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública, presidida por Erika Kokay e proposta por Erika Hilton, discutiu os desafios da regularização migratória e o acesso a direitos pela população migrante no Brasil. Entre os principais pontos debatidos, destacou-se a necessidade de maior transparência no processo administrativo, a contratação de mediadores interculturais e a continuidade na construção de políticas públicas voltadas para os migrantes. Participaram representantes do governo, ONGs e defensores públicos, que reforçaram a importância da Política Nacional de Migrações, Refúgio e Apatridia, e a necessidade de mais medidas para garantir os direitos dos migrantes. Foram abordados temas como a validação de diplomas, a saúde das mulheres migrantes, e a importância de uma política migratória inclusiva com a participação ativa dos migrantes."
+}

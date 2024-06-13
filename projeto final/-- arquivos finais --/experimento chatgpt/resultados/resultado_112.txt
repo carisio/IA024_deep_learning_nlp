@@ -1,0 +1,82 @@
+{
+  "assunto": "Debate sobre o Projeto de Lei Complementar nº 12, de 2024, que regulamenta o trabalho de motorista de aplicativo para transporte de passageiro.",
+  "envolvidos": [
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado Federal (Bloco/PSOL - RJ) e Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "Reafirma a importância da participação democrática e do diálogo amplo na Comissão de Legislação Participativa.",
+        "Solicita a retirada da urgência constitucional do PLP 12/2024 para permitir um debate mais aprofundado.",
+        "Ressalta que a Comissão está alinhada com os trabalhadores, não com as plataformas digitais."
+      ]
+    },
+    {
+      "nome": "Sâmia Bomfim",
+      "cargo": "Deputada Federal (Bloco/PSOL - SP)",
+      "opinioes": [
+        "Apoia a regulamentação que amplie direitos e possibilidades para trabalhadores de aplicativos.",
+        "Discorda da urgência constitucional do projeto, afirmando que 30 dias não são suficientes para um acordo satisfatório.",
+        "Destaca a necessidade de um processo mais amplo de escuta e mobilização dos trabalhadores."
+      ]
+    },
+    {
+      "nome": "Paulo Xavier",
+      "cargo": "Presidente da Federação dos Motoristas por Aplicativos do Brasil — FEMBRAPP",
+      "opinioes": [
+        "Critica a possibilidade de banimento unilateral dos motoristas pelas plataformas, considerando inconstitucional.",
+        "Afirma que o projeto atual é uma CLT disfarçada, oferecendo apenas deveres sem direitos reais aos motoristas.",
+        "Defende a rejeição total do projeto atual e a criação de uma proposta que realmente beneficie os motoristas."
+      ]
+    },
+    {
+      "nome": "Dayany Bittencourt",
+      "cargo": "Deputada Federal (Bloco/UNIÃO - CE)",
+      "opinioes": [
+        "Critica a falta de respeito pela voz dos motoristas na elaboração do projeto.",
+        "Reafirma que os motoristas não querem ligação com sindicatos e buscam respeito, dignidade e segurança.",
+        "Defende a rejeição do PLP 12/24."
+      ]
+    },
+    {
+      "nome": "Abel Santos",
+      "cargo": "Diretor Administrativo e Secretário da Associação de Trabalhadores por Aplicativos e Motociclistas do Distrito Federal e Entorno — ATAM/DF",
+      "opinioes": [
+        "Agradece o espaço democrático oferecido pela Comissão.",
+        "Defende os direitos dos trabalhadores por aplicativo e a necessidade de uma regulamentação justa."
+      ]
+    },
+    {
+      "nome": "Jonatas Amorim",
+      "cargo": "Representante dos motoristas e aplicativos regionais de Ouro Preto, Minas Gerais",
+      "opinioes": [
+        "Critica a exclusão dos aplicativos regionais e dos motoristas regionais do debate sobre o PLP 12/24.",
+        "Afirma que os custos impostos pelo projeto inviabilizariam o funcionamento dos aplicativos regionais."
+      ]
+    },
+    {
+      "nome": "Hildo do Candango",
+      "cargo": "Deputado Federal (Bloco/REPUBLICANOS - GO)",
+      "opinioes": [
+        "Apoia a regulamentação da categoria, mas critica a urgência do projeto.",
+        "Destaca a importância dos motoristas de aplicativo no transporte coletivo e defende sua valorização."
+      ]
+    },
+    {
+      "nome": "Sérgio Guerra Correa",
+      "cargo": "Motorista de aplicativo de Curitiba, Paraná",
+      "opinioes": [
+        "Defende que o pagamento aos motoristas seja por quilômetro rodado, não por hora.",
+        "Ressalta a necessidade de eleger representantes que realmente conheçam a realidade dos motoristas de aplicativo."
+      ]
+    },
+    {
+      "nome": "Daniel Agrobom",
+      "cargo": "Deputado Federal (PL - GO)",
+      "opinioes": [
+        "Critica a exclusão dos representantes dos motoristas de aplicativo do grupo de trabalho.",
+        "Destaca a importância de defender os motoristas de aplicativo na regulamentação."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Legislação Participativa da Câmara dos Deputados debateu o Projeto de Lei Complementar nº 12, de 2024, que regulamenta o trabalho dos motoristas de aplicativo. Os principais pontos discutidos incluíram a urgência constitucional do projeto, com diversos participantes solicitando mais tempo para debate. Parlamentares e representantes dos motoristas expressaram preocupações sobre a falta de direitos reais na proposta atual e a exclusão de vozes importantes do processo de elaboração. O consenso geral foi a necessidade de uma regulamentação que amplie direitos e valorize a categoria, sem impor apenas deveres e custos adicionais aos motoristas."
+}

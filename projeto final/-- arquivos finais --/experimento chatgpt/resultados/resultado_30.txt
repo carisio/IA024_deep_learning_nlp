@@ -1,0 +1,57 @@
+{
+  "assunto": "Orçamento público em relação à infância e à adolescência com foco na prevenção e na resposta à violência.",
+  "envolvidos": [
+    {
+      "nome": "Ana Paula Lima",
+      "cargo": "Deputada, Bloco/PT - SC",
+      "opinioes": ["Responsável pela abertura e condução da audiência."]
+    },
+    {
+      "nome": "José Fernando da Silva",
+      "cargo": "Coordenador-Geral de Enfrentamento do Trabalho Infantil, Secretaria Nacional dos Direitos da Criança e do Adolescente, Ministério dos Direitos Humanos e da Cidadania",
+      "opinioes": [
+        "A Constituição e o Estatuto da Criança e do Adolescente garantem a proteção integral dos direitos humanos e fundamentais das crianças e adolescentes.",
+        "A proteção deve incluir todos os direitos, como educação, alimentação, lazer, esporte e convivência familiar e comunitária.",
+        "O orçamento da Secretaria Nacional da Criança e do Adolescente é de 51 milhões de reais, com prioridades em ações para a primeira infância, proteção a crianças e adolescentes ameaçados de morte, Sistema Nacional de Atendimento Socioeducativo, funcionamento dos Conselhos Tutelares e Conselhos de Direitos, e formação através das Escolas de Conselhos.",
+        "Aumentar o orçamento para 58 milhões de reais no próximo ano é necessário para fortalecer essas áreas."
+      ]
+    },
+    {
+      "nome": "Clara Maria Guimarães Marinho",
+      "cargo": "Coordenadora-Geral da Secretaria de Orçamento Federal do Ministério do Planejamento e Orçamento",
+      "opinioes": [
+        "O orçamento para 2024 inclui 24,2 bilhões de reais para a Agenda Transversal Crianças e Adolescentes.",
+        "Houve várias inovações no processo orçamentário para aumentar a transparência e o controle social.",
+        "É essencial que a execução do orçamento seja acompanhada em tempo real, e um relatório sobre a execução será apresentado em 2025."
+      ]
+    },
+    {
+      "nome": "Lucas José Ramos Lopes",
+      "cargo": "Secretário-Executivo da Coalizão Brasileira pelo Fim da Violência contra Crianças e Adolescentes",
+      "opinioes": [
+        "Representa uma coalizão de 77 organizações da sociedade civil focadas em planejamento público e prevenção da violência contra crianças e adolescentes.",
+        "É fundamental articular planos nacionais de direitos da criança e do adolescente com o Plano Plurianual 2024/2027.",
+        "A transparência e a monitorização dos investimentos são cruciais para melhorar a qualidade executória das ações de prevenção à violência contra crianças e adolescentes."
+      ]
+    },
+    {
+      "nome": "Santiago Varella",
+      "cargo": "Especialista em políticas sociais do UNICEF",
+      "opinioes": [
+        "O UNICEF trabalha para a identificação e transparência do orçamento destinado às crianças e adolescentes.",
+        "É importante ter uma marcação orçamentária para crianças e adolescentes no Orçamento de 2024.",
+        "A parcela do orçamento federal destinada às crianças variou entre 99 bilhões e 120 bilhões nos últimos 8 anos, representando uma diminuição relativa em termos de PIB."
+      ]
+    },
+    {
+      "nome": "Luiza Carvalho Fachin",
+      "cargo": "Coordenadora Substituta da Comissão Nacional de Erradicação do Trabalho Infantil (CONAETI), Ministério do Trabalho e Emprego",
+      "opinioes": [
+        "A CONAETI foi recriada em abril de 2023 para combater o trabalho infantil, com participação de representantes do governo, trabalhadores, empregadores e sociedade civil.",
+        "O trabalho infantil é uma grave violação dos direitos das crianças e deve ser combatido por meio de políticas intersetoriais e transversais.",
+        "O orçamento público adequado é essencial para a execução do Plano Nacional de Prevenção e Erradicação do Trabalho Infantil e para alcançar a Meta 8.7 dos Objetivos de Desenvolvimento Sustentável."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública tratou do orçamento público destinado à infância e adolescência, com foco na prevenção e resposta à violência. Entre os participantes, estavam a Deputada Ana Paula Lima, que conduziu a sessão, José Fernando da Silva, que destacou a necessidade de proteger os direitos das crianças e adolescentes com um orçamento adequado, Clara Maria Guimarães Marinho, que apresentou inovações no processo orçamentário para aumentar a transparência, Lucas José Ramos Lopes, que enfatizou a importância de articular planos nacionais e monitorar os investimentos, Santiago Varella, que reforçou a necessidade de marcação orçamentária para crianças e adolescentes, e Luiza Carvalho Fachin, que abordou a importância do combate ao trabalho infantil com políticas intersetoriais. A sessão destacou a importância de um orçamento público robusto e bem gerido para a proteção e promoção dos direitos das crianças e adolescentes no Brasil."
+}

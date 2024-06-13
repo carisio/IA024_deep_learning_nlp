@@ -1,0 +1,77 @@
+{
+  "assunto": "Perseguição a professores no Brasil",
+  "envolvidos": [
+    {
+      "nome": "Talíria Petrone",
+      "cargo": "Deputada, PSOL - RJ",
+      "opinioes": [
+        "A perseguição a professores é uma violação dos direitos humanos e está relacionada com o retrocesso das liberdades democráticas no Brasil.",
+        "É necessário enfrentar e responsabilizar os autores das perseguições, que muitas vezes são figuras públicas ou possuem espaços de poder."
+      ]
+    },
+    {
+      "nome": "Erika Hilton",
+      "cargo": "Deputada",
+      "opinioes": [
+        "A perseguição docente é um fenômeno sistemático e crescente, necessitando de políticas públicas para sua superação."
+      ]
+    },
+    {
+      "nome": "Luciene Cavalcante",
+      "cargo": "Deputada, Professora, PSOL - SP",
+      "opinioes": [
+        "A perseguição a professores compromete a educação democrática e cidadã, princípios constitucionais do Brasil.",
+        "Defende a criação de mecanismos para evitar que situações como as de 8 de janeiro se repitam, protegendo a educação e seus profissionais."
+      ]
+    },
+    {
+      "nome": "Fernando Penna",
+      "cargo": "Diretor da Faculdade de Educação da Universidade Federal Fluminense",
+      "opinioes": [
+        "A perseguição a professores intensificou-se na última década com o fortalecimento da extrema direita no Brasil.",
+        "A escolha dos professores como alvo não é casual, visa desestabilizar a educação em direitos humanos.",
+        "A perseguição é caracterizada por um método que envolve discurso de ódio e estratégias que desrespeitam os espaços institucionais democráticos."
+      ]
+    },
+    {
+      "nome": "Renata Aquino",
+      "cargo": "Professora de História no Ensino Médio, Rede Estadual de Educação do Rio de Janeiro",
+      "opinioes": [
+        "A perseguição a educadores é uma prática que gera lucro político e econômico para figuras da direita e extrema direita.",
+        "É necessário entender a perseguição como um fenômeno sistemático e responsabilizar aqueles que usam redes sociais para criminalizar professores."
+      ]
+    },
+    {
+      "nome": "Pâmella Passos",
+      "cargo": "Professora e Pesquisadora do Instituto Federal do Rio de Janeiro",
+      "opinioes": [
+        "A perseguição docente não é um fenômeno menor e está relacionada ao processo de 'desdemocracia' que retira direitos sociais e ataca direitos humanos.",
+        "Defende que educadores são defensores dos direitos humanos e estão sofrendo ameaças e violações."
+      ]
+    },
+    {
+      "nome": "Salomão Barros Ximenes",
+      "cargo": "Professor de Direito à Educação e Políticas Educacionais, Universidade Federal do ABC",
+      "opinioes": [
+        "A perseguição e censura a docentes são violações sistemáticas de direitos humanos no Brasil.",
+        "É necessário reconhecer essa violação e implementar medidas para enfrentá-la, entendendo-a como um fenômeno disseminado e interligado a retrocessos em políticas educacionais."
+      ]
+    },
+    {
+      "nome": "Juliana Andozio",
+      "cargo": "Professora",
+      "opinioes": [
+        "Relatou ameaças e afastamento devido à acusação de doutrinação ideológica, sem provas, destacando o impacto da perseguição em sua vida pessoal e profissional."
+      ]
+    },
+    {
+      "nome": "Henrique Maffei",
+      "cargo": "Professor",
+      "opinioes": [
+        "Defendeu que a perseguição a professores é uma estratégia para desestabilizar a educação em direitos humanos.",
+        "Ressaltou que o movimento Escola sem Partido foi desarticulado judicialmente, mas a perseguição continua de forma sistemática."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Educação e pela Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados discutiu a crescente perseguição a professores no Brasil. O debate destacou que a perseguição docente é uma violação dos direitos humanos, ligada ao retrocesso das liberdades democráticas e ao fortalecimento da extrema direita no país. Várias figuras públicas e movimentos políticos, como o Escola sem Partido, foram citados como fomentadores dessa perseguição, utilizando estratégias de discurso de ódio e criminalização dos educadores. Os participantes defenderam a necessidade de políticas públicas para enfrentar essa questão e responsabilizar os autores das perseguições, muitas vezes figuras públicas com grande exposição nas redes sociais. Casos específicos de ameaças, afastamentos e adoecimento de professores foram relatados, evidenciando o impacto profundo dessa perseguição na educação e nos direitos humanos no Brasil."
+}

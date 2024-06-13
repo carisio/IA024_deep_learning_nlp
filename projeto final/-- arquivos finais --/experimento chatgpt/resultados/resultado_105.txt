@@ -1,0 +1,72 @@
+{
+  "assunto": "Desafios assistenciais dos pacientes de Edema Macular Diabético no Sistema Único de Saúde",
+  "envolvidos": [
+    {
+      "nome": "Dr. Zacharias Calil",
+      "cargo": "Deputado e Presidente da Comissão",
+      "opinioes": [
+        "É crucial reconhecer a gravidade do Edema Macular Diabético (EMD) e garantir atendimento adequado e acessível a todos os pacientes.",
+        "O SUS precisa revisar e atualizar seus protocolos clínicos para incluir diretrizes claras para o diagnóstico, tratamento e acompanhamento do EMD.",
+        "Deve haver um sistema de financiamento adequado que cubra os custos dos medicamentos, procedimentos e acompanhamento oftalmológico dos pacientes com EMD.",
+        "Destacou a importância do Abril Marrom para a conscientização sobre a saúde ocular e a prevenção de doenças como o EMD."
+      ]
+    },
+    {
+      "nome": "Vanessa Pirolo",
+      "cargo": "Consultora da Coalizão Vozes do Advocacy",
+      "opinioes": [
+        "Agradeceu a iniciativa de iluminar o Congresso com a cor marrom durante o Abril Marrom.",
+        "Enfatizou a importância de políticas públicas para melhorar o acesso ao tratamento do diabetes e suas complicações.",
+        "Alertou sobre a falta de adesão ao tratamento do diabetes e as dificuldades enfrentadas pelos pacientes para acessar tratamentos oftalmológicos no SUS.",
+        "Destacou a necessidade de capacitar profissionais de saúde e expandir a rede de unidades de atendimento especializado em retina.",
+        "Chamou a atenção para a necessidade de transparência no tratamento com antiangiogênicos e a importância de um financiamento adequado."
+      ]
+    },
+    {
+      "nome": "César Achkar Magalhães",
+      "cargo": "Representante da Associação Retina Brasil",
+      "opinioes": [
+        "A maior dificuldade enfrentada é a trajetória longa do paciente dentro do sistema de saúde, resultando em perda de visão devido à demora no diagnóstico e tratamento.",
+        "Defendeu a implementação de uma política nacional de saúde ocular que inclua todas as doenças oftalmológicas.",
+        "Reivindicou a criação de centros de reabilitação para pessoas com deficiência visual e surdo-cegueira.",
+        "Sugeriu que todos façam exame de imagem de retina a partir dos 50 anos para diagnosticar possíveis problemas da retina precocemente."
+      ]
+    },
+    {
+      "nome": "Fernando Korn Malerbi",
+      "cargo": "Coordenador do Departamento de Doenças Oculares da Sociedade Brasileira de Diabetes",
+      "opinioes": [
+        "Acredita na necessidade de um programa amplo e universal de rastreamento da doença para identificar pessoas com diabetes e fornecer exames periódicos de retina.",
+        "Destacou a importância de organizar o sistema de referência e contrarreferência do SUS para garantir que pacientes com risco cheguem ao especialista em tempo adequado.",
+        "Enfatizou a necessidade de implementar os Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) atualizados para o tratamento dos pacientes com retinopatia diabética."
+      ]
+    },
+    {
+      "nome": "Arnaldo Furman Bordon",
+      "cargo": "Presidente da Sociedade Brasileira de Retina e Vítreo",
+      "opinioes": [
+        "Ressaltou a importância de campanhas de conscientização sobre a retinopatia diabética e a necessidade de exames oftalmológicos regulares para portadores de diabetes.",
+        "Destacou a necessidade de separar os pacientes que necessitam de tratamento em centros especializados daqueles que precisam apenas de controle do diabetes.",
+        "Defendeu a implementação de telemedicina e triagem para acelerar o acesso ao tratamento adequado."
+      ]
+    },
+    {
+      "nome": "Mauro Goldbaum",
+      "cargo": "Diretor de Relações Internacionais do Conselho Brasileiro de Oftalmologia",
+      "opinioes": [
+        "Parabenizou a CONITEC pela incorporação de novos medicamentos para o tratamento da retinopatia diabética.",
+        "Destacou a importância de prevenir a retinopatia diabética através de tratamento adequado da diabetes mellitus.",
+        "Enfatizou a necessidade de melhorar a triagem para identificar pacientes com maior risco e garantir acesso ao tratamento adequado."
+      ]
+    },
+    {
+      "nome": "Roney Pereira Pinto",
+      "cargo": "Diretor-Geral da Central Estadual de Medicamentos de Alto Custo Juarez Barbosa — CEMAC",
+      "opinioes": [
+        "Compartilhou a experiência bem-sucedida de Goiás em organizar o fluxo de tratamento para pacientes com edema macular diabético e degeneração macular relacionada à idade.",
+        "Ressaltou a importância de negociações para reduzir o custo dos medicamentos e a implementação de um sistema eficiente de logística e aplicação de tratamentos."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu os desafios assistenciais dos pacientes de Edema Macular Diabético (EMD) no Sistema Único de Saúde (SUS). O Deputado Dr. Zacharias Calil destacou a necessidade de revisar os protocolos clínicos e garantir financiamento adequado. Vanessa Pirolo, da Coalizão Vozes do Advocacy, enfatizou a importância de políticas públicas e a capacitação de profissionais de saúde. César Magalhães, da Retina Brasil, e Fernando Malerbi, da Sociedade Brasileira de Diabetes, destacaram a necessidade de um programa de rastreamento e de uma política nacional de saúde ocular. Arnaldo Bordon defendeu campanhas de conscientização e a utilização de telemedicina, enquanto Mauro Goldbaum ressaltou a prevenção da retinopatia diabética e a triagem eficiente. Roney Pinto compartilhou o sucesso de Goiás em organizar o fluxo de tratamento e negociar custos. Todos os participantes concordaram sobre a importância de melhorias no SUS para garantir o tratamento adequado e prevenir a cegueira dos pacientes com EMD."
+}

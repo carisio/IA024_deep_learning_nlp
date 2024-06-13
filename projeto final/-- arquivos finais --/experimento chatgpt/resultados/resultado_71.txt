@@ -1,0 +1,56 @@
+{
+  "assunto": "Debate sobre o preço dos combustíveis e a importância da PETROBRAS e da Refinaria Gabriel Passos (REGAP)",
+  "envolvidos": [
+    {
+      "nome": "Rogério Correia",
+      "cargo": "Deputado, PT - MG, Presidente da Comissão de Legislação Participativa",
+      "opinioes": [
+        "A privatização da REGAP pode afetar negativamente a economia de Minas Gerais, especialmente na região metropolitana de Betim e Contagem.",
+        "Há uma preocupação significativa sobre o aumento dos preços da gasolina e do diesel.",
+        "Sugeriu a realização de uma reunião com o Tribunal de Contas da União (TCU) para discutir o desinvestimento na REGAP.",
+        "Criticou a política de desestatização e desinvestimento da PETROBRAS, defendendo que assuntos de tal importância devem ser decididos através de referendos populares."
+      ]
+    },
+    {
+      "nome": "Eric Marcos Futino",
+      "cargo": "Gerente-Geral de Planejamento Logístico da PETROBRAS",
+      "opinioes": [
+        "A PETROBRAS compete livremente no mercado desde a abertura do mercado em 1997.",
+        "A política de preços da PETROBRAS está alinhada ao mercado internacional e evita repasses imediatos das volatilidades externas.",
+        "O desinvestimento em refinarias é parte de um acordo com o CADE para promover a concorrência no setor de refino.",
+        "A PETROBRAS está comprometida com a realocação dos empregados da REGAP que desejarem permanecer na empresa."
+      ]
+    },
+    {
+      "nome": "Deyvid Souza Bacelar da Silva",
+      "cargo": "Coordenador-Geral da Federação Única dos Petroleiros (FUP)",
+      "opinioes": [
+        "Criticou o acordo entre a PETROBRAS e o CADE, classificando-o como prejudicial à empresa e ao país.",
+        "Afirmou que a privatização das refinarias cria monopólios regionais privados e pode resultar em aumentos de preços e desabastecimento.",
+        "Defendeu que as privatizações das refinarias são ilegais e inconstitucionais.",
+        "Sustentou que a política de Preço de Paridade de Importação (PPI) é prejudicial para o Brasil, um país autossuficiente em petróleo."
+      ]
+    },
+    {
+      "nome": "Alexandre Finamori França Baptista",
+      "cargo": "Coordenador-Geral do Sindicato dos Trabalhadores na Indústria de Destilação e Refinação de Petróleo no Estado de Minas Gerais (SINDPETRO/MG)",
+      "opinioes": [
+        "A privatização da REGAP será prejudicial para a arrecadação de impostos em Minas Gerais e para a economia local.",
+        "Criticou a falta de estudos socioeconômicos sobre o impacto da privatização.",
+        "Alertou sobre os riscos ambientais e de segurança decorrentes da privatização.",
+        "Defendeu que a venda da REGAP não levará a uma redução nos preços dos combustíveis, mas sim a um aumento."
+      ]
+    },
+    {
+      "nome": "Eduardo Costa Pinto",
+      "cargo": "Professor da UFRJ e pesquisador do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis (INEEP)",
+      "opinioes": [
+        "A venda de ativos da PETROBRAS é uma estratégia de privatização que enfraquece a empresa a longo prazo.",
+        "A PETROBRAS deveria investir mais em energias renováveis e em tecnologia, em vez de desinvestir em refinarias.",
+        "A venda da REGAP pode criar monopólios regionais e aumentar os preços dos combustíveis.",
+        "A estratégia atual de desinvestimento e distribuição de dividendos é prejudicial à sustentabilidade da PETROBRAS."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o impacto da privatização da Refinaria Gabriel Passos (REGAP) e da política de preços da PETROBRAS sobre os preços dos combustíveis. Participaram do debate o Deputado Rogério Correia, que manifestou preocupação com a privatização e seus efeitos econômicos negativos para Minas Gerais; Eric Marcos Futino, representante da PETROBRAS, que defendeu o desinvestimento como necessário para promover a concorrência; Deyvid Souza Bacelar da Silva, da FUP, que criticou a privatização e o acordo com o CADE; Alexandre Finamori França Baptista, do SINDPETRO/MG, que alertou sobre os impactos econômicos e sociais negativos; e Eduardo Costa Pinto, da UFRJ, que destacou os riscos de monopólio e aumento de preços. As opiniões divergiram quanto aos benefícios e malefícios da privatização, com forte oposição por parte dos representantes dos trabalhadores e apoio parcial da PETROBRAS, condicionado a acordos regulatórios."
+}

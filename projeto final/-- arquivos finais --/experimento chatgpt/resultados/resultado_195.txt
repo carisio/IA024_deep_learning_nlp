@@ -1,0 +1,49 @@
+{
+  "assunto": "Debate sobre experiências internacionais no desenvolvimento e regulamentação dos mercados digitais, relacionado ao Projeto de Lei nº 2.768, de 2022.",
+  "envolvidos": [
+    {
+      "nome": "Any Ortiz",
+      "cargo": "Deputada e Presidente da Comissão de Desenvolvimento Econômico",
+      "opinioes": [
+        "A era digital transforma diversos aspectos da sociedade, impactando a economia, inovação e competitividade.",
+        "É essencial que a Câmara promova um debate amplo e aprofundado sobre regulamentação dos mercados digitais, buscando aprendizado e cooperação internacional.",
+        "A regulamentação deve proporcionar crescimento econômico, proteção dos consumidores e dos empreendedores.",
+        "Questiona o impacto da Lei de Mercados Digitais na indústria da tecnologia e prestação de serviços na União Europeia após 9 meses de vigência."
+      ]
+    },
+    {
+      "nome": "Assimakis Komninos",
+      "cargo": "Advogado especialista em Mercados e Serviços Digitais, sócio do escritório White & Case LLP",
+      "opinioes": [
+        "Há diferentes modelos de regulamentação de mercados digitais pelo mundo, com destaque para a legislação europeia (DMA) e a alemã.",
+        "Regulações ex ante são preferíveis a regulações ex post para prevenir violações antes que ocorram.",
+        "A legislação de mercados digitais deve evitar uma fragmentação completa e estar alinhada com sistemas existentes.",
+        "Defende um sistema mais flexível de regulamentação, similar ao alemão, permitindo defesas baseadas na eficiência.",
+        "Sugere que a autoridade de concorrência seja responsável pela aplicação das leis de regulamentação digital."
+      ]
+    },
+    {
+      "nome": "Jorge Padilla",
+      "cargo": "Diretor-Executivo Sênior e chefe da Compass Lexecon",
+      "opinioes": [
+        "As regulamentações de mercados digitais devem focar no desempenho econômico e concorrência.",
+        "A regulação ex ante da União Europeia foi escolhida por conveniência institucional, não necessariamente por ser a melhor solução.",
+        "Sugere uma abordagem mais flexível, similar ao modelo britânico ou alemão, para o Brasil.",
+        "Adotar uma regulação baseada em evidências pode evitar impactos negativos nos mercados digitais brasileiros.",
+        "A regulamentação deve considerar a disrupção positiva que big techs podem trazer a mercados concentrados, como o bancário."
+      ]
+    },
+    {
+      "nome": "Krisztian Katona",
+      "cargo": "Vice-Presidente de Concorrência Global e Política Regulatória da Computer and Communications Industry Association",
+      "opinioes": [
+        "Reguladores devem evitar depender exclusivamente de exemplos internacionais e considerar o contexto e objetivos locais.",
+        "A experiência regulatória é limitada e os resultados completos das regulações ex ante ainda não são claros.",
+        "Leis de regulamentação digital devem considerar o impacto nos custos e qualidade dos serviços para consumidores e empresas.",
+        "Sistemas regulatórios devem ser justos e competitivos para atrair investimentos internacionais.",
+        "Advoga por uma análise de custo-benefício e de impacto antes da implementação de novas regulações."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública da Comissão de Desenvolvimento Econômico debateu as experiências internacionais na regulamentação dos mercados digitais, focando no Projeto de Lei nº 2.768, de 2022. Os participantes, incluindo especialistas internacionais e deputados, discutiram a importância de uma regulação adequada para fomentar a concorrência, inovação e proteção dos consumidores. A deputada Any Ortiz, presidente da Comissão, destacou a relevância de um debate profundo e cooperativo. Assimakis Komninos, Jorge Padilla e Krisztian Katona compartilharam suas experiências e opiniões sobre os modelos regulatórios europeus e a necessidade de flexibilidade e adaptação às especificidades nacionais, ressaltando a importância de uma abordagem baseada em evidências para minimizar impactos negativos."
+}

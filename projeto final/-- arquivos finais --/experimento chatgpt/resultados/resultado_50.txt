@@ -1,0 +1,73 @@
+{
+  "assunto": "Discussão sobre Protocolos Clínicos e Diretrizes Terapêuticas de HIV/AIDS e hepatites virais, a incorporação de novos medicamentos e a situação das patentes de medicamentos.",
+  "envolvidos": [
+    {
+      "nome": "Cleber Verde",
+      "cargo": "Presidente da Comissão de Ciência, Tecnologia e Inovação",
+      "opinioes": ["Abertura da audiência pública e introdução do tema principal."]
+    },
+    {
+      "nome": "Priscila Gebrim Louly",
+      "cargo": "Coordenadora-Geral de Avaliação de Tecnologias em Saúde do Ministério da Saúde",
+      "opinioes": [
+        "Explicou o funcionamento e a estrutura da CONITEC.",
+        "Detalhou o processo de incorporação de tecnologias no SUS.",
+        "Mencionou tecnologias avaliadas e em avaliação para HIV/AIDS e hepatites virais."
+      ]
+    },
+    {
+      "nome": "Soraya Santos",
+      "cargo": "Deputada",
+      "opinioes": [
+        "Enfatizou a importância da tecnologia no tratamento de AIDS no Brasil.",
+        "Criticou a inclusão do FUNDEB no arcabouço fiscal.",
+        "Defendeu a associação de tecnologia com o tratamento médico."
+      ]
+    },
+    {
+      "nome": "Daiana Santos",
+      "cargo": "Deputada e Presidente da Audiência",
+      "opinioes": [
+        "Agradeceu a participação dos convidados.",
+        "Comentou sobre a importância da atualização dos protocolos clínicos desde 2018.",
+        "Reforçou a necessidade de acesso amplo e integral ao tratamento."
+      ]
+    },
+    {
+      "nome": "Veriano de Souza Terto Junior",
+      "cargo": "Vice-Presidente da Associação Brasileira Interdisciplinar de AIDS (ABIA)",
+      "opinioes": [
+        "Destacou a importância da incorporação de novas tecnologias para HIV/AIDS e hepatites virais.",
+        "Apontou atrasos na incorporação de medicamentos no Brasil.",
+        "Defendeu o licenciamento compulsório de medicamentos como o dolutegravir."
+      ]
+    },
+    {
+      "nome": "Ronaldo Hallal",
+      "cargo": "Assessor da Coordenação-Geral de Vigilância do HIV/AIDS e das Hepatites Virais",
+      "opinioes": [
+        "Abordou a centralidade do acesso ao tratamento oportuno e às melhores opções terapêuticas.",
+        "Comentou sobre as metas internacionais de controle do HIV.",
+        "Destacou a importância da atualização dos protocolos clínicos."
+      ]
+    },
+    {
+      "nome": "Rodrigo Pinheiro",
+      "cargo": "Representante da Articulação Nacional de Luta Contra a Aids (ANAIDS)",
+      "opinioes": [
+        "Agradeceu a realização da audiência.",
+        "Reforçou a necessidade de novos medicamentos para HIV/AIDS e hepatites virais.",
+        "Sugeriu questionar a CONITEC sobre dificuldades na incorporação de novos medicamentos."
+      ]
+    },
+    {
+      "nome": "Lucas Ramos",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Defendeu a importância da FIOCRUZ na produção e pesquisa de medicamentos.",
+        "Afirmou que a universalização do acesso a medicamentos deve ser uma prioridade."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu os Protocolos Clínicos e Diretrizes Terapêuticas de HIV/AIDS e hepatites virais, focando na incorporação de novos medicamentos e nas patentes de medicamentos. Cleber Verde abriu a audiência, seguido por apresentações de Priscila Gebrim Louly (CONITEC), Veriano de Souza Terto Junior (ABIA), Ronaldo Hallal (Ministério da Saúde) e outros. Debates centraram-se em atrasos na incorporação de medicamentos, licenciamento compulsório, e a importância de tecnologias no tratamento dessas doenças. A deputada Soraya Santos criticou a inclusão do FUNDEB no arcabouço fiscal, enquanto Daiana Santos e Lucas Ramos enfatizaram a necessidade de garantir o acesso universal e investir em pesquisa e tecnologia."
+}

@@ -1,0 +1,63 @@
+{
+  "assunto": "Debater a sustentabilidade do Fundo de Garantia do Tempo de Serviço (FGTS).",
+  "envolvidos": [
+    {
+      "nome": "Paulo Ramos",
+      "cargo": "Presidente da Comissão de Trabalho, de Administração e Serviço Público",
+      "opinioes": [
+        "Criticou a transformação do Congresso Nacional em uma máquina frenética de votação, com pouca oportunidade para debate.",
+        "Destacou a importância de reunir projetos de lei similares para debate coletivo.",
+        "Defendeu a preservação da Caixa Econômica Federal como um banco exclusivamente público.",
+        "Manifestou preocupação com a urgência do Projeto de Lei nº 3.934 e seus impactos no FGTS.",
+        "Apoiou campanhas de conscientização sobre o Fundo de Garantia, destacando sua importância para o trabalhador e a economia."
+      ]
+    },
+    {
+      "nome": "Cintia Teixeira",
+      "cargo": "Superintendente Nacional do FGTS na Caixa Econômica Federal",
+      "opinioes": [
+        "Reforçou a importância do FGTS como uma estrutura tripartite.",
+        "Discutiu a sustentabilidade do fundo e apresentou dados gerenciais.",
+        "Afirmou que o saque-aniversário garante a sustentabilidade do fundo e mitiga riscos.",
+        "Comentou sobre a evolução na cobrança e fiscalização do FGTS."
+      ]
+    },
+    {
+      "nome": "Márcio Leão Coelho",
+      "cargo": "Representante do Ministério do Trabalho e Previdência",
+      "opinioes": [
+        "Defendeu a importância de manter o FGTS em pauta e informado ao público.",
+        "Criticou propostas de saques emergenciais e novas motivações de saque como prejudiciais ao fundo.",
+        "Alertou sobre o impacto financeiro de projetos de lei que afetam o FGTS, especialmente o PL 3.934.",
+        "Destacou a importância de políticas públicas bem definidas para a utilização dos recursos do fundo."
+      ]
+    },
+    {
+      "nome": "Rosângela Figueiro",
+      "cargo": "Representante da Caixa Econômica Federal",
+      "opinioes": [
+        "Destacou os benefícios do FGTS para a população e a necessidade de proposições que garantam sua sustentabilidade.",
+        "Enfatizou a importância de uma administração cuidadosa do fundo para manter seus benefícios."
+      ]
+    },
+    {
+      "nome": "Maria Henriqueta Arantes Ferreira Alves",
+      "cargo": "Representante da Câmara Brasileira da Indústria da Construção (CBIC)",
+      "opinioes": [
+        "Expressou preocupação com o impacto do PL 3.934 e seus apensados no FGTS.",
+        "Comentou sobre a importância do fundo para a política habitacional e a necessidade de substituir habitações precárias por novas."
+      ]
+    },
+    {
+      "nome": "Mario Avelino",
+      "cargo": "Presidente do Instituto Fundo de Garantia do Trabalhador",
+      "opinioes": [
+        "Alertou sobre três ameaças ao FGTS: o Governo Federal, o Congresso Nacional e a rentabilidade do fundo.",
+        "Defendeu o FGTS como um fundo social crucial para a população de baixa renda.",
+        "Criticou a visão de utilizar o fundo para saque imediato como uma caderneta de poupança.",
+        "Sugeriu eliminar o empréstimo consignado no saque-aniversário para proteger o fundo."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública teve como tema principal a sustentabilidade do FGTS, com debates envolvendo representantes do governo, da Caixa Econômica Federal, do Instituto Fundo de Garantia do Trabalhador e da Câmara Brasileira da Indústria da Construção. Os participantes discutiram a importância do fundo para a economia e o trabalhador, destacando ameaças como propostas de lei que poderiam impactar negativamente sua sustentabilidade. Também enfatizaram a necessidade de campanhas de conscientização sobre o papel do FGTS e políticas públicas bem definidas para a utilização de seus recursos."
+}

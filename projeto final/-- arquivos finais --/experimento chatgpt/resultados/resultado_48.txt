@@ -1,0 +1,70 @@
+{
+  "assunto": "Debate sobre o PL nº 580/2007, que altera o Código Civil para dispor sobre contrato civil de união homoafetiva.",
+  "envolvidos": [
+    {
+      "nome": "Fábio Félix",
+      "cargo": "Deputado Distrital",
+      "opinioes": [
+        "Destaca a importância de discutir os direitos civis dos LGBTs.",
+        "Enfatiza que o PL é inconstitucional e que a discussão é necessária para que as pessoas saibam da existência e dos direitos dos LGBTs.",
+        "Defende o direito ao casamento homoafetivo como uma questão de direitos civis fundamentais."
+      ]
+    },
+    {
+      "nome": "Cíntia Cecílio",
+      "cargo": "Presidente da Comissão de Diversidade Sexual da OAB do Distrito Federal",
+      "opinioes": [
+        "Afirma que o PL é inconstitucional.",
+        "Ressalta a importância da discussão para a visibilidade e direitos dos LGBTs.",
+        "Defende a continuidade do direito ao casamento homoafetivo."
+      ]
+    },
+    {
+      "nome": "Adriana Carla",
+      "cargo": "Representante do Fórum de Diversidade Sexual e de Gênero da Aliança de Batistas e Evangélicxs pela Diversidade",
+      "opinioes": [
+        "Apela para que se deixem as famílias LGBT em paz e que problemas reais sejam tratados pelo Congresso.",
+        "Defende o direito ao amor e ao casamento entre pessoas do mesmo sexo."
+      ]
+    },
+    {
+      "nome": "Rodrigo Pedroso",
+      "cargo": "Procurador da Universidade de São Paulo — USP",
+      "opinioes": [
+        "Afirma que a decisão do STF sobre a ADI 4.277 foi correta em reconhecer a união estável como entidade familiar.",
+        "Defende que a família não pode ser definida arbitrariamente e que mudanças nos valores não podem ser impostas à população."
+      ]
+    },
+    {
+      "nome": "Glauco Barreira",
+      "cargo": "Professor da Universidade Federal do Ceará — UFCE",
+      "opinioes": [
+        "Critica a decisão do STF na ADI 4.277, argumentando que ela ultrapassa os limites constitucionais.",
+        "Defende que a família deve ser definida conforme a Constituição e que mudanças deveriam ser feitas por emenda constitucional."
+      ]
+    },
+    {
+      "nome": "Simone Feres",
+      "cargo": "Representante da Associação Brasileira de Famílias Homotransafetivas — ABRAFH",
+      "opinioes": [
+        "Não foram encontradas opiniões específicas na busca realizada, mas presumivelmente defende os direitos das famílias homotransafetivas."
+      ]
+    },
+    {
+      "nome": "Marisa Lobo Franco Ferreira Alves",
+      "cargo": "Presidente do Movimento Nacional Pró-Mulher, escritora e pesquisadora de gênero",
+      "opinioes": [
+        "Não foram encontradas opiniões específicas na busca realizada."
+      ]
+    },
+    {
+      "nome": "Antonio Jorge Pereira Júnior",
+      "cargo": "Professor da Universidade de Fortaleza — UNIFOR",
+      "opinioes": [
+        "Critica a decisão do STF na ADI 4.277.",
+        "Defende que a definição de família deve seguir o que está previsto na Constituição."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Câmara dos Deputados discutiu o PL nº 580/2007, que propõe alterar o Código Civil para incluir o contrato civil de união homoafetiva. O debate contou com diversas opiniões, tanto favoráveis quanto contrárias ao projeto. Fábio Félix e Cíntia Cecílio defenderam a inconstitucionalidade do PL e a importância dos direitos civis dos LGBTs, incluindo o direito ao casamento homoafetivo. Adriana Carla pediu respeito às famílias LGBT e focou na necessidade de tratar de problemas reais. Rodrigo Pedroso e Glauco Barreira criticaram a decisão do STF que reconheceu a união estável entre pessoas do mesmo sexo, defendendo que mudanças devem ser feitas por emenda constitucional e que a família deve ser definida conforme a Constituição."
+}

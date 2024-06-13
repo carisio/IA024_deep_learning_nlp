@@ -1,0 +1,59 @@
+{
+  "assunto": "O futuro das universidades comunitárias",
+  "envolvidos": [
+    {
+      "nome": "Pedro Uczai",
+      "cargo": "Deputado Federal",
+      "opinioes": [
+        "A importância de discutir o futuro das universidades comunitárias.",
+        "A necessidade de pensar em um novo modelo de financiamento para essas instituições.",
+        "Fortalecer a Lei nº 12.881, de 2013, que rege as comunitárias."
+      ]
+    },
+    {
+      "nome": "Giovanna Gamba",
+      "cargo": "Coordenadora-Geral de Regulação e Normas de Regulação e Supervisão da Educação Superior - SERES/MEC",
+      "opinioes": [
+        "Importância de viabilizar a continuidade e o crescimento das instituições comunitárias.",
+        "Criação de um procedimento e fluxo interno de análise para qualificação das comunitárias.",
+        "Compromisso da Secretaria em resolver problemas de tramitação de pedidos de qualificação."
+      ]
+    },
+    {
+      "nome": "Ulysses Tavares Teixeira",
+      "cargo": "Diretor de Avaliação da Educação Superior do INEP",
+      "opinioes": [
+        "Necessidade de discutir a avaliação da educação superior e o papel das universidades comunitárias.",
+        "O ENADE como um ponto de crítica e a necessidade de um novo formato para avaliação.",
+        "A importância de diretrizes claras para a educação superior que contemplem as comunitárias."
+      ]
+    },
+    {
+      "nome": "Luciane Bisognin Ceretta",
+      "cargo": "Reitora da Universidade do Sul de Santa Catarina",
+      "opinioes": [
+        "Importância de integrar a política de acesso e permanência dos estudantes nas comunitárias.",
+        "A necessidade de um marco legal que regulamente a Lei nº 12.881.",
+        "A crítica à expansão descontrolada do ensino a distância e a necessidade de maior regulação para garantir a qualidade."
+      ]
+    },
+    {
+      "nome": "Rafael Frederico Henn",
+      "cargo": "Presidente do Consórcio das Universidades Comunitárias Gaúchas - COMUNG",
+      "opinioes": [
+        "Importância das universidades comunitárias na formação de qualidade.",
+        "A necessidade de políticas de apoio e financiamento para evitar a precarização e fechamento de cursos.",
+        "A urgência de responder às demandas econômicas e sociais com educação de qualidade."
+      ]
+    },
+    {
+      "nome": "Bernadete Maria Dalmolin",
+      "cargo": "Reitora da Universidade de Passo Fundo",
+      "opinioes": [
+        "A importância de políticas de ampliação de acesso e permanência para as comunitárias.",
+        "A capacidade das comunitárias de oferecer milhares de vagas se houver apoio governamental."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu o futuro das universidades comunitárias, com foco em financiamento, avaliação e políticas de acesso e permanência. Participantes enfatizaram a necessidade de fortalecer a legislação existente, criar procedimentos eficientes para qualificação das comunitárias e regular melhor o ensino a distância. Opiniões destacaram a importância dessas instituições na oferta de educação de qualidade e as dificuldades enfrentadas devido à falta de apoio governamental adequado."
+}

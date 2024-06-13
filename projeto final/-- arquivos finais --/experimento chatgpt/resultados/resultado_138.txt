@@ -1,0 +1,36 @@
+{
+  "assunto": "Recente vazamento de dados da população brasileira e as medidas da Agência Nacional de Proteção de Dados (ANPD) para proteger essas informações.",
+  "envolvidos": [
+    {
+      "nome": "Caio Vianna",
+      "cargo": "Presidente da Comissão",
+      "opinioes": [
+        "A importância de discutir a proteção de dados pessoais, destacando que muitas empresas utilizam indevidamente as informações dos cidadãos.",
+        "Necessidade de apoio do Parlamento para que a ANPD desenvolva seu trabalho com eficiência.",
+        "Preocupação com vazamentos de dados em órgãos públicos e privados, e a urgência de garantir a segurança dos dados do cidadão brasileiro."
+      ]
+    },
+    {
+      "nome": "Waldemar Gonçalves Ortunho Júnior",
+      "cargo": "Diretor-Presidente da ANPD",
+      "opinioes": [
+        "A ANPD é responsável por regulamentar, fiscalizar e sancionar o uso de dados pessoais, com foco em educar e promover a conformidade com a LGPD.",
+        "Não há intenção de criar uma 'indústria de multas', mas sim trazer empresas e órgãos para a conformidade com a lei.",
+        "Reconhece a limitação de recursos e pessoal da ANPD, o que dificulta a atuação eficiente, mas destaca o compromisso com a proteção dos dados pessoais.",
+        "Prioridade na fiscalização de incidentes que envolvem dados sensíveis, crianças, adolescentes e casos recorrentes.",
+        "A aplicação de multas e sanções ocorre após a conclusão de processos administrativos, com o objetivo de corrigir falhas e evitar novos incidentes."
+      ]
+    },
+    {
+      "nome": "Jeferson Barbosa",
+      "cargo": "Assessor da ANPD",
+      "opinioes": [
+        "A importância de identificar a origem dos vazamentos de dados para que a ANPD possa atuar de forma eficiente.",
+        "Necessidade de aumentar o quadro de pessoal da ANPD para atender às demandas crescentes de fiscalização.",
+        "Dificuldades enfrentadas pela ANPD devido à falta de recursos e estrutura adequada.",
+        "Considera a tecnologia blockchain promissora, mas com limitações que precisam ser superadas para uma implementação eficaz na proteção de dados pessoais."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública abordou os recentes vazamentos de dados da população brasileira, destacando a importância da proteção desses dados e a atuação da ANPD. O presidente da comissão, Caio Vianna, enfatizou a necessidade de apoio do Parlamento para fortalecer a ANPD. O Diretor-Presidente da ANPD, Waldemar Gonçalves Ortunho Júnior, explicou as atribuições da agência, ressaltou as dificuldades enfrentadas devido à falta de recursos e pessoal, e detalhou as ações de fiscalização e sanção. O assessor Jeferson Barbosa complementou as informações, apontando as limitações estruturais da ANPD e discutindo o potencial da tecnologia blockchain para a proteção de dados. A audiência evidenciou a urgência de aprimorar a legislação e a estrutura da ANPD para garantir a segurança dos dados pessoais dos brasileiros."
+}

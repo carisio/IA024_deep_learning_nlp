@@ -1,0 +1,96 @@
+{
+  "assunto": "Discussão sobre o Censo 2022 do IBGE e políticas públicas para comunidades quilombolas",
+  "envolvidos": [
+    {
+      "nome": "Reginete Bispo",
+      "cargo": "Deputada Federal e Presidente da Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "opinioes": [
+        "Destacou a importância do Censo Quilombola como um marco histórico.",
+        "Comentou sobre os desafios das comunidades quilombolas, como o acesso à terra e a violência.",
+        "Enfatizou a necessidade de políticas públicas para enfrentar a desigualdade e o racismo."
+      ]
+    },
+    {
+      "nome": "Francinete Pereira da Cruz",
+      "cargo": "Chefe de Gabinete na Secretaria de Políticas para Quilombolas, Povos e Comunidades Tradicionais de Matriz Africana, Povos de Terreiros e Ciganos no Ministério da Igualdade Racial",
+      "opinioes": [
+        "Ressaltou a importância dos dados do Censo Quilombola para a elaboração de políticas públicas.",
+        "Comentou sobre a discriminação e invisibilidade histórica sofrida pelos quilombolas.",
+        "Destacou o papel das gestoras quilombolas na gestão pública e a necessidade de continuar avançando nas políticas para essa população."
+      ]
+    },
+    {
+      "nome": "Marta de Oliveira Antunes",
+      "cargo": "Antropóloga e Coordenadora Técnica do Censo Demográfico no IBGE",
+      "opinioes": [
+        "Descreveu o processo de inclusão das comunidades quilombolas no Censo 2022.",
+        "Mencionou os desafios técnicos e metodológicos enfrentados para obter dados precisos.",
+        "Ressaltou a importância dos dados para o planejamento de políticas públicas."
+      ]
+    },
+    {
+      "nome": "José Henrique Sampaio Pereira",
+      "cargo": "Coordenador Geral Substituto da Coordenação de Regularização de Territórios Quilombolas no INCRA",
+      "opinioes": [
+        "Parabenizou o IBGE pelo Censo Quilombola e destacou a visibilidade que ele trouxe para as comunidades.",
+        "Mencionou a importância dos dados do censo para orientar políticas públicas.",
+        "Enfatizou a necessidade de recomposição orçamentária e de pessoal no INCRA para avançar na regularização fundiária."
+      ]
+    },
+    {
+      "nome": "Antônio João Mendes",
+      "cargo": "Diretor do Departamento de Reconhecimento e Proteção de Territórios Tradicionais e Etnodesenvolvimento das Comunidades Tradicionais e Quilombolas no Ministério do Desenvolvimento Agrário",
+      "opinioes": [
+        "Destacou a necessidade de transformar os dados do Censo em ações e políticas públicas.",
+        "Comentou sobre a inclusão das populações quilombolas em diversas políticas do MDA.",
+        "Ressaltou a importância de incluir a questão quilombola no Censo Agro."
+      ]
+    },
+    {
+      "nome": "Denildo Rodrigues de Morais (Biko Rodrigues)",
+      "cargo": "Representante da Coordenação Nacional de Articulação das Comunidades Negras Rurais Quilombolas (CONAQ)",
+      "opinioes": [
+        "Afirmou que o censo é uma conquista histórica para as comunidades quilombolas.",
+        "Criticou o governo anterior pela falta de investimento na divulgação do censo.",
+        "Destacou a importância da titulação das terras quilombolas para a efetivação das políticas públicas."
+      ]
+    },
+    {
+      "nome": "Eder Ribeiro Fonseca",
+      "cargo": "Representante das Comunidades Quilombolas do Rio Grande do Sul",
+      "opinioes": [
+        "Ressaltou a importância do censo para identificar e quantificar a população quilombola.",
+        "Comentou sobre a falta de titulação das terras quilombolas no Rio Grande do Sul.",
+        "Destacou a importância da regularização fundiária para o acesso às políticas públicas."
+      ]
+    },
+    {
+      "nome": "Valéria Monteiro",
+      "cargo": "Representante da Fundação Cultural Palmares",
+      "opinioes": [
+        "Enfatizou a importância de dialogar com as comunidades quilombolas.",
+        "Apresentou um projeto para mapear a potencialidade da gastronomia das mulheres quilombolas.",
+        "Ressaltou a destruição da Fundação e a necessidade de mais servidores para atender às comunidades."
+      ]
+    },
+    {
+      "nome": "Estela Aguiar de Sousa",
+      "cargo": "Coordenadora de Projetos na Secretaria de Políticas para Quilombolas, Povos e Comunidades Tradicionais de Matriz Africana, Povos de Terreiros e Ciganos do Ministério da Igualdade Racial",
+      "opinioes": [
+        "Destacou a importância das mulheres quilombolas nas suas comunidades.",
+        "Comentou sobre o programa Aquilomba Brasil e seus objetivos de promoção da segurança alimentar, educação e saúde.",
+        "Ressaltou a necessidade de garantir a titulação dos territórios quilombolas."
+      ]
+    },
+    {
+      "nome": "Karen Luise Vilanova Batista de Souza",
+      "cargo": "Representante do Observatório de Direitos Humanos do Conselho Nacional de Justiça",
+      "opinioes": [
+        "Destacou a importância da garantia da titulação das terras quilombolas.",
+        "Comentou sobre a criação de um grupo de trabalho para melhorar o tratamento das ações relacionadas à titulação de terras quilombolas.",
+        "Enfatizou a necessidade de proteção das mulheres quilombolas."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública realizada pela Comissão de Direitos Humanos, Minorias e Igualdade Racial teve como principal tema o Censo 2022 do IBGE e as políticas públicas para comunidades quilombolas. A Deputada Reginete Bispo abriu a sessão destacando a importância do censo como um marco histórico e a necessidade de políticas públicas para enfrentar a desigualdade e o racismo. Representantes do IBGE, INCRA, Ministério da Igualdade Racial, Ministério do Desenvolvimento Agrário e diversas organizações quilombolas discutiram os desafios enfrentados pelas comunidades quilombolas e a importância dos dados do censo para a elaboração de políticas públicas. As discussões também abordaram a titulação das terras quilombolas, a inclusão das comunidades no Censo Agro e a necessidade de maior orçamento e estrutura para órgãos como o INCRA. Foram destacadas a importância das mulheres quilombolas nas suas comunidades e a necessidade de políticas específicas para promover a igualdade racial e de gênero. A audiência foi marcada por reflexões sobre a violência contra as lideranças quilombolas e a importância de garantir a segurança e a regularização fundiária para essas comunidades."
+}

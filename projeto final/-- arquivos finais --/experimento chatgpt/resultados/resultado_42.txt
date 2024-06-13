@@ -1,0 +1,66 @@
+{
+  "assunto": "Debate sobre a proposta de emenda à Constituição para a criação do sistema único de mobilidade e da tarifa zero no transporte público.",
+  "envolvidos": [
+    {
+      "nome": "Glauber Braga",
+      "cargo": "Deputado Federal, Bloco/PSOL - RJ",
+      "opinioes": [
+        "Presidiu a audiência e enfatizou a importância do debate sobre a criação do sistema único de mobilidade e da tarifa zero.",
+        "Expressou gratidão e reconhecimento ao trabalho da Deputada Luiza Erundina e destacou a transmissão da audiência ao vivo."
+      ]
+    },
+    {
+      "nome": "Cleomar Manhas",
+      "cargo": "Instituto de Estudos Socioeconômicos (INESC)",
+      "opinioes": [
+        "Apoiou a tarifa zero como uma pauta das ruas e reivindicação da população.",
+        "Criticou a carga tributária regressiva e indireta no Brasil, destacando a necessidade de uma reforma tributária justa.",
+        "Defendeu que os subsídios para transporte público sejam direcionados para a população e não para os lucros das empresas."
+      ]
+    },
+    {
+      "nome": "Celso Haddad Lopes",
+      "cargo": "Presidente da Empresa Pública de Transporte da Prefeitura de Maricá - RJ",
+      "opinioes": [
+        "Compartilhou a experiência de Maricá com a implementação da tarifa zero desde 2014.",
+        "Afirmou que a tarifa zero em Maricá injetou milhões na economia local, melhorando a qualidade de vida dos cidadãos.",
+        "Destacou que todos os ônibus da Empresa Pública de Transporte de Maricá são equipados com ar-condicionado e que a frota será descarbonizada em até 15 anos."
+      ]
+    },
+    {
+      "nome": "Neiva Lopes",
+      "cargo": "Secretária de Comunicação e Mobilidade do SINDMETRÔ - DF",
+      "opinioes": [
+        "Criticou a privatização do metrô no Distrito Federal, alertando para o risco de aumento de tarifas e perda de qualidade no serviço.",
+        "Defendeu que o transporte público deve ser um direito social garantido pelo Estado, com controle social e participação popular."
+      ]
+    },
+    {
+      "nome": "Lucio Gregori",
+      "cargo": "Ex-Secretário de Obras da Prefeitura de São Paulo",
+      "opinioes": [
+        "Histórico defensor da tarifa zero, mencionou a proposta de 1990 em São Paulo.",
+        "Defendeu a PEC 25 como essencial para regulamentar o transporte como direito social e a criação do Sistema Único de Mobilidade.",
+        "Propôs a Contribuição pelo Uso do Sistema Viário (CONUSV) como forma de financiamento da tarifa zero."
+      ]
+    },
+    {
+      "nome": "Millena Nascimento",
+      "cargo": "Movimento Passe Livre (MPL)",
+      "opinioes": [
+        "Enfatizou a importância da luta pela tarifa zero nas ruas e a necessidade de controle popular sobre o transporte público.",
+        "Defendeu que a tarifa zero é uma questão de qualidade de vida e acesso à cidade."
+      ]
+    },
+    {
+      "nome": "Rafaela Albergaria",
+      "cargo": "Coordenadora do Observatório dos Trens",
+      "opinioes": [
+        "Compartilhou a experiência pessoal trágica que motivou sua luta pela segurança e qualidade no transporte público.",
+        "Criticou a relação entre empresas privadas de transporte e grupos paramilitares no Rio de Janeiro.",
+        "Defendeu políticas de reparação e a presença de mais mulheres negras em posições de decisão."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública debateu a proposta de emenda à Constituição para a criação do sistema único de mobilidade e da tarifa zero no transporte público. Participaram diversos representantes, incluindo parlamentares, membros de organizações civis e especialistas, que defenderam a importância da tarifa zero para reduzir desigualdades e melhorar a qualidade de vida. Foi destacada a experiência de Maricá com a tarifa zero, críticas à privatização do transporte e a necessidade de um sistema de mobilidade com controle social. A audiência também incluiu relatos pessoais e emocionais sobre as consequências das políticas de transporte atuais."
+}

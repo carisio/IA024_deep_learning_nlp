@@ -1,0 +1,46 @@
+{
+  "assunto": "Educação Bilíngue de Surdos à Luz da LDB",
+  "envolvidos": [
+    {
+      "nome": "Marisa Dias Lima",
+      "cargo": "Coordenadora-Geral de Atendimento Especializado na Diretoria de Políticas de Educação Bilíngue de Surdos (DIPEBS), Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI)",
+      "opinioes": [
+        "A educação bilíngue é um esforço conjunto dos Três Poderes: Executivo, Legislativo e Judiciário.",
+        "A educação bilíngue precisa de uma infraestrutura física e pedagógica adequada, com programas, financiamento e profissionais capacitados.",
+        "A educação bilíngue de surdos deve ir além da LIBRAS, necessitando de uma construção linguística, identitária e cultural.",
+        "A LDB já estabelece a educação bilíngue de surdos nos artigos 60-A e 60-B, destacando a necessidade de materiais didáticos específicos.",
+        "É importante a formação contínua de professores e a inclusão da comunidade surda nas discussões políticas."
+      ]
+    },
+    {
+      "nome": "Messias Ramos Costa",
+      "cargo": "Coordenador Substituto do Curso de Línguas de Sinais Brasileira — Português como Segunda Língua",
+      "opinioes": [
+        "Os direitos linguísticos da comunidade surda precisam ser assegurados para o desenvolvimento das crianças e da sociedade.",
+        "Desde 2011, a comunidade surda tem lutado por direitos educacionais no PNE e outras leis.",
+        "A educação bilíngue de surdos avançou com a LDB e deve ser incluída no novo PNE.",
+        "A FENEIS e outras associações têm um papel crucial na luta pelos direitos humanos e educacionais dos surdos."
+      ]
+    },
+    {
+      "nome": "Rodrigo Rosso Marques",
+      "cargo": "Representante da sociedade civil",
+      "opinioes": [
+        "A FENEIS luta há muitos anos pela educação bilíngue de surdos no Brasil.",
+        "Diversas leis e decretos, como o Decreto nº 5.626, de 2005, e a LBI, impactam positivamente a educação bilíngue de surdos.",
+        "A DIPEBS desempenha um papel fundamental no fortalecimento da educação bilíngue.",
+        "É importante garantir que a língua de sinais seja a primeira língua de instrução e a língua portuguesa a segunda, de forma escrita."
+      ]
+    },
+    {
+      "nome": "Magno Prado Gama Prates",
+      "cargo": "Presidente em exercício da FENEIS",
+      "opinioes": [
+        "A educação bilíngue de surdos é essencial para a comunidade surda.",
+        "Há uma diferença significativa entre a educação inclusiva e a educação bilíngue de surdos.",
+        "A FENEIS tem trabalhado em parceria com o governo e outras entidades para promover a educação bilíngue."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública sobre a Educação Bilíngue de Surdos à Luz da LDB discutiu a importância de uma educação bilíngue adequada para a comunidade surda, destacando a necessidade de uma infraestrutura física e pedagógica adequada, programas de formação contínua para professores e a participação ativa da comunidade surda nas discussões políticas. Os participantes enfatizaram que a educação bilíngue deve ir além da LIBRAS, incorporando uma construção linguística, identitária e cultural. A FENEIS e outras associações foram mencionadas como fundamentais na luta pelos direitos educacionais dos surdos. A audiência também ressaltou a necessidade de garantir que a língua de sinais seja a primeira língua de instrução e a língua portuguesa a segunda, de forma escrita."
+}

@@ -1,0 +1,70 @@
+{
+  "assunto": "Discussão sobre a violência nos estádios de futebol e a criminalização das torcidas organizadas.",
+  "envolvidos": [
+    {
+      "nome": "Cleomar Marques de Paula",
+      "cargo": "Vice-Presidente da Associação Nacional das Torcidas Organizadas (ANATORG)",
+      "opinioes": [
+        "Há necessidade de diferenciação entre CPF e CNPJ para identificar individualmente os torcedores que cometem delitos.",
+        "Falta de investigações adequadas para identificar torcedores violentos.",
+        "Proibição de bandeiras e baterias afeta a essência das torcidas, mas não resolve a violência.",
+        "Sugestão de padronização do trabalho das Polícias Militares em eventos esportivos.",
+        "Necessidade de um cadastro nacional de torcedores."
+      ]
+    },
+    {
+      "nome": "Daniel Igor",
+      "cargo": "Presidente da Máfia Azul Brasília",
+      "opinioes": [
+        "Contra a torcida única, considerada um reflexo do fracasso do poder público.",
+        "Crítica à Federação Mineira de Futebol por marcar jogos de Cruzeiro e Atlético no mesmo horário, resultando em tragédia.",
+        "A violência no futebol é um reflexo da sociedade."
+      ]
+    },
+    {
+      "nome": "Vitor Hugo",
+      "cargo": "Diretor do Departamento de Proteção e Defesa do Consumidor da Secretaria Nacional do Consumidor",
+      "opinioes": [
+        "A defesa dos direitos dos torcedores deve ser integrada ao Código de Defesa do Consumidor.",
+        "A vulnerabilidade dos torcedores enquanto consumidores deve ser reconhecida."
+      ]
+    },
+    {
+      "nome": "Alcino Reis Rocha",
+      "cargo": "Secretário-Geral da Confederação Brasileira de Futebol (CBF)",
+      "opinioes": [
+        "Segurança nos estádios é essencial para a qualidade dos eventos esportivos.",
+        "Necessidade de punições severas e individualizadas para torcedores reincidentes em atos violentos.",
+        "Crítica à transferência de responsabilidade da segurança para atores privados."
+      ]
+    },
+    {
+      "nome": "Fernando",
+      "cargo": "Representante da Força Jovem Goiás",
+      "opinioes": [
+        "Criminalizar a torcida e retirar patrimônios desencoraja lideranças que tentam evitar a violência.",
+        "Lideranças das torcidas têm papel importante em áreas perigosas, ganhando respeito de jovens problemáticos.",
+        "Importância de ouvir as torcidas nas discussões sobre violência no futebol."
+      ]
+    },
+    {
+      "nome": "Rodrigo Patrício",
+      "cargo": "Líder de torcida da Torcida Jovem do Flamengo",
+      "opinioes": [
+        "Punição ao CNPJ das torcidas organizada não resolve o problema da violência.",
+        "Alterações de datas e horários de jogos pela CBF prejudicam as torcidas.",
+        "A biometria nos estádios ajudaria a controlar o acesso de torcedores problemáticos."
+      ]
+    },
+    {
+      "nome": "Mario Sarrubbo",
+      "cargo": "Secretário Nacional de Segurança Pública",
+      "opinioes": [
+        "A violência no futebol deve ser tratada como questão de segurança pública.",
+        "Capacitação das forças de segurança é crucial para combater a violência nos estádios.",
+        "Discussão sobre possível banimento vitalício de torcedores reincidentes em violência."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública discutiu a violência nos estádios de futebol e a criminalização das torcidas organizadas. Os participantes destacaram a necessidade de individualizar a punição aos torcedores violentos, criticaram a falta de investigações adequadas e sugeriram a implementação de um cadastro nacional de torcedores. Houve consenso sobre a importância de envolver as torcidas organizadas nas discussões e soluções para a violência no esporte, além de críticas à gestão dos eventos esportivos pelas federações e a necessidade de padronização das ações das Polícias Militares. A integração da proteção dos torcedores ao Código de Defesa do Consumidor também foi mencionada como uma medida importante."
+}

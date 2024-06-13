@@ -1,0 +1,37 @@
+{
+  "assunto": "Debate sobre o risco de surtos de doenças nas Américas",
+  "envolvidos": [
+    {
+      "nome": "Iza Arruda",
+      "cargo": "Deputada, Presidente da Comissão de Saúde",
+      "opinioes": [
+        "Enfatiza a importância da discussão sobre surtos de doenças nas Américas.",
+        "Menciona a diminuição da cobertura vacinal na região, que passou de uma das melhores para uma das piores.",
+        "Destaca a relevância da presença do Dr. Jarbas Barbosa para a discussão."
+      ]
+    },
+    {
+      "nome": "Jarbas Barbosa",
+      "cargo": "Diretor da Organização Pan-Americana da Saúde (OPAS)",
+      "opinioes": [
+        "Defende a necessidade de sistemas de saúde mais bem financiados e resilientes.",
+        "Ressalta a importância da atenção primária renovada e fortalecida.",
+        "Sugere a implementação de lições aprendidas durante a pandemia.",
+        "Enfatiza a importância de vacinas e a luta contra fake news sobre vacinas.",
+        "Comenta sobre a importância do envolvimento de lideranças políticas e religiosas na promoção da vacinação.",
+        "Aponta a necessidade de estratégias específicas para aumentar a cobertura vacinal."
+      ]
+    },
+    {
+      "nome": "Jorge Solla",
+      "cargo": "Deputado",
+      "opinioes": [
+        "Critica a gestão anterior do governo em relação à saúde e cobertura vacinal.",
+        "Elogia os esforços do atual governo para reconstruir o sistema de saúde e aumentar a cobertura vacinal.",
+        "Menciona a importância de enfrentar a campanha antivacina e o negacionismo científico.",
+        "Defende a utilização de dados individualizados para melhorar a cobertura vacinal."
+      ]
+    }
+  ],
+  "tl_dr": "A audiência pública na Comissão de Saúde da Câmara dos Deputados discutiu os riscos de surtos de doenças nas Américas, com foco na queda da cobertura vacinal e a necessidade de sistemas de saúde mais resilientes. A Deputada Iza Arruda, organizadora da reunião, destacou a importância do debate e da presença do Dr. Jarbas Barbosa, Diretor da OPAS. Dr. Barbosa enfatizou a importância de um financiamento adequado para os sistemas de saúde, fortalecimento da atenção primária, combate às fake news sobre vacinas e o papel das lideranças na promoção da vacinação. O Deputado Jorge Solla criticou a gestão anterior do governo, elogiou os esforços do atual governo para reconstruir o sistema de saúde e destacou a necessidade de enfrentar o movimento antivacina com dados individualizados."
+}
