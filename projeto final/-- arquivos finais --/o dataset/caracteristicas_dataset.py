@@ -85,7 +85,6 @@ plt.axhline(y=transcription_q3, color='b', linestyle='--', label='Q3 (75th perce
 plt.xlabel('ID')
 plt.xlim(1, 206)
 plt.ylabel('Word Count')
-plt.title('Word Count in Transcriptions')
 plt.legend()
 plt.show()
 
@@ -97,7 +96,7 @@ plt.axhline(y=article_median, color='g', linestyle='-', label='Median (50th perc
 plt.axhline(y=article_q3, color='b', linestyle='--', label='Q3 (75th percentile)')
 plt.xlabel('ID')
 plt.xlim(1, 206)
-plt.title('Word Count in Articles')
+plt.ylabel('Word Count')
 plt.legend()
 plt.show()
 
@@ -109,7 +108,7 @@ plt.axhline(y=percentage_words_article_transcription_median, color='g', linestyl
 plt.axhline(y=percentage_words_article_transcription_q3, color='b', linestyle='--', label='Q3 (75th percentile)')
 plt.xlabel('ID')
 plt.xlim(1, 206)
-plt.title('Relative size of article in relation to the transcription (in words)')
+plt.ylabel('Relative size')
 plt.legend()
 plt.show()
 
@@ -120,7 +119,6 @@ plt.bar(ids, num_people, label='Number of People')
 plt.xlabel('ID')
 plt.ylabel('Count')
 plt.xticks(range(1, 207, 10))
-plt.title('Number of People and Opinions in Metadata')
 plt.xlim(1, 206)
 plt.legend()
 plt.show()
