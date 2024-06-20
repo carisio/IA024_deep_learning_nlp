@@ -140,3 +140,15 @@ Leitura da semana: [Improving Factuality and Reasoning in Language Models throug
 <br>
 
 ## Projeto final 
+
+Descrição do projeto: Criação de um dataset para sumarização de longos documentos em português. A ideia é criar triplas (transcrições, notícias, metadadados de notícias) de audiências públicas da Câmara dos Deputados.
+
+Apresentações:
+  - [Plano de trabalho](./projeto%20final/--%20apresentacoes%20--/1%20-%20Plano%20de%20trabalho.pdf)
+  - [Experimento com o ChatGPT e proposta de avaliação](./projeto%20final/--%20apresentacoes%20--/2%20-%20Experimento%20e%20proposta%20avaliacao.pdf)
+  - [Resultados do experimento e proposta de medição de alucinação](./projeto%20final/--%20apresentacoes%20--/3%20-%20Caracteristicas%20do%20dataset%20-%20resultado%20experimento%20-%20proposta%20medicao%20alucinacao.pdf)
+
+Arquivos finais:
+  - [Dataset (dataset.jsonl)](./projeto%20final/--%20arquivos%20finais%20--/o%20dataset/dataset.jsonl)
+  - [Experimento: Extração de sumários com o ChatGPT](./projeto%20final/--%20arquivos%20finais%20--/experimento%20chatgpt/results_experiment_chatgpt.jsonl)
+  - Resultados das avaliações
