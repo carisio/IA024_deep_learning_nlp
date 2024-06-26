@@ -143,6 +143,8 @@ Leitura da semana: [Improving Factuality and Reasoning in Language Models throug
 
 Descrição do projeto: Criação de um dataset para sumarização de longos documentos em português. A ideia é criar triplas (transcrições, notícias, metadadados de notícias) de audiências públicas da Câmara dos Deputados.
 
+[Relatório/artigo](./projeto%20final/--%20apresentacoes%20--/[Artigo]%20PublicHearingBR.pdf)
+
 Apresentações:
   - [Plano de trabalho](./projeto%20final/--%20apresentacoes%20--/1%20-%20Plano%20de%20trabalho.pdf)
   - [Experimento com o ChatGPT e proposta de avaliação](./projeto%20final/--%20apresentacoes%20--/2%20-%20Experimento%20e%20proposta%20avaliacao.pdf)
