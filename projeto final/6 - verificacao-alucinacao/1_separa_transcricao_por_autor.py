@@ -1,3 +1,10 @@
+# Esse arquivo pega todas as transcrições no dataset e, em cada uma delas,
+# separa as falas por autor.
+# Ao fazer isso, também já quebra as falas em chunks de texto (5 frases, 
+# com sobreposição de 1 frase)
+# A ideia é que isso será usado em um RAG para verificar se uma
+# ideia extraída do sistema de sumarização é uma alucinação ou não.
+
 import json
 import re
 import spacy

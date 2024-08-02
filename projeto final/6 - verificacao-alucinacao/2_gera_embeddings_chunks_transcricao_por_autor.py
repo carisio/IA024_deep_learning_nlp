@@ -1,3 +1,5 @@
+# Esse código pega os chunks das falas e gera os embeddings correspondentes
+
 import json
 import pickle
 from openai import OpenAI
