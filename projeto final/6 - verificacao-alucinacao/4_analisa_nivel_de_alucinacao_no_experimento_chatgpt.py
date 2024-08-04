@@ -27,7 +27,7 @@ arquivo_experimento = '../-- arquivos finais --/experimento chatgpt/results_expe
 arquivo_experimento_com_analise_alucinacao = './results_experimento_chatgpt_com_analise_alucinacao_parte_{parte}.jsonl'
 arquivo_pareamento_nome_no_experimento_e_na_transcricao = './pareamento_nome_experimento_e_transcricao.json'
 
-       
+
 ###################################################################
 # Funções auxiliares para carregar e salvar um jsonl
 def carregar_jsonl(nome_arquivo):
@@ -239,6 +239,7 @@ def verifica_alucinacao(opiniao):
         eh_alucinacao = verifica_alucinacao_usando_gpt(opiniao)
     return eh_alucinacao
 
+# Faz a análise de alucinação
 for r in resultado_experimento:
     print(f'### Análise para id {r["id"]} ###')
     for autor in r['metadados_extraidos']['envolvidos']:
@@ -252,10 +253,9 @@ for r in resultado_experimento:
             embeddings_opiniao = get_embeddings_opiniao(opiniao)
             
             # Pega as opiniões mais próximas
-            # Falta implementar esse método
             if opiniao['chunks_proximos'] is None:
                 print('\tExtraindo chunks próximos')
-                chunks_proximos, distancia = get_chunks_proximos(opiniao, transcricao_do_autor, indice_do_autor)
+                chunks_proximos, distancia = get_chunks_proximos(opiniao, transcricao_do_autor, indice_do_autor, k=2)
                 opiniao['chunks_proximos'] = chunks_proximos
                 opiniao['distancia_chunks'] = distancia
             
@@ -263,3 +263,24 @@ for r in resultado_experimento:
             if opiniao['eh_alucinacao'] is None:
                 print('\tVerificando alucinação')
                 opiniao['eh_alucinacao'] = verifica_alucinacao(opiniao)
+                
+# Calcula a porcentagem de alucinação em cada experimento
+total_opinioes = []
+total_alucinacoes = []
+porcentagem_alucinacoes = []
+for r in resultado_experimento:
+    total_opinioes_no_experimento = 0
+    total_alucinacoes_no_experimento = 0
+    for autor in r['metadados_extraidos']['envolvidos']:
+        total_opinioes_no_experimento += len(autor['opinioes'])
+        for opiniao in autor['opinioes']:
+            total_alucinacoes_no_experimento += (1. if opiniao['eh_alucinacao'] else 0.)
+    total_opinioes.append(total_opinioes_no_experimento)
+    total_alucinacoes.append(total_alucinacoes_no_experimento)
+    porcentagem_alucinacoes.append(total_alucinacoes_no_experimento/total_opinioes_no_experimento)
+    
+print(np.mean(porcentagem_alucinacoes))
+print(np.percentile(porcentagem_alucinacoes, 25))
+print(np.percentile(porcentagem_alucinacoes, 50))
+print(np.percentile(porcentagem_alucinacoes, 75))
+print(np.percentile(porcentagem_alucinacoes, 100))
