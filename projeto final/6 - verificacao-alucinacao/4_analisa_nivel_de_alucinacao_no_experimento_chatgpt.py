@@ -264,6 +264,17 @@ for r in resultado_experimento:
                 print('\tVerificando alucinação')
                 opiniao['eh_alucinacao'] = verifica_alucinacao(opiniao)
                 
+            # Se for alucinação, pode ser que o problema seja apenas com o RAG,
+            # com a qualidade dos chunks. Nesse caso, vamos verificar a alucinação
+            # novamente, mas dessa vez usando 4 chunks
+            if opiniao['eh_alucinacao'] is True and len(opiniao['chunks_proximos']) == 2:
+                print('\tChecando alucinação com 4 chunks')
+                # Atualiza os chunks
+                chunks_proximos, distancia = get_chunks_proximos(opiniao, transcricao_do_autor, indice_do_autor, k=4)
+                opiniao['chunks_proximos'] = chunks_proximos
+                opiniao['distancia_chunks'] = distancia
+                opiniao['eh_alucinacao'] = verifica_alucinacao(opiniao)
+                
 # Calcula a porcentagem de alucinação em cada experimento
 total_opinioes = []
 total_alucinacoes = []
@@ -279,8 +290,9 @@ for r in resultado_experimento:
     total_alucinacoes.append(total_alucinacoes_no_experimento)
     porcentagem_alucinacoes.append(total_alucinacoes_no_experimento/total_opinioes_no_experimento)
     
-print(np.mean(porcentagem_alucinacoes))
-print(np.percentile(porcentagem_alucinacoes, 25))
-print(np.percentile(porcentagem_alucinacoes, 50))
-print(np.percentile(porcentagem_alucinacoes, 75))
-print(np.percentile(porcentagem_alucinacoes, 100))
+print("Média:\t", np.mean(porcentagem_alucinacoes))
+print("Q5:\t\t", np.percentile(porcentagem_alucinacoes, 5))
+print("Q25:\t", np.percentile(porcentagem_alucinacoes, 25))
+print("Q50:\t", np.percentile(porcentagem_alucinacoes, 50))
+print("Q75:\t", np.percentile(porcentagem_alucinacoes, 75))
+print("Q95:\t", np.percentile(porcentagem_alucinacoes, 95))
