@@ -188,7 +188,7 @@ def get_chunks_proximos(opiniao, transcricao_do_autor, indice_do_autor, k=2):
 
 # Método que chama o GPT-4o e tenta fazer o pareamento
 msg_sistema_gpt = """
-Você é um assistente que analisa se uma opinião pode ser inferida a partir de um texto.
+Você é um assistente que analisa se uma opinião pode ser completamente inferida a partir de um texto.
 
 O retorno da sua análise deverá ser sempre no formato JSON e conterá duas propriedades:
     - "explicacao": Uma string com o seu raciocínio explicando o porque a opinião pode ou não ser inferida pelo texto;
@@ -227,7 +227,8 @@ def verifica_alucinacao_usando_gpt(opiniao):
     retorno_str_json = response.choices[0].message.content
     retorno_json = json.loads(retorno_str_json)
     eh_alucinacao = not retorno_json['opiniao_inferida']
-    return eh_alucinacao
+    explicacao = retorno_json['explicacao']
+    return eh_alucinacao, explicacao
 
 def verifica_alucinacao(opiniao):
     # Se a lista de chunks próximos for de tamanho 0, já considera que há alucinação, 
@@ -235,9 +236,10 @@ def verifica_alucinacao(opiniao):
     if len(opiniao['chunks_proximos']) == 0:
         print('************ Alucinou')
         eh_alucinacao = True
+        explicacao = 'Não há chunks próximos'
     else:
-        eh_alucinacao = verifica_alucinacao_usando_gpt(opiniao)
-    return eh_alucinacao
+        eh_alucinacao, explicacao = verifica_alucinacao_usando_gpt(opiniao)
+    return eh_alucinacao, explicacao
 
 # Faz a análise de alucinação
 for r in resultado_experimento:
@@ -262,18 +264,22 @@ for r in resultado_experimento:
             # Verifica se é alucinação
             if opiniao['eh_alucinacao'] is None:
                 print('\tVerificando alucinação')
-                opiniao['eh_alucinacao'] = verifica_alucinacao(opiniao)
-                
-            # Se for alucinação, pode ser que o problema seja apenas com o RAG,
-            # com a qualidade dos chunks. Nesse caso, vamos verificar a alucinação
-            # novamente, mas dessa vez usando 4 chunks
-            if opiniao['eh_alucinacao'] is True and len(opiniao['chunks_proximos']) == 2:
-                print('\tChecando alucinação com 4 chunks')
-                # Atualiza os chunks
+                eh_alucinacao, explicacao = verifica_alucinacao(opiniao)
+                opiniao['eh_alucinacao'] = eh_alucinacao
+                opiniao['explicacao_para_eh_alucinacao'] = explicacao
+               
+            # Trecho para forçar o recálculo de tudo. Já considera RAG com k=4 docs
+            recalcular_tudo = False
+            if 'explicacao_para_eh_alucinacao' not in opiniao.keys():
+                print('\tVerificando se houve alucinação')
                 chunks_proximos, distancia = get_chunks_proximos(opiniao, transcricao_do_autor, indice_do_autor, k=4)
                 opiniao['chunks_proximos'] = chunks_proximos
                 opiniao['distancia_chunks'] = distancia
-                opiniao['eh_alucinacao'] = verifica_alucinacao(opiniao)
+                eh_alucinacao, explicacao = verifica_alucinacao(opiniao)
+                opiniao['eh_alucinacao'] = eh_alucinacao
+                opiniao['explicacao_para_eh_alucinacao'] = explicacao
+            else:
+                print('Já tem a explicação')
                 
 # Calcula a porcentagem de alucinação em cada experimento
 total_opinioes = []
@@ -296,3 +302,5 @@ print("Q25:\t", np.percentile(porcentagem_alucinacoes, 25))
 print("Q50:\t", np.percentile(porcentagem_alucinacoes, 50))
 print("Q75:\t", np.percentile(porcentagem_alucinacoes, 75))
 print("Q95:\t", np.percentile(porcentagem_alucinacoes, 95))
+
+salvar_resultado_experimento_com_analise_alucinacao()
