@@ -41,7 +41,7 @@ def avalia_manualmente_opiniao(opniao):
     print('................')
     texto_opiniao = opiniao['opiniao']
     chunks_proximos = opiniao['chunks_proximos']
-    analise_alucinacao = opiniao['eh_alucinacao']
+    analise_alucinacao = ">>>>>>>> SIM <<<<<<<<" if opiniao['eh_alucinacao'] else "não"
     explicacao_para_eh_alucinacao = opiniao['explicacao_para_eh_alucinacao']
 
     print(f'\t\tTexto para avaliar: {texto_opiniao}\n')
@@ -49,10 +49,16 @@ def avalia_manualmente_opiniao(opniao):
     for i, chunk in enumerate(chunks_proximos):
         print(f'\t\t{i}. {chunk}\n')
     print(f'\t\tÉ alucinação? {analise_alucinacao}\n')
-    print(f'\t\tExplicação: {explicacao_para_eh_alucinacao}')
+    print(f'\t\tExplicação: {explicacao_para_eh_alucinacao}\n')
     
+    print(f'\t\tÉ alucinação? {analise_alucinacao}')
     concordancia_manual = input('Concorda com a análise? (S/N)').upper()
-    opiniao['concordancia_com_analise_alucinacao'] = (concordancia_manual == 'S')  
+    # Apenas preenche o campo se for S ou N
+    if concordancia_manual == 'S':
+        opiniao['concordancia_com_analise_alucinacao'] = True
+    elif concordancia_manual == 'N':
+        opiniao['concordancia_com_analise_alucinacao'] = False
+
     
 # Carrega resultado do experimento
 resultado_experimento = carregar_resultado_experimento_com_analise_alucinacao()
