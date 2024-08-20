@@ -37,7 +37,12 @@ def salvar_resultado_experimento_com_analise_alucinacao():
     print('* Arquivo jsonl com o resultado atualizado *')
     
 def avalia_manualmente_opiniao(opniao, pre_texto_informativo):
-    print('\n\n\n................')
+    try:
+        from IPython import get_ipython
+        get_ipython().magic('clear')
+    except:
+        pass
+
     print(f"\t\t{pre_texto_informativo}")
     texto_opiniao = opiniao['opiniao']
     chunks_proximos = opiniao['chunks_proximos']
