@@ -64,9 +64,18 @@ def avalia_manualmente_opiniao(opniao, pre_texto_informativo):
     elif concordancia_manual == 'N':
         opiniao['concordancia_com_analise_alucinacao'] = False
 
-    
+def get_total_opinioes(resultado_experimento):
+    total = 0
+    for resultado in resultado_experimento:
+        for envolvido in resultado['metadados_extraidos']['envolvidos']:
+            total += len(envolvido['opinioes'])    
+    return total
+
 # Carrega resultado do experimento
 resultado_experimento = carregar_resultado_experimento_com_analise_alucinacao()
+total_opinioes = get_total_opinioes(resultado_experimento)
+
+num_opiniao_tratada = 0
 for resultado in resultado_experimento:
     id_resultado = resultado['id']
     print(f'########## TRATANDO ID {id_resultado} ##########')
@@ -80,9 +89,10 @@ for resultado in resultado_experimento:
         houve_analise_opinioes = False
         num_opiniao_envolvido = 0
         for opiniao in envolvido['opinioes']:
+            num_opiniao_tratada += 1
             num_opiniao_envolvido += 1
             if 'concordancia_com_analise_alucinacao' not in opiniao.keys():
-                pre_texto_informativo = f"Opinião {num_opiniao_envolvido}/{len(envolvido['opinioes'])} de {nome} {num_envolvido}/{len(resultado['metadados_extraidos']['envolvidos'])}, id #{id_resultado}"
+                pre_texto_informativo = f"Opinião {num_opiniao_envolvido}/{len(envolvido['opinioes'])} de {nome} {num_envolvido}/{len(resultado['metadados_extraidos']['envolvidos'])}, id #{id_resultado}. Opinião {num_opiniao_tratada}/{total_opinioes} ({1.*num_opiniao_tratada/total_opinioes:.2f})"
                 avalia_manualmente_opiniao(opiniao, pre_texto_informativo)
                 houve_analise_opinioes = True
 
