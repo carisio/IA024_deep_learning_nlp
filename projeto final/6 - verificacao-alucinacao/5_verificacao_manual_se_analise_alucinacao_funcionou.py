@@ -75,6 +75,8 @@ def printa_percentual_erros_acertos(resultado_experimento, n=206):
     erros = 0
     acertos = 0
     falso_negativo = 0
+    falso_positivo = 0
+    total_alucinacoes_automaticas = 0
     
     for resultado in resultado_experimento[:n]:
         for envolvido in resultado['metadados_extraidos']['envolvidos']:
@@ -83,11 +85,16 @@ def printa_percentual_erros_acertos(resultado_experimento, n=206):
                     concorda = opiniao['concordancia_com_analise_alucinacao']
                     avaliacao_automatica_considerou_alucinacao = opiniao['eh_alucinacao']
                     
+                    if avaliacao_automatica_considerou_alucinacao:
+                        total_alucinacoes_automaticas += 1
+                    
                     if concorda:
                         acertos += 1
                     else:
                         erros += 1
-                        if not avaliacao_automatica_considerou_alucinacao:
+                        if avaliacao_automatica_considerou_alucinacao:
+                            falso_positivo += 1
+                        else:
                             falso_negativo += 1
                             
                         
@@ -95,9 +102,13 @@ def printa_percentual_erros_acertos(resultado_experimento, n=206):
     perc_erros = 100.*erros/(erros+acertos)
     perc_acertos = 100.*acertos/(erros+acertos)
     perc_falso_negativo = 100.*falso_negativo/(erros+acertos)
+    perc_falso_positivo = 100.*falso_positivo/(erros+acertos)
+    perc_alucinacoes_automaticas = 100.*total_alucinacoes_automaticas/(erros+acertos)
     print(f'Total de erros: {erros} ({perc_erros:.2f})')
     print(f'Total de acertos: {acertos} ({perc_acertos:.2f})')
     print(f'Total de falso negativo: {falso_negativo} ({perc_falso_negativo:.2f})')
+    print(f'Total de falso positivo: {falso_positivo} ({perc_falso_positivo:.2f})')
+    print(f'Total de opiniões consideradas alucinações automaticamente: {total_alucinacoes_automaticas} ({perc_alucinacoes_automaticas:.2f})')
                 
 # Carrega resultado do experimento
 resultado_experimento = carregar_resultado_experimento_com_analise_alucinacao()
