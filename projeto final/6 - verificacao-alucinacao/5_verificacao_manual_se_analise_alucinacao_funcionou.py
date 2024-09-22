@@ -1,5 +1,6 @@
 # A ideia desse arquivo é facilitar a verificação manual da análise de alucinação
 # Basicamente, ele vai iterando tudo e perguntando se a análise feita está correta ou não
+
 import json
 import os
 

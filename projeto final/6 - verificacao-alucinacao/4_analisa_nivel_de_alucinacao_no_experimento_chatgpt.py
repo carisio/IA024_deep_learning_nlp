@@ -1,5 +1,6 @@
 # Esse arquivo percorre todas as opiniões geradas no experimento feito no
 # ChatGPT e tenta verificar se houve alucinação nelas.
+#
 # Basicamente é feito o seguinte:
 # 1. Itera o experimento
 #   1.1 Para cada experimento, itera o autor
@@ -11,6 +12,12 @@
 #           1.1.1.3 Envia para o ChatGPT perguntando se é possível inferir 
 #                   aquela opinião a partir dos chunks. Se não for possível,
 #                   considera que houve alucinação
+#
+# Este foi o primeiro prompt testado para detectar alucinação.
+# Com o resultado desse arquivo, no próximo (arquivo 5) eu faço a verificação
+# manual da alucinação e, por fim, no arquivo 6 eu começo a testar outros
+# prompts para ver a questão da alucinação (pois, como aí já teremos a 
+# verificação manual, fica mais fácil de comparar).
 import json
 import pickle
 import os
