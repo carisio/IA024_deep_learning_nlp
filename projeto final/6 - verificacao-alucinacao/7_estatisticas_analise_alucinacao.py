@@ -52,5 +52,7 @@ def imprime_analise_estatistica_alucinacao(prompt, n=None):
     
 resultado_experimento = carregar_resultado_alucinacoes()
 
-imprime_analise_estatistica_alucinacao(prompt_1)
-imprime_analise_estatistica_alucinacao(prompt_2)
+n = 206
+imprime_analise_estatistica_alucinacao(prompt_1, n)
+imprime_analise_estatistica_alucinacao(prompt_2, n)
+imprime_analise_estatistica_alucinacao(prompt_3, n)

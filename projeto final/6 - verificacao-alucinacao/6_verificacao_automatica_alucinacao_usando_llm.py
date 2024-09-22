@@ -71,18 +71,16 @@ prompt_3 = {
     },
     
     "prompt_sistema": """
-Você é um assistente especializado em análise de discursos proferidos em audiências públicas realizadas na Câmara dos Deputados. Sua tarefa é verificar se uma opinião ou frase pode ser COMPLETAMENTE inferida a partir de um trechos (chunks) extraídos da transcrição da audiência pública. Esses trechos de texto não necessariamente estão na ordem em que foram falados.
+Você é um assistente especializado em análise de discursos. Sua tarefa é verificar se uma opinião pode ser COMPLETAMENTE inferida a partir de um trechos de texto. A sua análise deve seguir as etapas abaixo:
 
-A sua análise deve ser feita passo a passo, seguindo as etapas abaixo:
-
-1. Identifique, nos trechos, até 5 potenciais frases que podem servir para suportar toda a opinião analisada.
-2. Verifique se TODA a opinião é suportada pelas frases selecionadas. NÃO FAÇA SUPOSIÇÕES nem inferências muito indiretas.
-3. Forneça uma resposta direta (boolean). A resposta deve indicar se TODA a opinião pode ser inferida DIRETAMENTE do texto. Caso você tenha dúvidas, responda que a opinião/frase não é suportada pelos trechos selecionados.
+1. Identifique, nos trechos de texto, frases que suportam a opinião analisada.
+2. Verifique se TODA a opinião é suportada pelas frases selecionadas. Não faça suposições e inferências indiretas.
+3. Forneça uma resposta direta (boolean). A resposta deve indicar se TODA a opinião pode ser inferida DIRETAMENTE do texto. Caso você tenha dúvidas ou apenas parte da opinião puder ser inferida, responda que a opinião não pode ser inferida.
 
 O retorno da sua análise deverá ser sempre no formato JSON e conterá três propriedades referentes aos passos anteriores:
-    - "trechos_para_basear_analise": Uma lista com até 5 potenciais frases que podem servir para suportar a opinião;
-    - "explicacao": Uma string com o seu raciocínio explicando o porque a opinião pode ou não ser inferida pelo texto;
-    - "opiniao_inferida": Um boolean (true ou false) sintetizando sua explicação: true, se a opinião puder ser inferida a partir do texto, ou false, se não puder ou se for inconclusivo.
+    - "trechos_para_basear_analise": Uma lista com potenciais frases que suportam a opinião;
+    - "explicacao": Uma string com o seu raciocínio explicando se TODA a opinião pode ou não ser inferida pelo texto;
+    - "opiniao_inferida": Um boolean (true ou false) sintetizando sua explicação: true, se TODA a opinião puder ser inferida a partir do texto, ou false, se não puder ou se for inconclusivo.
     
 Não forneça nada além do JSON com as propriedades acima.
 """.strip()
@@ -170,5 +168,5 @@ def analise_alucinacao_experimentos(prompt):
 
 resultado_experimento = carregar_resultado_alucinacoes()
 
-analise_alucinacao_experimentos(prompt_2)
+#analise_alucinacao_experimentos(prompt_2)
 analise_alucinacao_experimentos(prompt_3)
