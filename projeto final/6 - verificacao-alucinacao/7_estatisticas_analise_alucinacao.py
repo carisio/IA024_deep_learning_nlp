@@ -6,6 +6,8 @@ from sklearn.metrics import confusion_matrix
 arquivo_resultado_alucinacoes = './results_experimento_chatgpt_com_analise_alucinacao.jsonl'
 
 prompt_1 = "prompt_1_gpt-4o-mini-2024-07-18"
+prompt_2 = "prompt_2_gpt-4o-mini-2024-07-18"
+prompt_3 = "prompt_3_gpt-4o-mini-2024-07-18"
 
 def carregar_resultado_alucinacoes():
     dados_jsonl = []
@@ -14,11 +16,13 @@ def carregar_resultado_alucinacoes():
             dados_jsonl.append(json.loads(line))
     return dados_jsonl
 
-def imprime_analise_estatistica_alucinacao(prompt):
+def imprime_analise_estatistica_alucinacao(prompt, n=None):
+    n = len(resultado_experimento) if n is None else n
+    
     alucinacao_real = []
     alucinacao_automatica = []
     
-    for resultado in resultado_experimento:
+    for resultado in resultado_experimento[:n]:
         for envolvido in resultado['metadados_extraidos']['envolvidos']:
             for opiniao in envolvido['opinioes']:
                 verificacao_alucinacao = opiniao['verificacao_alucinacao']
@@ -44,8 +48,9 @@ def imprime_analise_estatistica_alucinacao(prompt):
     
     print('\n##### Checando as opiniões que não são alucinações #####')
     print(f'Não alucinações detectadas corretamente: {cm[0][0]} ({100.*cm[0][0]/total_nao_alucinacao:.2f}%)')
-    print(f'Não alucinações não detectadas: {cm[0][1]} ({100.*cm[0][1]/total_nao_alucinacao:.2f}%)')
+    print(f'Não alucinações não detectadas: {cm[0][1]} ({100.*cm[0][1]/total_nao_alucinacao:.2f}%)\n\n')
     
 resultado_experimento = carregar_resultado_alucinacoes()
 
-cm = imprime_analise_estatistica_alucinacao(prompt_1)
+imprime_analise_estatistica_alucinacao(prompt_1, 195)
+imprime_analise_estatistica_alucinacao(prompt_2, 195)

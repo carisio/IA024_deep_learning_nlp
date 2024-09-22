@@ -10,7 +10,6 @@ arquivo_resultado_alucinacoes = './results_experimento_chatgpt_com_analise_aluci
 OPENAI_API = '' # Não subir de jeito nenhum pro git!
 client = OpenAI(api_key=OPENAI_API)
 
-
 # Prompts para testar
 prompt_1 = {
     "nome_experimento": "prompt_1_gpt-4o-mini-2024-07-18",
@@ -59,6 +58,36 @@ O retorno da sua análise deverá ser sempre no formato JSON e conterá três pr
 Não forneça nada além do JSON com as propriedades acima.
 """.strip()
 }
+    
+prompt_3 = {
+    "nome_experimento": "prompt_3_gpt-4o-mini-2024-07-18",
+    "modelo": "gpt-4o-mini-2024-07-18", 
+    "atributo_opiniao_inferida": "opiniao_inferida",
+    
+    "propriedades_para_salvar": {
+        # salvar_como: resultado_no_json
+        "explicacao": "explicacao",
+        "trechos_para_basear_analise": "trechos_para_basear_analise"
+    },
+    
+    "prompt_sistema": """
+Você é um assistente especializado em análise de discursos proferidos em audiências públicas realizadas na Câmara dos Deputados. Sua tarefa é verificar se uma opinião ou frase pode ser COMPLETAMENTE inferida a partir de um trechos (chunks) extraídos da transcrição da audiência pública. Esses trechos de texto não necessariamente estão na ordem em que foram falados.
+
+A sua análise deve ser feita passo a passo, seguindo as etapas abaixo:
+
+1. Identifique, nos trechos, até 5 potenciais frases que podem servir para suportar toda a opinião analisada.
+2. Verifique se TODA a opinião é suportada pelas frases selecionadas. NÃO FAÇA SUPOSIÇÕES nem inferências muito indiretas.
+3. Forneça uma resposta direta (boolean). A resposta deve indicar se TODA a opinião pode ser inferida DIRETAMENTE do texto. Caso você tenha dúvidas, responda que a opinião/frase não é suportada pelos trechos selecionados.
+
+O retorno da sua análise deverá ser sempre no formato JSON e conterá três propriedades referentes aos passos anteriores:
+    - "trechos_para_basear_analise": Uma lista com até 5 potenciais frases que podem servir para suportar a opinião;
+    - "explicacao": Uma string com o seu raciocínio explicando o porque a opinião pode ou não ser inferida pelo texto;
+    - "opiniao_inferida": Um boolean (true ou false) sintetizando sua explicação: true, se a opinião puder ser inferida a partir do texto, ou false, se não puder ou se for inconclusivo.
+    
+Não forneça nada além do JSON com as propriedades acima.
+""".strip()
+}
+    
 # A mensagem de usuário. Ela sempre é a mesma, independente do prompt testado
 msg_user = """
 ###### TEXTO:
@@ -129,20 +158,17 @@ def analise_alucinacao_experimentos(prompt):
         print(f'### Análise para id {r["id"]} ###')
         for autor in r['metadados_extraidos']['envolvidos']:
             for opiniao in autor['opinioes']:
-                n_opiniao += 1
-                
-                manual = opiniao['verificacao_alucinacao']['verificacao_manual']
-                automatica = opiniao['verificacao_alucinacao']['prompt_1_gpt-4o-mini-2024-07-18']['alucinacao']
-                               
+                n_opiniao += 1                
                 print(f'\tOpinião {n_opiniao} ({100.*n_opiniao/total_opiniao:.2f})%')
-                if prompt['nome_experimento'] in opiniao.keys():
+                if prompt['nome_experimento'] in opiniao['verificacao_alucinacao'].keys():
                     print('\tAlucinação já verificada. Pulando...')
                 else:
                     print('\tVerificando alucinação com GPT...')
                     verifica_alucinacoes_na_opiniao(opiniao, prompt)
                     print('\tSalvando jsonl...')
-                    salvar_resultado_alucinacoes()
+                    salvar_resultado_alucinacoes(resultado_experimento)
 
 resultado_experimento = carregar_resultado_alucinacoes()
 
 analise_alucinacao_experimentos(prompt_2)
+analise_alucinacao_experimentos(prompt_3)
