@@ -14,7 +14,6 @@
 #      na estrutura acima)
 
 import json
-import os
 
 arquivo_experimento_com_analise_alucinacao = './results_experimento_chatgpt_com_analise_alucinacao_parte_{parte}.jsonl'
 arquivo_saida = './results_experimento_chatgpt_com_analise_alucinacao.jsonl'
