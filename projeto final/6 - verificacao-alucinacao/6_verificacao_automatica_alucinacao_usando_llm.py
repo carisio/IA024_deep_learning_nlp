@@ -147,7 +147,7 @@ def verifica_alucinacoes_na_opiniao(opiniao, prompt):
     }
     # Salva os outros atributos do retorno do GPT que é pra salvar
     for salvar_como in prompt['propriedades_para_salvar'].keys():
-        opiniao['verificacao_alucinacao'][salvar_como] = retorno_json[prompt['propriedades_para_salvar'][salvar_como]]
+        opiniao['verificacao_alucinacao'][nome_experimento][salvar_como] = retorno_json[prompt['propriedades_para_salvar'][salvar_como]]
 
 def analise_alucinacao_experimentos(prompt):
     n_opiniao = 0
