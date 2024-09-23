@@ -16,7 +16,7 @@ def carregar_resultado_alucinacoes():
             dados_jsonl.append(json.loads(line))
     return dados_jsonl
 
-def imprime_analise_estatistica_alucinacao(prompt, n=None):
+def imprime_analise_estatistica_alucinacao(prompt, texto='', n=None):
     n = len(resultado_experimento) if n is None else n
     
     alucinacao_real = []
@@ -33,11 +33,12 @@ def imprime_analise_estatistica_alucinacao(prompt, n=None):
                 alucinacao_automatica.append(verificacao_automatica)
                 
     cm = confusion_matrix(alucinacao_real, alucinacao_automatica)
-    print(cm)
 
     total_alucinacao = sum(alucinacao_real)
     total_nao_alucinacao = len(alucinacao_real) - total_alucinacao
-    print('')
+    print(f'##### {texto} #####\n')
+    print(cm, '\n')
+    
     print('##### Valores reais #####')
     print(f'Total de alucinação: {total_alucinacao} ({100.*total_alucinacao/(total_alucinacao+total_nao_alucinacao):.2f})%')
     print(f'Total não alucinação: {total_nao_alucinacao} ({100.*total_nao_alucinacao/(total_alucinacao+total_nao_alucinacao):.2f})%')
@@ -53,6 +54,6 @@ def imprime_analise_estatistica_alucinacao(prompt, n=None):
 resultado_experimento = carregar_resultado_alucinacoes()
 
 n = 206
-imprime_analise_estatistica_alucinacao(prompt_1, n)
-imprime_analise_estatistica_alucinacao(prompt_2, n)
-imprime_analise_estatistica_alucinacao(prompt_3, n)
+imprime_analise_estatistica_alucinacao(prompt_1, 'Prompt 1', n)
+imprime_analise_estatistica_alucinacao(prompt_2, 'Prompt 2', n)
+imprime_analise_estatistica_alucinacao(prompt_3, 'Prompt 3', n)
