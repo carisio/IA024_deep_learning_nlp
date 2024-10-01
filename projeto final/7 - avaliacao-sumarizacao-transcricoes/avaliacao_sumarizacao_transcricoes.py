@@ -18,20 +18,6 @@ df_metricas = pd.DataFrame({
     "precisao": [r['metricas']['precisao'] for r in evaluations],
 })
 
-# Resultados das alucinação:
-hallucinations = []
-with open('hallucination_results.jsonl', encoding='utf-8') as fin:
-    for line in fin:
-        hallucinations.append(json.loads(line))
-
-
-df_alucinacao = pd.DataFrame({
-    "id": [h['id'] for h in hallucinations],
-    "alucinacao": [h['metricas']['proporcao_alucinacao'] for h in hallucinations]
-})
-
-# Agrega num único df a precisão, recall e alucinação:
-df_metricas = pd.merge(df_metricas, df_alucinacao, on='id', how='outer')
 
 # Remove do dataframe os dados do id == 111
 #df_metricas = df_metricas[df_metricas['id'] != 111]
