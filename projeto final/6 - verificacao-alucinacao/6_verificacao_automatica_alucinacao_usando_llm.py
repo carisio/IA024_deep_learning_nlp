@@ -86,6 +86,18 @@ Não forneça nada além do JSON com as propriedades acima.
 """.strip()
 }
     
+prompt_1_gpt4_o = prompt_1.copy()
+prompt_1_gpt4_o['nome_experimento'] = "prompt_1_gpt-4o-2024-08-06"
+prompt_1_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
+
+prompt_2_gpt4_o = prompt_2.copy()
+prompt_2_gpt4_o['nome_experimento'] = "prompt_2_gpt-4o-2024-08-06"
+prompt_2_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
+
+prompt_3_gpt4_o = prompt_3.copy()
+prompt_3_gpt4_o['nome_experimento'] = "prompt_3_gpt-4o-2024-08-06"
+prompt_3_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
+    
 # A mensagem de usuário. Ela sempre é a mesma, independente do prompt testado
 msg_user = """
 ###### TEXTO:
@@ -169,4 +181,6 @@ def analise_alucinacao_experimentos(prompt):
 resultado_experimento = carregar_resultado_alucinacoes()
 
 #analise_alucinacao_experimentos(prompt_2)
-analise_alucinacao_experimentos(prompt_3)
+#analise_alucinacao_experimentos(prompt_1_gpt4_o)
+analise_alucinacao_experimentos(prompt_2_gpt4_o)
+#analise_alucinacao_experimentos(prompt_3_gpt4_o)
