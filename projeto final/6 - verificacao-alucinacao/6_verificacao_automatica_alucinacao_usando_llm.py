@@ -181,6 +181,6 @@ def analise_alucinacao_experimentos(prompt):
 resultado_experimento = carregar_resultado_alucinacoes()
 
 #analise_alucinacao_experimentos(prompt_2)
-#analise_alucinacao_experimentos(prompt_1_gpt4_o)
 analise_alucinacao_experimentos(prompt_2_gpt4_o)
-#analise_alucinacao_experimentos(prompt_3_gpt4_o)
+analise_alucinacao_experimentos(prompt_3_gpt4_o)
+analise_alucinacao_experimentos(prompt_1_gpt4_o)
