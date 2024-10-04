@@ -41,7 +41,7 @@ for sample in phbr_lds:
         print(f"\tOpiniões:")
         for opiniao in opinioes:
             print(f"\t\t- {opiniao}")
-```		
+```
 			
 ## 2. PublicHearingBR_NLI - Natural Language Inference
 
