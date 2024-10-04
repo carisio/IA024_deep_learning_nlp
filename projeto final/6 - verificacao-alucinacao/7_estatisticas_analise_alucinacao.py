@@ -12,7 +12,7 @@ prompt_2 = "prompt_2_gpt-4o-mini-2024-07-18"
 prompt_2_gpt4_o = "prompt_2_gpt-4o-2024-08-06"
 
 prompt_3 = "prompt_3_gpt-4o-mini-2024-07-18"
-prompt_2_gpt4_o = "prompt_2_gpt-4o-2024-08-06"
+prompt_3_gpt4_o = "prompt_3_gpt-4o-2024-08-06"
 
 def carregar_resultado_alucinacoes():
     dados_jsonl = []
@@ -58,11 +58,11 @@ def imprime_analise_estatistica_alucinacao(prompt, texto='', n=None):
     
 resultado_experimento = carregar_resultado_alucinacoes()
 
-n = 97
+n = 206
 #imprime_analise_estatistica_alucinacao(prompt_1, 'Prompt 1', n)
-imprime_analise_estatistica_alucinacao(prompt_2, 'Prompt 2', n)
+#imprime_analise_estatistica_alucinacao(prompt_2, 'Prompt 2', n)
 #imprime_analise_estatistica_alucinacao(prompt_3, 'Prompt 3', n)
 
 #imprime_analise_estatistica_alucinacao(prompt_1_gpt4_o, 'Prompt 1 GPT4o', n)
 imprime_analise_estatistica_alucinacao(prompt_2_gpt4_o, 'Prompt 2 GPT4o', n)
-#imprime_analise_estatistica_alucinacao(prompt_3_gpt4_o, 'Prompt 1 GPT4o', n)
+imprime_analise_estatistica_alucinacao(prompt_3_gpt4_o, 'Prompt 1 GPT4o', n)
