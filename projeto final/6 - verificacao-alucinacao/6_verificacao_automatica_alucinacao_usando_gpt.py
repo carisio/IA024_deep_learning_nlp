@@ -1,17 +1,21 @@
 # Script para analisar o nível de alucinação usando o GPT
 # A ideia é testar prompts de sistema que pedem para o GPT verificar se uma
 # opinião pode ser inferida a partir de um conjunto de chunks
-
 import json
 from openai import OpenAI
 
 arquivo_resultado_alucinacoes = './results_experimento_chatgpt_com_analise_alucinacao.jsonl'
 
 OPENAI_API = '' # Não subir de jeito nenhum pro git!
-client = OpenAI(api_key=OPENAI_API)
+DEEPSEEK_API = '' # Não subir de jeito nenhum pro git!
+SABIA_API = '' # Não subir de jeito nenhum pro git!
+client_openai = OpenAI(api_key=OPENAI_API)
+client_deepseek = OpenAI(api_key=DEEPSEEK_API, base_url="https://api.deepseek.com")
+client_sabia = OpenAI(api_key=SABIA_API, base_url="https://chat.maritaca.ai/api")
 
-# Prompts para testar
-prompt_1 = {
+# Prompts para testar com gpt_4o_mini
+prompt_1_gpt_4o_mini = {
+    "client": client_openai,
     "nome_experimento": "prompt_1_gpt-4o-mini-2024-07-18",
     "modelo": "gpt-4o-mini-2024-07-18", 
     "atributo_opiniao_inferida": "opiniao_inferida",
@@ -32,7 +36,8 @@ Não forneça nada além do JSON com as propriedades acima.
 """.strip()
 }
 
-prompt_2 = {
+prompt_2_gpt_4o_mini = {
+    "client": client_openai,
     "nome_experimento": "prompt_2_gpt-4o-mini-2024-07-18",
     "modelo": "gpt-4o-mini-2024-07-18", 
     "atributo_opiniao_inferida": "opiniao_inferida",
@@ -59,7 +64,8 @@ Não forneça nada além do JSON com as propriedades acima.
 """.strip()
 }
     
-prompt_3 = {
+prompt_3_gpt_4o_mini = {
+    "client": client_openai,
     "nome_experimento": "prompt_3_gpt-4o-mini-2024-07-18",
     "modelo": "gpt-4o-mini-2024-07-18", 
     "atributo_opiniao_inferida": "opiniao_inferida",
@@ -85,19 +91,55 @@ O retorno da sua análise deverá ser sempre no formato JSON e conterá três pr
 Não forneça nada além do JSON com as propriedades acima.
 """.strip()
 }
-    
-prompt_1_gpt4_o = prompt_1.copy()
+
+# Prompts para testar com gpt_4o
+prompt_1_gpt4_o = prompt_1_gpt_4o_mini.copy()
+prompt_1_gpt4_o['client'] = client_openai
 prompt_1_gpt4_o['nome_experimento'] = "prompt_1_gpt-4o-2024-08-06"
 prompt_1_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
 
-prompt_2_gpt4_o = prompt_2.copy()
+prompt_2_gpt4_o = prompt_2_gpt_4o_mini.copy()
+prompt_2_gpt4_o['client'] = client_openai
 prompt_2_gpt4_o['nome_experimento'] = "prompt_2_gpt-4o-2024-08-06"
 prompt_2_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
 
-prompt_3_gpt4_o = prompt_3.copy()
+prompt_3_gpt4_o = prompt_3_gpt_4o_mini.copy()
+prompt_3_gpt4_o['client'] = client_openai
 prompt_3_gpt4_o['nome_experimento'] = "prompt_3_gpt-4o-2024-08-06"
 prompt_3_gpt4_o['modelo'] = "gpt-4o-2024-08-06"
     
+# Prompts para testar com deepseek
+prompt_1_deepseek = prompt_1_gpt_4o_mini.copy()
+prompt_1_deepseek['client'] = client_deepseek
+prompt_1_deepseek['nome_experimento'] = "prompt_1_deepseek-chat"
+prompt_1_deepseek['modelo'] = "deepseek-chat"
+
+prompt_2_deepseek = prompt_2_gpt_4o_mini.copy()
+prompt_2_deepseek['client'] = client_deepseek
+prompt_2_deepseek['nome_experimento'] = "prompt_2_deepseek-chat"
+prompt_2_deepseek['modelo'] = "deepseek-chat"
+
+prompt_3_deepseek = prompt_3_gpt_4o_mini.copy()
+prompt_3_deepseek['client'] = client_deepseek
+prompt_3_deepseek['nome_experimento'] = "prompt_3_deepseek-chat"
+prompt_3_deepseek['modelo'] = "deepseek-chat"
+
+# Prompts para testar com sabia
+prompt_1_sabia_3 = prompt_1_gpt_4o_mini.copy()
+prompt_1_sabia_3['client'] = client_sabia
+prompt_1_sabia_3['nome_experimento'] = "prompt_1_sabia-3.1-2025-05-08"
+prompt_1_sabia_3['modelo'] = "sabia-3.1-2025-05-08"
+
+prompt_2_sabia_3 = prompt_2_gpt_4o_mini.copy()
+prompt_2_sabia_3['client'] = client_sabia
+prompt_2_sabia_3['nome_experimento'] = "prompt_2_sabia-3.1-2025-05-08"
+prompt_2_sabia_3['modelo'] = "sabia-3.1-2025-05-08"
+
+prompt_3_sabia_3 = prompt_3_gpt_4o_mini.copy()
+prompt_3_sabia_3['client'] = client_sabia
+prompt_3_sabia_3['nome_experimento'] = "prompt_3_sabia-3.1-2025-05-08"
+prompt_3_sabia_3['modelo'] = "sabia-3.1-2025-05-08"
+
 # A mensagem de usuário. Ela sempre é a mesma, independente do prompt testado
 msg_user = """
 ###### TEXTO:
@@ -121,8 +163,8 @@ def salvar_resultado_alucinacoes(resultado_experimento):
             arquivo.write(linha + '\n')
 
 def verifica_alucinacoes_na_opiniao(opiniao, prompt):
-    print('\tChamando GPT...')
-    response = client.chat.completions.create(
+    print(f"\tChamando {prompt['modelo']}...")
+    response = prompt['client'].chat.completions.create(
         model=prompt['modelo'],
         messages=[
             {
@@ -173,14 +215,16 @@ def analise_alucinacao_experimentos(prompt):
                 if prompt['nome_experimento'] in opiniao['verificacao_alucinacao'].keys():
                     print('\tAlucinação já verificada. Pulando...')
                 else:
-                    print('\tVerificando alucinação com GPT...')
+                    print(f'\tVerificando alucinação com {prompt["nome_experimento"]}...')
                     verifica_alucinacoes_na_opiniao(opiniao, prompt)
                     print('\tSalvando jsonl...')
                     salvar_resultado_alucinacoes(resultado_experimento)
 
 resultado_experimento = carregar_resultado_alucinacoes()
 
-#analise_alucinacao_experimentos(prompt_2)
-analise_alucinacao_experimentos(prompt_2_gpt4_o)
-analise_alucinacao_experimentos(prompt_3_gpt4_o)
-analise_alucinacao_experimentos(prompt_1_gpt4_o)
+analise_alucinacao_experimentos(prompt_1_deepseek)
+analise_alucinacao_experimentos(prompt_2_deepseek)
+analise_alucinacao_experimentos(prompt_3_deepseek)
+analise_alucinacao_experimentos(prompt_1_sabia_3)
+analise_alucinacao_experimentos(prompt_2_sabia_3)
+analise_alucinacao_experimentos(prompt_3_sabia_3)
