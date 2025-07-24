@@ -6,6 +6,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 from scipy import stats
+import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
+from matplotlib.ticker import FuncFormatter
+import seaborn as sns
+import numpy as np
 
 arquivo_resultado_alucinacoes = './results_experimento_chatgpt_com_analise_alucinacao.jsonl'
 
@@ -226,14 +231,131 @@ def plota_resultados_llms(resultados,
         
     ax2.set_ylim(0, 40)
     ax2.set_ylabel('(%)')
-    ax2.set_title('Valid opinions tagged as hallucinations (%)')
+    ax2.set_title('Valid opinions labeled as hallucinations (%)')
     ax2.set_xticks(x)
     ax2.set_xticklabels(nome_prompts)
     ax2.legend()
 
     plt.tight_layout()
+    plt.savefig("fig_results_hallucinations.png", dpi=300, bbox_inches='tight')
     plt.show()
+
+def plota_true_positive_por_false_positive(resultados, num_prompts=3):
+    sns.set(style="whitegrid", palette="muted")
+    palette = sns.color_palette('muted', n_colors=4)
     
+    models = ['GPT-4o mini', 'GPT-4o', 'DeepSeek-V3', 'Sabiá-3.1']
+    prompts = ['Prompt 1', 'Prompt 2', 'Prompt 3'][0:num_prompts]
+    colors = palette
+    markers = ['o', 's', 'D']
+    
+    tp_gpt_4o_mini = get_resultados_alucinacoes(resultados, 'GPT-4o mini', num_prompts)
+    tp_gpt_4o = get_resultados_alucinacoes(resultados, 'GPT-4o', num_prompts)
+    tp_gpt_deepseek = get_resultados_alucinacoes(resultados, 'DeepSeek-V3', num_prompts)
+    tp_gpt_sabia = get_resultados_alucinacoes(resultados, 'Sabiá-3.1', num_prompts)
+    
+    fp_gpt_4o_mini = get_resultados_falsos_positivos_alucinacoes(resultados, 'GPT-4o mini', num_prompts)
+    fp_gpt_4o = get_resultados_falsos_positivos_alucinacoes(resultados, 'GPT-4o', num_prompts)
+    fp_gpt_deepseek = get_resultados_falsos_positivos_alucinacoes(resultados, 'DeepSeek-V3', num_prompts)
+    fp_gpt_sabia = get_resultados_falsos_positivos_alucinacoes(resultados, 'Sabiá-3.1', num_prompts)
+    
+    tp = {
+        'GPT-4o mini': tp_gpt_4o_mini[0][0:num_prompts],
+        'GPT-4o':      tp_gpt_4o[0][0:num_prompts],
+        'DeepSeek-V3': tp_gpt_deepseek[0][0:num_prompts],
+        'Sabiá-3.1':   tp_gpt_sabia[0][0:num_prompts]
+    }
+    
+    fp = {
+        'GPT-4o mini': fp_gpt_4o_mini[0][0:num_prompts],
+        'GPT-4o':      fp_gpt_4o[0][0:num_prompts],
+        'DeepSeek-V3': fp_gpt_deepseek[0][0:num_prompts],
+        'Sabiá-3.1':   fp_gpt_sabia[0][0:num_prompts]
+    }
+    
+   
+    all_tp = []
+    all_fp = []
+    
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
+    for i, model in enumerate(models):
+        tps = np.array(tp[model])
+        fps = np.array(fp[model])
+    
+        all_tp.extend(tps)
+        all_fp.extend(fps)
+        
+        for j, prompt in enumerate(prompts):
+            ax.scatter(tps[j], fps[j],
+                       color=colors[i],
+                       marker=markers[j],
+                       s=100,
+                       label=model if j == 0 else None)
+        # Regressão linear em escala log no eixo Y:
+        log_fps = np.log(fps)
+        coeffs = np.polyfit(tps, log_fps, deg=1)  # ajusta y=log(fp)
+        reg_x = np.linspace(min(tps), max(tps), 100)
+        reg_log_y = coeffs[0] * reg_x + coeffs[1]
+        reg_y = np.exp(reg_log_y)  # volta para escala original para plotar
+    
+        ax.plot(reg_x, reg_y, linestyle='--', color=colors[i], linewidth=1.5)
+        
+        # Posição de texto (ajuste conforme necessário)
+        a, b = coeffs
+        x_text = max(tps) + 1
+        y_text = np.exp(a * x_text + b)
+    
+        # Equação formatada
+        equation = f"$y = e^{{{a:.3f}x + {b:.2f}}}$"
+        ax.text(x_text-14, y_text, equation, fontsize=14, color=colors[i])
+    
+    # Regressão global com escala log no Y
+    all_tp = np.array(all_tp)
+    all_fp = np.array(all_fp)
+    log_all_fp = np.log(all_fp)
+    global_coeffs = np.polyfit(all_tp, log_all_fp, deg=1)
+    reg_x = np.linspace(40, 100, 200)
+    reg_log_y = global_coeffs[0] * reg_x + global_coeffs[1]
+    reg_y = np.exp(reg_log_y)
+    
+    ax.plot(reg_x, reg_y, color='black', linestyle='--', linewidth=2, label='Regressão Global')
+    
+    a_g, b_g = global_coeffs
+    eq_global = f"$y = e^{{{a_g:.3f}x + {b_g:.2f}}}$"
+    ax.text(88, 15, eq_global, fontsize=14, color='black', style='italic')
+    
+    # Legendas
+    model_handles = [
+        Line2D([0], [0], color=color, linestyle='-', linewidth=2, label=model)
+        for color, model in zip(colors, models)
+    ]
+    legend1 = ax.legend(handles=model_handles, title='Model',
+                        loc='upper left', bbox_to_anchor=(0.0, 1.0))
+    ax.add_artist(legend1)
+    
+    prompt_handles = [
+        Line2D([0], [0], color='black', marker=marker, linestyle='None', label=prompt)
+        for marker, prompt in zip(markers, prompts)
+    ]
+    legend2 = ax.legend(handles=prompt_handles, title='Prompt',
+                        loc='lower left', bbox_to_anchor=(0.0, 0.0))
+    
+    ax.set_yscale('log')
+    ax.set_ylim(1, 40)
+    ax.set_xlim(40, 100)
+    ax.set_yticks([1, 5, 10, 20, 30, 40])
+    ax.yaxis.set_major_formatter(FuncFormatter(lambda y, _: f'{y:.0f}%'))
+    
+    ax.set_xlabel('Hallucinations detected (true positives) (%)')
+    ax.set_ylabel('Valid opinions labeled as hallucinations (false positives) (%)')
+    
+    ax.grid(True, which='both', linestyle='--', linewidth=0.5)
+    fig.tight_layout()
+    plt.savefig("fig_results_true_positive_vs_false_positive.png", dpi=300, bbox_inches='tight')
+    plt.show()
+
+
 resultado_experimento = carregar_resultado_alucinacoes()
 
 n = 206
@@ -263,12 +385,13 @@ resultados_p3_sabia = imprime_analise_estatistica_alucinacao(prompt_3_sabia, 'Pr
 resultados = {
     'GPT-4o mini': [resultados_p1_4o_mini, resultados_p2_4o_mini, resultados_p3_4o_mini],
     'GPT-4o': [resultados_p1_4o, resultados_p2_4o, resultados_p3_4o],
-    'DeepSeek-R3': [resultados_p1_ds, resultados_p2_ds, resultados_p3_ds],
-    'Sabiá': [resultados_p1_sabia, resultados_p2_sabia, resultados_p3_sabia]
+    'DeepSeek-V3': [resultados_p1_ds, resultados_p2_ds, resultados_p3_ds],
+    'Sabiá-3.1': [resultados_p1_sabia, resultados_p2_sabia, resultados_p3_sabia]
 }
 
 plota_resultados_llms(resultados)
 
+plota_true_positive_por_false_positive(resultados)
 
 #antigo = 'prompt_1_sabia-3-2024-12-11'
 #novo = 'prompt_1_sabia-3-2024-12-11'
