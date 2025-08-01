@@ -4,6 +4,7 @@
 import json
 from openai import OpenAI
 
+# Esse arquivo aqui é o que vai para o HuggingFace com o nome de PublicHearingBR_NLI.jsonl
 arquivo_resultado_alucinacoes = './results_experimento_chatgpt_com_analise_alucinacao.jsonl'
 
 OPENAI_API = '' # Não subir de jeito nenhum pro git!
